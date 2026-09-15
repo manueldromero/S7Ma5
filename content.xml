@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1789448663512</value>
+    <value>1789481289974</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -3924,10 +3924,241 @@ El límite se reduce a comparar las exponenciales dominantes:
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-mqkx76g1-t5mddzcuo</odePageId>
+      <odeBlockId>block-mu2f93ze-wva8x4rjm</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqkx76g1-t5mddzcuo</odePageId>
+          <odeBlockId>block-mu2f93ze-wva8x4rjm</odeBlockId>
+          <odeIdeviceId>idevice-1789461631849-k27dqq092</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En muchos problemas de cálculo conocemos la razón de cambio de una variable con respecto a otra, es decir, \(\dfrac{dy}{dx}\), pero necesitamos conocer \(y\) en función de \(x\).</p>
+<p>Por ejemplo:</p>
+<div class="exe-fx exe-tabs">
+<h2>Problema 1</h2>
+<p>La función pendiente \(f'(x)\) de una curva es \(2x+3\), y la curva pasa por el origen. ¿Cuál es la función \(y=f(x)\)?</p>
+<h2>Problema 2</h2>
+<p>La tasa de cambio de la temperatura (en °C) de una barra metálica viene dada por</p>
+<p>\[ \frac{dT}{dt}=10e^{-t}, \]</p>
+<p>donde \(t\) es el tiempo en minutos, \(t\geq 0\). ¿Cuál es la función de la temperatura de la barra si inicialmente su temperatura era de \(11\,^\circ\mathrm{C}\)?</p>
+</div>
+<div style="border: 2px solid red; background-color: white; padding: 12px; margin-top: 15px;">
+<p>El proceso de obtener \(y\) a partir de \(\dfrac{dy}{dx}\) (o \(f(x)\) a partir de \(f'(x)\)) es el proceso inverso de la derivación y se denomina <strong>integración</strong>.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789461631849-k27dqq092","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En muchos problemas de cálculo conocemos la razón de cambio de una variable con respecto a otra, es decir, \\(\\dfrac{dy}{dx}\\), pero necesitamos conocer \\(y\\) en función de \\(x\\).</p>\n<p>Por ejemplo:</p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Problema 1</h2>\n<p>La función pendiente \\(f'(x)\\) de una curva es \\(2x+3\\), y la curva pasa por el origen. ¿Cuál es la función \\(y=f(x)\\)?</p>\n<h2>Problema 2</h2>\n<p>La tasa de cambio de la temperatura (en °C) de una barra metálica viene dada por</p>\n<p>\\[ \\frac{dT}{dt}=10e^{-t}, \\]</p>\n<p>donde \\(t\\) es el tiempo en minutos, \\(t\\geq 0\\). ¿Cuál es la función de la temperatura de la barra si inicialmente su temperatura era de \\(11\\,^\\circ\\mathrm{C}\\)?</p>\n</div>\n<div style=\"border: 2px solid red; background-color: white; padding: 12px; margin-top: 15px;\">\n<p>El proceso de obtener \\(y\\) a partir de \\(\\dfrac{dy}{dx}\\) (o \\(f(x)\\) a partir de \\(f'(x)\\)) es el proceso inverso de la derivación y se denomina <strong>integración</strong>.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqkx76g1-t5mddzcuo</odePageId>
+      <odeBlockId>block-mu2fi51j-gfmnihhx6</odeBlockId>
+      <blockName>El problema inverso de la derivada: área bajo una curva</blockName>
+      <iconName>udl_rep_caso</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqkx76g1-t5mddzcuo</odePageId>
+          <odeBlockId>block-mu2fi51j-gfmnihhx6</odeBlockId>
+          <odeIdeviceId>idevice-1789462053126-m9wx71xbd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Existe una relación fundamental entre la derivación y el cálculo de áreas. Vamos a descubrirla a partir de una interpretación geométrica.</p>
+<div class="exe-fx exe-tabs">
+<h2>1. La función área</h2>
+<p>Sea \(f\) una función continua y positiva. Definimos una nueva función \(F\) haciendo que \(F(x)\) sea el área bajo la gráfica de \(f\), desde \(1\) hasta \(x\):</p>
+<p>\[ F(x)=\int_1^x f(t)\,dt \]</p>
+<p>Por tanto, a cada valor de \(x\) le hacemos corresponder el área comprendida entre la gráfica de \(y=f(t)\), el eje horizontal y las rectas \(t=1\) y \(t=x\).</p>
+<p><img src="{{context_path}}/content/resources/mceclip1_1.png" /></p>
+<p>La pregunta que nos hacemos es:</p>
+<p><strong>¿Cuál es la derivada de esta función área \(F(x)\)?</strong></p>
+<h2>2. ¿Cómo cambia el área?</h2>
+<p>Recordemos la definición de derivada:</p>
+<p>\[ F'(x)=\lim_{h\to 0}\frac{F(x+h)-F(x)}{h}. \]</p>
+<p>La diferencia</p>
+<p>\[ F(x+h)-F(x) \]</p>
+<p><img src="{{context_path}}/content/resources/mceclip2_1.png" /></p>
+<p>representa geométricamente el área adicional que aparece cuando desplazamos el extremo derecho desde \(x\) hasta \(x+h\).</p>
+<p>Cuando \(h\) es muy pequeño, esta región es una franja muy estrecha. Su anchura es \(h\) y su altura es aproximadamente \(f(x)\).</p>
+<p>Por tanto, podemos aproximar su área mediante un rectángulo:</p>
+<p>\[ F(x+h)-F(x)\approx f(x)\,h. \]</p>
+<p><img src="{{context_path}}/content/resources/mceclip3_1.png" /></p>
+<p>Dividiendo entre \(h\), obtenemos:</p>
+<p>\[ \frac{F(x+h)-F(x)}{h}\approx f(x). \]</p>
+<p>Y cuando hacemos \(h\to0\), la aproximación se convierte en una igualdad:</p>
+<p>\[ F'(x) = \lim_{h\to0}\frac{F(x+h)-F(x)}{h} = f(x). \]</p>
+<p>Así pues:</p>
+<p style="text-align: center;"><strong>\[ \boxed{F'(x)=f(x)} \]</strong></p>
+<h2>3. Derivar e integrar son operaciones inversas</h2>
+<p>Hemos definido</p>
+<p>\[ F(x)=\int_1^x f(t)\,dt \]</p>
+<p>y acabamos de comprobar intuitivamente que</p>
+<p>\[ F'(x)=f(x). \]</p>
+<p>Es decir, si construimos una función acumulando el área bajo \(f\) y después la derivamos, recuperamos la función original.</p>
+<p>En este sentido, <strong>la derivación y la integración son operaciones inversas</strong>.</p>
+<p>De forma general, si \(f\) es continua y definimos</p>
+<p>\[ F(x)=\int_a^x f(t)\,dt, \]</p>
+<p>entonces</p>
+<p>\[ \boxed{F'(x)=f(x)}. \]</p>
+<div style="border: 2px solid red; background-color: white; padding: 12px; margin-top: 15px;">
+<p><strong>Teorema Fundamental del Cálculo</strong></p>
+<p>Si \(f\) es continua y definimos</p>
+<p>\[ F(x)=\int_a^x f(t)\,dt, \]</p>
+<p>entonces la función área \(F\) es derivable y</p>
+<p>\[ \boxed{F'(x)=f(x)}. \]</p>
+<p>Este resultado establece la conexión fundamental entre los dos grandes procesos del cálculo: <strong>derivar e integrar</strong>.</p>
+</div>
+<p><br /></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789462053126-m9wx71xbd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Existe una relación fundamental entre la derivación y el cálculo de áreas. Vamos a descubrirla a partir de una interpretación geométrica.</p>\n<div class=\"exe-fx exe-tabs\">\n<h2>1. La función área</h2>\n<p>Sea \\(f\\) una función continua y positiva. Definimos una nueva función \\(F\\) haciendo que \\(F(x)\\) sea el área bajo la gráfica de \\(f\\), desde \\(1\\) hasta \\(x\\):</p>\n<p>\\[ F(x)=\\int_1^x f(t)\\,dt \\]</p>\n<p>Por tanto, a cada valor de \\(x\\) le hacemos corresponder el área comprendida entre la gráfica de \\(y=f(t)\\), el eje horizontal y las rectas \\(t=1\\) y \\(t=x\\).</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1_1.png\" /></p>\n<p>La pregunta que nos hacemos es:</p>\n<p><strong>¿Cuál es la derivada de esta función área \\(F(x)\\)?</strong></p>\n<h2>2. ¿Cómo cambia el área?</h2>\n<p>Recordemos la definición de derivada:</p>\n<p>\\[ F'(x)=\\lim_{h\\to 0}\\frac{F(x+h)-F(x)}{h}. \\]</p>\n<p>La diferencia</p>\n<p>\\[ F(x+h)-F(x) \\]</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2_1.png\" /></p>\n<p>representa geométricamente el área adicional que aparece cuando desplazamos el extremo derecho desde \\(x\\) hasta \\(x+h\\).</p>\n<p>Cuando \\(h\\) es muy pequeño, esta región es una franja muy estrecha. Su anchura es \\(h\\) y su altura es aproximadamente \\(f(x)\\).</p>\n<p>Por tanto, podemos aproximar su área mediante un rectángulo:</p>\n<p>\\[ F(x+h)-F(x)\\approx f(x)\\,h. \\]</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3_1.png\" /></p>\n<p>Dividiendo entre \\(h\\), obtenemos:</p>\n<p>\\[ \\frac{F(x+h)-F(x)}{h}\\approx f(x). \\]</p>\n<p>Y cuando hacemos \\(h\\to0\\), la aproximación se convierte en una igualdad:</p>\n<p>\\[ F'(x) = \\lim_{h\\to0}\\frac{F(x+h)-F(x)}{h} = f(x). \\]</p>\n<p>Así pues:</p>\n<p style=\"text-align: center;\"><strong>\\[ \\boxed{F'(x)=f(x)} \\]</strong></p>\n<h2>3. Derivar e integrar son operaciones inversas</h2>\n<p>Hemos definido</p>\n<p>\\[ F(x)=\\int_1^x f(t)\\,dt \\]</p>\n<p>y acabamos de comprobar intuitivamente que</p>\n<p>\\[ F'(x)=f(x). \\]</p>\n<p>Es decir, si construimos una función acumulando el área bajo \\(f\\) y después la derivamos, recuperamos la función original.</p>\n<p>En este sentido, <strong>la derivación y la integración son operaciones inversas</strong>.</p>\n<p>De forma general, si \\(f\\) es continua y definimos</p>\n<p>\\[ F(x)=\\int_a^x f(t)\\,dt, \\]</p>\n<p>entonces</p>\n<p>\\[ \\boxed{F'(x)=f(x)}. \\]</p>\n<div style=\"border: 2px solid red; background-color: white; padding: 12px; margin-top: 15px;\">\n<p><strong>Teorema Fundamental del Cálculo</strong></p>\n<p>Si \\(f\\) es continua y definimos</p>\n<p>\\[ F(x)=\\int_a^x f(t)\\,dt, \\]</p>\n<p>entonces la función área \\(F\\) es derivable y</p>\n<p>\\[ \\boxed{F'(x)=f(x)}. \\]</p>\n<p>Este resultado establece la conexión fundamental entre los dos grandes procesos del cálculo: <strong>derivar e integrar</strong>.</p>\n</div>\n<p><br /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqkx76g1-t5mddzcuo</odePageId>
+      <odeBlockId>block-mu2hq752-dpvzc4dtf</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqkx76g1-t5mddzcuo</odePageId>
+          <odeBlockId>block-mu2hq752-dpvzc4dtf</odeBlockId>
+          <odeIdeviceId>idevice-1789465788324-2wjmd8051</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A partir de aquí, dividiremos el tema en dos bloques:</p>
+<ol>
+<li><strong>Primitivas e integral indefinida:</strong> buscaremos funciones \(F(x)\) tales que \(F'(x)=f(x)\).</li>
+<li><strong>Integral definida:</strong> utilizaremos las primitivas para calcular \(\displaystyle \int_a^b f(x)\,dx\) y calcular áreas y otras muchas aplicaciones.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789465788324-2wjmd8051","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A partir de aquí, dividiremos el tema en dos bloques:</p>\n<ol>\n<li><strong>Primitivas e integral indefinida:</strong> buscaremos funciones \\(F(x)\\) tales que \\(F'(x)=f(x)\\).</li>\n<li><strong>Integral definida:</strong> utilizaremos las primitivas para calcular \\(\\displaystyle \\int_a^b f(x)\\,dx\\) y calcular áreas y otras muchas aplicaciones.</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqkx76g1-t5mddzcuo</odePageId>
       <odeBlockId>block-mqmh09aa-j7ooi60en</odeBlockId>
       <blockName>En este tema se abordan los siguientes contenidos</blockName>
       <iconName>udl_rep_apoyovisual</iconName>
-      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureOrder>3</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -4021,7 +4252,7 @@ El límite se reduce a comparar las exponenciales dominantes:
       <odeBlockId>block-mqmhdajp-7564m458v</odeBlockId>
       <blockName>Familias de funciones con las que trabajar</blockName>
       <iconName>udl_eng_reto</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>4</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -4090,7 +4321,7 @@ El límite se reduce a comparar las exponenciales dominantes:
       <odeBlockId>block-mqov9aor-fp8kb0kt1</odeBlockId>
       <blockName>Materiales específicos del tema</blockName>
       <iconName>udl_eng_descarga</iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureOrder>5</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -4123,6 +4354,270 @@ El límite se reduce a comparar las exponenciales dominantes:
     <p><img src="{{context_path}}/content/resources/underconstruction.png" title="Under construction" width="600" height="250" alt="Under construction" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781877806007-c9effhhx1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/underconstruction.png\" title=\"Under construction\" width=\"600\" height=\"250\" alt=\"Under construction\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mu2fm5ib-5mx18aark</odePageId>
+  <odeParentPageId>page-mqkx76g1-t5mddzcuo</odeParentPageId>
+  <pageName>Primitivas - Integral indefinida</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Primitivas - Integral indefinida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Primitivas - Integral indefinida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Primitivas - Integral indefinida</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mu2fmdmq-4yh4l6b4m</odePageId>
+  <odeParentPageId>page-mqkx76g1-t5mddzcuo</odeParentPageId>
+  <pageName>Integral definida</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Integral definida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Integral definida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mu2irsby-vhl0a2en4</odePageId>
+  <odeParentPageId>page-mqkx76g1-t5mddzcuo</odeParentPageId>
+  <pageName>Integral impropia</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Integral impropia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Integral impropia</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mu2irsby-vhl0a2en4</odePageId>
+      <odeBlockId>block-mu2j39gb-npv71f9ul</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu2irsby-vhl0a2en4</odePageId>
+          <odeBlockId>block-mu2j39gb-npv71f9ul</odeBlockId>
+          <odeIdeviceId>idevice-1789468077459-jqjl6hdi3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/images.jpg" title="cooming soon" width="679" height="452" alt="cooming soon" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789468077459-jqjl6hdi3","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><img src=\"{{context_path}}/content/resources/images.jpg\" title=\"cooming soon\" width=\"679\" height=\"452\" alt=\"cooming soon\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mu2is0nl-cmo86edfb</odePageId>
+  <odeParentPageId>page-mqkx76g1-t5mddzcuo</odeParentPageId>
+  <pageName>Volúmenes de revolución</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Volúmenes de revolución</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Volúmenes de revolución</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mu2is0nl-cmo86edfb</odePageId>
+      <odeBlockId>block-mu2jdurp-yv0xesntm</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu2is0nl-cmo86edfb</odePageId>
+          <odeBlockId>block-mu2jdurp-yv0xesntm</odeBlockId>
+          <odeIdeviceId>idevice-1789468571652-6cr8alpkw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/images.jpg" title="Comingu soon" width="679" height="452" alt="Cooming soon" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789468571652-6cr8alpkw","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><img src=\"{{context_path}}/content/resources/images.jpg\" title=\"Comingu soon\" width=\"679\" height=\"452\" alt=\"Cooming soon\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -5128,10 +5623,116 @@ El límite se reduce a comparar las exponenciales dominantes:
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
+  <odePageId>page-mu2n0dyz-5q6hw30tr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Pruebas realizadas</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pruebas realizadas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pruebas realizadas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mu2n0dyz-5q6hw30tr</odePageId>
+      <odeBlockId>block-mu2n0nfs-p8s2s6z0l</odeBlockId>
+      <blockName>Descarga de pruebas de cursos anteriores</blockName>
+      <iconName>udl_sup_adjunto</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu2n0dyz-5q6hw30tr</odePageId>
+          <odeBlockId>block-mu2n0nfs-p8s2s6z0l</odeBlockId>
+          <odeIdeviceId>idevice-1789474674087-0oyxla99h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Curso 2026-27</p>
+<ul>
+<li>Funciones, límites, asíntotas.</li>
+</ul>
+<p>Curso 2024-25</p>
+<ul>
+<li><a href="https://cloud.educa.madrid.org/s/N2FmbcL6sjagqeS" target="_blank" title="" rel="noopener">Integral definida, Geometría. Mod A.</a></li>
+<li><a href="https://cloud.educa.madrid.org/s/r9sFXfxfxW7DiFT" target="_blank" title="" rel="noopener">Integral definida, Geometría. Mod B.</a></li>
+<li><a href="https://cloud.educa.madrid.org/s/XkAJdcgK4QBJ474" target="_blank" title="" rel="noopener">Integral impropia, volúmenes de revolución, Sucesiones. Modelo A.</a></li>
+<li><a href="https://cloud.educa.madrid.org/s/6sBHf47KtZaB5Mk" target="_blank" title="" rel="noopener">Integral impropia, volúmenes de revolución, Sucesiones. Modelo B.</a></li>
+<li><a href="https://cloud.educa.madrid.org/s/YtcpiBPfRgaFMyn" target="_blank" title="" rel="noopener">Probabilidad, variable aleatoria continua y discreta. Modelo A.</a></li>
+<li><a href="https://cloud.educa.madrid.org/s/kDDoFRkYydNc6og" target="_blank" title="" rel="noopener">Probabilidad, variable aleatoria continua y discreta. Modelo B.</a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789474674087-0oyxla99h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Curso 2026-27</p>\n<ul>\n<li>Funciones, límites, asíntotas.</li>\n</ul>\n<p>Curso 2024-25</p>\n<ul>\n<li><a href=\"https://cloud.educa.madrid.org/s/N2FmbcL6sjagqeS\" target=\"_blank\" title=\"\" rel=\"noopener\">Integral definida, Geometría. Mod A.</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/r9sFXfxfxW7DiFT\" target=\"_blank\" title=\"\" rel=\"noopener\">Integral definida, Geometría. Mod B.</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/XkAJdcgK4QBJ474\" target=\"_blank\" title=\"\" rel=\"noopener\">Integral impropia, volúmenes de revolución, Sucesiones. Modelo A.</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/6sBHf47KtZaB5Mk\" target=\"_blank\" title=\"\" rel=\"noopener\">Integral impropia, volúmenes de revolución, Sucesiones. Modelo B.</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/YtcpiBPfRgaFMyn\" target=\"_blank\" title=\"\" rel=\"noopener\">Probabilidad, variable aleatoria continua y discreta. Modelo A.</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/kDDoFRkYydNc6og\" target=\"_blank\" title=\"\" rel=\"noopener\">Probabilidad, variable aleatoria continua y discreta. Modelo B.</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
   <odePageId>page-mqkx76g1-w8ylgvxwx</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
-  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
