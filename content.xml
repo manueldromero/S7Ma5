@@ -3971,8 +3971,15 @@ El límite se reduce a comparar las exponenciales dominantes:
 <p>El proceso de obtener \(y\) a partir de \(\dfrac{dy}{dx}\) (o \(f(x)\) a partir de \(f'(x)\)) es el proceso inverso de la derivación y se denomina <strong>integración</strong>.</p>
 </div>
 <p><br /></p>
+<div class="exe-fx exe-accordion">
+<h2>Encabezado 2</h2>
+<p>Contenido</p>
+<h2>Encabezado 2</h2>
+<p>Contenido</p>
+</div>
+<p><br /><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789461631849-k27dqq092","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En muchos problemas de cálculo conocemos la razón de cambio de una variable con respecto a otra, es decir, \\(\\dfrac{dy}{dx}\\), pero necesitamos conocer \\(y\\) en función de \\(x\\).</p>\n<p>Por ejemplo:</p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Problema 1</h2>\n<p>La función pendiente \\(f'(x)\\) de una curva es \\(2x+3\\), y la curva pasa por el origen. ¿Cuál es la función \\(y=f(x)\\)?</p>\n<h2>Problema 2</h2>\n<p>La tasa de cambio de la temperatura (en °C) de una barra metálica viene dada por</p>\n<p>\\[ \\frac{dT}{dt}=10e^{-t}, \\]</p>\n<p>donde \\(t\\) es el tiempo en minutos, \\(t\\geq 0\\). ¿Cuál es la función de la temperatura de la barra si inicialmente su temperatura era de \\(11\\,^\\circ\\mathrm{C}\\)?</p>\n</div>\n<div style=\"border: 2px solid red; background-color: white; padding: 12px; margin-top: 15px;\">\n<p>El proceso de obtener \\(y\\) a partir de \\(\\dfrac{dy}{dx}\\) (o \\(f(x)\\) a partir de \\(f'(x)\\)) es el proceso inverso de la derivación y se denomina <strong>integración</strong>.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789461631849-k27dqq092","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En muchos problemas de cálculo conocemos la razón de cambio de una variable con respecto a otra, es decir, \\(\\dfrac{dy}{dx}\\), pero necesitamos conocer \\(y\\) en función de \\(x\\).</p>\n<p>Por ejemplo:</p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Problema 1</h2>\n<p>La función pendiente \\(f'(x)\\) de una curva es \\(2x+3\\), y la curva pasa por el origen. ¿Cuál es la función \\(y=f(x)\\)?</p>\n<h2>Problema 2</h2>\n<p>La tasa de cambio de la temperatura (en °C) de una barra metálica viene dada por</p>\n<p>\\[ \\frac{dT}{dt}=10e^{-t}, \\]</p>\n<p>donde \\(t\\) es el tiempo en minutos, \\(t\\geq 0\\). ¿Cuál es la función de la temperatura de la barra si inicialmente su temperatura era de \\(11\\,^\\circ\\mathrm{C}\\)?</p>\n</div>\n<div style=\"border: 2px solid red; background-color: white; padding: 12px; margin-top: 15px;\">\n<p>El proceso de obtener \\(y\\) a partir de \\(\\dfrac{dy}{dx}\\) (o \\(f(x)\\) a partir de \\(f'(x)\\)) es el proceso inverso de la derivación y se denomina <strong>integración</strong>.</p>\n</div>\n<p><br /></p>\n<div class=\"exe-fx exe-accordion\">\n<h2>Encabezado 2</h2>\n<p>Contenido</p>\n<h2>Encabezado 2</h2>\n<p>Contenido</p>\n</div>\n<p><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -4410,6 +4417,1363 @@ El límite se reduce a comparar las exponenciales dominantes:
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mu2fm5ib-5mx18aark</odePageId>
+      <odeBlockId>block-mu3qzhfj-dj4q8x3xb</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu2fm5ib-5mx18aark</odePageId>
+          <odeBlockId>block-mu3qzhfj-dj4q8x3xb</odeBlockId>
+          <odeIdeviceId>idevice-1789541804266-tjttmx8we</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La integración es la operación inversa a la derivación. Mientras que el cálculo diferencial nos permite encontrar la razón de cambio o la pendiente de una función dada, el cálculo integral nos permite recuperar la función original a partir de su tasa de cambio o función derivada.</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p>Dada una función <em>f(x)</em>, se dice que <strong>F(x)</strong> es una <strong>primitiva</strong> (o antiderivada) de <em>f(x)</em> si se cumple que:</p>
+<p>\[ F'(x) = f(x) \]</p>
+</div>
+<p>Como la derivada de cualquier constante C es cero, si F(x) es una primitiva de f(x), entonces F(x) + C también lo es para cualquier constante real C.</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px;">
+<p>La <strong>integral indefinida</strong> de <em>f(x)</em> representa el conjunto de todas sus posibles primitivas y se expresa como:</p>
+<p>\[ \int f(x) \, dx = F(x) + C \]</p>
+<p>Donde:</p>
+<ul>
+<li>\(\int\) es el signo de integración.</li>
+<li><em>f(x)</em> es el <strong>integrando</strong>.</li>
+<li><em>dx</em> es el <strong>diferencial</strong>, que indica la variable de integración.</li>
+<li><em>F(x)</em> es una <strong>primitiva</strong> de <em>f(x)</em>.</li>
+<li><em>C</em> es la <strong>constante de integración</strong> (\(C \in \mathbb{R}\)).</li>
+</ul>
+</div>
+<div class="exe-fx exe-accordion">
+<h2>Hallar las primitivas y la integral indefinida de \(f(x) = 3x^2\)</h2>
+<p><strong>1. Buscar una primitiva \(F(x)\):</strong></p>
+<p>Buscamos una función cuya derivada sea \(3x^2\). Sabiendo que la derivada de \(x^3\) es \(3x^2\), tenemos que:</p>
+<p>\[ F(x) = x^3 \]</p>
+<p><strong>2. Expresar la integral indefinida:</strong></p>
+<p>Añadiendo la constante de integración \(C\), la integral indefinida se escribe como:</p>
+<p>\[ \int 3x^2 \, dx = x^3 + C \]</p>
+<p><em>Comprobación:</em> Si derivamos la solución, obtenemos la función original:</p>
+<p>\[ \frac{d}{dx}(x^3 + C) = 3x^2 + 0 = 3x^2 \]</p>
+</div>
+<div class="exe-fx exe-accordion"><br /></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789541804266-tjttmx8we","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La integración es la operación inversa a la derivación. Mientras que el cálculo diferencial nos permite encontrar la razón de cambio o la pendiente de una función dada, el cálculo integral nos permite recuperar la función original a partir de su tasa de cambio o función derivada.</p>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p>Dada una función <em>f(x)</em>, se dice que <strong>F(x)</strong> es una <strong>primitiva</strong> (o antiderivada) de <em>f(x)</em> si se cumple que:</p>\n<p>\\[ F'(x) = f(x) \\]</p>\n</div>\n<p>Como la derivada de cualquier constante C es cero, si F(x) es una primitiva de f(x), entonces F(x) + C también lo es para cualquier constante real C.</p>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px;\">\n<p>La <strong>integral indefinida</strong> de <em>f(x)</em> representa el conjunto de todas sus posibles primitivas y se expresa como:</p>\n<p>\\[ \\int f(x) \\, dx = F(x) + C \\]</p>\n<p>Donde:</p>\n<ul>\n<li>\\(\\int\\) es el signo de integración.</li>\n<li><em>f(x)</em> es el <strong>integrando</strong>.</li>\n<li><em>dx</em> es el <strong>diferencial</strong>, que indica la variable de integración.</li>\n<li><em>F(x)</em> es una <strong>primitiva</strong> de <em>f(x)</em>.</li>\n<li><em>C</em> es la <strong>constante de integración</strong> (\\(C \\in \\mathbb{R}\\)).</li>\n</ul>\n</div>\n<div class=\"exe-fx exe-accordion\">\n<h2>Hallar las primitivas y la integral indefinida de \\(f(x) = 3x^2\\)</h2>\n<p><strong>1. Buscar una primitiva \\(F(x)\\):</strong></p>\n<p>Buscamos una función cuya derivada sea \\(3x^2\\). Sabiendo que la derivada de \\(x^3\\) es \\(3x^2\\), tenemos que:</p>\n<p>\\[ F(x) = x^3 \\]</p>\n<p><strong>2. Expresar la integral indefinida:</strong></p>\n<p>Añadiendo la constante de integración \\(C\\), la integral indefinida se escribe como:</p>\n<p>\\[ \\int 3x^2 \\, dx = x^3 + C \\]</p>\n<p><em>Comprobación:</em> Si derivamos la solución, obtenemos la función original:</p>\n<p>\\[ \\frac{d}{dx}(x^3 + C) = 3x^2 + 0 = 3x^2 \\]</p>\n</div>\n<div class=\"exe-fx exe-accordion\"><br /></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mu2fm5ib-5mx18aark</odePageId>
+      <odeBlockId>block-mu3r7ir7-1eg5a7d7q</odeBlockId>
+      <blockName>Repaso de las tablas de derivadas de funciones básicas</blockName>
+      <iconName>udl_eng_temporalizacion</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu2fm5ib-5mx18aark</odePageId>
+          <odeBlockId>block-mu3r7ir7-1eg5a7d7q</odeBlockId>
+          <odeIdeviceId>idevice-1789542179249-hriu6kycz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table style="width: 100%; border-collapse: collapse; border: 1px solid #ccc; text-align: left;">
+<thead>
+<tr style="background-color: #f2f2f2;">
+<th style="border: 1px solid #ccc; padding: 10px;">Función simple</th>
+<th style="border: 1px solid #ccc; padding: 10px;">Derivada</th>
+<th style="border: 1px solid #ccc; padding: 10px;">Función compuesta</th>
+<th style="border: 1px solid #ccc; padding: 10px;">Regla de la cadena</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = k\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = 0\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">—</td>
+<td style="border: 1px solid #ccc; padding: 8px;">—</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = x\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = 1\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = f(x)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = f'(x)\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = x^n\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = n \cdot x^{n-1}\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = [f(x)]^n\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = n \cdot [f(x)]^{n-1} \cdot f'(x)\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = e^x\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = e^x\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = e^{f(x)}\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = e^{f(x)} \cdot f'(x)\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = a^x\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = a^x \cdot \ln(a)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = a^{f(x)}\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = a^{f(x)} \cdot f'(x) \cdot \ln(a)\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = \ln(x)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = \frac{1}{x}\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = \ln(f(x))\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = \frac{f'(x)}{f(x)}\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = \sin(x)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = \cos(x)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = \sin(f(x))\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = \cos(f(x)) \cdot f'(x)\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = \cos(x)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = -\sin(x)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = \cos(f(x))\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = -\sin(f(x)) \cdot f'(x)\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = \tan(x)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = \frac{1}{\cos^2(x)} = 1 + \tan^2(x)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y = \tan(f(x))\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(y' = \frac{f'(x)}{\cos^2(f(x))} = (1 + \tan^2(f(x))) \cdot f'(x)\)</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789542179249-hriu6kycz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table style=\"width: 100%; border-collapse: collapse; border: 1px solid #ccc; text-align: left;\">\n<thead>\n<tr style=\"background-color: #f2f2f2;\">\n<th style=\"border: 1px solid #ccc; padding: 10px;\">Función simple</th>\n<th style=\"border: 1px solid #ccc; padding: 10px;\">Derivada</th>\n<th style=\"border: 1px solid #ccc; padding: 10px;\">Función compuesta</th>\n<th style=\"border: 1px solid #ccc; padding: 10px;\">Regla de la cadena</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = k\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = 0\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">—</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">—</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = x\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = 1\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = f(x)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = f'(x)\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = x^n\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = n \\cdot x^{n-1}\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = [f(x)]^n\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = n \\cdot [f(x)]^{n-1} \\cdot f'(x)\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = e^x\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = e^x\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = e^{f(x)}\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = e^{f(x)} \\cdot f'(x)\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = a^x\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = a^x \\cdot \\ln(a)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = a^{f(x)}\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = a^{f(x)} \\cdot f'(x) \\cdot \\ln(a)\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = \\ln(x)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = \\frac{1}{x}\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = \\ln(f(x))\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = \\frac{f'(x)}{f(x)}\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = \\sin(x)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = \\cos(x)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = \\sin(f(x))\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = \\cos(f(x)) \\cdot f'(x)\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = \\cos(x)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = -\\sin(x)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = \\cos(f(x))\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = -\\sin(f(x)) \\cdot f'(x)\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = \\tan(x)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = \\frac{1}{\\cos^2(x)} = 1 + \\tan^2(x)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y = \\tan(f(x))\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(y' = \\frac{f'(x)}{\\cos^2(f(x))} = (1 + \\tan^2(f(x))) \\cdot f'(x)\\)</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mu2fm5ib-5mx18aark</odePageId>
+      <odeBlockId>block-mu3rfum7-dd598zxic</odeBlockId>
+      <blockName>Linealidad de la integral</blockName>
+      <iconName>udl_rep_caso</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu2fm5ib-5mx18aark</odePageId>
+          <odeBlockId>block-mu3rfum7-dd598zxic</odeBlockId>
+          <odeIdeviceId>idevice-1789542567870-h2qxcba0h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Como ya sabes derivar sumas y números que multiplican sin despeinarte (porque \((f+g)'=f'+g'\) y \((kf(x))' = k f'(x)\)), con las integrales pasa exactamente lo mismo: las constantes salen fuera y las sumas se pueden separar.</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p><strong>Propiedades de Linealidad de la Integral Indefinida:</strong></p>
+<p><strong>1. Multiplicación por una constante:</strong> Las constantes multiplicativas se pueden "sacar" fuera del signo de integración.</p>
+<p>\[ \int k \cdot f(x) \, dx = k \cdot \int f(x) \, dx \quad (k \in \mathbb{R}) \]</p>
+<p><strong>2. Suma y resta de funciones:</strong> La integral de una suma o resta es igual a la suma o resta de las integrales individuales.</p>
+<p>\[ \int \big( f(x) \pm g(x) \big) dx = \int f(x) \, dx \pm \int g(x) \, dx \]</p>
+</div>
+<div class="exe-fx exe-accordion">
+<h2>Calcular \(\int (2\cos(x) - 4e^x) \, dx\)</h2>
+<p><strong>Paso 1: Separar en integrales individuales (regla de la resta)</strong></p>
+<p>\[ \int (2\cos(x) - 4e^x) \, dx = \int 2\cos(x) \, dx - \int 4e^x \, dx \]</p>
+<p><strong>Paso 2: Sacar los números (constantes) fuera de cada integral</strong></p>
+<p>\[ = 2 \int \cos(x) \, dx - 4 \int e^x \, dx \]</p>
+<p><strong>Paso 3: Resolver las integrales inmediatas y añadir la constante \(C\)</strong></p>
+<p>Recordemos que la primitiva de \(\cos(x)\) es \(\sin(x)\) y la de \(e^x\) es la misma \(e^x\):</p>
+<p>\[ = 2 \sin(x) - 4 e^x + C \]</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789542567870-h2qxcba0h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Como ya sabes derivar sumas y números que multiplican sin despeinarte (porque \\((f+g)'=f'+g'\\) y \\((kf(x))' = k f'(x)\\)), con las integrales pasa exactamente lo mismo: las constantes salen fuera y las sumas se pueden separar.</p>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p><strong>Propiedades de Linealidad de la Integral Indefinida:</strong></p>\n<p><strong>1. Multiplicación por una constante:</strong> Las constantes multiplicativas se pueden \"sacar\" fuera del signo de integración.</p>\n<p>\\[ \\int k \\cdot f(x) \\, dx = k \\cdot \\int f(x) \\, dx \\quad (k \\in \\mathbb{R}) \\]</p>\n<p><strong>2. Suma y resta de funciones:</strong> La integral de una suma o resta es igual a la suma o resta de las integrales individuales.</p>\n<p>\\[ \\int \\big( f(x) \\pm g(x) \\big) dx = \\int f(x) \\, dx \\pm \\int g(x) \\, dx \\]</p>\n</div>\n<div class=\"exe-fx exe-accordion\">\n<h2>Calcular \\(\\int (2\\cos(x) - 4e^x) \\, dx\\)</h2>\n<p><strong>Paso 1: Separar en integrales individuales (regla de la resta)</strong></p>\n<p>\\[ \\int (2\\cos(x) - 4e^x) \\, dx = \\int 2\\cos(x) \\, dx - \\int 4e^x \\, dx \\]</p>\n<p><strong>Paso 2: Sacar los números (constantes) fuera de cada integral</strong></p>\n<p>\\[ = 2 \\int \\cos(x) \\, dx - 4 \\int e^x \\, dx \\]</p>\n<p><strong>Paso 3: Resolver las integrales inmediatas y añadir la constante \\(C\\)</strong></p>\n<p>Recordemos que la primitiva de \\(\\cos(x)\\) es \\(\\sin(x)\\) y la de \\(e^x\\) es la misma \\(e^x\\):</p>\n<p>\\[ = 2 \\sin(x) - 4 e^x + C \\]</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mu3rbivo-omphqvacy</odePageId>
+  <odeParentPageId>page-mu2fm5ib-5mx18aark</odeParentPageId>
+  <pageName>Integrales inmediatas (o no tanto)</pageName>
+  <odeNavStructureOrder>26</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Integrales inmediatas (o no tanto)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mu3rbivo-omphqvacy</odePageId>
+      <odeBlockId>block-mu3ro9q3-863r0rjsx</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3rbivo-omphqvacy</odePageId>
+          <odeBlockId>block-mu3ro9q3-863r0rjsx</odeBlockId>
+          <odeIdeviceId>idevice-1789542960698-q9krrjrh1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las siguientes integrales son inmediatas, lo que no quiere decir que sean sencillas. Para resolverlas debes utilizar propiedades de potencias y la integral de la potencia:</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p><strong>Regla de la potencia para la integración:</strong></p>
+<p>Para cualquier número real \(n \neq -1\), la integral de una potencia se calcula como:</p>
+<p>\[ \int x^n \, dx = \frac{x^{n+1}}{n + 1} + C \]</p>
+<p><em>Nota:</em> Si \(n = -1\), la integral corresponde al logaritmo neperiano: \(\int x^{-1} \, dx = \int \frac{1}{x} \, dx = \ln|x| + C\).</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789542960698-q9krrjrh1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las siguientes integrales son inmediatas, lo que no quiere decir que sean sencillas. Para resolverlas debes utilizar propiedades de potencias y la integral de la potencia:</p>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p><strong>Regla de la potencia para la integración:</strong></p>\n<p>Para cualquier número real \\(n \\neq -1\\), la integral de una potencia se calcula como:</p>\n<p>\\[ \\int x^n \\, dx = \\frac{x^{n+1}}{n + 1} + C \\]</p>\n<p><em>Nota:</em> Si \\(n = -1\\), la integral corresponde al logaritmo neperiano: \\(\\int x^{-1} \\, dx = \\int \\frac{1}{x} \\, dx = \\ln|x| + C\\).</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mu3rbivo-omphqvacy</odePageId>
+      <odeBlockId>block-mu3rpt9p-qos5b0p6o</odeBlockId>
+      <blockName>Integrales inmediatas</blockName>
+      <iconName>udl_exp_coproducciontxt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3rbivo-omphqvacy</odePageId>
+          <odeBlockId>block-mu3rpt9p-qos5b0p6o</odeBlockId>
+          <odeIdeviceId>idevice-1789543032684-cqin29fpn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Resuelve las siguientes integrales indefinidas inmediatas:</p>
+<ol type="a">
+<li>\(\int x^5 \, dx\)</li>
+<li>\(\int (x + \sqrt{x}) \, dx\)</li>
+<li>\(\int \left( \frac{3}{\sqrt{x}} - \frac{x\sqrt{x}}{4} \right) dx\)</li>
+<li>\(\int \frac{x^2 \, dx}{\sqrt{x}}\)</li>
+<li>\(\int \left( \frac{1}{x^2} - \frac{4}{x\sqrt{x}} + 2 \right) dx\)</li>
+<li>\(\int \left( \frac{dx}{\sqrt[4]{x}} \right)\)</li>
+<li>\(\int \left( x^2 + \frac{1}{\sqrt[3]{x}} \right)^2 dx\)</li>
+<li>\(\int \sqrt{3x^3} \, dx\)</li>
+<li>\(\int (1 + \sqrt{x})(x - \sqrt{x} + 1) \, dx\)</li>
+<li>\(\int \frac{(x^2 + 1)(x^2 - 2)}{\sqrt[3]{x^2}} \, dx\)</li>
+<li>\(\int \frac{(x + \sqrt{x})}{x^2} \, dx\)</li>
+</ol><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Soluciones" data-text-a="Soluciones" data-text-b="Soluciones"></div><div class="feedback js-feedback js-hidden" style="display: none;"><div class="exe-fx exe-accordion">
+<h2>a) \(\int x^5 \, dx\)</h2>
+<p>\[ \int x^5 \, dx = \frac{x^6}{6} + C \]</p>
+<h2>b) \(\int (x + \sqrt{x}) \, dx\)</h2>
+<p>\[ = \int x \, dx + \int x^{1/2} \, dx = \frac{x^2}{2} + \frac{x^{3/2}}{3/2} + C = \frac{x^2}{2} + \frac{2}{3}x\sqrt{x} + C \]</p>
+<h2>c) \(\int \left( \frac{3}{\sqrt{x}} - \frac{x\sqrt{x}}{4} \right) dx\)</h2>
+<p>\[ = 3 \int x^{-1/2} \, dx - \frac{1}{4} \int x^{3/2} \, dx = 3 \cdot \left( 2x^{1/2} \right) - \frac{1}{4} \cdot \left( \frac{2}{5}x^{5/2} \right) + C = 6\sqrt{x} - \frac{1}{10}x^2\sqrt{x} + C \]</p>
+<h2>d) \(\int \frac{x^2}{\sqrt{x}} \, dx\)</h2>
+<p>\[ = \int \frac{x^2}{x^{1/2}} \, dx = \int x^{3/2} \, dx = \frac{x^{5/2}}{5/2} + C = \frac{2}{5}x^2\sqrt{x} + C \]</p>
+<h2>e) \(\int \left( \frac{1}{x^2} - \frac{4}{x\sqrt{x}} + 2 \right) dx\)</h2>
+<p>\[ = \int (x^{-2} - 4x^{-3/2} + 2) \, dx = \frac{x^{-1}}{-1} - 4 \cdot \left( \frac{x^{-1/2}}{-1/2} \right) + 2x + C = -\frac{1}{x} + \frac{8}{\sqrt{x}} + 2x + C \]</p>
+<h2>f) \(\int \frac{dx}{\sqrt[4]{x}}\)</h2>
+<p>\[ = \int x^{-1/4} \, dx = \frac{x^{3/4}}{3/4} + C = \frac{4}{3}\sqrt[4]{x^3} + C \]</p>
+<h2>g) \(\int \left( x^2 + \frac{1}{\sqrt[3]{x}} \right)^2 dx\)</h2>
+<p>Desarrollamos el cuadrado del binomio:</p>
+<p>\[ = \int \left( x^4 + 2x^2 \cdot x^{-1/3} + x^{-2/3} \right) dx = \int (x^4 + 2x^{5/3} + x^{-2/3}) \, dx \]</p>
+<p>\[ = \frac{x^5}{5} + 2 \cdot \left( \frac{x^{8/3}}{8/3} \right) + \frac{x^{1/3}}{1/3} + C = \frac{x^5}{5} + \frac{3}{4}x^2\sqrt[3]{x^2} + 3\sqrt[3]{x} + C \]</p>
+<h2>h) \(\int \sqrt{3x^3} \, dx\)</h2>
+<p>\[ = \sqrt{3} \int x^{3/2} \, dx = \sqrt{3} \cdot \left( \frac{2}{5}x^{5/2} \right) + C = \frac{2\sqrt{3}}{5}x^2\sqrt{x} + C \]</p>
+<h2>i) \(\int (1 + \sqrt{x})(x - \sqrt{x} + 1) \, dx\)</h2>
+<p>Aplicamos identidad notable (suma por diferencia) / producto:</p>
+<p>\[ (1 + \sqrt{x})(1 - \sqrt{x} + x) = 1 + x\sqrt{x} \]</p>
+<p>\[ = \int (1 + x^{3/2}) \, dx = x + \frac{2}{5}x^{5/2} + C = x + \frac{2}{5}x^2\sqrt{x} + C \]</p>
+<h2>j) \(\int \frac{(x^2 + 1)(x^2 - 2)}{\sqrt[3]{x^2}} \, dx\)</h2>
+<p>Multiplicamos el numerador y dividimos cada término por \(x^{2/3}\):</p>
+<p>\[ = \int \frac{x^4 - x^2 - 2}{x^{2/3}} \, dx = \int (x^{10/3} - x^{4/3} - 2x^{-2/3}) \, dx \]</p>
+<p>\[ = \frac{3}{13}x^{13/3} - \frac{3}{7}x^{7/3} - 2 \cdot (3x^{1/3}) + C = \frac{3}{13}x^4\sqrt[3]{x} - \frac{3}{7}x^2\sqrt[3]{x} - 6\sqrt[3]{x} + C \]</p>
+<h2>k) \(\int \frac{x + \sqrt{x}}{x^2} \, dx\)</h2>
+<p>\[ = \int \left( \frac{x}{x^2} + \frac{x^{1/2}}{x^2} \right) dx = \int \left( \frac{1}{x} + x^{-3/2} \right) dx = \ln|x| + \frac{x^{-1/2}}{-1/2} + C = \ln|x| - \frac{2}{\sqrt{x}} + C \]</p>
+</div></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789543032684-cqin29fpn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Resuelve las siguientes integrales indefinidas inmediatas:</p>\n<ol type=\"a\">\n<li>\\(\\int x^5 \\, dx\\)</li>\n<li>\\(\\int (x + \\sqrt{x}) \\, dx\\)</li>\n<li>\\(\\int \\left( \\frac{3}{\\sqrt{x}} - \\frac{x\\sqrt{x}}{4} \\right) dx\\)</li>\n<li>\\(\\int \\frac{x^2 \\, dx}{\\sqrt{x}}\\)</li>\n<li>\\(\\int \\left( \\frac{1}{x^2} - \\frac{4}{x\\sqrt{x}} + 2 \\right) dx\\)</li>\n<li>\\(\\int \\left( \\frac{dx}{\\sqrt[4]{x}} \\right)\\)</li>\n<li>\\(\\int \\left( x^2 + \\frac{1}{\\sqrt[3]{x}} \\right)^2 dx\\)</li>\n<li>\\(\\int \\sqrt{3x^3} \\, dx\\)</li>\n<li>\\(\\int (1 + \\sqrt{x})(x - \\sqrt{x} + 1) \\, dx\\)</li>\n<li>\\(\\int \\frac{(x^2 + 1)(x^2 - 2)}{\\sqrt[3]{x^2}} \\, dx\\)</li>\n<li>\\(\\int \\frac{(x + \\sqrt{x})}{x^2} \\, dx\\)</li>\n</ol><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><div class=\"exe-fx exe-accordion\">\n<h2>a) \\(\\int x^5 \\, dx\\)</h2>\n<p>\\[ \\int x^5 \\, dx = \\frac{x^6}{6} + C \\]</p>\n<h2>b) \\(\\int (x + \\sqrt{x}) \\, dx\\)</h2>\n<p>\\[ = \\int x \\, dx + \\int x^{1/2} \\, dx = \\frac{x^2}{2} + \\frac{x^{3/2}}{3/2} + C = \\frac{x^2}{2} + \\frac{2}{3}x\\sqrt{x} + C \\]</p>\n<h2>c) \\(\\int \\left( \\frac{3}{\\sqrt{x}} - \\frac{x\\sqrt{x}}{4} \\right) dx\\)</h2>\n<p>\\[ = 3 \\int x^{-1/2} \\, dx - \\frac{1}{4} \\int x^{3/2} \\, dx = 3 \\cdot \\left( 2x^{1/2} \\right) - \\frac{1}{4} \\cdot \\left( \\frac{2}{5}x^{5/2} \\right) + C = 6\\sqrt{x} - \\frac{1}{10}x^2\\sqrt{x} + C \\]</p>\n<h2>d) \\(\\int \\frac{x^2}{\\sqrt{x}} \\, dx\\)</h2>\n<p>\\[ = \\int \\frac{x^2}{x^{1/2}} \\, dx = \\int x^{3/2} \\, dx = \\frac{x^{5/2}}{5/2} + C = \\frac{2}{5}x^2\\sqrt{x} + C \\]</p>\n<h2>e) \\(\\int \\left( \\frac{1}{x^2} - \\frac{4}{x\\sqrt{x}} + 2 \\right) dx\\)</h2>\n<p>\\[ = \\int (x^{-2} - 4x^{-3/2} + 2) \\, dx = \\frac{x^{-1}}{-1} - 4 \\cdot \\left( \\frac{x^{-1/2}}{-1/2} \\right) + 2x + C = -\\frac{1}{x} + \\frac{8}{\\sqrt{x}} + 2x + C \\]</p>\n<h2>f) \\(\\int \\frac{dx}{\\sqrt[4]{x}}\\)</h2>\n<p>\\[ = \\int x^{-1/4} \\, dx = \\frac{x^{3/4}}{3/4} + C = \\frac{4}{3}\\sqrt[4]{x^3} + C \\]</p>\n<h2>g) \\(\\int \\left( x^2 + \\frac{1}{\\sqrt[3]{x}} \\right)^2 dx\\)</h2>\n<p>Desarrollamos el cuadrado del binomio:</p>\n<p>\\[ = \\int \\left( x^4 + 2x^2 \\cdot x^{-1/3} + x^{-2/3} \\right) dx = \\int (x^4 + 2x^{5/3} + x^{-2/3}) \\, dx \\]</p>\n<p>\\[ = \\frac{x^5}{5} + 2 \\cdot \\left( \\frac{x^{8/3}}{8/3} \\right) + \\frac{x^{1/3}}{1/3} + C = \\frac{x^5}{5} + \\frac{3}{4}x^2\\sqrt[3]{x^2} + 3\\sqrt[3]{x} + C \\]</p>\n<h2>h) \\(\\int \\sqrt{3x^3} \\, dx\\)</h2>\n<p>\\[ = \\sqrt{3} \\int x^{3/2} \\, dx = \\sqrt{3} \\cdot \\left( \\frac{2}{5}x^{5/2} \\right) + C = \\frac{2\\sqrt{3}}{5}x^2\\sqrt{x} + C \\]</p>\n<h2>i) \\(\\int (1 + \\sqrt{x})(x - \\sqrt{x} + 1) \\, dx\\)</h2>\n<p>Aplicamos identidad notable (suma por diferencia) / producto:</p>\n<p>\\[ (1 + \\sqrt{x})(1 - \\sqrt{x} + x) = 1 + x\\sqrt{x} \\]</p>\n<p>\\[ = \\int (1 + x^{3/2}) \\, dx = x + \\frac{2}{5}x^{5/2} + C = x + \\frac{2}{5}x^2\\sqrt{x} + C \\]</p>\n<h2>j) \\(\\int \\frac{(x^2 + 1)(x^2 - 2)}{\\sqrt[3]{x^2}} \\, dx\\)</h2>\n<p>Multiplicamos el numerador y dividimos cada término por \\(x^{2/3}\\):</p>\n<p>\\[ = \\int \\frac{x^4 - x^2 - 2}{x^{2/3}} \\, dx = \\int (x^{10/3} - x^{4/3} - 2x^{-2/3}) \\, dx \\]</p>\n<p>\\[ = \\frac{3}{13}x^{13/3} - \\frac{3}{7}x^{7/3} - 2 \\cdot (3x^{1/3}) + C = \\frac{3}{13}x^4\\sqrt[3]{x} - \\frac{3}{7}x^2\\sqrt[3]{x} - 6\\sqrt[3]{x} + C \\]</p>\n<h2>k) \\(\\int \\frac{x + \\sqrt{x}}{x^2} \\, dx\\)</h2>\n<p>\\[ = \\int \\left( \\frac{x}{x^2} + \\frac{x^{1/2}}{x^2} \\right) dx = \\int \\left( \\frac{1}{x} + x^{-3/2} \\right) dx = \\ln|x| + \\frac{x^{-1/2}}{-1/2} + C = \\ln|x| - \\frac{2}{\\sqrt{x}} + C \\]</p>\n</div></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>a) \\(\\int x^5 \\, dx\\)</h2>\n<p>\\[ \\int x^5 \\, dx = \\frac{x^6}{6} + C \\]</p>\n<h2>b) \\(\\int (x + \\sqrt{x}) \\, dx\\)</h2>\n<p>\\[ = \\int x \\, dx + \\int x^{1/2} \\, dx = \\frac{x^2}{2} + \\frac{x^{3/2}}{3/2} + C = \\frac{x^2}{2} + \\frac{2}{3}x\\sqrt{x} + C \\]</p>\n<h2>c) \\(\\int \\left( \\frac{3}{\\sqrt{x}} - \\frac{x\\sqrt{x}}{4} \\right) dx\\)</h2>\n<p>\\[ = 3 \\int x^{-1/2} \\, dx - \\frac{1}{4} \\int x^{3/2} \\, dx = 3 \\cdot \\left( 2x^{1/2} \\right) - \\frac{1}{4} \\cdot \\left( \\frac{2}{5}x^{5/2} \\right) + C = 6\\sqrt{x} - \\frac{1}{10}x^2\\sqrt{x} + C \\]</p>\n<h2>d) \\(\\int \\frac{x^2}{\\sqrt{x}} \\, dx\\)</h2>\n<p>\\[ = \\int \\frac{x^2}{x^{1/2}} \\, dx = \\int x^{3/2} \\, dx = \\frac{x^{5/2}}{5/2} + C = \\frac{2}{5}x^2\\sqrt{x} + C \\]</p>\n<h2>e) \\(\\int \\left( \\frac{1}{x^2} - \\frac{4}{x\\sqrt{x}} + 2 \\right) dx\\)</h2>\n<p>\\[ = \\int (x^{-2} - 4x^{-3/2} + 2) \\, dx = \\frac{x^{-1}}{-1} - 4 \\cdot \\left( \\frac{x^{-1/2}}{-1/2} \\right) + 2x + C = -\\frac{1}{x} + \\frac{8}{\\sqrt{x}} + 2x + C \\]</p>\n<h2>f) \\(\\int \\frac{dx}{\\sqrt[4]{x}}\\)</h2>\n<p>\\[ = \\int x^{-1/4} \\, dx = \\frac{x^{3/4}}{3/4} + C = \\frac{4}{3}\\sqrt[4]{x^3} + C \\]</p>\n<h2>g) \\(\\int \\left( x^2 + \\frac{1}{\\sqrt[3]{x}} \\right)^2 dx\\)</h2>\n<p>Desarrollamos el cuadrado del binomio:</p>\n<p>\\[ = \\int \\left( x^4 + 2x^2 \\cdot x^{-1/3} + x^{-2/3} \\right) dx = \\int (x^4 + 2x^{5/3} + x^{-2/3}) \\, dx \\]</p>\n<p>\\[ = \\frac{x^5}{5} + 2 \\cdot \\left( \\frac{x^{8/3}}{8/3} \\right) + \\frac{x^{1/3}}{1/3} + C = \\frac{x^5}{5} + \\frac{3}{4}x^2\\sqrt[3]{x^2} + 3\\sqrt[3]{x} + C \\]</p>\n<h2>h) \\(\\int \\sqrt{3x^3} \\, dx\\)</h2>\n<p>\\[ = \\sqrt{3} \\int x^{3/2} \\, dx = \\sqrt{3} \\cdot \\left( \\frac{2}{5}x^{5/2} \\right) + C = \\frac{2\\sqrt{3}}{5}x^2\\sqrt{x} + C \\]</p>\n<h2>i) \\(\\int (1 + \\sqrt{x})(x - \\sqrt{x} + 1) \\, dx\\)</h2>\n<p>Aplicamos identidad notable (suma por diferencia) / producto:</p>\n<p>\\[ (1 + \\sqrt{x})(1 - \\sqrt{x} + x) = 1 + x\\sqrt{x} \\]</p>\n<p>\\[ = \\int (1 + x^{3/2}) \\, dx = x + \\frac{2}{5}x^{5/2} + C = x + \\frac{2}{5}x^2\\sqrt{x} + C \\]</p>\n<h2>j) \\(\\int \\frac{(x^2 + 1)(x^2 - 2)}{\\sqrt[3]{x^2}} \\, dx\\)</h2>\n<p>Multiplicamos el numerador y dividimos cada término por \\(x^{2/3}\\):</p>\n<p>\\[ = \\int \\frac{x^4 - x^2 - 2}{x^{2/3}} \\, dx = \\int (x^{10/3} - x^{4/3} - 2x^{-2/3}) \\, dx \\]</p>\n<p>\\[ = \\frac{3}{13}x^{13/3} - \\frac{3}{7}x^{7/3} - 2 \\cdot (3x^{1/3}) + C = \\frac{3}{13}x^4\\sqrt[3]{x} - \\frac{3}{7}x^2\\sqrt[3]{x} - 6\\sqrt[3]{x} + C \\]</p>\n<h2>k) \\(\\int \\frac{x + \\sqrt{x}}{x^2} \\, dx\\)</h2>\n<p>\\[ = \\int \\left( \\frac{x}{x^2} + \\frac{x^{1/2}}{x^2} \\right) dx = \\int \\left( \\frac{1}{x} + x^{-3/2} \\right) dx = \\ln|x| + \\frac{x^{-1/2}}{-1/2} + C = \\ln|x| - \\frac{2}{\\sqrt{x}} + C \\]</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mu3rwp1f-jaqh5hyn1</odePageId>
+  <odeParentPageId>page-mu2fm5ib-5mx18aark</odeParentPageId>
+  <pageName>Integrales que deshacen la regla de la cadena</pageName>
+  <odeNavStructureOrder>27</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Integrales que deshacen la regla de la cadena</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mu3rwp1f-jaqh5hyn1</odePageId>
+      <odeBlockId>block-mu3ry9ja-zpmujivi0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3rwp1f-jaqh5hyn1</odePageId>
+          <odeBlockId>block-mu3ry9ja-zpmujivi0</odeBlockId>
+          <odeIdeviceId>idevice-1789543427011-xple9jh1s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cuando aplicamos la regla de la cadena a la integración, buscamos que en el integrando aparezca una función compuesta multiplicada por la derivada de su función interna: \(\int [f(x)]^n \cdot f'(x) \, dx\).</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p><strong>Regla de la potencia con la regla de la cadena:</strong></p>
+<p>Si tenemos una función elevada a una potencia \(n\) multiplicada por la derivada de esa misma función, la integral es:</p>
+<p>\[ \int [f(x)]^n \cdot f'(x) \, dx = \frac{[f(x)]^{n+1}}{n + 1} + C \quad (n \neq -1) \]</p>
+</div>
+<p>Observa que al derivar \(f(x)^n\) va a aparecer \(f'(x)\), luego para poder integrar, <strong>tengo que tener </strong>este factor \(f'(x)\). Al integrar, \(f'(x)\) desaparecerá, porque cuando derive, aparecerá de nuevo.</p>
+<p>Esto mismo sirve para cualquier otra integral que implique deshacer la regla de la cadena.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789543427011-xple9jh1s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cuando aplicamos la regla de la cadena a la integración, buscamos que en el integrando aparezca una función compuesta multiplicada por la derivada de su función interna: \\(\\int [f(x)]^n \\cdot f'(x) \\, dx\\).</p>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p><strong>Regla de la potencia con la regla de la cadena:</strong></p>\n<p>Si tenemos una función elevada a una potencia \\(n\\) multiplicada por la derivada de esa misma función, la integral es:</p>\n<p>\\[ \\int [f(x)]^n \\cdot f'(x) \\, dx = \\frac{[f(x)]^{n+1}}{n + 1} + C \\quad (n \\neq -1) \\]</p>\n</div>\n<p>Observa que al derivar \\(f(x)^n\\) va a aparecer \\(f'(x)\\), luego para poder integrar, <strong>tengo que tener </strong>este factor \\(f'(x)\\). Al integrar, \\(f'(x)\\) desaparecerá, porque cuando derive, aparecerá de nuevo.</p>\n<p>Esto mismo sirve para cualquier otra integral que implique deshacer la regla de la cadena.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mu3rwp1f-jaqh5hyn1</odePageId>
+      <odeBlockId>block-mu3s2qmi-k21zik07h</odeBlockId>
+      <blockName>Integrales inmediatas con regla de la cadena</blockName>
+      <iconName>udl_exp_coproducciontxt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3rwp1f-jaqh5hyn1</odePageId>
+          <odeBlockId>block-mu3s2qmi-k21zik07h</odeBlockId>
+          <odeIdeviceId>idevice-1789543635785-h232ric72</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Resuelve las siguientes integrales indefinidas en las que hay que usar la regla de la cadena (o un cambio de variable sencillo):</p>
+<ol type="a">
+<li>\(\int \frac{\ln x}{x} \, dx\)</li>
+<li>\(\int \tan x \cdot \sec^2 x \, dx\)</li>
+<li>\(\int \sin^2 x \cdot \cos x \, dx\)</li>
+<li>\(\int \cos^2 x \cdot \sin x \, dx\)</li>
+<li>\(\int x \sqrt{x^2 + 1} \, dx\)</li>
+<li>\(\int \frac{x}{\sqrt{2x^2 + 3}} \, dx\)</li>
+<li>\(\int \frac{x^2}{\sqrt{x^3 + 1}} \, dx\)</li>
+<li>\(\int \frac{\cos x}{\sin^2 x} \, dx\)</li>
+<li>\(\int x \cdot (x^2 + 1)^4 \, dx\)</li>
+<li>\(\int \frac{\sin x}{\cos^3 x} \, dx\)</li>
+<li>\(\int \frac{\tan x}{\cos^2 x} \, dx\)</li>
+<li>\(\int \frac{\cot x}{\sin^2 x} \, dx\)</li>
+<li>\(\int \frac{\ln(x + 1)}{x + 1} \, dx\)</li>
+</ol><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Soluciones" data-text-a="Soluciones" data-text-b="Soluciones"></div><div class="feedback js-feedback js-hidden" style="display: none;"><div class="exe-fx exe-accordion">
+<h2>a) \(\int \frac{\ln x}{x} \, dx\)</h2>
+<p>\[ = \int (\ln x)^1 \cdot \frac{1}{x} \, dx = \frac{(\ln x)^2}{2} + C \]</p>
+<h2>b) \(\int \tan x \cdot \sec^2 x \, dx\)</h2>
+<p>\[ = \int (\tan x)^1 \cdot (\tan x)' \, dx = \frac{\tan^2 x}{2} + C \]</p>
+<h2>c) \(\int \sin^2 x \cdot \cos x \, dx\)</h2>
+<p>\[ = \int (\sin x)^2 \cdot (\sin x)' \, dx = \frac{\sin^3 x}{3} + C \]</p>
+<h2>d) \(\int \cos^2 x \cdot \sin x \, dx\)</h2>
+<p>\[ = -\int (\cos x)^2 \cdot (-\sin x) \, dx = -\frac{\cos^3 x}{3} + C \]</p>
+<h2>e) \(\int x \sqrt{x^2 + 1} \, dx\)</h2>
+<p>\[ = \frac{1}{2} \int (x^2 + 1)^{1/2} \cdot (2x) \, dx = \frac{1}{2} \cdot \frac{(x^2 + 1)^{3/2}}{3/2} + C = \frac{1}{3}\sqrt{(x^2 + 1)^3} + C \]</p>
+<h2>f) \(\int \frac{x}{\sqrt{2x^2 + 3}} \, dx\)</h2>
+<p>\[ = \frac{1}{4} \int (2x^2 + 3)^{-1/2} \cdot (4x) \, dx = \frac{1}{4} \cdot \frac{(2x^2 + 3)^{1/2}}{1/2} + C = \frac{1}{2}\sqrt{2x^2 + 3} + C \]</p>
+<h2>g) \(\int \frac{x^2}{\sqrt{x^3 + 1}} \, dx\)</h2>
+<p>\[ = \frac{1}{3} \int (x^3 + 1)^{-1/2} \cdot (3x^2) \, dx = \frac{1}{3} \cdot \frac{(x^3 + 1)^{1/2}}{1/2} + C = \frac{2}{3}\sqrt{x^3 + 1} + C \]</p>
+<h2>h) \(\int \frac{\cos x}{\sin^2 x} \, dx\)</h2>
+<p>\[ = \int (\sin x)^{-2} \cdot \cos x \, dx = \frac{(\sin x)^{-1}}{-1} + C = -\frac{1}{\sin x} + C \]</p>
+<h2>i) \(\int x \cdot (x^2 + 1)^4 \, dx\)</h2>
+<p>\[ = \frac{1}{2} \int (x^2 + 1)^4 \cdot (2x) \, dx = \frac{1}{2} \cdot \frac{(x^2 + 1)^5}{5} + C = \frac{(x^2 + 1)^5}{10} + C \]</p>
+<h2>j) \(\int \frac{\sin x}{\cos^3 x} \, dx\)</h2>
+<p>\[ = -\int (\cos x)^{-3} \cdot (-\sin x) \, dx = -\frac{(\cos x)^{-2}}{-2} + C = \frac{1}{2\cos^2 x} + C \]</p>
+<h2>k) \(\int \frac{\tan x}{\cos^2 x} \, dx\)</h2>
+<p>\[ = \int (\tan x)^1 \cdot \frac{1}{\cos^2 x} \, dx = \frac{\tan^2 x}{2} + C \]</p>
+<h2>l) \(\int \frac{\cot x}{\sin^2 x} \, dx\)</h2>
+<p>\[ = -\int (\cot x)^1 \cdot \left(-\frac{1}{\sin^2 x}\right) \, dx = -\frac{\cot^2 x}{2} + C \]</p>
+<h2>m) \(\int \frac{\ln(x + 1)}{x + 1} \, dx\)</h2>
+<p>\[ = \int [\ln(x + 1)]^1 \cdot \frac{1}{x + 1} \, dx = \frac{[\ln(x + 1)]^2}{2} + C \]</p>
+</div></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789543635785-h232ric72","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Resuelve las siguientes integrales indefinidas en las que hay que usar la regla de la cadena (o un cambio de variable sencillo):</p>\n<ol type=\"a\">\n<li>\\(\\int \\frac{\\ln x}{x} \\, dx\\)</li>\n<li>\\(\\int \\tan x \\cdot \\sec^2 x \\, dx\\)</li>\n<li>\\(\\int \\sin^2 x \\cdot \\cos x \\, dx\\)</li>\n<li>\\(\\int \\cos^2 x \\cdot \\sin x \\, dx\\)</li>\n<li>\\(\\int x \\sqrt{x^2 + 1} \\, dx\\)</li>\n<li>\\(\\int \\frac{x}{\\sqrt{2x^2 + 3}} \\, dx\\)</li>\n<li>\\(\\int \\frac{x^2}{\\sqrt{x^3 + 1}} \\, dx\\)</li>\n<li>\\(\\int \\frac{\\cos x}{\\sin^2 x} \\, dx\\)</li>\n<li>\\(\\int x \\cdot (x^2 + 1)^4 \\, dx\\)</li>\n<li>\\(\\int \\frac{\\sin x}{\\cos^3 x} \\, dx\\)</li>\n<li>\\(\\int \\frac{\\tan x}{\\cos^2 x} \\, dx\\)</li>\n<li>\\(\\int \\frac{\\cot x}{\\sin^2 x} \\, dx\\)</li>\n<li>\\(\\int \\frac{\\ln(x + 1)}{x + 1} \\, dx\\)</li>\n</ol><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><div class=\"exe-fx exe-accordion\">\n<h2>a) \\(\\int \\frac{\\ln x}{x} \\, dx\\)</h2>\n<p>\\[ = \\int (\\ln x)^1 \\cdot \\frac{1}{x} \\, dx = \\frac{(\\ln x)^2}{2} + C \\]</p>\n<h2>b) \\(\\int \\tan x \\cdot \\sec^2 x \\, dx\\)</h2>\n<p>\\[ = \\int (\\tan x)^1 \\cdot (\\tan x)' \\, dx = \\frac{\\tan^2 x}{2} + C \\]</p>\n<h2>c) \\(\\int \\sin^2 x \\cdot \\cos x \\, dx\\)</h2>\n<p>\\[ = \\int (\\sin x)^2 \\cdot (\\sin x)' \\, dx = \\frac{\\sin^3 x}{3} + C \\]</p>\n<h2>d) \\(\\int \\cos^2 x \\cdot \\sin x \\, dx\\)</h2>\n<p>\\[ = -\\int (\\cos x)^2 \\cdot (-\\sin x) \\, dx = -\\frac{\\cos^3 x}{3} + C \\]</p>\n<h2>e) \\(\\int x \\sqrt{x^2 + 1} \\, dx\\)</h2>\n<p>\\[ = \\frac{1}{2} \\int (x^2 + 1)^{1/2} \\cdot (2x) \\, dx = \\frac{1}{2} \\cdot \\frac{(x^2 + 1)^{3/2}}{3/2} + C = \\frac{1}{3}\\sqrt{(x^2 + 1)^3} + C \\]</p>\n<h2>f) \\(\\int \\frac{x}{\\sqrt{2x^2 + 3}} \\, dx\\)</h2>\n<p>\\[ = \\frac{1}{4} \\int (2x^2 + 3)^{-1/2} \\cdot (4x) \\, dx = \\frac{1}{4} \\cdot \\frac{(2x^2 + 3)^{1/2}}{1/2} + C = \\frac{1}{2}\\sqrt{2x^2 + 3} + C \\]</p>\n<h2>g) \\(\\int \\frac{x^2}{\\sqrt{x^3 + 1}} \\, dx\\)</h2>\n<p>\\[ = \\frac{1}{3} \\int (x^3 + 1)^{-1/2} \\cdot (3x^2) \\, dx = \\frac{1}{3} \\cdot \\frac{(x^3 + 1)^{1/2}}{1/2} + C = \\frac{2}{3}\\sqrt{x^3 + 1} + C \\]</p>\n<h2>h) \\(\\int \\frac{\\cos x}{\\sin^2 x} \\, dx\\)</h2>\n<p>\\[ = \\int (\\sin x)^{-2} \\cdot \\cos x \\, dx = \\frac{(\\sin x)^{-1}}{-1} + C = -\\frac{1}{\\sin x} + C \\]</p>\n<h2>i) \\(\\int x \\cdot (x^2 + 1)^4 \\, dx\\)</h2>\n<p>\\[ = \\frac{1}{2} \\int (x^2 + 1)^4 \\cdot (2x) \\, dx = \\frac{1}{2} \\cdot \\frac{(x^2 + 1)^5}{5} + C = \\frac{(x^2 + 1)^5}{10} + C \\]</p>\n<h2>j) \\(\\int \\frac{\\sin x}{\\cos^3 x} \\, dx\\)</h2>\n<p>\\[ = -\\int (\\cos x)^{-3} \\cdot (-\\sin x) \\, dx = -\\frac{(\\cos x)^{-2}}{-2} + C = \\frac{1}{2\\cos^2 x} + C \\]</p>\n<h2>k) \\(\\int \\frac{\\tan x}{\\cos^2 x} \\, dx\\)</h2>\n<p>\\[ = \\int (\\tan x)^1 \\cdot \\frac{1}{\\cos^2 x} \\, dx = \\frac{\\tan^2 x}{2} + C \\]</p>\n<h2>l) \\(\\int \\frac{\\cot x}{\\sin^2 x} \\, dx\\)</h2>\n<p>\\[ = -\\int (\\cot x)^1 \\cdot \\left(-\\frac{1}{\\sin^2 x}\\right) \\, dx = -\\frac{\\cot^2 x}{2} + C \\]</p>\n<h2>m) \\(\\int \\frac{\\ln(x + 1)}{x + 1} \\, dx\\)</h2>\n<p>\\[ = \\int [\\ln(x + 1)]^1 \\cdot \\frac{1}{x + 1} \\, dx = \\frac{[\\ln(x + 1)]^2}{2} + C \\]</p>\n</div></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>a) \\(\\int \\frac{\\ln x}{x} \\, dx\\)</h2>\n<p>\\[ = \\int (\\ln x)^1 \\cdot \\frac{1}{x} \\, dx = \\frac{(\\ln x)^2}{2} + C \\]</p>\n<h2>b) \\(\\int \\tan x \\cdot \\sec^2 x \\, dx\\)</h2>\n<p>\\[ = \\int (\\tan x)^1 \\cdot (\\tan x)' \\, dx = \\frac{\\tan^2 x}{2} + C \\]</p>\n<h2>c) \\(\\int \\sin^2 x \\cdot \\cos x \\, dx\\)</h2>\n<p>\\[ = \\int (\\sin x)^2 \\cdot (\\sin x)' \\, dx = \\frac{\\sin^3 x}{3} + C \\]</p>\n<h2>d) \\(\\int \\cos^2 x \\cdot \\sin x \\, dx\\)</h2>\n<p>\\[ = -\\int (\\cos x)^2 \\cdot (-\\sin x) \\, dx = -\\frac{\\cos^3 x}{3} + C \\]</p>\n<h2>e) \\(\\int x \\sqrt{x^2 + 1} \\, dx\\)</h2>\n<p>\\[ = \\frac{1}{2} \\int (x^2 + 1)^{1/2} \\cdot (2x) \\, dx = \\frac{1}{2} \\cdot \\frac{(x^2 + 1)^{3/2}}{3/2} + C = \\frac{1}{3}\\sqrt{(x^2 + 1)^3} + C \\]</p>\n<h2>f) \\(\\int \\frac{x}{\\sqrt{2x^2 + 3}} \\, dx\\)</h2>\n<p>\\[ = \\frac{1}{4} \\int (2x^2 + 3)^{-1/2} \\cdot (4x) \\, dx = \\frac{1}{4} \\cdot \\frac{(2x^2 + 3)^{1/2}}{1/2} + C = \\frac{1}{2}\\sqrt{2x^2 + 3} + C \\]</p>\n<h2>g) \\(\\int \\frac{x^2}{\\sqrt{x^3 + 1}} \\, dx\\)</h2>\n<p>\\[ = \\frac{1}{3} \\int (x^3 + 1)^{-1/2} \\cdot (3x^2) \\, dx = \\frac{1}{3} \\cdot \\frac{(x^3 + 1)^{1/2}}{1/2} + C = \\frac{2}{3}\\sqrt{x^3 + 1} + C \\]</p>\n<h2>h) \\(\\int \\frac{\\cos x}{\\sin^2 x} \\, dx\\)</h2>\n<p>\\[ = \\int (\\sin x)^{-2} \\cdot \\cos x \\, dx = \\frac{(\\sin x)^{-1}}{-1} + C = -\\frac{1}{\\sin x} + C \\]</p>\n<h2>i) \\(\\int x \\cdot (x^2 + 1)^4 \\, dx\\)</h2>\n<p>\\[ = \\frac{1}{2} \\int (x^2 + 1)^4 \\cdot (2x) \\, dx = \\frac{1}{2} \\cdot \\frac{(x^2 + 1)^5}{5} + C = \\frac{(x^2 + 1)^5}{10} + C \\]</p>\n<h2>j) \\(\\int \\frac{\\sin x}{\\cos^3 x} \\, dx\\)</h2>\n<p>\\[ = -\\int (\\cos x)^{-3} \\cdot (-\\sin x) \\, dx = -\\frac{(\\cos x)^{-2}}{-2} + C = \\frac{1}{2\\cos^2 x} + C \\]</p>\n<h2>k) \\(\\int \\frac{\\tan x}{\\cos^2 x} \\, dx\\)</h2>\n<p>\\[ = \\int (\\tan x)^1 \\cdot \\frac{1}{\\cos^2 x} \\, dx = \\frac{\\tan^2 x}{2} + C \\]</p>\n<h2>l) \\(\\int \\frac{\\cot x}{\\sin^2 x} \\, dx\\)</h2>\n<p>\\[ = -\\int (\\cot x)^1 \\cdot \\left(-\\frac{1}{\\sin^2 x}\\right) \\, dx = -\\frac{\\cot^2 x}{2} + C \\]</p>\n<h2>m) \\(\\int \\frac{\\ln(x + 1)}{x + 1} \\, dx\\)</h2>\n<p>\\[ = \\int [\\ln(x + 1)]^1 \\cdot \\frac{1}{x + 1} \\, dx = \\frac{[\\ln(x + 1)]^2}{2} + C \\]</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mu3rxpe2-kt3ojd8vv</odePageId>
+  <odeParentPageId>page-mu2fm5ib-5mx18aark</odeParentPageId>
+  <pageName>Interludio: derivación implícita</pageName>
+  <odeNavStructureOrder>28</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Interludio: derivación implícita</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mu3rxpe2-kt3ojd8vv</odePageId>
+      <odeBlockId>block-mu3s892x-ojq98j84x</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3rxpe2-kt3ojd8vv</odePageId>
+          <odeBlockId>block-mu3s892x-ojq98j84x</odeBlockId>
+          <odeIdeviceId>idevice-1789543892984-7ymf1nfxc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de abordar las integrales que dan lugar a funciones trigonométricas inversas como el arcoseno, es fundamental dominar la <strong>derivación implícita y logarítmica</strong>, dos herramientas avanzadas que nos permiten derivar ecuaciones donde la variable <em>y</em> no está despejada o donde la variable aparece en el exponente.</p>
+<h2>Derivación Logarítmica</h2>
+<div style="border-left: 5px solid #1d4ed8; background-color: #eff6ff; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p><strong>Ejemplo: </strong></p>
+<p>Halla la derivada de la función \(y = x^x\).</p>
+<p><strong>Paso 1: Aplicar logaritmo neperiano en ambos lados</strong></p>
+<p>\[ \ln(y) = \ln(x^x) \implies \ln(y) = x \cdot \ln(x) \]</p>
+<p><strong>Paso 2: Derivar implícitamente respecto a <em>x</em></strong></p>
+<p>\[ \frac{1}{y} \cdot y' = 1 \cdot \ln(x) + x \cdot \frac{1}{x} \implies \frac{y'}{y} = \ln(x) + 1 \]</p>
+<p><strong>Paso 3: Despejar \(y'\) y sustituir \(y\)</strong></p>
+<p>\[ y' = y \cdot (\ln(x) + 1) \implies y' = x^x (\ln(x) + 1) \]</p>
+</div>
+<p>Para obtener la derivada de las funciones trigonométricas inversas (\(\arcsin x\), \(\arccos x\) y \(\arctan x\)), utilizamos la <strong>derivación implícita</strong> a partir de sus definiciones y la identidad fundamental de la trigonometría (\(\sin^2 y + \cos^2 y = 1\)).</p>
+<h2>Derivación implícita</h2>
+<!-- Derivada de arcsin(x) -->
+<div style="border-left: 5px solid #1d4ed8; background-color: #eff6ff; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p><strong>1. Derivada de \(y = \arcsin(x)\)</strong></p>
+<p>Partimos de la relación equivalente: \(\sin(y) = x\)</p>
+<p><strong>Paso 1: Derivar implícitamente respecto a <em>x</em></strong></p>
+<p>\[ \cos(y) \cdot y' = 1 \implies y' = \frac{1}{\cos(y)} \]</p>
+<p><strong>Paso 2: Expresar \(\cos(y)\) en función de <em>x</em></strong></p>
+<p>Como \(\sin^2(y) + \cos^2(y) = 1\), tenemos que \(\cos(y) = \sqrt{1 - \sin^2(y)}\). Sustituyendo \(\sin(y) = x\):</p>
+<p>\[ \cos(y) = \sqrt{1 - x^2} \]</p>
+<p><strong>Resultado:</strong></p>
+<p>\[ y' = \frac{1}{\sqrt{1 - x^2}} \]</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789543892984-7ymf1nfxc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de abordar las integrales que dan lugar a funciones trigonométricas inversas como el arcoseno, es fundamental dominar la <strong>derivación implícita y logarítmica</strong>, dos herramientas avanzadas que nos permiten derivar ecuaciones donde la variable <em>y</em> no está despejada o donde la variable aparece en el exponente.</p>\n<h2>Derivación Logarítmica</h2>\n<div style=\"border-left: 5px solid #1d4ed8; background-color: #eff6ff; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p><strong>Ejemplo: </strong></p>\n<p>Halla la derivada de la función \\(y = x^x\\).</p>\n<p><strong>Paso 1: Aplicar logaritmo neperiano en ambos lados</strong></p>\n<p>\\[ \\ln(y) = \\ln(x^x) \\implies \\ln(y) = x \\cdot \\ln(x) \\]</p>\n<p><strong>Paso 2: Derivar implícitamente respecto a <em>x</em></strong></p>\n<p>\\[ \\frac{1}{y} \\cdot y' = 1 \\cdot \\ln(x) + x \\cdot \\frac{1}{x} \\implies \\frac{y'}{y} = \\ln(x) + 1 \\]</p>\n<p><strong>Paso 3: Despejar \\(y'\\) y sustituir \\(y\\)</strong></p>\n<p>\\[ y' = y \\cdot (\\ln(x) + 1) \\implies y' = x^x (\\ln(x) + 1) \\]</p>\n</div>\n<p>Para obtener la derivada de las funciones trigonométricas inversas (\\(\\arcsin x\\), \\(\\arccos x\\) y \\(\\arctan x\\)), utilizamos la <strong>derivación implícita</strong> a partir de sus definiciones y la identidad fundamental de la trigonometría (\\(\\sin^2 y + \\cos^2 y = 1\\)).</p>\n<h2>Derivación implícita</h2>\n<!-- Derivada de arcsin(x) -->\n<div style=\"border-left: 5px solid #1d4ed8; background-color: #eff6ff; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p><strong>1. Derivada de \\(y = \\arcsin(x)\\)</strong></p>\n<p>Partimos de la relación equivalente: \\(\\sin(y) = x\\)</p>\n<p><strong>Paso 1: Derivar implícitamente respecto a <em>x</em></strong></p>\n<p>\\[ \\cos(y) \\cdot y' = 1 \\implies y' = \\frac{1}{\\cos(y)} \\]</p>\n<p><strong>Paso 2: Expresar \\(\\cos(y)\\) en función de <em>x</em></strong></p>\n<p>Como \\(\\sin^2(y) + \\cos^2(y) = 1\\), tenemos que \\(\\cos(y) = \\sqrt{1 - \\sin^2(y)}\\). Sustituyendo \\(\\sin(y) = x\\):</p>\n<p>\\[ \\cos(y) = \\sqrt{1 - x^2} \\]</p>\n<p><strong>Resultado:</strong></p>\n<p>\\[ y' = \\frac{1}{\\sqrt{1 - x^2}} \\]</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mu3rxpe2-kt3ojd8vv</odePageId>
+      <odeBlockId>block-mu3sakbi-m2cpo8tzs</odeBlockId>
+      <blockName>Ejercicios de Derivación Implícita y Logarítmica</blockName>
+      <iconName>udl_exp_coproducciontxt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3rxpe2-kt3ojd8vv</odePageId>
+          <odeBlockId>block-mu3sakbi-m2cpo8tzs</odeBlockId>
+          <odeIdeviceId>idevice-1789544000861-8rodafd2g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Resuelve los siguientes ejercicios de derivación despejando \(y'\):</p>
+<ol type="a">
+<li>Calcula \(y'\) en la ecuación implícita: \(x^2 + y^2 = 25\)</li>
+<li>Calcula \(y'\) en la ecuación implícita: \(x^3 + y^3 = 6xy\)</li>
+<li>Utiliza derivación logarítmica para hallar la derivada de: \(y = (x^2 + 1)^{\sin x}\)</li>
+<li>Utiliza derivación logarítmica para hallar la derivada de: \(y = \frac{x^3 \sqrt{x + 1}}{(x - 2)^4}\)</li>
+<li>Obtén la derivada de \(y = \arccos(x)\) derivando implícitamente la relación equivalente \(\cos(y) = x\).</li>
+<li>Obtén la derivada de \(y = \arctan(x)\) derivando implícitamente la relación equivalente \(\tan(y) = x\).</li>
+</ol><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Solución" data-text-a="Solución" data-text-b="Solución"></div><div class="feedback js-feedback js-hidden" style="display: none;"><div class="exe-fx exe-accordion">
+<h2>a) \(x^2 + y^2 = 25\)</h2>
+<p>Derivamos ambos lados respecto a \(x\):</p>
+<p>\[ 2x + 2y \cdot y' = 0 \]</p>
+<p>\[ 2y \cdot y' = -2x \implies y' = -\frac{x}{y} \]</p>
+<h2>b) \(x^3 + y^3 = 6xy\)</h2>
+<p>Derivamos aplicando la regla del producto en el término de la derecha (\(6xy\)):</p>
+<p>\[ 3x^2 + 3y^2 \cdot y' = 6y + 6x \cdot y' \]</p>
+<p>Agrupamos los términos con \(y'\) a un lado:</p>
+<p>\[ 3y^2 \cdot y' - 6x \cdot y' = 6y - 3x^2 \]</p>
+<p>\[ y'(3y^2 - 6x) = 6y - 3x^2 \implies y' = \frac{6y - 3x^2}{3y^2 - 6x} = \frac{2y - x^2}{y^2 - 2x} \]</p>
+<h2>c) \(y = (x^2 + 1)^{\sin x}\)</h2>
+<p>Aplicamos logaritmo neperiano:</p>
+<p>\[ \ln(y) = \sin(x) \cdot \ln(x^2 + 1) \]</p>
+<p>Derivamos ambos miembros:</p>
+<p>\[ \frac{y'}{y} = \cos(x) \cdot \ln(x^2 + 1) + \sin(x) \cdot \frac{2x}{x^2 + 1} \]</p>
+<p>Despejamos \(y'\):</p>
+<p>\[ y' = (x^2 + 1)^{\sin x} \left[ \cos(x) \ln(x^2 + 1) + \frac{2x \sin(x)}{x^2 + 1} \right] \]</p>
+<h2>d) \(y = \frac{x^3 \sqrt{x + 1}}{(x - 2)^4}\)</h2>
+<p>Aplicamos logaritmos y sus propiedades para simplificar antes de derivar:</p>
+<p>\[ \ln(y) = 3\ln(x) + \frac{1}{2}\ln(x + 1) - 4\ln(x - 2) \]</p>
+<p>Derivamos cada término:</p>
+<p>\[ \frac{y'}{y} = \frac{3}{x} + \frac{1}{2(x + 1)} - \frac{4}{x - 2} \]</p>
+<p>Despejamos \(y'\):</p>
+<p>\[ y' = \frac{x^3 \sqrt{x + 1}}{(x - 2)^4} \left[ \frac{3}{x} + \frac{1}{2x + 2} - \frac{4}{x - 2} \right] \]</p>
+<h2>e) Derivada de \(y = \arccos(x)\) a partir de \(\cos(y) = x\)</h2>
+<p><strong>Paso 1:</strong> Derivamos implícitamente respecto a <em>x</em>:</p>
+<p>\[ -\sin(y) \cdot y' = 1 \implies y' = -\frac{1}{\sin(y)} \]</p>
+<p><strong>Paso 2:</strong> Expresamos \(\sin(y)\) en función de <em>x</em> usando \(\sin(y) = \sqrt{1 - \cos^2(y)}\):</p>
+<p>\[ y' = -\frac{1}{\sqrt{1 - x^2}} \]</p>
+<h2>f) Derivada de \(y = \arctan(x)\) a partir de \(\tan(y) = x\)</h2>
+<p><strong>Paso 1:</strong> Derivamos implícitamente respecto a <em>x</em>:</p>
+<p>\[ (1 + \tan^2(y)) \cdot y' = 1 \implies y' = \frac{1}{1 + \tan^2(y)} \]</p>
+<p><strong>Paso 2:</strong> Sustituimos \(\tan(y) = x\):</p>
+<p>\[ y' = \frac{1}{1 + x^2} \]</p>
+</div></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789544000861-8rodafd2g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Resuelve los siguientes ejercicios de derivación despejando \\(y'\\):</p>\n<ol type=\"a\">\n<li>Calcula \\(y'\\) en la ecuación implícita: \\(x^2 + y^2 = 25\\)</li>\n<li>Calcula \\(y'\\) en la ecuación implícita: \\(x^3 + y^3 = 6xy\\)</li>\n<li>Utiliza derivación logarítmica para hallar la derivada de: \\(y = (x^2 + 1)^{\\sin x}\\)</li>\n<li>Utiliza derivación logarítmica para hallar la derivada de: \\(y = \\frac{x^3 \\sqrt{x + 1}}{(x - 2)^4}\\)</li>\n<li>Obtén la derivada de \\(y = \\arccos(x)\\) derivando implícitamente la relación equivalente \\(\\cos(y) = x\\).</li>\n<li>Obtén la derivada de \\(y = \\arctan(x)\\) derivando implícitamente la relación equivalente \\(\\tan(y) = x\\).</li>\n</ol><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Solución\" data-text-a=\"Solución\" data-text-b=\"Solución\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><div class=\"exe-fx exe-accordion\">\n<h2>a) \\(x^2 + y^2 = 25\\)</h2>\n<p>Derivamos ambos lados respecto a \\(x\\):</p>\n<p>\\[ 2x + 2y \\cdot y' = 0 \\]</p>\n<p>\\[ 2y \\cdot y' = -2x \\implies y' = -\\frac{x}{y} \\]</p>\n<h2>b) \\(x^3 + y^3 = 6xy\\)</h2>\n<p>Derivamos aplicando la regla del producto en el término de la derecha (\\(6xy\\)):</p>\n<p>\\[ 3x^2 + 3y^2 \\cdot y' = 6y + 6x \\cdot y' \\]</p>\n<p>Agrupamos los términos con \\(y'\\) a un lado:</p>\n<p>\\[ 3y^2 \\cdot y' - 6x \\cdot y' = 6y - 3x^2 \\]</p>\n<p>\\[ y'(3y^2 - 6x) = 6y - 3x^2 \\implies y' = \\frac{6y - 3x^2}{3y^2 - 6x} = \\frac{2y - x^2}{y^2 - 2x} \\]</p>\n<h2>c) \\(y = (x^2 + 1)^{\\sin x}\\)</h2>\n<p>Aplicamos logaritmo neperiano:</p>\n<p>\\[ \\ln(y) = \\sin(x) \\cdot \\ln(x^2 + 1) \\]</p>\n<p>Derivamos ambos miembros:</p>\n<p>\\[ \\frac{y'}{y} = \\cos(x) \\cdot \\ln(x^2 + 1) + \\sin(x) \\cdot \\frac{2x}{x^2 + 1} \\]</p>\n<p>Despejamos \\(y'\\):</p>\n<p>\\[ y' = (x^2 + 1)^{\\sin x} \\left[ \\cos(x) \\ln(x^2 + 1) + \\frac{2x \\sin(x)}{x^2 + 1} \\right] \\]</p>\n<h2>d) \\(y = \\frac{x^3 \\sqrt{x + 1}}{(x - 2)^4}\\)</h2>\n<p>Aplicamos logaritmos y sus propiedades para simplificar antes de derivar:</p>\n<p>\\[ \\ln(y) = 3\\ln(x) + \\frac{1}{2}\\ln(x + 1) - 4\\ln(x - 2) \\]</p>\n<p>Derivamos cada término:</p>\n<p>\\[ \\frac{y'}{y} = \\frac{3}{x} + \\frac{1}{2(x + 1)} - \\frac{4}{x - 2} \\]</p>\n<p>Despejamos \\(y'\\):</p>\n<p>\\[ y' = \\frac{x^3 \\sqrt{x + 1}}{(x - 2)^4} \\left[ \\frac{3}{x} + \\frac{1}{2x + 2} - \\frac{4}{x - 2} \\right] \\]</p>\n<h2>e) Derivada de \\(y = \\arccos(x)\\) a partir de \\(\\cos(y) = x\\)</h2>\n<p><strong>Paso 1:</strong> Derivamos implícitamente respecto a <em>x</em>:</p>\n<p>\\[ -\\sin(y) \\cdot y' = 1 \\implies y' = -\\frac{1}{\\sin(y)} \\]</p>\n<p><strong>Paso 2:</strong> Expresamos \\(\\sin(y)\\) en función de <em>x</em> usando \\(\\sin(y) = \\sqrt{1 - \\cos^2(y)}\\):</p>\n<p>\\[ y' = -\\frac{1}{\\sqrt{1 - x^2}} \\]</p>\n<h2>f) Derivada de \\(y = \\arctan(x)\\) a partir de \\(\\tan(y) = x\\)</h2>\n<p><strong>Paso 1:</strong> Derivamos implícitamente respecto a <em>x</em>:</p>\n<p>\\[ (1 + \\tan^2(y)) \\cdot y' = 1 \\implies y' = \\frac{1}{1 + \\tan^2(y)} \\]</p>\n<p><strong>Paso 2:</strong> Sustituimos \\(\\tan(y) = x\\):</p>\n<p>\\[ y' = \\frac{1}{1 + x^2} \\]</p>\n</div></div></div>","textFeedbackInput":"Solución","textFeedbackTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>a) \\(x^2 + y^2 = 25\\)</h2>\n<p>Derivamos ambos lados respecto a \\(x\\):</p>\n<p>\\[ 2x + 2y \\cdot y' = 0 \\]</p>\n<p>\\[ 2y \\cdot y' = -2x \\implies y' = -\\frac{x}{y} \\]</p>\n<h2>b) \\(x^3 + y^3 = 6xy\\)</h2>\n<p>Derivamos aplicando la regla del producto en el término de la derecha (\\(6xy\\)):</p>\n<p>\\[ 3x^2 + 3y^2 \\cdot y' = 6y + 6x \\cdot y' \\]</p>\n<p>Agrupamos los términos con \\(y'\\) a un lado:</p>\n<p>\\[ 3y^2 \\cdot y' - 6x \\cdot y' = 6y - 3x^2 \\]</p>\n<p>\\[ y'(3y^2 - 6x) = 6y - 3x^2 \\implies y' = \\frac{6y - 3x^2}{3y^2 - 6x} = \\frac{2y - x^2}{y^2 - 2x} \\]</p>\n<h2>c) \\(y = (x^2 + 1)^{\\sin x}\\)</h2>\n<p>Aplicamos logaritmo neperiano:</p>\n<p>\\[ \\ln(y) = \\sin(x) \\cdot \\ln(x^2 + 1) \\]</p>\n<p>Derivamos ambos miembros:</p>\n<p>\\[ \\frac{y'}{y} = \\cos(x) \\cdot \\ln(x^2 + 1) + \\sin(x) \\cdot \\frac{2x}{x^2 + 1} \\]</p>\n<p>Despejamos \\(y'\\):</p>\n<p>\\[ y' = (x^2 + 1)^{\\sin x} \\left[ \\cos(x) \\ln(x^2 + 1) + \\frac{2x \\sin(x)}{x^2 + 1} \\right] \\]</p>\n<h2>d) \\(y = \\frac{x^3 \\sqrt{x + 1}}{(x - 2)^4}\\)</h2>\n<p>Aplicamos logaritmos y sus propiedades para simplificar antes de derivar:</p>\n<p>\\[ \\ln(y) = 3\\ln(x) + \\frac{1}{2}\\ln(x + 1) - 4\\ln(x - 2) \\]</p>\n<p>Derivamos cada término:</p>\n<p>\\[ \\frac{y'}{y} = \\frac{3}{x} + \\frac{1}{2(x + 1)} - \\frac{4}{x - 2} \\]</p>\n<p>Despejamos \\(y'\\):</p>\n<p>\\[ y' = \\frac{x^3 \\sqrt{x + 1}}{(x - 2)^4} \\left[ \\frac{3}{x} + \\frac{1}{2x + 2} - \\frac{4}{x - 2} \\right] \\]</p>\n<h2>e) Derivada de \\(y = \\arccos(x)\\) a partir de \\(\\cos(y) = x\\)</h2>\n<p><strong>Paso 1:</strong> Derivamos implícitamente respecto a <em>x</em>:</p>\n<p>\\[ -\\sin(y) \\cdot y' = 1 \\implies y' = -\\frac{1}{\\sin(y)} \\]</p>\n<p><strong>Paso 2:</strong> Expresamos \\(\\sin(y)\\) en función de <em>x</em> usando \\(\\sin(y) = \\sqrt{1 - \\cos^2(y)}\\):</p>\n<p>\\[ y' = -\\frac{1}{\\sqrt{1 - x^2}} \\]</p>\n<h2>f) Derivada de \\(y = \\arctan(x)\\) a partir de \\(\\tan(y) = x\\)</h2>\n<p><strong>Paso 1:</strong> Derivamos implícitamente respecto a <em>x</em>:</p>\n<p>\\[ (1 + \\tan^2(y)) \\cdot y' = 1 \\implies y' = \\frac{1}{1 + \\tan^2(y)} \\]</p>\n<p><strong>Paso 2:</strong> Sustituimos \\(\\tan(y) = x\\):</p>\n<p>\\[ y' = \\frac{1}{1 + x^2} \\]</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mu3shp6a-f8v2pkin0</odePageId>
+  <odeParentPageId>page-mu2fm5ib-5mx18aark</odeParentPageId>
+  <pageName>Deshaciendo la regla de la cadena, advanced</pageName>
+  <odeNavStructureOrder>29</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Deshaciendo la regla de la cadena, advanced</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mu3shp6a-f8v2pkin0</odePageId>
+      <odeBlockId>block-mu3sjk11-rn6qikv51</odeBlockId>
+      <blockName>Continuación de integrales pseudoinmediatas</blockName>
+      <iconName>udl_exp_coproducciontxt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3shp6a-f8v2pkin0</odePageId>
+          <odeBlockId>block-mu3sjk11-rn6qikv51</odeBlockId>
+          <odeIdeviceId>idevice-1789544420388-dmcsh3o8x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><ol type="a" start="14">
+<li>\(\int \frac{\cos x}{\sqrt{2\sin x + 1}} \, dx\)</li>
+<li>\(\int \frac{\arcsin x}{\sqrt{1 - x^2}} \, dx\)</li>
+<li>\(\int \frac{\arccos x}{\sqrt{1 - x^2}} \, dx\)</li>
+<li>\(\int \frac{\arctan x}{1 + x^2} \, dx\)</li>
+<li>\(\int \frac{x}{1 + x^2} \, dx\)</li>
+<li>\(\int \frac{dx}{1 - x}\)</li>
+<li>\(\int \frac{dx}{3x - 7}\)</li>
+</ol><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Solución" data-text-a="Solución" data-text-b="Solución"></div><div class="feedback js-feedback js-hidden" style="display: none;"><div class="exe-fx exe-accordion">
+<h2>n) \(\int \frac{\cos x}{\sqrt{2\sin x + 1}} \, dx\)</h2>
+<p>\[ = \frac{1}{2} \int (2\sin x + 1)^{-1/2} \cdot (2\cos x) \, dx = \frac{1}{2} \cdot \frac{(2\sin x + 1)^{1/2}}{1/2} + C = \sqrt{2\sin x + 1} + C \]</p>
+<h2>o) \(\int \frac{\arcsin x}{\sqrt{1 - x^2}} \, dx\)</h2>
+<p>\[ = \int (\arcsin x)^1 \cdot \frac{1}{\sqrt{1 - x^2}} \, dx = \frac{(\arcsin x)^2}{2} + C \]</p>
+<h2>p) \(\int \frac{\arccos x}{\sqrt{1 - x^2}} \, dx\)</h2>
+<p>\[ = -\int (\arccos x)^1 \cdot \left(-\frac{1}{\sqrt{1 - x^2}}\right) \, dx = -\frac{(\arccos x)^2}{2} + C \]</p>
+<h2>q) \(\int \frac{\arctan x}{1 + x^2} \, dx\)</h2>
+<p>\[ = \int (\arctan x)^1 \cdot \frac{1}{1 + x^2} \, dx = \frac{(\arctan x)^2}{2} + C \]</p>
+<h2>r) \(\int \frac{x}{1 + x^2} \, dx\)</h2>
+<p>\[ = \frac{1}{2} \int \frac{2x}{1 + x^2} \, dx = \frac{1}{2} \ln(1 + x^2) + C \]</p>
+<h2>s) \(\int \frac{dx}{1 - x}\)</h2>
+<p>\[ = -\int \frac{-1}{1 - x} \, dx = -\ln|1 - x| + C \]</p>
+<h2>t) \(\int \frac{dx}{3x - 7}\)</h2>
+<p>\[ = \frac{1}{3} \int \frac{3}{3x - 7} \, dx = \frac{1}{3} \ln|3x - 7| + C \]</p>
+</div></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789544420388-dmcsh3o8x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><ol type=\"a\" start=\"14\">\n<li>\\(\\int \\frac{\\cos x}{\\sqrt{2\\sin x + 1}} \\, dx\\)</li>\n<li>\\(\\int \\frac{\\arcsin x}{\\sqrt{1 - x^2}} \\, dx\\)</li>\n<li>\\(\\int \\frac{\\arccos x}{\\sqrt{1 - x^2}} \\, dx\\)</li>\n<li>\\(\\int \\frac{\\arctan x}{1 + x^2} \\, dx\\)</li>\n<li>\\(\\int \\frac{x}{1 + x^2} \\, dx\\)</li>\n<li>\\(\\int \\frac{dx}{1 - x}\\)</li>\n<li>\\(\\int \\frac{dx}{3x - 7}\\)</li>\n</ol><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Solución\" data-text-a=\"Solución\" data-text-b=\"Solución\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><div class=\"exe-fx exe-accordion\">\n<h2>n) \\(\\int \\frac{\\cos x}{\\sqrt{2\\sin x + 1}} \\, dx\\)</h2>\n<p>\\[ = \\frac{1}{2} \\int (2\\sin x + 1)^{-1/2} \\cdot (2\\cos x) \\, dx = \\frac{1}{2} \\cdot \\frac{(2\\sin x + 1)^{1/2}}{1/2} + C = \\sqrt{2\\sin x + 1} + C \\]</p>\n<h2>o) \\(\\int \\frac{\\arcsin x}{\\sqrt{1 - x^2}} \\, dx\\)</h2>\n<p>\\[ = \\int (\\arcsin x)^1 \\cdot \\frac{1}{\\sqrt{1 - x^2}} \\, dx = \\frac{(\\arcsin x)^2}{2} + C \\]</p>\n<h2>p) \\(\\int \\frac{\\arccos x}{\\sqrt{1 - x^2}} \\, dx\\)</h2>\n<p>\\[ = -\\int (\\arccos x)^1 \\cdot \\left(-\\frac{1}{\\sqrt{1 - x^2}}\\right) \\, dx = -\\frac{(\\arccos x)^2}{2} + C \\]</p>\n<h2>q) \\(\\int \\frac{\\arctan x}{1 + x^2} \\, dx\\)</h2>\n<p>\\[ = \\int (\\arctan x)^1 \\cdot \\frac{1}{1 + x^2} \\, dx = \\frac{(\\arctan x)^2}{2} + C \\]</p>\n<h2>r) \\(\\int \\frac{x}{1 + x^2} \\, dx\\)</h2>\n<p>\\[ = \\frac{1}{2} \\int \\frac{2x}{1 + x^2} \\, dx = \\frac{1}{2} \\ln(1 + x^2) + C \\]</p>\n<h2>s) \\(\\int \\frac{dx}{1 - x}\\)</h2>\n<p>\\[ = -\\int \\frac{-1}{1 - x} \\, dx = -\\ln|1 - x| + C \\]</p>\n<h2>t) \\(\\int \\frac{dx}{3x - 7}\\)</h2>\n<p>\\[ = \\frac{1}{3} \\int \\frac{3}{3x - 7} \\, dx = \\frac{1}{3} \\ln|3x - 7| + C \\]</p>\n</div></div></div>","textFeedbackInput":"Solución","textFeedbackTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>n) \\(\\int \\frac{\\cos x}{\\sqrt{2\\sin x + 1}} \\, dx\\)</h2>\n<p>\\[ = \\frac{1}{2} \\int (2\\sin x + 1)^{-1/2} \\cdot (2\\cos x) \\, dx = \\frac{1}{2} \\cdot \\frac{(2\\sin x + 1)^{1/2}}{1/2} + C = \\sqrt{2\\sin x + 1} + C \\]</p>\n<h2>o) \\(\\int \\frac{\\arcsin x}{\\sqrt{1 - x^2}} \\, dx\\)</h2>\n<p>\\[ = \\int (\\arcsin x)^1 \\cdot \\frac{1}{\\sqrt{1 - x^2}} \\, dx = \\frac{(\\arcsin x)^2}{2} + C \\]</p>\n<h2>p) \\(\\int \\frac{\\arccos x}{\\sqrt{1 - x^2}} \\, dx\\)</h2>\n<p>\\[ = -\\int (\\arccos x)^1 \\cdot \\left(-\\frac{1}{\\sqrt{1 - x^2}}\\right) \\, dx = -\\frac{(\\arccos x)^2}{2} + C \\]</p>\n<h2>q) \\(\\int \\frac{\\arctan x}{1 + x^2} \\, dx\\)</h2>\n<p>\\[ = \\int (\\arctan x)^1 \\cdot \\frac{1}{1 + x^2} \\, dx = \\frac{(\\arctan x)^2}{2} + C \\]</p>\n<h2>r) \\(\\int \\frac{x}{1 + x^2} \\, dx\\)</h2>\n<p>\\[ = \\frac{1}{2} \\int \\frac{2x}{1 + x^2} \\, dx = \\frac{1}{2} \\ln(1 + x^2) + C \\]</p>\n<h2>s) \\(\\int \\frac{dx}{1 - x}\\)</h2>\n<p>\\[ = -\\int \\frac{-1}{1 - x} \\, dx = -\\ln|1 - x| + C \\]</p>\n<h2>t) \\(\\int \\frac{dx}{3x - 7}\\)</h2>\n<p>\\[ = \\frac{1}{3} \\int \\frac{3}{3x - 7} \\, dx = \\frac{1}{3} \\ln|3x - 7| + C \\]</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mu3slvz6-0uutrfigd</odePageId>
+  <odeParentPageId>page-mu2fm5ib-5mx18aark</odeParentPageId>
+  <pageName>Integral por cambio de variable</pageName>
+  <odeNavStructureOrder>30</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Integral por cambio de variable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mu3slvz6-0uutrfigd</odePageId>
+      <odeBlockId>block-mu3so76w-3x2nx6ni0</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3slvz6-0uutrfigd</odePageId>
+          <odeBlockId>block-mu3so76w-3x2nx6ni0</odeBlockId>
+          <odeIdeviceId>idevice-1789544637031-kp2shcr6e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El método de <strong>cambio de variable</strong> (o sustitución) es la herramienta fundamental para deshacer la regla de la cadena. Consiste en elegir una expresión compleja dentro de la integral, llamarla \(u\), calcular su diferencial \(du = u' \, dx\) y sustituir toda la expresión para convertirla en una integral inmediata.</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p><strong>Pasos para integrar por cambio de variable:</strong></p>
+<ol>
+<li>Elegir la sustitución: \(u = f(x)\).</li>
+<li>Diferenciar para hallar \(du\): \(du = f'(x) \, dx\).</li>
+<li>Sustituir en la integral original todo rastro de \(x\) por la variable \(u\).</li>
+<li>Resolver la nueva integral (que debe ser inmediata respecto a \(u\)).</li>
+<li><strong>Deshacer el cambio:</strong> Reemplazar \(u\) por la función original \(f(x)\) y añadir la constante \(C\).</li>
+</ol>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789544637031-kp2shcr6e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El método de <strong>cambio de variable</strong> (o sustitución) es la herramienta fundamental para deshacer la regla de la cadena. Consiste en elegir una expresión compleja dentro de la integral, llamarla \\(u\\), calcular su diferencial \\(du = u' \\, dx\\) y sustituir toda la expresión para convertirla en una integral inmediata.</p>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p><strong>Pasos para integrar por cambio de variable:</strong></p>\n<ol>\n<li>Elegir la sustitución: \\(u = f(x)\\).</li>\n<li>Diferenciar para hallar \\(du\\): \\(du = f'(x) \\, dx\\).</li>\n<li>Sustituir en la integral original todo rastro de \\(x\\) por la variable \\(u\\).</li>\n<li>Resolver la nueva integral (que debe ser inmediata respecto a \\(u\\)).</li>\n<li><strong>Deshacer el cambio:</strong> Reemplazar \\(u\\) por la función original \\(f(x)\\) y añadir la constante \\(C\\).</li>\n</ol>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mu3slvz6-0uutrfigd</odePageId>
+      <odeBlockId>block-mu3spevz-sorume8r8</odeBlockId>
+      <blockName>Ejercicios de Integración por Cambio de Variable</blockName>
+      <iconName>udl_exp_coproducciontxt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3slvz6-0uutrfigd</odePageId>
+          <odeBlockId>block-mu3spevz-sorume8r8</odeBlockId>
+          <odeIdeviceId>idevice-1789544693662-wnp5rl2h6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Resuelve las siguientes integrales indefinidas aplicando un cambio de variable conveniente:</p>
+<ol type="a">
+<li>\(\int \sin^2(x) \cos(x) \, dx\)</li>
+<li>\(\int \frac{\ln(x)}{x} \, dx\)</li>
+<li>\(\int \frac{\sin(x)}{\cos^3(x)} \, dx\)</li>
+<li>\(\int \frac{4e^{2x} + e^x}{2e^{2x} + e^x} \, dx\)</li>
+</ol><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Soluciones" data-text-a="Soluciones" data-text-b="Soluciones"></div><div class="feedback js-feedback js-hidden" style="display: none;"><div class="exe-fx exe-accordion">
+<h2>a) \(\int \sin^2(x) \cos(x) \, dx\)</h2>
+<p><strong>Cambio de variable:</strong> Hacemos \(u = \sin(x)\). Al diferenciar, obtenemos \(du = \cos(x) \, dx\).</p>
+<p>\[ \int \sin^2(x) \cos(x) \, dx = \int u^2 \, du = \frac{u^3}{3} + C \]</p>
+<p>Deshacemos el cambio (\(u = \sin(x)\)):</p>
+<p>\[ = \frac{\sin^3(x)}{3} + C \]</p>
+<h2>b) \(\int \frac{\ln(x)}{x} \, dx\)</h2>
+<p><strong>Cambio de variable:</strong> Hacemos \(u = \ln(x)\). Al diferenciar, obtenemos \(du = \frac{1}{x} \, dx\).</p>
+<p>\[ \int \frac{\ln(x)}{x} \, dx = \int u \, du = \frac{u^2}{2} + C \]</p>
+<p>Deshacemos el cambio (\(u = \ln(x)\)):</p>
+<p>\[ = \frac{(\ln(x))^2}{2} + C \]</p>
+<h2>c) \(\int \frac{\sin(x)}{\cos^3(x)} \, dx\)</h2>
+<p><strong>Cambio de variable:</strong> Hacemos \(u = \cos(x)\). Al diferenciar, obtenemos \(du = -\sin(x) \, dx \implies -du = \sin(x) \, dx\).</p>
+<p>\[ \int \frac{\sin(x)}{\cos^3(x)} \, dx = \int \frac{-du}{u^3} = -\int u^{-3} \, du = -\left( \frac{u^{-2}}{-2} \right) + C = \frac{1}{2u^2} + C \]</p>
+<p>Deshacemos el cambio (\(u = \cos(x)\)):</p>
+<p>\[ = \frac{1}{2\cos^2(x)} + C \]</p>
+<h2>d) \(\int \frac{4e^{2x} + e^x}{2e^{2x} + e^x} \, dx\)</h2>
+<p><strong>Paso 1: Simplificar la fracción sacando factor común \(e^x\)</strong></p>
+<p>\[ \int \frac{e^x(4e^x + 1)}{e^x(2e^x + 1)} \, dx = \int \frac{4e^x + 1}{2e^x + 1} \, dx \]</p>
+<p><strong>Paso 2: Aplicar el cambio de variable (\(t = e^x\))</strong></p>
+<p>Si \(t = e^x\), entonces \(dt = e^x \, dx \implies dx = \frac{dt}{t}\):</p>
+<p>\[ \int \frac{4t + 1}{2t + 1} \cdot \frac{dt}{t} = \int \frac{4t + 1}{2t^2 + t} \, dt \]</p>
+<p><strong>Paso 3: Integrar por tipo logaritmo</strong></p>
+<p>Observamos que la derivada del denominador es el numerador: \(\frac{d}{dt}(2t^2 + t) = 4t + 1\).</p>
+<p>Haciendo \(u = 2t^2 + t \implies du = (4t + 1) \, dt\):</p>
+<p>\[ \int \frac{du}{u} = \ln|u| + C \]</p>
+<p><strong>Paso 4: Deshacer los cambios</strong></p>
+<p>\[ = \ln|2t^2 + t| + C = \ln(2e^{2x} + e^x) + C \]</p>
+</div></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789544693662-wnp5rl2h6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Resuelve las siguientes integrales indefinidas aplicando un cambio de variable conveniente:</p>\n<ol type=\"a\">\n<li>\\(\\int \\sin^2(x) \\cos(x) \\, dx\\)</li>\n<li>\\(\\int \\frac{\\ln(x)}{x} \\, dx\\)</li>\n<li>\\(\\int \\frac{\\sin(x)}{\\cos^3(x)} \\, dx\\)</li>\n<li>\\(\\int \\frac{4e^{2x} + e^x}{2e^{2x} + e^x} \\, dx\\)</li>\n</ol><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><div class=\"exe-fx exe-accordion\">\n<h2>a) \\(\\int \\sin^2(x) \\cos(x) \\, dx\\)</h2>\n<p><strong>Cambio de variable:</strong> Hacemos \\(u = \\sin(x)\\). Al diferenciar, obtenemos \\(du = \\cos(x) \\, dx\\).</p>\n<p>\\[ \\int \\sin^2(x) \\cos(x) \\, dx = \\int u^2 \\, du = \\frac{u^3}{3} + C \\]</p>\n<p>Deshacemos el cambio (\\(u = \\sin(x)\\)):</p>\n<p>\\[ = \\frac{\\sin^3(x)}{3} + C \\]</p>\n<h2>b) \\(\\int \\frac{\\ln(x)}{x} \\, dx\\)</h2>\n<p><strong>Cambio de variable:</strong> Hacemos \\(u = \\ln(x)\\). Al diferenciar, obtenemos \\(du = \\frac{1}{x} \\, dx\\).</p>\n<p>\\[ \\int \\frac{\\ln(x)}{x} \\, dx = \\int u \\, du = \\frac{u^2}{2} + C \\]</p>\n<p>Deshacemos el cambio (\\(u = \\ln(x)\\)):</p>\n<p>\\[ = \\frac{(\\ln(x))^2}{2} + C \\]</p>\n<h2>c) \\(\\int \\frac{\\sin(x)}{\\cos^3(x)} \\, dx\\)</h2>\n<p><strong>Cambio de variable:</strong> Hacemos \\(u = \\cos(x)\\). Al diferenciar, obtenemos \\(du = -\\sin(x) \\, dx \\implies -du = \\sin(x) \\, dx\\).</p>\n<p>\\[ \\int \\frac{\\sin(x)}{\\cos^3(x)} \\, dx = \\int \\frac{-du}{u^3} = -\\int u^{-3} \\, du = -\\left( \\frac{u^{-2}}{-2} \\right) + C = \\frac{1}{2u^2} + C \\]</p>\n<p>Deshacemos el cambio (\\(u = \\cos(x)\\)):</p>\n<p>\\[ = \\frac{1}{2\\cos^2(x)} + C \\]</p>\n<h2>d) \\(\\int \\frac{4e^{2x} + e^x}{2e^{2x} + e^x} \\, dx\\)</h2>\n<p><strong>Paso 1: Simplificar la fracción sacando factor común \\(e^x\\)</strong></p>\n<p>\\[ \\int \\frac{e^x(4e^x + 1)}{e^x(2e^x + 1)} \\, dx = \\int \\frac{4e^x + 1}{2e^x + 1} \\, dx \\]</p>\n<p><strong>Paso 2: Aplicar el cambio de variable (\\(t = e^x\\))</strong></p>\n<p>Si \\(t = e^x\\), entonces \\(dt = e^x \\, dx \\implies dx = \\frac{dt}{t}\\):</p>\n<p>\\[ \\int \\frac{4t + 1}{2t + 1} \\cdot \\frac{dt}{t} = \\int \\frac{4t + 1}{2t^2 + t} \\, dt \\]</p>\n<p><strong>Paso 3: Integrar por tipo logaritmo</strong></p>\n<p>Observamos que la derivada del denominador es el numerador: \\(\\frac{d}{dt}(2t^2 + t) = 4t + 1\\).</p>\n<p>Haciendo \\(u = 2t^2 + t \\implies du = (4t + 1) \\, dt\\):</p>\n<p>\\[ \\int \\frac{du}{u} = \\ln|u| + C \\]</p>\n<p><strong>Paso 4: Deshacer los cambios</strong></p>\n<p>\\[ = \\ln|2t^2 + t| + C = \\ln(2e^{2x} + e^x) + C \\]</p>\n</div></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>a) \\(\\int \\sin^2(x) \\cos(x) \\, dx\\)</h2>\n<p><strong>Cambio de variable:</strong> Hacemos \\(u = \\sin(x)\\). Al diferenciar, obtenemos \\(du = \\cos(x) \\, dx\\).</p>\n<p>\\[ \\int \\sin^2(x) \\cos(x) \\, dx = \\int u^2 \\, du = \\frac{u^3}{3} + C \\]</p>\n<p>Deshacemos el cambio (\\(u = \\sin(x)\\)):</p>\n<p>\\[ = \\frac{\\sin^3(x)}{3} + C \\]</p>\n<h2>b) \\(\\int \\frac{\\ln(x)}{x} \\, dx\\)</h2>\n<p><strong>Cambio de variable:</strong> Hacemos \\(u = \\ln(x)\\). Al diferenciar, obtenemos \\(du = \\frac{1}{x} \\, dx\\).</p>\n<p>\\[ \\int \\frac{\\ln(x)}{x} \\, dx = \\int u \\, du = \\frac{u^2}{2} + C \\]</p>\n<p>Deshacemos el cambio (\\(u = \\ln(x)\\)):</p>\n<p>\\[ = \\frac{(\\ln(x))^2}{2} + C \\]</p>\n<h2>c) \\(\\int \\frac{\\sin(x)}{\\cos^3(x)} \\, dx\\)</h2>\n<p><strong>Cambio de variable:</strong> Hacemos \\(u = \\cos(x)\\). Al diferenciar, obtenemos \\(du = -\\sin(x) \\, dx \\implies -du = \\sin(x) \\, dx\\).</p>\n<p>\\[ \\int \\frac{\\sin(x)}{\\cos^3(x)} \\, dx = \\int \\frac{-du}{u^3} = -\\int u^{-3} \\, du = -\\left( \\frac{u^{-2}}{-2} \\right) + C = \\frac{1}{2u^2} + C \\]</p>\n<p>Deshacemos el cambio (\\(u = \\cos(x)\\)):</p>\n<p>\\[ = \\frac{1}{2\\cos^2(x)} + C \\]</p>\n<h2>d) \\(\\int \\frac{4e^{2x} + e^x}{2e^{2x} + e^x} \\, dx\\)</h2>\n<p><strong>Paso 1: Simplificar la fracción sacando factor común \\(e^x\\)</strong></p>\n<p>\\[ \\int \\frac{e^x(4e^x + 1)}{e^x(2e^x + 1)} \\, dx = \\int \\frac{4e^x + 1}{2e^x + 1} \\, dx \\]</p>\n<p><strong>Paso 2: Aplicar el cambio de variable (\\(t = e^x\\))</strong></p>\n<p>Si \\(t = e^x\\), entonces \\(dt = e^x \\, dx \\implies dx = \\frac{dt}{t}\\):</p>\n<p>\\[ \\int \\frac{4t + 1}{2t + 1} \\cdot \\frac{dt}{t} = \\int \\frac{4t + 1}{2t^2 + t} \\, dt \\]</p>\n<p><strong>Paso 3: Integrar por tipo logaritmo</strong></p>\n<p>Observamos que la derivada del denominador es el numerador: \\(\\frac{d}{dt}(2t^2 + t) = 4t + 1\\).</p>\n<p>Haciendo \\(u = 2t^2 + t \\implies du = (4t + 1) \\, dt\\):</p>\n<p>\\[ \\int \\frac{du}{u} = \\ln|u| + C \\]</p>\n<p><strong>Paso 4: Deshacer los cambios</strong></p>\n<p>\\[ = \\ln|2t^2 + t| + C = \\ln(2e^{2x} + e^x) + C \\]</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mu3ssk4z-kvhu1hvy7</odePageId>
+  <odeParentPageId>page-mu2fm5ib-5mx18aark</odeParentPageId>
+  <pageName>Integración por partes</pageName>
+  <odeNavStructureOrder>31</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Integración por partes</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mu3ssk4z-kvhu1hvy7</odePageId>
+      <odeBlockId>block-mu3sv4do-6dm4y9flr</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3ssk4z-kvhu1hvy7</odePageId>
+          <odeBlockId>block-mu3sv4do-6dm4y9flr</odeBlockId>
+          <odeIdeviceId>idevice-1789544959978-ffv0wkh44</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El método de <strong>integración por partes</strong> se basa en la derivada de un producto de funciones y resulta de gran utilidad para integrar productos de funciones de distinta naturaleza (polinómicas, exponenciales, trigonométricas, logarítmicas e inversas).</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p><strong>Fórmula de Integración por Partes:</strong></p>
+<p>\[ \int u \, dv = u \cdot v - \int v \, du \]</p>
+<p>Regla mnemotécnica:</p>
+<div class="exe-fx exe-accordion">
+<h2>"Un Día Vi Una Vaca Vestida De Uniforme".</h2>
+<p><img src="{{context_path}}/content/resources/ChatGPT Image 16 sept 2026, 09_56_59.png" title="Regla mnemotécnica: in día vi..." width="400" height="335" alt="Regla mnemotécnica: in día vi..." style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>
+</div>
+<p>Para elegir correctamente qué parte del integrando será \(u\) (la que derivamos) y cuál será \(dv\) (la que integramos), podemos seguir la siguiente tabla según el tipo de función:</p>
+<table style="width: 100%; border-collapse: collapse; border: 1px solid #ccc; text-align: left; margin-bottom: 15px;">
+<thead>
+<tr style="background-color: #f2f2f2;">
+<th style="border: 1px solid #ccc; padding: 10px;">Tipo de Integral</th>
+<th style="border: 1px solid #ccc; padding: 10px;">Elección de \(u\) (Derivar)</th>
+<th style="border: 1px solid #ccc; padding: 10px;">Elección de \(dv\) (Integrar)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(\int P(x) \sin(x) \, dx\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(u = P(x)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(dv = \sin(x) \, dx\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(\int P(x) \cos(x) \, dx\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(u = P(x)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(dv = \cos(x) \, dx\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(\int P(x) e^x \, dx\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(u = P(x)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(dv = e^x \, dx\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(\int P(x) \ln(x) \, dx\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(u = \ln(x)\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(dv = P(x) \, dx\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px;">\(\int e^x \sin(x) \, dx\) / \(\int e^x \cos(x) \, dx\)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(u = e^x\) (o trigonométrica)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(dv = \sin(x) \, dx\) (o \(e^x dx\)) <br /><em>(Cíclicas: requiere 2 iteraciones)</em></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789544959978-ffv0wkh44","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El método de <strong>integración por partes</strong> se basa en la derivada de un producto de funciones y resulta de gran utilidad para integrar productos de funciones de distinta naturaleza (polinómicas, exponenciales, trigonométricas, logarítmicas e inversas).</p>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p><strong>Fórmula de Integración por Partes:</strong></p>\n<p>\\[ \\int u \\, dv = u \\cdot v - \\int v \\, du \\]</p>\n<p>Regla mnemotécnica:</p>\n<div class=\"exe-fx exe-accordion\">\n<h2>\"Un Día Vi Una Vaca Vestida De Uniforme\".</h2>\n<p><img src=\"{{context_path}}/content/resources/ChatGPT Image 16 sept 2026, 09_56_59.png\" title=\"Regla mnemotécnica: in día vi...\" width=\"400\" height=\"335\" alt=\"Regla mnemotécnica: in día vi...\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n</div>\n</div>\n<p>Para elegir correctamente qué parte del integrando será \\(u\\) (la que derivamos) y cuál será \\(dv\\) (la que integramos), podemos seguir la siguiente tabla según el tipo de función:</p>\n<table style=\"width: 100%; border-collapse: collapse; border: 1px solid #ccc; text-align: left; margin-bottom: 15px;\">\n<thead>\n<tr style=\"background-color: #f2f2f2;\">\n<th style=\"border: 1px solid #ccc; padding: 10px;\">Tipo de Integral</th>\n<th style=\"border: 1px solid #ccc; padding: 10px;\">Elección de \\(u\\) (Derivar)</th>\n<th style=\"border: 1px solid #ccc; padding: 10px;\">Elección de \\(dv\\) (Integrar)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(\\int P(x) \\sin(x) \\, dx\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(u = P(x)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(dv = \\sin(x) \\, dx\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(\\int P(x) \\cos(x) \\, dx\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(u = P(x)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(dv = \\cos(x) \\, dx\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(\\int P(x) e^x \\, dx\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(u = P(x)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(dv = e^x \\, dx\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(\\int P(x) \\ln(x) \\, dx\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(u = \\ln(x)\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(dv = P(x) \\, dx\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(\\int e^x \\sin(x) \\, dx\\) / \\(\\int e^x \\cos(x) \\, dx\\)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(u = e^x\\) (o trigonométrica)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(dv = \\sin(x) \\, dx\\) (o \\(e^x dx\\)) <br /><em>(Cíclicas: requiere 2 iteraciones)</em></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mu3ssk4z-kvhu1hvy7</odePageId>
+      <odeBlockId>block-mu3sxo39-ltu1pbqq7</odeBlockId>
+      <blockName>Ejercicios de Integración por Partes</blockName>
+      <iconName>udl_exp_coproducciontxt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3ssk4z-kvhu1hvy7</odePageId>
+          <odeBlockId>block-mu3sxo39-ltu1pbqq7</odeBlockId>
+          <odeIdeviceId>idevice-1789545078836-csrilusse</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Resuelve las siguientes integrales indefinidas utilizando el método de integración por partes:</p>
+<ol type="a">
+<li>\(\int \ln(x) \, dx\)</li>
+<li>\(\int x \ln(x) \, dx\)</li>
+<li>\(\int x e^x \, dx\)</li>
+<li>\(\int x^2 e^x \, dx\)</li>
+<li>\(\int \arcsin(x) \, dx\)</li>
+<li>\(\int e^x \sin(x) \, dx\)</li>
+<li>\(\int x^2 \sin(x) \, dx\)</li>
+</ol><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Soluciones" data-text-a="Soluciones" data-text-b="Soluciones"></div><div class="feedback js-feedback js-hidden" style="display: none;"><div class="exe-fx exe-accordion">
+<h2>a) \(\int \ln(x) \, dx\)</h2>
+<p>Hacemos \(u = \ln(x) \implies du = \frac{1}{x} \, dx\) y \(dv = dx \implies v = x\):</p>
+<p>\[ \int \ln(x) \, dx = x \ln(x) - \int x \cdot \frac{1}{x} \, dx = x \ln(x) - \int 1 \, dx = x \ln(x) - x + C \]</p>
+<h2>b) \(\int x \ln(x) \, dx\)</h2>
+<p>Hacemos \(u = \ln(x) \implies du = \frac{1}{x} \, dx\) y \(dv = x \, dx \implies v = \frac{x^2}{2}\):</p>
+<p>\[ \int x \ln(x) \, dx = \frac{x^2}{2} \ln(x) - \int \frac{x^2}{2} \cdot \frac{1}{x} \, dx = \frac{x^2}{2} \ln(x) - \frac{1}{2} \int x \, dx = \frac{x^2}{2} \ln(x) - \frac{x^2}{4} + C \]</p>
+<h2>c) \(\int x e^x \, dx\)</h2>
+<p>Hacemos \(u = x \implies du = dx\) y \(dv = e^x \, dx \implies v = e^x\):</p>
+<p>\[ \int x e^x \, dx = x e^x - \int e^x \, dx = x e^x - e^x + C = e^x(x - 1) + C \]</p>
+<h2>d) \(\int x^2 e^x \, dx\)</h2>
+<p><strong>Primera aplicación:</strong> \(u = x^2 \implies du = 2x \, dx\) y \(dv = e^x \, dx \implies v = e^x\):</p>
+<p>\[ \int x^2 e^x \, dx = x^2 e^x - 2 \int x e^x \, dx \]</p>
+<p><strong>Segunda aplicación:</strong> Usando el resultado del apartado anterior para \(\int x e^x \, dx\):</p>
+<p>\[ = x^2 e^x - 2(x e^x - e^x) + C = e^x(x^2 - 2x + 2) + C \]</p>
+<h2>e) \(\int \arcsin(x) \, dx\)</h2>
+<p>Hacemos \(u = \arcsin(x) \implies du = \frac{1}{\sqrt{1 - x^2}} \, dx\) y \(dv = dx \implies v = x\):</p>
+<p>\[ \int \arcsin(x) \, dx = x \arcsin(x) - \int \frac{x}{\sqrt{1 - x^2}} \, dx \]</p>
+<p>Resolvemos la integral restante ajustando la constante para la regla de la cadena (\(u = 1 - x^2\)):</p>
+<p>\[ = x \arcsin(x) + \sqrt{1 - x^2} + C \]</p>
+<h2>f) \(\int e^x \sin(x) \, dx\)</h2>
+<p><strong>Integral Cíclica (1.ª iteración):</strong> \(u = e^x \implies du = e^x \, dx\) y \(dv = \sin(x) \, dx \implies v = -\cos(x)\):</p>
+<p>\[ I = \int e^x \sin(x) \, dx = -e^x \cos(x) + \int e^x \cos(x) \, dx \]</p>
+<p><strong>2.ª iteración:</strong> \(u = e^x \implies du = e^x \, dx\) y \(dv = \cos(x) \, dx \implies v = \sin(x)\):</p>
+<p>\[ I = -e^x \cos(x) + \left( e^x \sin(x) - \int e^x \sin(x) \, dx \right) \]</p>
+<p>\[ I = e^x(\sin x - \cos x) - I \implies 2I = e^x(\sin x - \cos x) \]</p>
+<p>\[ I = \frac{e^x(\sin x - \cos x)}{2} + C \]</p>
+<h2>g) \(\int x^2 \sin(x) \, dx\)</h2>
+<p><strong>Primera aplicación:</strong> \(u = x^2 \implies du = 2x \, dx\) y \(dv = \sin(x) \, dx \implies v = -\cos(x)\):</p>
+<p>\[ \int x^2 \sin(x) \, dx = -x^2 \cos(x) + 2 \int x \cos(x) \, dx \]</p>
+<p><strong>Segunda aplicación:</strong> \(u = x \implies du = dx\) y \(dv = \cos(x) \, dx \implies v = \sin(x)\):</p>
+<p>\[ = -x^2 \cos(x) + 2 \left( x \sin(x) - \int \sin(x) \, dx \right) = -x^2 \cos(x) + 2x \sin(x) + 2\cos(x) + C \]</p>
+</div></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789545078836-csrilusse","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Resuelve las siguientes integrales indefinidas utilizando el método de integración por partes:</p>\n<ol type=\"a\">\n<li>\\(\\int \\ln(x) \\, dx\\)</li>\n<li>\\(\\int x \\ln(x) \\, dx\\)</li>\n<li>\\(\\int x e^x \\, dx\\)</li>\n<li>\\(\\int x^2 e^x \\, dx\\)</li>\n<li>\\(\\int \\arcsin(x) \\, dx\\)</li>\n<li>\\(\\int e^x \\sin(x) \\, dx\\)</li>\n<li>\\(\\int x^2 \\sin(x) \\, dx\\)</li>\n</ol><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><div class=\"exe-fx exe-accordion\">\n<h2>a) \\(\\int \\ln(x) \\, dx\\)</h2>\n<p>Hacemos \\(u = \\ln(x) \\implies du = \\frac{1}{x} \\, dx\\) y \\(dv = dx \\implies v = x\\):</p>\n<p>\\[ \\int \\ln(x) \\, dx = x \\ln(x) - \\int x \\cdot \\frac{1}{x} \\, dx = x \\ln(x) - \\int 1 \\, dx = x \\ln(x) - x + C \\]</p>\n<h2>b) \\(\\int x \\ln(x) \\, dx\\)</h2>\n<p>Hacemos \\(u = \\ln(x) \\implies du = \\frac{1}{x} \\, dx\\) y \\(dv = x \\, dx \\implies v = \\frac{x^2}{2}\\):</p>\n<p>\\[ \\int x \\ln(x) \\, dx = \\frac{x^2}{2} \\ln(x) - \\int \\frac{x^2}{2} \\cdot \\frac{1}{x} \\, dx = \\frac{x^2}{2} \\ln(x) - \\frac{1}{2} \\int x \\, dx = \\frac{x^2}{2} \\ln(x) - \\frac{x^2}{4} + C \\]</p>\n<h2>c) \\(\\int x e^x \\, dx\\)</h2>\n<p>Hacemos \\(u = x \\implies du = dx\\) y \\(dv = e^x \\, dx \\implies v = e^x\\):</p>\n<p>\\[ \\int x e^x \\, dx = x e^x - \\int e^x \\, dx = x e^x - e^x + C = e^x(x - 1) + C \\]</p>\n<h2>d) \\(\\int x^2 e^x \\, dx\\)</h2>\n<p><strong>Primera aplicación:</strong> \\(u = x^2 \\implies du = 2x \\, dx\\) y \\(dv = e^x \\, dx \\implies v = e^x\\):</p>\n<p>\\[ \\int x^2 e^x \\, dx = x^2 e^x - 2 \\int x e^x \\, dx \\]</p>\n<p><strong>Segunda aplicación:</strong> Usando el resultado del apartado anterior para \\(\\int x e^x \\, dx\\):</p>\n<p>\\[ = x^2 e^x - 2(x e^x - e^x) + C = e^x(x^2 - 2x + 2) + C \\]</p>\n<h2>e) \\(\\int \\arcsin(x) \\, dx\\)</h2>\n<p>Hacemos \\(u = \\arcsin(x) \\implies du = \\frac{1}{\\sqrt{1 - x^2}} \\, dx\\) y \\(dv = dx \\implies v = x\\):</p>\n<p>\\[ \\int \\arcsin(x) \\, dx = x \\arcsin(x) - \\int \\frac{x}{\\sqrt{1 - x^2}} \\, dx \\]</p>\n<p>Resolvemos la integral restante ajustando la constante para la regla de la cadena (\\(u = 1 - x^2\\)):</p>\n<p>\\[ = x \\arcsin(x) + \\sqrt{1 - x^2} + C \\]</p>\n<h2>f) \\(\\int e^x \\sin(x) \\, dx\\)</h2>\n<p><strong>Integral Cíclica (1.ª iteración):</strong> \\(u = e^x \\implies du = e^x \\, dx\\) y \\(dv = \\sin(x) \\, dx \\implies v = -\\cos(x)\\):</p>\n<p>\\[ I = \\int e^x \\sin(x) \\, dx = -e^x \\cos(x) + \\int e^x \\cos(x) \\, dx \\]</p>\n<p><strong>2.ª iteración:</strong> \\(u = e^x \\implies du = e^x \\, dx\\) y \\(dv = \\cos(x) \\, dx \\implies v = \\sin(x)\\):</p>\n<p>\\[ I = -e^x \\cos(x) + \\left( e^x \\sin(x) - \\int e^x \\sin(x) \\, dx \\right) \\]</p>\n<p>\\[ I = e^x(\\sin x - \\cos x) - I \\implies 2I = e^x(\\sin x - \\cos x) \\]</p>\n<p>\\[ I = \\frac{e^x(\\sin x - \\cos x)}{2} + C \\]</p>\n<h2>g) \\(\\int x^2 \\sin(x) \\, dx\\)</h2>\n<p><strong>Primera aplicación:</strong> \\(u = x^2 \\implies du = 2x \\, dx\\) y \\(dv = \\sin(x) \\, dx \\implies v = -\\cos(x)\\):</p>\n<p>\\[ \\int x^2 \\sin(x) \\, dx = -x^2 \\cos(x) + 2 \\int x \\cos(x) \\, dx \\]</p>\n<p><strong>Segunda aplicación:</strong> \\(u = x \\implies du = dx\\) y \\(dv = \\cos(x) \\, dx \\implies v = \\sin(x)\\):</p>\n<p>\\[ = -x^2 \\cos(x) + 2 \\left( x \\sin(x) - \\int \\sin(x) \\, dx \\right) = -x^2 \\cos(x) + 2x \\sin(x) + 2\\cos(x) + C \\]</p>\n</div></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>a) \\(\\int \\ln(x) \\, dx\\)</h2>\n<p>Hacemos \\(u = \\ln(x) \\implies du = \\frac{1}{x} \\, dx\\) y \\(dv = dx \\implies v = x\\):</p>\n<p>\\[ \\int \\ln(x) \\, dx = x \\ln(x) - \\int x \\cdot \\frac{1}{x} \\, dx = x \\ln(x) - \\int 1 \\, dx = x \\ln(x) - x + C \\]</p>\n<h2>b) \\(\\int x \\ln(x) \\, dx\\)</h2>\n<p>Hacemos \\(u = \\ln(x) \\implies du = \\frac{1}{x} \\, dx\\) y \\(dv = x \\, dx \\implies v = \\frac{x^2}{2}\\):</p>\n<p>\\[ \\int x \\ln(x) \\, dx = \\frac{x^2}{2} \\ln(x) - \\int \\frac{x^2}{2} \\cdot \\frac{1}{x} \\, dx = \\frac{x^2}{2} \\ln(x) - \\frac{1}{2} \\int x \\, dx = \\frac{x^2}{2} \\ln(x) - \\frac{x^2}{4} + C \\]</p>\n<h2>c) \\(\\int x e^x \\, dx\\)</h2>\n<p>Hacemos \\(u = x \\implies du = dx\\) y \\(dv = e^x \\, dx \\implies v = e^x\\):</p>\n<p>\\[ \\int x e^x \\, dx = x e^x - \\int e^x \\, dx = x e^x - e^x + C = e^x(x - 1) + C \\]</p>\n<h2>d) \\(\\int x^2 e^x \\, dx\\)</h2>\n<p><strong>Primera aplicación:</strong> \\(u = x^2 \\implies du = 2x \\, dx\\) y \\(dv = e^x \\, dx \\implies v = e^x\\):</p>\n<p>\\[ \\int x^2 e^x \\, dx = x^2 e^x - 2 \\int x e^x \\, dx \\]</p>\n<p><strong>Segunda aplicación:</strong> Usando el resultado del apartado anterior para \\(\\int x e^x \\, dx\\):</p>\n<p>\\[ = x^2 e^x - 2(x e^x - e^x) + C = e^x(x^2 - 2x + 2) + C \\]</p>\n<h2>e) \\(\\int \\arcsin(x) \\, dx\\)</h2>\n<p>Hacemos \\(u = \\arcsin(x) \\implies du = \\frac{1}{\\sqrt{1 - x^2}} \\, dx\\) y \\(dv = dx \\implies v = x\\):</p>\n<p>\\[ \\int \\arcsin(x) \\, dx = x \\arcsin(x) - \\int \\frac{x}{\\sqrt{1 - x^2}} \\, dx \\]</p>\n<p>Resolvemos la integral restante ajustando la constante para la regla de la cadena (\\(u = 1 - x^2\\)):</p>\n<p>\\[ = x \\arcsin(x) + \\sqrt{1 - x^2} + C \\]</p>\n<h2>f) \\(\\int e^x \\sin(x) \\, dx\\)</h2>\n<p><strong>Integral Cíclica (1.ª iteración):</strong> \\(u = e^x \\implies du = e^x \\, dx\\) y \\(dv = \\sin(x) \\, dx \\implies v = -\\cos(x)\\):</p>\n<p>\\[ I = \\int e^x \\sin(x) \\, dx = -e^x \\cos(x) + \\int e^x \\cos(x) \\, dx \\]</p>\n<p><strong>2.ª iteración:</strong> \\(u = e^x \\implies du = e^x \\, dx\\) y \\(dv = \\cos(x) \\, dx \\implies v = \\sin(x)\\):</p>\n<p>\\[ I = -e^x \\cos(x) + \\left( e^x \\sin(x) - \\int e^x \\sin(x) \\, dx \\right) \\]</p>\n<p>\\[ I = e^x(\\sin x - \\cos x) - I \\implies 2I = e^x(\\sin x - \\cos x) \\]</p>\n<p>\\[ I = \\frac{e^x(\\sin x - \\cos x)}{2} + C \\]</p>\n<h2>g) \\(\\int x^2 \\sin(x) \\, dx\\)</h2>\n<p><strong>Primera aplicación:</strong> \\(u = x^2 \\implies du = 2x \\, dx\\) y \\(dv = \\sin(x) \\, dx \\implies v = -\\cos(x)\\):</p>\n<p>\\[ \\int x^2 \\sin(x) \\, dx = -x^2 \\cos(x) + 2 \\int x \\cos(x) \\, dx \\]</p>\n<p><strong>Segunda aplicación:</strong> \\(u = x \\implies du = dx\\) y \\(dv = \\cos(x) \\, dx \\implies v = \\sin(x)\\):</p>\n<p>\\[ = -x^2 \\cos(x) + 2 \\left( x \\sin(x) - \\int \\sin(x) \\, dx \\right) = -x^2 \\cos(x) + 2x \\sin(x) + 2\\cos(x) + C \\]</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mu3t7h49-w2b5n3ix5</odePageId>
+  <odeParentPageId>page-mu2fm5ib-5mx18aark</odeParentPageId>
+  <pageName>Integrales racionales</pageName>
+  <odeNavStructureOrder>32</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Integrales racionales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mu3t7h49-w2b5n3ix5</odePageId>
+      <odeBlockId>block-mu3tbvzu-9f8cy7xer</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3t7h49-w2b5n3ix5</odePageId>
+          <odeBlockId>block-mu3tbvzu-9f8cy7xer</odeBlockId>
+          <odeIdeviceId>idevice-1789545742265-0lem1c6id</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este bloque integraremos funciones de tipo racional, es decir, cocientes de polinomios de la forma \(\frac{P(x)}{Q(x)}\), aplicando la división de polinomios cuando el grado del numerador sea mayor o igual al del denominador, así como su descomposición en fracciones simples para denominadores con raíces reales.</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p><strong>Estrategia General para Integrales Racionales:</strong></p>
+<p><strong>1. Si \(\text{Grado}(P) \ge \text{Grado}(Q)\):</strong> Dividimos los polinomios para obtener un cociente \(C(x)\) y un resto \(R(x)\):</p>
+<p>\[ \frac{P(x)}{Q(x)} = C(x) + \frac{R(x)}{Q(x)} \implies \int \frac{P(x)}{Q(x)} \, dx = \int C(x) \, dx + \int \frac{R(x)}{Q(x)} \, dx \]</p>
+<p><strong>2. Si \(\text{Grado}(P) &lt; \text{Grado}(Q)\):</strong></p>
+<ul>
+<li>Si el denominador es de la forma \(x - a\): La integral resulta un logaritmo neperiano \(\int \frac{k}{x - a} \, dx = k \ln|x - a| + C\).</li>
+<li>Si el denominador es \(x^2 + 1\): Resulta un arcotangente \(\int \frac{k}{x^2 + 1} \, dx = k \arctan(x) + C\).</li>
+</ul>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789545742265-0lem1c6id","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este bloque integraremos funciones de tipo racional, es decir, cocientes de polinomios de la forma \\(\\frac{P(x)}{Q(x)}\\), aplicando la división de polinomios cuando el grado del numerador sea mayor o igual al del denominador, así como su descomposición en fracciones simples para denominadores con raíces reales.</p>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p><strong>Estrategia General para Integrales Racionales:</strong></p>\n<p><strong>1. Si \\(\\text{Grado}(P) \\ge \\text{Grado}(Q)\\):</strong> Dividimos los polinomios para obtener un cociente \\(C(x)\\) y un resto \\(R(x)\\):</p>\n<p>\\[ \\frac{P(x)}{Q(x)} = C(x) + \\frac{R(x)}{Q(x)} \\implies \\int \\frac{P(x)}{Q(x)} \\, dx = \\int C(x) \\, dx + \\int \\frac{R(x)}{Q(x)} \\, dx \\]</p>\n<p><strong>2. Si \\(\\text{Grado}(P) &lt; \\text{Grado}(Q)\\):</strong></p>\n<ul>\n<li>Si el denominador es de la forma \\(x - a\\): La integral resulta un logaritmo neperiano \\(\\int \\frac{k}{x - a} \\, dx = k \\ln|x - a| + C\\).</li>\n<li>Si el denominador es \\(x^2 + 1\\): Resulta un arcotangente \\(\\int \\frac{k}{x^2 + 1} \\, dx = k \\arctan(x) + C\\).</li>\n</ul>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mu3t7h49-w2b5n3ix5</odePageId>
+      <odeBlockId>block-mu3tfcaa-s86hd6wm3</odeBlockId>
+      <blockName>Ejercicios de Integrales Racionales (Grados Simples y División)</blockName>
+      <iconName>udl_exp_coproducciontxt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3t7h49-w2b5n3ix5</odePageId>
+          <odeBlockId>block-mu3tfcaa-s86hd6wm3</odeBlockId>
+          <odeIdeviceId>idevice-1789545903344-s2uxk3fqj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Resuelve las siguientes integrales indefinidas racionales dividiendo cuando sea necesario:</p>
+<ol type="a">
+<li>\(\int \frac{2x + 3}{x - 5} \, dx\)</li>
+<li>\(\int \frac{x^4 + 3x^3 - 2x^2 + 1}{x + 5} \, dx\)</li>
+<li>\(\int \frac{3x + 2}{x^2 + 1} \, dx\)</li>
+<li>\(\int \frac{x^2}{x^2 + 1} \, dx\)</li>
+</ol><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Soluciones" data-text-a="Soluciones" data-text-b="Soluciones"></div><div class="feedback js-feedback js-hidden" style="display: none;"><div class="exe-fx exe-accordion">
+<h2>a) \(\int \frac{2x + 3}{x - 5} \, dx\)</h2>
+<p>Como ambos grados son iguales, dividimos \(2x + 3\) entre \(x - 5\):</p>
+<p>\[ 2x + 3 = 2(x - 5) + 13 \implies \frac{2x + 3}{x - 5} = 2 + \frac{13}{x - 5} \]</p>
+<p>Integramos término a término:</p>
+<p>\[ = \int 2 \, dx + 13 \int \frac{1}{x - 5} \, dx = 2x + 13 \ln|x - 5| + C \]</p>
+<h2>b) \(\int \frac{x^4 + 3x^3 - 2x^2 + 1}{x + 5} \, dx\)</h2>
+<p>Dividimos el numerador entre \(x + 5\) mediante la regla de Ruffini (usando \(a = -5\)):</p>
+<p>Cociente: \(C(x) = x^3 - 2x^2 + 8x - 40\) | Resto: \(R = 201\)</p>
+<p>Reescribimos la integral:</p>
+<p>\[ = \int (x^3 - 2x^2 + 8x - 40) \, dx + \int \frac{201}{x + 5} \, dx \]</p>
+<p>Integramos:</p>
+<p>\[ = \frac{x^4}{4} - \frac{2x^3}{3} + 4x^2 - 40x + 201 \ln|x + 5| + C \]</p>
+<h2>c) \(\int \frac{3x + 2}{x^2 + 1} \, dx\)</h2>
+<p>Separamos la fracción en dos integrales inmediatas (tipo logaritmo y tipo arcotangente):</p>
+<p>\[ = \int \frac{3x}{x^2 + 1} \, dx + \int \frac{2}{x^2 + 1} \, dx \]</p>
+<p>Ajustamos la constante para el logaritmo en la primera fracción:</p>
+<p>\[ = \frac{3}{2} \int \frac{2x}{x^2 + 1} \, dx + 2 \int \frac{1}{x^2 + 1} \, dx = \frac{3}{2} \ln(x^2 + 1) + 2 \arctan(x) + C \]</p>
+<h2>d) \(\int \frac{x^2}{x^2 + 1} \, dx\)</h2>
+<p>Sumamos y restamos 1 en el numerador para evitar hacer la división explícita:</p>
+<p>\[ = \int \frac{(x^2 + 1) - 1}{x^2 + 1} \, dx = \int \left( 1 - \frac{1}{x^2 + 1} \right) dx = x - \arctan(x) + C \]</p>
+</div></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789545903344-s2uxk3fqj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Resuelve las siguientes integrales indefinidas racionales dividiendo cuando sea necesario:</p>\n<ol type=\"a\">\n<li>\\(\\int \\frac{2x + 3}{x - 5} \\, dx\\)</li>\n<li>\\(\\int \\frac{x^4 + 3x^3 - 2x^2 + 1}{x + 5} \\, dx\\)</li>\n<li>\\(\\int \\frac{3x + 2}{x^2 + 1} \\, dx\\)</li>\n<li>\\(\\int \\frac{x^2}{x^2 + 1} \\, dx\\)</li>\n</ol><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><div class=\"exe-fx exe-accordion\">\n<h2>a) \\(\\int \\frac{2x + 3}{x - 5} \\, dx\\)</h2>\n<p>Como ambos grados son iguales, dividimos \\(2x + 3\\) entre \\(x - 5\\):</p>\n<p>\\[ 2x + 3 = 2(x - 5) + 13 \\implies \\frac{2x + 3}{x - 5} = 2 + \\frac{13}{x - 5} \\]</p>\n<p>Integramos término a término:</p>\n<p>\\[ = \\int 2 \\, dx + 13 \\int \\frac{1}{x - 5} \\, dx = 2x + 13 \\ln|x - 5| + C \\]</p>\n<h2>b) \\(\\int \\frac{x^4 + 3x^3 - 2x^2 + 1}{x + 5} \\, dx\\)</h2>\n<p>Dividimos el numerador entre \\(x + 5\\) mediante la regla de Ruffini (usando \\(a = -5\\)):</p>\n<p>Cociente: \\(C(x) = x^3 - 2x^2 + 8x - 40\\) | Resto: \\(R = 201\\)</p>\n<p>Reescribimos la integral:</p>\n<p>\\[ = \\int (x^3 - 2x^2 + 8x - 40) \\, dx + \\int \\frac{201}{x + 5} \\, dx \\]</p>\n<p>Integramos:</p>\n<p>\\[ = \\frac{x^4}{4} - \\frac{2x^3}{3} + 4x^2 - 40x + 201 \\ln|x + 5| + C \\]</p>\n<h2>c) \\(\\int \\frac{3x + 2}{x^2 + 1} \\, dx\\)</h2>\n<p>Separamos la fracción en dos integrales inmediatas (tipo logaritmo y tipo arcotangente):</p>\n<p>\\[ = \\int \\frac{3x}{x^2 + 1} \\, dx + \\int \\frac{2}{x^2 + 1} \\, dx \\]</p>\n<p>Ajustamos la constante para el logaritmo en la primera fracción:</p>\n<p>\\[ = \\frac{3}{2} \\int \\frac{2x}{x^2 + 1} \\, dx + 2 \\int \\frac{1}{x^2 + 1} \\, dx = \\frac{3}{2} \\ln(x^2 + 1) + 2 \\arctan(x) + C \\]</p>\n<h2>d) \\(\\int \\frac{x^2}{x^2 + 1} \\, dx\\)</h2>\n<p>Sumamos y restamos 1 en el numerador para evitar hacer la división explícita:</p>\n<p>\\[ = \\int \\frac{(x^2 + 1) - 1}{x^2 + 1} \\, dx = \\int \\left( 1 - \\frac{1}{x^2 + 1} \\right) dx = x - \\arctan(x) + C \\]</p>\n</div></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>a) \\(\\int \\frac{2x + 3}{x - 5} \\, dx\\)</h2>\n<p>Como ambos grados son iguales, dividimos \\(2x + 3\\) entre \\(x - 5\\):</p>\n<p>\\[ 2x + 3 = 2(x - 5) + 13 \\implies \\frac{2x + 3}{x - 5} = 2 + \\frac{13}{x - 5} \\]</p>\n<p>Integramos término a término:</p>\n<p>\\[ = \\int 2 \\, dx + 13 \\int \\frac{1}{x - 5} \\, dx = 2x + 13 \\ln|x - 5| + C \\]</p>\n<h2>b) \\(\\int \\frac{x^4 + 3x^3 - 2x^2 + 1}{x + 5} \\, dx\\)</h2>\n<p>Dividimos el numerador entre \\(x + 5\\) mediante la regla de Ruffini (usando \\(a = -5\\)):</p>\n<p>Cociente: \\(C(x) = x^3 - 2x^2 + 8x - 40\\) | Resto: \\(R = 201\\)</p>\n<p>Reescribimos la integral:</p>\n<p>\\[ = \\int (x^3 - 2x^2 + 8x - 40) \\, dx + \\int \\frac{201}{x + 5} \\, dx \\]</p>\n<p>Integramos:</p>\n<p>\\[ = \\frac{x^4}{4} - \\frac{2x^3}{3} + 4x^2 - 40x + 201 \\ln|x + 5| + C \\]</p>\n<h2>c) \\(\\int \\frac{3x + 2}{x^2 + 1} \\, dx\\)</h2>\n<p>Separamos la fracción en dos integrales inmediatas (tipo logaritmo y tipo arcotangente):</p>\n<p>\\[ = \\int \\frac{3x}{x^2 + 1} \\, dx + \\int \\frac{2}{x^2 + 1} \\, dx \\]</p>\n<p>Ajustamos la constante para el logaritmo en la primera fracción:</p>\n<p>\\[ = \\frac{3}{2} \\int \\frac{2x}{x^2 + 1} \\, dx + 2 \\int \\frac{1}{x^2 + 1} \\, dx = \\frac{3}{2} \\ln(x^2 + 1) + 2 \\arctan(x) + C \\]</p>\n<h2>d) \\(\\int \\frac{x^2}{x^2 + 1} \\, dx\\)</h2>\n<p>Sumamos y restamos 1 en el numerador para evitar hacer la división explícita:</p>\n<p>\\[ = \\int \\frac{(x^2 + 1) - 1}{x^2 + 1} \\, dx = \\int \\left( 1 - \\frac{1}{x^2 + 1} \\right) dx = x - \\arctan(x) + C \\]</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mu3t7h49-w2b5n3ix5</odePageId>
+      <odeBlockId>block-mu3tgwfu-mw0mhuqon</odeBlockId>
+      <blockName>Ampliación: descomposición en fracciones simples</blockName>
+      <iconName>udl_rep_reflexion</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu3t7h49-w2b5n3ix5</odePageId>
+          <odeBlockId>block-mu3tgwfu-mw0mhuqon</odeBlockId>
+          <odeIdeviceId>idevice-1789545976121-3kalxlw56</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p>Cuando el denominador es de grado 2 con dos raíces reales distintas (\(x_1 \neq x_2\)), de modo que \(Q(x) = (x - x_1)(x - x_2)\), podemos descomponer la fracción en suma de dos fracciones simples:</p>
+<p>\[ \frac{P(x)}{(x - x_1)(x - x_2)} = \frac{A}{x - x_1} + \frac{B}{x - x_2} \]</p>
+<p>Para hallar las constantes \(A\) y \(B\):</p>
+<ol>
+<li>Multiplicamos ambos miembros por el denominador común: \(P(x) = A(x - x_2) + B(x - x_1)\).</li>
+<li>Sustituimos las raíces de \(Q(x)\) (\(x = x_1\) y \(x = x_2\)) para despejar directamente \(A\) y \(B\).</li>
+<li>Integramos dando lugar a dos logaritmos: \(A \ln|x - x_1| + B \ln|x - x_2| + C\).</li>
+</ol>
+<p><strong>Ejemplo Resuelto:</strong> Calcular \(\int \frac{x + 5}{x^2 - 3x + 2} \, dx\)</p>
+<p><strong>1. Factorizar el denominador:</strong> \(x^2 - 3x + 2 = (x - 1)(x - 2)\).</p>
+<p><strong>2. Planteamiento de la descomposición:</strong></p>
+<p>\[ \frac{x + 5}{(x - 1)(x - 2)} = \frac{A}{x - 1} + \frac{B}{x - 2} \implies x + 5 = A(x - 2) + B(x - 1) \]</p>
+<p><strong>3. Calcular coeficientes sustituyendo las raíces:</strong></p>
+<ul>
+<li>Si \(x = 1 \implies 1 + 5 = A(1 - 2) \implies 6 = -A \implies A = -6\)</li>
+<li>Si \(x = 2 \implies 2 + 5 = B(2 - 1) \implies 7 = B \implies B = 7\)</li>
+</ul>
+<p><br /></p>
+<h2>Ejercicios de Ampliación: Fracciones Simples</h2>
+<p>Calcula las siguientes integrales compuestas descomponiendo el denominador:</p>
+<ol type="a">
+<li>\(\int \frac{5x - 1}{x^2 - 1} \, dx\)</li>
+<li>\(\int \frac{1}{x^2 - 5x + 6} \, dx\)</li>
+</ol><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Solución" data-text-a="Solución" data-text-b="Solución"></div><div class="feedback js-feedback js-hidden" style="display: none;"><div class="exe-fx exe-accordion">
+<h2>a) \(\int \frac{5x - 1}{x^2 - 1} \, dx\)</h2>
+<p>Factorizamos el denominador: \(x^2 - 1 = (x - 1)(x + 1)\).</p>
+<p>Planteamos la descomposición: \(\frac{5x - 1}{(x - 1)(x + 1)} = \frac{A}{x - 1} + \frac{B}{x + 1}\)</p>
+<p>\[ 5x - 1 = A(x + 1) + B(x - 1) \]</p>
+<ul>
+<li>Si \(x = 1 \implies 4 = 2A \implies A = 2\)</li>
+<li>Si \(x = -1 \implies -6 = -2B \implies B = 3\)</li>
+</ul>
+<p>Integramos:</p>
+<p>\[ \int \left( \frac{2}{x - 1} + \frac{3}{x + 1} \right) dx = 2\ln|x - 1| + 3\ln|x + 1| + C \]</p>
+<h2>b) \(\int \frac{1}{x^2 - 5x + 6} \, dx\)</h2>
+<p>Factorizamos el denominador: \(x^2 - 5x + 6 = (x - 2)(x - 3)\).</p>
+<p>Planteamos la descomposición: \(\frac{1}{(x - 2)(x - 3)} = \frac{A}{x - 2} + \frac{B}{x - 3}\)</p>
+<p>\[ 1 = A(x - 3) + B(x - 2) \]</p>
+<ul>
+<li>Si \(x = 3 \implies 1 = B \implies B = 1\)</li>
+<li>Si \(x = 2 \implies 1 = -A \implies A = -1\)</li>
+</ul>
+<p>Integramos:</p>
+<p>\[ \int \left( \frac{-1}{x - 2} + \frac{1}{x - 3} \right) dx = -\ln|x - 2| + \ln|x - 3| + C = \ln\left| \frac{x - 3}{x - 2} \right| + C \]</p>
+</div></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789545976121-3kalxlw56","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p>Cuando el denominador es de grado 2 con dos raíces reales distintas (\\(x_1 \\neq x_2\\)), de modo que \\(Q(x) = (x - x_1)(x - x_2)\\), podemos descomponer la fracción en suma de dos fracciones simples:</p>\n<p>\\[ \\frac{P(x)}{(x - x_1)(x - x_2)} = \\frac{A}{x - x_1} + \\frac{B}{x - x_2} \\]</p>\n<p>Para hallar las constantes \\(A\\) y \\(B\\):</p>\n<ol>\n<li>Multiplicamos ambos miembros por el denominador común: \\(P(x) = A(x - x_2) + B(x - x_1)\\).</li>\n<li>Sustituimos las raíces de \\(Q(x)\\) (\\(x = x_1\\) y \\(x = x_2\\)) para despejar directamente \\(A\\) y \\(B\\).</li>\n<li>Integramos dando lugar a dos logaritmos: \\(A \\ln|x - x_1| + B \\ln|x - x_2| + C\\).</li>\n</ol>\n<p><strong>Ejemplo Resuelto:</strong> Calcular \\(\\int \\frac{x + 5}{x^2 - 3x + 2} \\, dx\\)</p>\n<p><strong>1. Factorizar el denominador:</strong> \\(x^2 - 3x + 2 = (x - 1)(x - 2)\\).</p>\n<p><strong>2. Planteamiento de la descomposición:</strong></p>\n<p>\\[ \\frac{x + 5}{(x - 1)(x - 2)} = \\frac{A}{x - 1} + \\frac{B}{x - 2} \\implies x + 5 = A(x - 2) + B(x - 1) \\]</p>\n<p><strong>3. Calcular coeficientes sustituyendo las raíces:</strong></p>\n<ul>\n<li>Si \\(x = 1 \\implies 1 + 5 = A(1 - 2) \\implies 6 = -A \\implies A = -6\\)</li>\n<li>Si \\(x = 2 \\implies 2 + 5 = B(2 - 1) \\implies 7 = B \\implies B = 7\\)</li>\n</ul>\n<p><br /></p>\n<h2>Ejercicios de Ampliación: Fracciones Simples</h2>\n<p>Calcula las siguientes integrales compuestas descomponiendo el denominador:</p>\n<ol type=\"a\">\n<li>\\(\\int \\frac{5x - 1}{x^2 - 1} \\, dx\\)</li>\n<li>\\(\\int \\frac{1}{x^2 - 5x + 6} \\, dx\\)</li>\n</ol><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Solución\" data-text-a=\"Solución\" data-text-b=\"Solución\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><div class=\"exe-fx exe-accordion\">\n<h2>a) \\(\\int \\frac{5x - 1}{x^2 - 1} \\, dx\\)</h2>\n<p>Factorizamos el denominador: \\(x^2 - 1 = (x - 1)(x + 1)\\).</p>\n<p>Planteamos la descomposición: \\(\\frac{5x - 1}{(x - 1)(x + 1)} = \\frac{A}{x - 1} + \\frac{B}{x + 1}\\)</p>\n<p>\\[ 5x - 1 = A(x + 1) + B(x - 1) \\]</p>\n<ul>\n<li>Si \\(x = 1 \\implies 4 = 2A \\implies A = 2\\)</li>\n<li>Si \\(x = -1 \\implies -6 = -2B \\implies B = 3\\)</li>\n</ul>\n<p>Integramos:</p>\n<p>\\[ \\int \\left( \\frac{2}{x - 1} + \\frac{3}{x + 1} \\right) dx = 2\\ln|x - 1| + 3\\ln|x + 1| + C \\]</p>\n<h2>b) \\(\\int \\frac{1}{x^2 - 5x + 6} \\, dx\\)</h2>\n<p>Factorizamos el denominador: \\(x^2 - 5x + 6 = (x - 2)(x - 3)\\).</p>\n<p>Planteamos la descomposición: \\(\\frac{1}{(x - 2)(x - 3)} = \\frac{A}{x - 2} + \\frac{B}{x - 3}\\)</p>\n<p>\\[ 1 = A(x - 3) + B(x - 2) \\]</p>\n<ul>\n<li>Si \\(x = 3 \\implies 1 = B \\implies B = 1\\)</li>\n<li>Si \\(x = 2 \\implies 1 = -A \\implies A = -1\\)</li>\n</ul>\n<p>Integramos:</p>\n<p>\\[ \\int \\left( \\frac{-1}{x - 2} + \\frac{1}{x - 3} \\right) dx = -\\ln|x - 2| + \\ln|x - 3| + C = \\ln\\left| \\frac{x - 3}{x - 2} \\right| + C \\]</p>\n</div></div></div>","textFeedbackInput":"Solución","textFeedbackTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>a) \\(\\int \\frac{5x - 1}{x^2 - 1} \\, dx\\)</h2>\n<p>Factorizamos el denominador: \\(x^2 - 1 = (x - 1)(x + 1)\\).</p>\n<p>Planteamos la descomposición: \\(\\frac{5x - 1}{(x - 1)(x + 1)} = \\frac{A}{x - 1} + \\frac{B}{x + 1}\\)</p>\n<p>\\[ 5x - 1 = A(x + 1) + B(x - 1) \\]</p>\n<ul>\n<li>Si \\(x = 1 \\implies 4 = 2A \\implies A = 2\\)</li>\n<li>Si \\(x = -1 \\implies -6 = -2B \\implies B = 3\\)</li>\n</ul>\n<p>Integramos:</p>\n<p>\\[ \\int \\left( \\frac{2}{x - 1} + \\frac{3}{x + 1} \\right) dx = 2\\ln|x - 1| + 3\\ln|x + 1| + C \\]</p>\n<h2>b) \\(\\int \\frac{1}{x^2 - 5x + 6} \\, dx\\)</h2>\n<p>Factorizamos el denominador: \\(x^2 - 5x + 6 = (x - 2)(x - 3)\\).</p>\n<p>Planteamos la descomposición: \\(\\frac{1}{(x - 2)(x - 3)} = \\frac{A}{x - 2} + \\frac{B}{x - 3}\\)</p>\n<p>\\[ 1 = A(x - 3) + B(x - 2) \\]</p>\n<ul>\n<li>Si \\(x = 3 \\implies 1 = B \\implies B = 1\\)</li>\n<li>Si \\(x = 2 \\implies 1 = -A \\implies A = -1\\)</li>\n</ul>\n<p>Integramos:</p>\n<p>\\[ \\int \\left( \\frac{-1}{x - 2} + \\frac{1}{x - 3} \\right) dx = -\\ln|x - 2| + \\ln|x - 3| + C = \\ln\\left| \\frac{x - 3}{x - 2} \\right| + C \\]</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
