@@ -18,7 +18,7 @@
   </odeResource>
   <odeResource>
     <key>exe_version</key>
-    <value>4.0.5</value>
+    <value>4.0.3</value>
   </odeResource>
 </odeResources>
 <odeProperties>
@@ -52,11 +52,11 @@
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
-    <value>v4.0.5</value>
+    <value>v4.0.3</value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1790835597313</value>
+    <value>1790926447843</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -4354,10 +4354,10 @@ El límite se reduce a comparar las exponenciales dominantes:
     <ul>
 <li><a href="https://cloud.educa.madrid.org/s/gEGGzPdfE9Hk7Ni" target="_blank" title="" rel="noopener">Integral indefinida - Resumen de teoría y ejercicios</a></li>
 <li><a href="https://cloud.educa.madrid.org/s/zCWWkmXmr9yimRn" target="_blank" title="" rel="noopener">Integrales indefinidas variadas (3 grupos de 8 integrales variadas de dificultad creciente)</a></li>
-<li><a href="https://cloud.educa.madrid.org/s/e2q9YYCtXFQttRH" target="_blank" title="" rel="noopener">Integrales indefinidas variadas 2.</a></li>
+<li><a href="https://cloud.educa.madrid.org/s/e2q9YYCtXFQttRH" title="">Integrales indefinidas variadas 2 (otros 3 grupos de 8 integrales).</a></li>
 </ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mqov9aor-xtcum227t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><a href=\"https://cloud.educa.madrid.org/s/gEGGzPdfE9Hk7Ni\" target=\"_blank\" title=\"\" rel=\"noopener\">Integral indefinida - Resumen de teoría y ejercicios</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/zCWWkmXmr9yimRn\" target=\"_blank\" title=\"\" rel=\"noopener\">Integrales indefinidas variadas (3 grupos de 8 integrales variadas de dificultad creciente)</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/e2q9YYCtXFQttRH\" target=\"_blank\" title=\"\" rel=\"noopener\">Integrales indefinidas variadas 2.</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mqov9aor-xtcum227t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><a href=\"https://cloud.educa.madrid.org/s/gEGGzPdfE9Hk7Ni\" target=\"_blank\" title=\"\" rel=\"noopener\">Integral indefinida - Resumen de teoría y ejercicios</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/zCWWkmXmr9yimRn\" target=\"_blank\" title=\"\" rel=\"noopener\">Integrales indefinidas variadas (3 grupos de 8 integrales variadas de dificultad creciente)</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/e2q9YYCtXFQttRH\" title=\"\">Integrales indefinidas variadas 2 (otros 3 grupos de 8 integrales).</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -6184,7 +6184,7 @@ El límite se reduce a comparar las exponenciales dominantes:
     <odePagStructure>
       <odePageId>page-mu2fmdmq-4yh4l6b4m</odePageId>
       <odeBlockId>block-muny5eqr-acb1qqguu</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName></blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -6198,7 +6198,7 @@ El límite se reduce a comparar las exponenciales dominantes:
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>allowToggle</key>
-          <value>true</value>
+          <value>false</value>
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>minimized</key>
@@ -6216,9 +6216,9 @@ El límite se reduce a comparar las exponenciales dominantes:
           <odeIdeviceId>idevice-1790763161570-a2k12djll</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/underconstruction.png" width="600" height="250" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+    <p><svg viewbox="0 0 1448 1086" width="100%" xmlns="http://www.w3.org/2000/svg"> <image href="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_30_47.jpg" x="0" y="0" width="1448" height="1086"> <!-- 1. Aproximando áreas --> <a href="exe-node:page-munvmdja-mpsw779ew"> <rect x="15" y="163" width="450" height="425" fill="transparent" style="cursor: pointer;"></rect> </a> <!-- 2. Teorema fundamental del cálculo --> <a href="exe-node:page-munwgd2w-nc87c4oe4"> <rect x="480" y="163" width="450" height="425" fill="transparent" style="cursor: pointer;"></rect> </a> <!-- 3. Propiedades de la integral definida --> <a href="exe-node:page-munxtz9e-btakqb6hx"> <rect x="945" y="163" width="447" height="425" fill="transparent" style="cursor: pointer;"></rect> </a> <!-- 4. Integral ≠ Área --> <a href="exe-node:page-munxwsee-5qlqvtq3r"> <rect x="15" y="602" width="450" height="415" fill="transparent" style="cursor: pointer;"></rect> </a> <!-- 5. Calculando áreas --> <a href="exe-node:page-muqksjtb-fv9m09are"> <rect x="480" y="602" width="450" height="415" fill="transparent" style="cursor: pointer;"></rect> </a> <!-- 6. Volúmenes de revolución --> <a href="exe-node:page-mu2is0nl-cmo86edfb"> <rect x="945" y="602" width="447" height="415" fill="transparent" style="cursor: pointer;"></rect> </a> </image></svg></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790763161570-a2k12djll","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/underconstruction.png\" width=\"600\" height=\"250\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790763161570-a2k12djll","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><svg viewbox=\"0 0 1448 1086\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"> <image href=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_30_47.jpg\" x=\"0\" y=\"0\" width=\"1448\" height=\"1086\"> <!-- 1. Aproximando áreas --> <a href=\"exe-node:page-munvmdja-mpsw779ew\"> <rect x=\"15\" y=\"163\" width=\"450\" height=\"425\" fill=\"transparent\" style=\"cursor: pointer;\"></rect> </a> <!-- 2. Teorema fundamental del cálculo --> <a href=\"exe-node:page-munwgd2w-nc87c4oe4\"> <rect x=\"480\" y=\"163\" width=\"450\" height=\"425\" fill=\"transparent\" style=\"cursor: pointer;\"></rect> </a> <!-- 3. Propiedades de la integral definida --> <a href=\"exe-node:page-munxtz9e-btakqb6hx\"> <rect x=\"945\" y=\"163\" width=\"447\" height=\"425\" fill=\"transparent\" style=\"cursor: pointer;\"></rect> </a> <!-- 4. Integral ≠ Área --> <a href=\"exe-node:page-munxwsee-5qlqvtq3r\"> <rect x=\"15\" y=\"602\" width=\"450\" height=\"415\" fill=\"transparent\" style=\"cursor: pointer;\"></rect> </a> <!-- 5. Calculando áreas --> <a href=\"exe-node:page-muqksjtb-fv9m09are\"> <rect x=\"480\" y=\"602\" width=\"450\" height=\"415\" fill=\"transparent\" style=\"cursor: pointer;\"></rect> </a> <!-- 6. Volúmenes de revolución --> <a href=\"exe-node:page-mu2is0nl-cmo86edfb\"> <rect x=\"945\" y=\"602\" width=\"447\" height=\"415\" fill=\"transparent\" style=\"cursor: pointer;\"></rect> </a> </image></svg></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -6701,7 +6701,7 @@ El límite se reduce a comparar las exponenciales dominantes:
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>minimized</key>
-          <value>false</value>
+          <value>true</value>
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>cssClass</key>
@@ -6806,7 +6806,7 @@ El límite se reduce a comparar las exponenciales dominantes:
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>minimized</key>
-          <value>false</value>
+          <value>true</value>
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>cssClass</key>
@@ -7096,8 +7096,8 @@ El límite se reduce a comparar las exponenciales dominantes:
     <odePagStructure>
       <odePageId>page-munxwsee-5qlqvtq3r</odePageId>
       <odeBlockId>block-munxx3za-aljnj6a4l</odeBlockId>
-      <blockName>Texto</blockName>
-      <iconName></iconName>
+      <blockName>¿La integral coincide siempre con el área bajo la curva?</blockName>
+      <iconName>udl_rep_importante</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -7114,7 +7114,7 @@ El límite se reduce a comparar las exponenciales dominantes:
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>minimized</key>
-          <value>false</value>
+          <value>true</value>
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>cssClass</key>
@@ -7128,9 +7128,824 @@ El límite se reduce a comparar las exponenciales dominantes:
           <odeIdeviceId>idevice-1790762774372-ah07o5029</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/underconstruction.png" width="600" height="250" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+    <p>Hasta ahora hemos relacionado la integral definida con el área bajo una curva. Pero esta interpretación necesita una precisión importante: <strong>la integral definida no siempre coincide con el área geométrica total</strong>.</p>
+<p>Vamos a descubrir por qué a partir de dos ejemplos.</p>
+<h2>Primer ejemplo: \(\displaystyle \int_{-1}^{1} x^3\,dx\)</h2>
+<div class="exe-fx exe-accordion">
+<h2>1. \(f(x)=x^3\)</h2>
+<p>Antes de calcular la integral, piensa en la gráfica de</p>
+<p>\[ f(x)=x^3. \]</p>
+<p><strong>Pregunta de indagación:</strong> ¿qué observas en la gráfica respecto al origen? ¿Qué relación hay entre la parte situada en \([-1,0]\) y la situada en \([0,1]\)?</p>
+<h2>2. Calcula la integral</h2>
+<p>Calcula</p>
+<p>\[ \int_{-1}^{1}x^3\,dx. \]</p>
+<p>Una primitiva de \(x^3\) es</p>
+<p>\[ F(x)=\frac{x^4}{4}. \]</p>
+<p>Por tanto,</p>
+<p>\[ \int_{-1}^{1}x^3\,dx = \left[\frac{x^4}{4}\right]_{-1}^{1} = \frac14-\frac14 = 0. \]</p>
+<p><strong>Pregunta de indagación:</strong> ¿significa este resultado que no hay ninguna región comprendida entre la curva y el eje \(x\)?</p>
+<h2>3. ¿Qué está ocurriendo geométricamente?</h2>
+<p>Entre \(x=-1\) y \(x=0\), la función \(x^3\) es negativa, por lo que la gráfica está por debajo del eje \(x\).</p>
+<p>Entre \(x=0\) y \(x=1\), la función es positiva, por lo que la gráfica está por encima del eje \(x\).</p>
+<p>Además, ambas regiones tienen la misma forma y la misma área.</p>
+<p>La integral contabiliza el área situada por encima del eje \(x\) como positiva y la situada por debajo como negativa.</p>
+<p>Por eso,</p>
+<p>\[ \int_{-1}^{0}x^3\,dx + \int_{0}^{1}x^3\,dx = 0. \]</p>
+<p><strong>Pregunta de indagación:</strong> si quisiéramos calcular el área geométrica total entre la curva y el eje \(x\), ¿deberíamos sumar o restar las dos regiones?</p>
+</div>
+<h2>Segundo ejemplo: \(\displaystyle \int_{-\pi}^{\pi}\sin(x)\,dx\)</h2>
+<div class="exe-fx exe-accordion">
+<h2>1. \(f(x)=sin(x)\)</h2>
+<p>Considera ahora la función</p>
+<p>\[ f(x)=\sin(x). \]</p>
+<p><strong>Antes de calcular:</strong> observa su gráfica entre \(-\pi\) y \(\pi\). ¿Qué relación existe entre la parte situada a la izquierda del origen y la parte situada a la derecha?</p>
+<p>¿Qué valor crees que tendrá</p>
+<p>\[ \int_{-\pi}^{\pi}\sin(x)\,dx? \]</p>
+<h2>2. Comprueba tu predicción</h2>
+<p>Una primitiva de \(\sin(x)\) es</p>
+<p>\[ F(x)=-\cos(x). \]</p>
+<p>Por tanto,</p>
+<p>\[ \int_{-\pi}^{\pi}\sin(x)\,dx = [-\cos(x)]_{-\pi}^{\pi}. \]</p>
+<p>Así,</p>
+<p>\[ -\cos(\pi)-\bigl(-\cos(-\pi)\bigr) = 1-1 = 0. \]</p>
+<p>De nuevo obtenemos</p>
+<p>\[ \boxed{\int_{-\pi}^{\pi}\sin(x)\,dx=0}. \]</p>
+<p><strong>Pregunta de indagación:</strong> ¿qué tienen en común las funciones \(x^3\) y \(\sin(x)\)?</p>
+<h2>3. Funciones impares</h2>
+<p>Las funciones \(x^3\) y \(\sin(x)\) cumplen</p>
+<p>\[ f(-x)=-f(x). \]</p>
+<p>A este tipo de funciones las llamamos <strong>funciones impares</strong>. Sus gráficas presentan simetría respecto al origen.</p>
+<p>En un intervalo simétrico \([-a,a]\), la región situada por encima del eje en un lado tiene la misma área que la región situada por debajo del eje en el otro lado.</p>
+<p>Por ello,</p>
+<p>\[ \boxed{ \int_{-a}^{a} f(x)\,dx=0 } \]</p>
+<p>para toda función impar continua.</p>
+<h2>4. Entonces, ¿integral y área son lo mismo?</h2>
+<p>No exactamente.</p>
+<p>La integral definida representa un <strong>área con signo</strong>:</p>
+<ul>
+<li>las regiones por encima del eje \(x\) contribuyen positivamente;</li>
+<li>las regiones por debajo del eje \(x\) contribuyen negativamente.</li>
+</ul>
+<p>Por tanto, distintas regiones pueden cancelarse entre sí.</p>
+<p>Si queremos calcular el <strong>área geométrica total</strong>, debemos sumar todas las áreas como cantidades positivas.</p>
+<p>Esto se consigue integrando el valor absoluto:</p>
+<p>\[ \boxed{ A=\int_a^b |f(x)|\,dx } \]</p>
+</div>
+<div style="border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;">
+<h3><strong><span style="color: #e03e2d;">Conclusión</span></strong></h3>
+<p>La integral definida y el área geométrica no son siempre la misma cosa.</p>
+<p>La integral</p>
+<p>\[ \int_a^b f(x)\,dx \]</p>
+<p>mide una <strong>acumulación con signo</strong>.</p>
+<p>En cambio, el área total entre la gráfica y el eje \(x\) se obtiene sumando las áreas de todas las regiones como cantidades positivas:</p>
+<p>\[ \boxed{ A=\int_a^b |f(x)|\,dx }. \]</p>
+</div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790762774372-ah07o5029","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/underconstruction.png\" width=\"600\" height=\"250\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790762774372-ah07o5029","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hasta ahora hemos relacionado la integral definida con el área bajo una curva. Pero esta interpretación necesita una precisión importante: <strong>la integral definida no siempre coincide con el área geométrica total</strong>.</p>\n<p>Vamos a descubrir por qué a partir de dos ejemplos.</p>\n<h2>Primer ejemplo: \\(\\displaystyle \\int_{-1}^{1} x^3\\,dx\\)</h2>\n<div class=\"exe-fx exe-accordion\">\n<h2>1. \\(f(x)=x^3\\)</h2>\n<p>Antes de calcular la integral, piensa en la gráfica de</p>\n<p>\\[ f(x)=x^3. \\]</p>\n<p><strong>Pregunta de indagación:</strong> ¿qué observas en la gráfica respecto al origen? ¿Qué relación hay entre la parte situada en \\([-1,0]\\) y la situada en \\([0,1]\\)?</p>\n<h2>2. Calcula la integral</h2>\n<p>Calcula</p>\n<p>\\[ \\int_{-1}^{1}x^3\\,dx. \\]</p>\n<p>Una primitiva de \\(x^3\\) es</p>\n<p>\\[ F(x)=\\frac{x^4}{4}. \\]</p>\n<p>Por tanto,</p>\n<p>\\[ \\int_{-1}^{1}x^3\\,dx = \\left[\\frac{x^4}{4}\\right]_{-1}^{1} = \\frac14-\\frac14 = 0. \\]</p>\n<p><strong>Pregunta de indagación:</strong> ¿significa este resultado que no hay ninguna región comprendida entre la curva y el eje \\(x\\)?</p>\n<h2>3. ¿Qué está ocurriendo geométricamente?</h2>\n<p>Entre \\(x=-1\\) y \\(x=0\\), la función \\(x^3\\) es negativa, por lo que la gráfica está por debajo del eje \\(x\\).</p>\n<p>Entre \\(x=0\\) y \\(x=1\\), la función es positiva, por lo que la gráfica está por encima del eje \\(x\\).</p>\n<p>Además, ambas regiones tienen la misma forma y la misma área.</p>\n<p>La integral contabiliza el área situada por encima del eje \\(x\\) como positiva y la situada por debajo como negativa.</p>\n<p>Por eso,</p>\n<p>\\[ \\int_{-1}^{0}x^3\\,dx + \\int_{0}^{1}x^3\\,dx = 0. \\]</p>\n<p><strong>Pregunta de indagación:</strong> si quisiéramos calcular el área geométrica total entre la curva y el eje \\(x\\), ¿deberíamos sumar o restar las dos regiones?</p>\n</div>\n<h2>Segundo ejemplo: \\(\\displaystyle \\int_{-\\pi}^{\\pi}\\sin(x)\\,dx\\)</h2>\n<div class=\"exe-fx exe-accordion\">\n<h2>1. \\(f(x)=sin(x)\\)</h2>\n<p>Considera ahora la función</p>\n<p>\\[ f(x)=\\sin(x). \\]</p>\n<p><strong>Antes de calcular:</strong> observa su gráfica entre \\(-\\pi\\) y \\(\\pi\\). ¿Qué relación existe entre la parte situada a la izquierda del origen y la parte situada a la derecha?</p>\n<p>¿Qué valor crees que tendrá</p>\n<p>\\[ \\int_{-\\pi}^{\\pi}\\sin(x)\\,dx? \\]</p>\n<h2>2. Comprueba tu predicción</h2>\n<p>Una primitiva de \\(\\sin(x)\\) es</p>\n<p>\\[ F(x)=-\\cos(x). \\]</p>\n<p>Por tanto,</p>\n<p>\\[ \\int_{-\\pi}^{\\pi}\\sin(x)\\,dx = [-\\cos(x)]_{-\\pi}^{\\pi}. \\]</p>\n<p>Así,</p>\n<p>\\[ -\\cos(\\pi)-\\bigl(-\\cos(-\\pi)\\bigr) = 1-1 = 0. \\]</p>\n<p>De nuevo obtenemos</p>\n<p>\\[ \\boxed{\\int_{-\\pi}^{\\pi}\\sin(x)\\,dx=0}. \\]</p>\n<p><strong>Pregunta de indagación:</strong> ¿qué tienen en común las funciones \\(x^3\\) y \\(\\sin(x)\\)?</p>\n<h2>3. Funciones impares</h2>\n<p>Las funciones \\(x^3\\) y \\(\\sin(x)\\) cumplen</p>\n<p>\\[ f(-x)=-f(x). \\]</p>\n<p>A este tipo de funciones las llamamos <strong>funciones impares</strong>. Sus gráficas presentan simetría respecto al origen.</p>\n<p>En un intervalo simétrico \\([-a,a]\\), la región situada por encima del eje en un lado tiene la misma área que la región situada por debajo del eje en el otro lado.</p>\n<p>Por ello,</p>\n<p>\\[ \\boxed{ \\int_{-a}^{a} f(x)\\,dx=0 } \\]</p>\n<p>para toda función impar continua.</p>\n<h2>4. Entonces, ¿integral y área son lo mismo?</h2>\n<p>No exactamente.</p>\n<p>La integral definida representa un <strong>área con signo</strong>:</p>\n<ul>\n<li>las regiones por encima del eje \\(x\\) contribuyen positivamente;</li>\n<li>las regiones por debajo del eje \\(x\\) contribuyen negativamente.</li>\n</ul>\n<p>Por tanto, distintas regiones pueden cancelarse entre sí.</p>\n<p>Si queremos calcular el <strong>área geométrica total</strong>, debemos sumar todas las áreas como cantidades positivas.</p>\n<p>Esto se consigue integrando el valor absoluto:</p>\n<p>\\[ \\boxed{ A=\\int_a^b |f(x)|\\,dx } \\]</p>\n</div>\n<div style=\"border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;\">\n<h3><strong><span style=\"color: #e03e2d;\">Conclusión</span></strong></h3>\n<p>La integral definida y el área geométrica no son siempre la misma cosa.</p>\n<p>La integral</p>\n<p>\\[ \\int_a^b f(x)\\,dx \\]</p>\n<p>mide una <strong>acumulación con signo</strong>.</p>\n<p>En cambio, el área total entre la gráfica y el eje \\(x\\) se obtiene sumando las áreas de todas las regiones como cantidades positivas:</p>\n<p>\\[ \\boxed{ A=\\int_a^b |f(x)|\\,dx }. \\]</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-munxwsee-5qlqvtq3r</odePageId>
+      <odeBlockId>block-muqktjyb-yspfp5osh</odeBlockId>
+      <blockName>Dos propiedades más</blockName>
+      <iconName>udl_rep_reflexion</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-munxwsee-5qlqvtq3r</odePageId>
+          <odeBlockId>block-muqktjyb-yspfp5osh</odeBlockId>
+          <odeIdeviceId>idevice-1790922171970-gw9v5d1tw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Justifica geométricamente las dos siguientes propiedades de la integral definida:</p>
+<div class="exe-fx exe-accordion">
+<h2>\(\displaystyle \left|\int_a^b f(x)\,dx\right|\leq \int_a^b |f(x)|\,dx\)</h2>
+<p>Observa la desigualdad anterior e intenta interpretarla geométricamente.</p>
+<p><strong>Preguntas de indagación:</strong></p>
+<ul>
+<li>¿Qué representa \(\displaystyle \int_a^b f(x)\,dx\) si la gráfica de \(f\) está unas veces por encima y otras por debajo del eje \(x\)?</li>
+<li>¿Qué representa \(\displaystyle \int_a^b |f(x)|\,dx\)?</li>
+<li>¿Por qué el valor absoluto de la acumulación con signo no puede ser mayor que el área total?</li>
+<li>¿En qué situación crees que se produce la igualdad?</li>
+</ul>
+<p><strong>Interpretación geométrica.</strong> La integral</p>
+<p>\[ \int_a^b f(x)\,dx \]</p>
+<p>suma las áreas situadas por encima del eje \(x\) y resta las situadas por debajo. Por tanto, pueden producirse cancelaciones.</p>
+<p>En cambio,</p>
+<p>\[ \int_a^b |f(x)|\,dx \]</p>
+<p>suma todas las áreas como cantidades positivas.</p>
+<p>Por eso,</p>
+<p>\[ \boxed{ \left|\int_a^b f(x)\,dx\right| \leq \int_a^b |f(x)|\,dx }. \]</p>
+<p>La igualdad se produce, por ejemplo, cuando \(f\) no cambia de signo en \([a,b]\).</p>
+<h2>\(\displaystyle f(x)\geq g(x)\Rightarrow \int_a^b f(x)\,dx\geq\int_a^b g(x)\,dx\)</h2>
+<p>Supongamos que</p>
+<p>\[ f(x)\geq g(x) \]</p>
+<p>para todo \(x\in[a,b]\).</p>
+<p><strong>Preguntas de indagación:</strong></p>
+<ul>
+<li>¿Qué significa geométricamente que \(f(x)\geq g(x)\) en todo el intervalo?</li>
+<li>¿Qué puedes decir sobre la función \(f(x)-g(x)\)?</li>
+<li>¿Qué representa geométricamente la integral \[ \int_a^b [f(x)-g(x)]\,dx? \]</li>
+<li>¿Qué relación debe existir entonces entre las integrales de \(f\) y de \(g\)?</li>
+</ul>
+<p><strong>Interpretación geométrica.</strong> Si</p>
+<p>\[ f(x)\geq g(x) \]</p>
+<p>en todo el intervalo, la gráfica de \(f\) está por encima de la gráfica de \(g\). Por tanto,</p>
+<p>\[ f(x)-g(x)\geq0. \]</p>
+<p>La integral</p>
+<p>\[ \int_a^b [f(x)-g(x)]\,dx \]</p>
+<p>representa el área comprendida entre ambas gráficas y, por tanto, es no negativa.</p>
+<p>Utilizando la propiedad de la integral de una diferencia,</p>
+<p>\[ \int_a^b [f(x)-g(x)]\,dx = \int_a^b f(x)\,dx - \int_a^b g(x)\,dx \geq0. \]</p>
+<p>Por tanto,</p>
+<p>\[ \boxed{ \int_a^b f(x)\,dx \geq \int_a^b g(x)\,dx }. \]</p>
+<p>Si además \(f(x)&gt;g(x)\) en todo el intervalo, entonces, bajo las condiciones habituales de continuidad,</p>
+<p>\[ \boxed{ \int_a^b f(x)\,dx &gt; \int_a^b g(x)\,dx }. \]</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790922171970-gw9v5d1tw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Justifica geométricamente las dos siguientes propiedades de la integral definida:</p>\n<div class=\"exe-fx exe-accordion\">\n<h2>\\(\\displaystyle \\left|\\int_a^b f(x)\\,dx\\right|\\leq \\int_a^b |f(x)|\\,dx\\)</h2>\n<p>Observa la desigualdad anterior e intenta interpretarla geométricamente.</p>\n<p><strong>Preguntas de indagación:</strong></p>\n<ul>\n<li>¿Qué representa \\(\\displaystyle \\int_a^b f(x)\\,dx\\) si la gráfica de \\(f\\) está unas veces por encima y otras por debajo del eje \\(x\\)?</li>\n<li>¿Qué representa \\(\\displaystyle \\int_a^b |f(x)|\\,dx\\)?</li>\n<li>¿Por qué el valor absoluto de la acumulación con signo no puede ser mayor que el área total?</li>\n<li>¿En qué situación crees que se produce la igualdad?</li>\n</ul>\n<p><strong>Interpretación geométrica.</strong> La integral</p>\n<p>\\[ \\int_a^b f(x)\\,dx \\]</p>\n<p>suma las áreas situadas por encima del eje \\(x\\) y resta las situadas por debajo. Por tanto, pueden producirse cancelaciones.</p>\n<p>En cambio,</p>\n<p>\\[ \\int_a^b |f(x)|\\,dx \\]</p>\n<p>suma todas las áreas como cantidades positivas.</p>\n<p>Por eso,</p>\n<p>\\[ \\boxed{ \\left|\\int_a^b f(x)\\,dx\\right| \\leq \\int_a^b |f(x)|\\,dx }. \\]</p>\n<p>La igualdad se produce, por ejemplo, cuando \\(f\\) no cambia de signo en \\([a,b]\\).</p>\n<h2>\\(\\displaystyle f(x)\\geq g(x)\\Rightarrow \\int_a^b f(x)\\,dx\\geq\\int_a^b g(x)\\,dx\\)</h2>\n<p>Supongamos que</p>\n<p>\\[ f(x)\\geq g(x) \\]</p>\n<p>para todo \\(x\\in[a,b]\\).</p>\n<p><strong>Preguntas de indagación:</strong></p>\n<ul>\n<li>¿Qué significa geométricamente que \\(f(x)\\geq g(x)\\) en todo el intervalo?</li>\n<li>¿Qué puedes decir sobre la función \\(f(x)-g(x)\\)?</li>\n<li>¿Qué representa geométricamente la integral \\[ \\int_a^b [f(x)-g(x)]\\,dx? \\]</li>\n<li>¿Qué relación debe existir entonces entre las integrales de \\(f\\) y de \\(g\\)?</li>\n</ul>\n<p><strong>Interpretación geométrica.</strong> Si</p>\n<p>\\[ f(x)\\geq g(x) \\]</p>\n<p>en todo el intervalo, la gráfica de \\(f\\) está por encima de la gráfica de \\(g\\). Por tanto,</p>\n<p>\\[ f(x)-g(x)\\geq0. \\]</p>\n<p>La integral</p>\n<p>\\[ \\int_a^b [f(x)-g(x)]\\,dx \\]</p>\n<p>representa el área comprendida entre ambas gráficas y, por tanto, es no negativa.</p>\n<p>Utilizando la propiedad de la integral de una diferencia,</p>\n<p>\\[ \\int_a^b [f(x)-g(x)]\\,dx = \\int_a^b f(x)\\,dx - \\int_a^b g(x)\\,dx \\geq0. \\]</p>\n<p>Por tanto,</p>\n<p>\\[ \\boxed{ \\int_a^b f(x)\\,dx \\geq \\int_a^b g(x)\\,dx }. \\]</p>\n<p>Si además \\(f(x)&gt;g(x)\\) en todo el intervalo, entonces, bajo las condiciones habituales de continuidad,</p>\n<p>\\[ \\boxed{ \\int_a^b f(x)\\,dx &gt; \\int_a^b g(x)\\,dx }. \\]</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-muqksjtb-fv9m09are</odePageId>
+  <odeParentPageId>page-mu2fmdmq-4yh4l6b4m</odeParentPageId>
+  <pageName>Calculando áreas</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Calculando áreas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Calculando áreas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-muqksjtb-fv9m09are</odePageId>
+      <odeBlockId>block-muqlkyqz-quxpxb329</odeBlockId>
+      <blockName>Función Positiva</blockName>
+      <iconName>udl_rep_caso</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muqksjtb-fv9m09are</odePageId>
+          <odeBlockId>block-muqlkyqz-quxpxb329</odeBlockId>
+          <odeIdeviceId>idevice-1790923450858-oci13gmnl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;">
+<p style="color: red;"><strong>Área bajo una función positiva</strong></p>
+<p>Si \(f(x)\) es una función <strong>continua y positiva</strong> en el intervalo \([a,b]\), entonces el área limitada por la gráfica \(y=f(x)\), el eje \(x\) y las rectas verticales \(x=a\) y \(x=b\) viene dada por</p>
+<p>\[ \boxed{ A=\int_a^b f(x)\,dx } \]</p>
+<p><img src="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_44_52.png" title="integral de función positiva" width="264" height="198" alt="integral de función positiva" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790923450858-oci13gmnl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;\">\n<p style=\"color: red;\"><strong>Área bajo una función positiva</strong></p>\n<p>Si \\(f(x)\\) es una función <strong>continua y positiva</strong> en el intervalo \\([a,b]\\), entonces el área limitada por la gráfica \\(y=f(x)\\), el eje \\(x\\) y las rectas verticales \\(x=a\\) y \\(x=b\\) viene dada por</p>\n<p>\\[ \\boxed{ A=\\int_a^b f(x)\\,dx } \\]</p>\n<p><img src=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_44_52.png\" title=\"integral de función positiva\" width=\"264\" height=\"198\" alt=\"integral de función positiva\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-muqksjtb-fv9m09are</odePageId>
+      <odeBlockId>block-muqlpx17-q30k2xjc9</odeBlockId>
+      <blockName>A practicar</blockName>
+      <iconName>udl_sup_escribe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muqksjtb-fv9m09are</odePageId>
+          <odeBlockId>block-muqlpx17-q30k2xjc9</odeBlockId>
+          <odeIdeviceId>idevice-1790923681914-ocxzocc79</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p><strong>Calcula el área de las regiones indicadas.</strong> Comprueba tus resultados utilizando la calculadora (<strong>NumWorks)</strong>.</p>
+<ol>
+<li>\(y=x^2\), el eje \(x\) y la recta \(x=1\).</li>
+<li>\(y=x^3\), el eje \(x\) y las rectas \(x=1\) y \(x=4\).</li>
+<li>\(y=e^x\), el eje \(x\), el eje \(y\) y la recta \(x=1\).</li>
+<li>El eje \(x\) y la parte de la parábola \( y=6+x-x^2 \) situada por encima del eje \(x\).</li>
+<li>\(x=y^2+1\), el eje \(y\) y las rectas \(y=1\) y \(y=2\).</li>
+<li>\( x=\sqrt{y+5}, \) el eje \(y\) y las rectas \(y=-1\) y \(y=4\).</li>
+</ol>
+<div class="exe-fx exe-accordion">
+<h2>Calculando la integral definida con Numworks</h2>
+<p><img src="{{context_path}}/content/resources/Integración con Numworks.png" title="Integral con calculadora Numworks" width="487" height="592" alt="Integral con calculadora Numworks" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>
+<p><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Soluciones" data-text-a="Soluciones" data-text-b="Soluciones"></div><div class="feedback js-feedback js-hidden" style="display: none;"><ol>
+<li>\(\displaystyle A=\int_0^1 x^2\,dx=\frac{1}{3}\).</li>
+<li>\(\displaystyle A=\int_1^4 x^3\,dx=\frac{255}{4}\).</li>
+<li>\(\displaystyle A=\int_0^1 e^x\,dx=e-1\).</li>
+<li>\(\displaystyle A=\int_{-2}^{3}(6+x-x^2)\,dx=\frac{125}{6}\).</li>
+<li>\(\displaystyle A=\int_1^2 (y^2+1)\,dy=\frac{10}{3}\).</li>
+<li>\(\displaystyle A=\int_{-1}^{4}\sqrt{y+5}\,dy=\frac{38}{3}\).</li>
+</ol></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790923681914-ocxzocc79","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><strong>Calcula el área de las regiones indicadas.</strong> Comprueba tus resultados utilizando la calculadora (<strong>NumWorks)</strong>.</p>\n<ol>\n<li>\\(y=x^2\\), el eje \\(x\\) y la recta \\(x=1\\).</li>\n<li>\\(y=x^3\\), el eje \\(x\\) y las rectas \\(x=1\\) y \\(x=4\\).</li>\n<li>\\(y=e^x\\), el eje \\(x\\), el eje \\(y\\) y la recta \\(x=1\\).</li>\n<li>El eje \\(x\\) y la parte de la parábola \\( y=6+x-x^2 \\) situada por encima del eje \\(x\\).</li>\n<li>\\(x=y^2+1\\), el eje \\(y\\) y las rectas \\(y=1\\) y \\(y=2\\).</li>\n<li>\\( x=\\sqrt{y+5}, \\) el eje \\(y\\) y las rectas \\(y=-1\\) y \\(y=4\\).</li>\n</ol>\n<div class=\"exe-fx exe-accordion\">\n<h2>Calculando la integral definida con Numworks</h2>\n<p><img src=\"{{context_path}}/content/resources/Integración con Numworks.png\" title=\"Integral con calculadora Numworks\" width=\"487\" height=\"592\" alt=\"Integral con calculadora Numworks\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n</div>\n<p><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ol>\n<li>\\(\\displaystyle A=\\int_0^1 x^2\\,dx=\\frac{1}{3}\\).</li>\n<li>\\(\\displaystyle A=\\int_1^4 x^3\\,dx=\\frac{255}{4}\\).</li>\n<li>\\(\\displaystyle A=\\int_0^1 e^x\\,dx=e-1\\).</li>\n<li>\\(\\displaystyle A=\\int_{-2}^{3}(6+x-x^2)\\,dx=\\frac{125}{6}\\).</li>\n<li>\\(\\displaystyle A=\\int_1^2 (y^2+1)\\,dy=\\frac{10}{3}\\).</li>\n<li>\\(\\displaystyle A=\\int_{-1}^{4}\\sqrt{y+5}\\,dy=\\frac{38}{3}\\).</li>\n</ol></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<ol>\n<li>\\(\\displaystyle A=\\int_0^1 x^2\\,dx=\\frac{1}{3}\\).</li>\n<li>\\(\\displaystyle A=\\int_1^4 x^3\\,dx=\\frac{255}{4}\\).</li>\n<li>\\(\\displaystyle A=\\int_0^1 e^x\\,dx=e-1\\).</li>\n<li>\\(\\displaystyle A=\\int_{-2}^{3}(6+x-x^2)\\,dx=\\frac{125}{6}\\).</li>\n<li>\\(\\displaystyle A=\\int_1^2 (y^2+1)\\,dy=\\frac{10}{3}\\).</li>\n<li>\\(\\displaystyle A=\\int_{-1}^{4}\\sqrt{y+5}\\,dy=\\frac{38}{3}\\).</li>\n</ol>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-muqksjtb-fv9m09are</odePageId>
+      <odeBlockId>block-muqlzpt0-7vx1d4tei</odeBlockId>
+      <blockName>Función no siempre positiva</blockName>
+      <iconName>udl_rep_caso</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muqksjtb-fv9m09are</odePageId>
+          <odeBlockId>block-muqlzpt0-7vx1d4tei</odeBlockId>
+          <odeIdeviceId>idevice-muqlzpt1-b1rr3lfm9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;">
+<p style="color: red;"><strong>Área cuando la función cambia de signo</strong></p>
+<p>Si \(f(x)\) cambia de signo en el intervalo \([a,b]\), la integral definida no coincide necesariamente con el área geométrica total.</p>
+<p>Para calcular el área, debemos dividir el intervalo en los puntos donde \(f(x)=0\) y sumar cada región como una cantidad positiva.</p>
+<p>Por ejemplo, si \(f(x)\) es positiva, después negativa y finalmente positiva, podemos escribir:</p>
+<p>\(\displaystyle A=\int_a^c f(x)\,dx-\int_c^d f(x)\,dx+\int_d^b f(x)\,dx.\)</p>
+<p>De forma equivalente:</p>
+<p>\[\displaystyle \boxed{A=\int_a^b |f(x)|\,dx}\]</p>
+<p><img src="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_58_26.png" title="Integral que cambia de signos" width="578" height="434" alt="Integral que cambia de signos" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqlzpt1-b1rr3lfm9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;\">\n<p style=\"color: red;\"><strong>Área cuando la función cambia de signo</strong></p>\n<p>Si \\(f(x)\\) cambia de signo en el intervalo \\([a,b]\\), la integral definida no coincide necesariamente con el área geométrica total.</p>\n<p>Para calcular el área, debemos dividir el intervalo en los puntos donde \\(f(x)=0\\) y sumar cada región como una cantidad positiva.</p>\n<p>Por ejemplo, si \\(f(x)\\) es positiva, después negativa y finalmente positiva, podemos escribir:</p>\n<p>\\(\\displaystyle A=\\int_a^c f(x)\\,dx-\\int_c^d f(x)\\,dx+\\int_d^b f(x)\\,dx.\\)</p>\n<p>De forma equivalente:</p>\n<p>\\[\\displaystyle \\boxed{A=\\int_a^b |f(x)|\\,dx}\\]</p>\n<p><img src=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_58_26.png\" title=\"Integral que cambia de signos\" width=\"578\" height=\"434\" alt=\"Integral que cambia de signos\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-muqksjtb-fv9m09are</odePageId>
+      <odeBlockId>block-muqmahy4-uawf37x7l</odeBlockId>
+      <blockName>A practicar</blockName>
+      <iconName>udl_sup_escribe</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muqksjtb-fv9m09are</odePageId>
+          <odeBlockId>block-muqmahy4-uawf37x7l</odeBlockId>
+          <odeIdeviceId>idevice-muqmahy4-qmh8wrghd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p><strong>Calcula o interpreta las siguientes áreas e integrales.</strong> En cada caso, justifica el procedimiento utilizado.</p>
+<ol>
+<li>Determina el área comprendida entre la gráfica de la función y el eje \(x\) en el intervalo indicado. Antes de integrar, localiza los puntos en los que la función corta al eje \(x\).
+<ol type="a">
+<li>\(f(x)=x^2-4\), en el intervalo \([-3,3]\).</li>
+<li>\(f(x)=x^2-5x+6\), en el intervalo \([0,4]\).</li>
+<li>\(f(x)=x(x-2)(x+2)\), en el intervalo \([-2,2]\).</li>
+<li>\(f(x)=(x-1)(x-3)\), en el intervalo \([0,4]\).</li>
+</ol>
+</li>
+<li>Determina el valor de las siguientes integrales <strong>sin calcular primitivas</strong>. Interpreta cada integral geométricamente.
+<ol type="a">
+<li>La gráfica de \(f(x)=\sqrt{9-x^2}\) es la semicircunferencia superior de radio \(3\). Determina \(\int_0^3 \sqrt{9-x^2}\,dx\).</li>
+<li>La gráfica de \(f(x)=\sqrt{16-x^2}\) es la semicircunferencia superior de radio \(4\). Determina \(\int_{-4}^{4}\sqrt{16-x^2}\,dx\).</li>
+<li>Determina \(\int_{-2}^{2}(2-|x|)\,dx\) interpretando la gráfica como una figura geométrica conocida.</li>
+<li>Determina \(\int_0^5(5-x)\,dx\) utilizando únicamente una interpretación geométrica.</li>
+</ol>
+</li>
+<li>Observa la figura correspondiente y responde.
+<ol type="a">
+<li>Explica por qué el área total sombreada no coincide necesariamente con \(\int_0^8 f(x)\,dx\).</li>
+<li>La gráfica corta al eje \(x\) en \(x=0\), \(x=2\), \(x=5\) y \(x=8\). Escribe el área total sombreada como suma de integrales.</li>
+<li>Si \(\int_0^2 f(x)\,dx=3\), \(\int_2^5 f(x)\,dx=-5\) y \(\int_5^8 f(x)\,dx=4\), calcula:
+<ol type="i">
+<li>el valor de \(\int_0^8 f(x)\,dx\);</li>
+<li>el área total sombreada.</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<p><img src="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 09_04_56.png" title="área de ejercicio con cambios de signo" width="332" height="154" alt="área de ejercicio con cambios de signo" style="display: block; margin-left: auto; margin-right: auto;" /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Soluciones" data-text-a="Soluciones" data-text-b="Soluciones"></div><div class="feedback js-feedback js-hidden" style="display: none;"><ol>
+<li>
+<ol type="a">
+<li>\(A=\frac{46}{3}\).</li>
+<li>\(A=\frac{17}{3}\).</li>
+<li>\(A=8\).</li>
+<li>\(A=4\).</li>
+</ol>
+</li>
+<li>
+<ol type="a">
+<li>\(\displaystyle \int_0^3\sqrt{9-x^2}\,dx=\frac{9\pi}{4}\).</li>
+<li>\(\displaystyle \int_{-4}^{4}\sqrt{16-x^2}\,dx=8\pi\).</li>
+<li>\(\displaystyle \int_{-2}^{2}(2-|x|)\,dx=4\).</li>
+<li>\(\displaystyle \int_0^5(5-x)\,dx=\frac{25}{2}\).</li>
+</ol>
+</li>
+<li>
+<ol type="a">
+<li>Las regiones situadas por debajo del eje \(x\) contribuyen negativamente a la integral.</li>
+<li>\(A=\displaystyle \int_0^2 f(x)\,dx-\int_2^5 f(x)\,dx+\int_5^8 f(x)\,dx\).</li>
+<li>
+<ol type="i">
+<li>\(\displaystyle \int_0^8 f(x)\,dx=3-5+4=2\).</li>
+<li>\(A=3+5+4=12\).</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqmahy4-qmh8wrghd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><strong>Calcula o interpreta las siguientes áreas e integrales.</strong> En cada caso, justifica el procedimiento utilizado.</p>\n<ol>\n<li>Determina el área comprendida entre la gráfica de la función y el eje \\(x\\) en el intervalo indicado. Antes de integrar, localiza los puntos en los que la función corta al eje \\(x\\).\n<ol type=\"a\">\n<li>\\(f(x)=x^2-4\\), en el intervalo \\([-3,3]\\).</li>\n<li>\\(f(x)=x^2-5x+6\\), en el intervalo \\([0,4]\\).</li>\n<li>\\(f(x)=x(x-2)(x+2)\\), en el intervalo \\([-2,2]\\).</li>\n<li>\\(f(x)=(x-1)(x-3)\\), en el intervalo \\([0,4]\\).</li>\n</ol>\n</li>\n<li>Determina el valor de las siguientes integrales <strong>sin calcular primitivas</strong>. Interpreta cada integral geométricamente.\n<ol type=\"a\">\n<li>La gráfica de \\(f(x)=\\sqrt{9-x^2}\\) es la semicircunferencia superior de radio \\(3\\). Determina \\(\\int_0^3 \\sqrt{9-x^2}\\,dx\\).</li>\n<li>La gráfica de \\(f(x)=\\sqrt{16-x^2}\\) es la semicircunferencia superior de radio \\(4\\). Determina \\(\\int_{-4}^{4}\\sqrt{16-x^2}\\,dx\\).</li>\n<li>Determina \\(\\int_{-2}^{2}(2-|x|)\\,dx\\) interpretando la gráfica como una figura geométrica conocida.</li>\n<li>Determina \\(\\int_0^5(5-x)\\,dx\\) utilizando únicamente una interpretación geométrica.</li>\n</ol>\n</li>\n<li>Observa la figura correspondiente y responde.\n<ol type=\"a\">\n<li>Explica por qué el área total sombreada no coincide necesariamente con \\(\\int_0^8 f(x)\\,dx\\).</li>\n<li>La gráfica corta al eje \\(x\\) en \\(x=0\\), \\(x=2\\), \\(x=5\\) y \\(x=8\\). Escribe el área total sombreada como suma de integrales.</li>\n<li>Si \\(\\int_0^2 f(x)\\,dx=3\\), \\(\\int_2^5 f(x)\\,dx=-5\\) y \\(\\int_5^8 f(x)\\,dx=4\\), calcula:\n<ol type=\"i\">\n<li>el valor de \\(\\int_0^8 f(x)\\,dx\\);</li>\n<li>el área total sombreada.</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>\n<p><img src=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 09_04_56.png\" title=\"área de ejercicio con cambios de signo\" width=\"332\" height=\"154\" alt=\"área de ejercicio con cambios de signo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ol>\n<li>\n<ol type=\"a\">\n<li>\\(A=\\frac{46}{3}\\).</li>\n<li>\\(A=\\frac{17}{3}\\).</li>\n<li>\\(A=8\\).</li>\n<li>\\(A=4\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>\\(\\displaystyle \\int_0^3\\sqrt{9-x^2}\\,dx=\\frac{9\\pi}{4}\\).</li>\n<li>\\(\\displaystyle \\int_{-4}^{4}\\sqrt{16-x^2}\\,dx=8\\pi\\).</li>\n<li>\\(\\displaystyle \\int_{-2}^{2}(2-|x|)\\,dx=4\\).</li>\n<li>\\(\\displaystyle \\int_0^5(5-x)\\,dx=\\frac{25}{2}\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>Las regiones situadas por debajo del eje \\(x\\) contribuyen negativamente a la integral.</li>\n<li>\\(A=\\displaystyle \\int_0^2 f(x)\\,dx-\\int_2^5 f(x)\\,dx+\\int_5^8 f(x)\\,dx\\).</li>\n<li>\n<ol type=\"i\">\n<li>\\(\\displaystyle \\int_0^8 f(x)\\,dx=3-5+4=2\\).</li>\n<li>\\(A=3+5+4=12\\).</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<ol>\n<li>\n<ol type=\"a\">\n<li>\\(A=\\frac{46}{3}\\).</li>\n<li>\\(A=\\frac{17}{3}\\).</li>\n<li>\\(A=8\\).</li>\n<li>\\(A=4\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>\\(\\displaystyle \\int_0^3\\sqrt{9-x^2}\\,dx=\\frac{9\\pi}{4}\\).</li>\n<li>\\(\\displaystyle \\int_{-4}^{4}\\sqrt{16-x^2}\\,dx=8\\pi\\).</li>\n<li>\\(\\displaystyle \\int_{-2}^{2}(2-|x|)\\,dx=4\\).</li>\n<li>\\(\\displaystyle \\int_0^5(5-x)\\,dx=\\frac{25}{2}\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>Las regiones situadas por debajo del eje \\(x\\) contribuyen negativamente a la integral.</li>\n<li>\\(A=\\displaystyle \\int_0^2 f(x)\\,dx-\\int_2^5 f(x)\\,dx+\\int_5^8 f(x)\\,dx\\).</li>\n<li>\n<ol type=\"i\">\n<li>\\(\\displaystyle \\int_0^8 f(x)\\,dx=3-5+4=2\\).</li>\n<li>\\(A=3+5+4=12\\).</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-muqksjtb-fv9m09are</odePageId>
+      <odeBlockId>block-muqmi219-upi9m2na0</odeBlockId>
+      <blockName>Área entre dos curvas</blockName>
+      <iconName>udl_rep_caso</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muqksjtb-fv9m09are</odePageId>
+          <odeBlockId>block-muqmi219-upi9m2na0</odeBlockId>
+          <odeIdeviceId>idevice-muqmi219-72jnsblp5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;">
+<p style="color: red;"><strong>Área entre dos curvas</strong></p>
+<p>Sean \(f(x)\) y \(g(x)\) dos funciones continuas en un intervalo \([a,b]\), con \(f(x)\geq g(x)\) para todo \(x\in[a,b]\).</p>
+<p>El área comprendida entre ambas gráficas viene dada por</p>
+<p>\[\displaystyle \boxed{A=\int_a^b \bigl(f(x)-g(x)\bigr)\,dx}\]</p>
+<p>Es decir, se integra siempre <strong>función superior menos función inferior</strong>.</p>
+<p>Si las curvas se cortan dentro del intervalo, hay que dividir el problema en varios tramos y, en cada uno, restar la función que queda abajo de la que queda arriba.</p>
+<p><img src="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 09_13_08.png" title="Área entre dos curvas" width="811" height="349" alt="Área entre dos curvas" style="display: block; margin-left: auto; margin-right: auto;" /><br /></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqmi219-72jnsblp5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;\">\n<p style=\"color: red;\"><strong>Área entre dos curvas</strong></p>\n<p>Sean \\(f(x)\\) y \\(g(x)\\) dos funciones continuas en un intervalo \\([a,b]\\), con \\(f(x)\\geq g(x)\\) para todo \\(x\\in[a,b]\\).</p>\n<p>El área comprendida entre ambas gráficas viene dada por</p>\n<p>\\[\\displaystyle \\boxed{A=\\int_a^b \\bigl(f(x)-g(x)\\bigr)\\,dx}\\]</p>\n<p>Es decir, se integra siempre <strong>función superior menos función inferior</strong>.</p>\n<p>Si las curvas se cortan dentro del intervalo, hay que dividir el problema en varios tramos y, en cada uno, restar la función que queda abajo de la que queda arriba.</p>\n<p><img src=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 09_13_08.png\" title=\"Área entre dos curvas\" width=\"811\" height=\"349\" alt=\"Área entre dos curvas\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><br /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-muqksjtb-fv9m09are</odePageId>
+      <odeBlockId>block-muqmrd1i-mfkwbz16k</odeBlockId>
+      <blockName>A practicar</blockName>
+      <iconName>udl_sup_escribe</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-muqksjtb-fv9m09are</odePageId>
+          <odeBlockId>block-muqmrd1i-mfkwbz16k</odeBlockId>
+          <odeIdeviceId>idevice-muqmrd1i-qf7yx79dh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><p><strong>Calcula el área de las regiones indicadas.</strong> Representa las funciones cuando sea necesario y determina primero sus puntos de intersección. Comprueba los resultados con la calculadora <strong>NumWorks</strong>.</p>
+<ol>
+<li>Determina el área de la región limitada por \(y=x^2-4x\) y la recta \(y=5\).</li>
+<li>Considera las funciones \(f(x)=x-2\) y \(g(x)=x^2-4x\).
+<ol type="a">
+<li>Representa ambas funciones en el mismo sistema de ejes.</li>
+<li>Calcula algebraicamente sus puntos de intersección.</li>
+<li>Determina el área de la región encerrada entre ambas gráficas.</li>
+</ol>
+</li>
+<li>Determina el área de la región encerrada por las gráficas \(y=\sqrt{x}\) y \(y=x^3\).</li>
+<li>Considera las funciones \(f(x)=e^x-1\) y \(g(x)=3-3e^{-x}\).
+<ol type="a">
+<li>Estudia sus puntos de corte con los ejes y sus asíntotas.</li>
+<li>Determina algebraicamente los puntos de intersección entre ambas curvas.</li>
+<li>Calcula el área de la región encerrada entre ellas.</li>
+</ol>
+</li>
+<li>Determina el área de la región limitada por \(y=3e^x\), \(y=e^{2x}\) y el eje \(y\).</li>
+<li>Representa en el mismo sistema de ejes las curvas \(y=3x\) y \(y^2=6x\).
+<ol type="a">
+<li>Calcula sus puntos de intersección.</li>
+<li>Determina el área de la región encerrada por ambas curvas.</li>
+</ol>
+</li>
+<li>Las gráficas de \(f\) y \(g\) se cortan en \(x=-1\), \(x=2\) y \(x=4\). En \([-1,2]\) se cumple \(f(x)\geq g(x)\), mientras que en \([2,4]\) se cumple \(g(x)\geq f(x)\).
+<ol type="a">
+<li>Escribe el área encerrada entre ambas curvas como suma de dos integrales definidas.</li>
+<li>Escribe la misma área mediante una única integral utilizando valor absoluto.</li>
+</ol>
+</li>
+<li>Determina el área total encerrada entre las siguientes parejas de curvas:
+<ol type="a">
+<li>\(y=x^3-4x\) y \(y=x^2-4\).</li>
+<li>\(y=-x^3+3x^2+4x-6\) y \(y=2x-2\).</li>
+<li>\(y=2x^3-3x^2+4\) y \(y=x^3+3x-2\).</li>
+</ol>
+</li>
+</ol><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Soluciones" data-text-a="Soluciones" data-text-b="Soluciones"></div><div class="feedback js-feedback js-hidden" style="display: none;"><ol>
+<li>\(A=\int_{-1}^{5}\bigl(5-(x^2-4x)\bigr)\,dx=36\).</li>
+<li>
+<ol type="a">
+<li>Puntos de corte: \(x=\frac{5-\sqrt{17}}{2}\) y \(x=\frac{5+\sqrt{17}}{2}\).</li>
+<li>\(A=\frac{17\sqrt{17}}{6}\).</li>
+</ol>
+</li>
+<li>Puntos de corte: \(x=0\) y \(x=1\). \(A=\int_0^1(\sqrt{x}-x^3)\,dx=\frac{5}{12}\).</li>
+<li>
+<ol type="a">
+<li>Puntos de intersección: \(x=0\) y \(x=\ln 3\).</li>
+<li>\(A=\int_0^{\ln 3}\bigl(3-3e^{-x}-(e^x-1)\bigr)\,dx=4\ln 3-4\).</li>
+</ol>
+</li>
+<li>Punto de corte distinto del eje \(y\): \(x=\ln 3\). \(A=\int_0^{\ln 3}(3e^x-e^{2x})\,dx=2\).</li>
+<li>
+<ol type="a">
+<li>Puntos de intersección: \((0,0)\) y \(\left(\frac23,2\right)\).</li>
+<li>\(A=\int_0^2\left(\frac{y}{3}-\frac{y^2}{6}\right)\,dy=\frac{2}{9}\).</li>
+</ol>
+</li>
+<li>
+<ol type="a">
+<li>\(A=\int_{-1}^{2}(f-g)\,dx+\int_{2}^{4}(g-f)\,dx\).</li>
+<li>\(A=\int_{-1}^{4}|f(x)-g(x)|\,dx\).</li>
+</ol>
+</li>
+<li>
+<ol type="a">
+<li>Puntos de corte: \(x=-2,1,2\). \(A=\frac{71}{6}\).</li>
+<li>Puntos de corte: \(x=1-\sqrt5,1,1+\sqrt5\). \(A=\frac{25}{2}\).</li>
+<li>Puntos de corte aproximados: \(x\approx-1.529,\ 1.167,\ 3.361\). \(A\approx18.251\).</li>
+</ol>
+</li>
+</ol></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqmrd1i-qf7yx79dh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><strong>Calcula el área de las regiones indicadas.</strong> Representa las funciones cuando sea necesario y determina primero sus puntos de intersección. Comprueba los resultados con la calculadora <strong>NumWorks</strong>.</p>\n<ol>\n<li>Determina el área de la región limitada por \\(y=x^2-4x\\) y la recta \\(y=5\\).</li>\n<li>Considera las funciones \\(f(x)=x-2\\) y \\(g(x)=x^2-4x\\).\n<ol type=\"a\">\n<li>Representa ambas funciones en el mismo sistema de ejes.</li>\n<li>Calcula algebraicamente sus puntos de intersección.</li>\n<li>Determina el área de la región encerrada entre ambas gráficas.</li>\n</ol>\n</li>\n<li>Determina el área de la región encerrada por las gráficas \\(y=\\sqrt{x}\\) y \\(y=x^3\\).</li>\n<li>Considera las funciones \\(f(x)=e^x-1\\) y \\(g(x)=3-3e^{-x}\\).\n<ol type=\"a\">\n<li>Estudia sus puntos de corte con los ejes y sus asíntotas.</li>\n<li>Determina algebraicamente los puntos de intersección entre ambas curvas.</li>\n<li>Calcula el área de la región encerrada entre ellas.</li>\n</ol>\n</li>\n<li>Determina el área de la región limitada por \\(y=3e^x\\), \\(y=e^{2x}\\) y el eje \\(y\\).</li>\n<li>Representa en el mismo sistema de ejes las curvas \\(y=3x\\) y \\(y^2=6x\\).\n<ol type=\"a\">\n<li>Calcula sus puntos de intersección.</li>\n<li>Determina el área de la región encerrada por ambas curvas.</li>\n</ol>\n</li>\n<li>Las gráficas de \\(f\\) y \\(g\\) se cortan en \\(x=-1\\), \\(x=2\\) y \\(x=4\\). En \\([-1,2]\\) se cumple \\(f(x)\\geq g(x)\\), mientras que en \\([2,4]\\) se cumple \\(g(x)\\geq f(x)\\).\n<ol type=\"a\">\n<li>Escribe el área encerrada entre ambas curvas como suma de dos integrales definidas.</li>\n<li>Escribe la misma área mediante una única integral utilizando valor absoluto.</li>\n</ol>\n</li>\n<li>Determina el área total encerrada entre las siguientes parejas de curvas:\n<ol type=\"a\">\n<li>\\(y=x^3-4x\\) y \\(y=x^2-4\\).</li>\n<li>\\(y=-x^3+3x^2+4x-6\\) y \\(y=2x-2\\).</li>\n<li>\\(y=2x^3-3x^2+4\\) y \\(y=x^3+3x-2\\).</li>\n</ol>\n</li>\n</ol><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ol>\n<li>\\(A=\\int_{-1}^{5}\\bigl(5-(x^2-4x)\\bigr)\\,dx=36\\).</li>\n<li>\n<ol type=\"a\">\n<li>Puntos de corte: \\(x=\\frac{5-\\sqrt{17}}{2}\\) y \\(x=\\frac{5+\\sqrt{17}}{2}\\).</li>\n<li>\\(A=\\frac{17\\sqrt{17}}{6}\\).</li>\n</ol>\n</li>\n<li>Puntos de corte: \\(x=0\\) y \\(x=1\\). \\(A=\\int_0^1(\\sqrt{x}-x^3)\\,dx=\\frac{5}{12}\\).</li>\n<li>\n<ol type=\"a\">\n<li>Puntos de intersección: \\(x=0\\) y \\(x=\\ln 3\\).</li>\n<li>\\(A=\\int_0^{\\ln 3}\\bigl(3-3e^{-x}-(e^x-1)\\bigr)\\,dx=4\\ln 3-4\\).</li>\n</ol>\n</li>\n<li>Punto de corte distinto del eje \\(y\\): \\(x=\\ln 3\\). \\(A=\\int_0^{\\ln 3}(3e^x-e^{2x})\\,dx=2\\).</li>\n<li>\n<ol type=\"a\">\n<li>Puntos de intersección: \\((0,0)\\) y \\(\\left(\\frac23,2\\right)\\).</li>\n<li>\\(A=\\int_0^2\\left(\\frac{y}{3}-\\frac{y^2}{6}\\right)\\,dy=\\frac{2}{9}\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>\\(A=\\int_{-1}^{2}(f-g)\\,dx+\\int_{2}^{4}(g-f)\\,dx\\).</li>\n<li>\\(A=\\int_{-1}^{4}|f(x)-g(x)|\\,dx\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>Puntos de corte: \\(x=-2,1,2\\). \\(A=\\frac{71}{6}\\).</li>\n<li>Puntos de corte: \\(x=1-\\sqrt5,1,1+\\sqrt5\\). \\(A=\\frac{25}{2}\\).</li>\n<li>Puntos de corte aproximados: \\(x\\approx-1.529,\\ 1.167,\\ 3.361\\). \\(A\\approx18.251\\).</li>\n</ol>\n</li>\n</ol></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<ol>\n<li>\\(A=\\int_{-1}^{5}\\bigl(5-(x^2-4x)\\bigr)\\,dx=36\\).</li>\n<li>\n<ol type=\"a\">\n<li>Puntos de corte: \\(x=\\frac{5-\\sqrt{17}}{2}\\) y \\(x=\\frac{5+\\sqrt{17}}{2}\\).</li>\n<li>\\(A=\\frac{17\\sqrt{17}}{6}\\).</li>\n</ol>\n</li>\n<li>Puntos de corte: \\(x=0\\) y \\(x=1\\). \\(A=\\int_0^1(\\sqrt{x}-x^3)\\,dx=\\frac{5}{12}\\).</li>\n<li>\n<ol type=\"a\">\n<li>Puntos de intersección: \\(x=0\\) y \\(x=\\ln 3\\).</li>\n<li>\\(A=\\int_0^{\\ln 3}\\bigl(3-3e^{-x}-(e^x-1)\\bigr)\\,dx=4\\ln 3-4\\).</li>\n</ol>\n</li>\n<li>Punto de corte distinto del eje \\(y\\): \\(x=\\ln 3\\). \\(A=\\int_0^{\\ln 3}(3e^x-e^{2x})\\,dx=2\\).</li>\n<li>\n<ol type=\"a\">\n<li>Puntos de intersección: \\((0,0)\\) y \\(\\left(\\frac23,2\\right)\\).</li>\n<li>\\(A=\\int_0^2\\left(\\frac{y}{3}-\\frac{y^2}{6}\\right)\\,dy=\\frac{2}{9}\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>\\(A=\\int_{-1}^{2}(f-g)\\,dx+\\int_{2}^{4}(g-f)\\,dx\\).</li>\n<li>\\(A=\\int_{-1}^{4}|f(x)-g(x)|\\,dx\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>Puntos de corte: \\(x=-2,1,2\\). \\(A=\\frac{71}{6}\\).</li>\n<li>Puntos de corte: \\(x=1-\\sqrt5,1,1+\\sqrt5\\). \\(A=\\frac{25}{2}\\).</li>\n<li>Puntos de corte aproximados: \\(x\\approx-1.529,\\ 1.167,\\ 3.361\\). \\(A\\approx18.251\\).</li>\n</ol>\n</li>\n</ol>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mu2is0nl-cmo86edfb</odePageId>
+  <odeParentPageId>page-mu2fmdmq-4yh4l6b4m</odeParentPageId>
+  <pageName>Volúmenes de revolución</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Volúmenes de revolución</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Volúmenes de revolución</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mu2is0nl-cmo86edfb</odePageId>
+      <odeBlockId>block-mu2jdurp-yv0xesntm</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mu2is0nl-cmo86edfb</odePageId>
+          <odeBlockId>block-mu2jdurp-yv0xesntm</odeBlockId>
+          <odeIdeviceId>idevice-1789468571652-6cr8alpkw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/images.jpg" title="Comingu soon" width="679" height="452" alt="Cooming soon" /></p>
+<p>(Segundo semestre)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789468571652-6cr8alpkw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/images.jpg\" title=\"Comingu soon\" width=\"679\" height=\"452\" alt=\"Cooming soon\" /></p>\n<p>(Segundo semestre)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -7225,100 +8040,6 @@ El límite se reduce a comparar las exponenciales dominantes:
     <p><img src="{{context_path}}/content/resources/images.jpg" title="cooming soon" width="679" height="452" alt="cooming soon" /></p>
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1789468077459-jqjl6hdi3","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><img src=\"{{context_path}}/content/resources/images.jpg\" title=\"cooming soon\" width=\"679\" height=\"452\" alt=\"cooming soon\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
-  <odePageId>page-mu2is0nl-cmo86edfb</odePageId>
-  <odeParentPageId>page-mqkx76g1-t5mddzcuo</odeParentPageId>
-  <pageName>Volúmenes de revolución</pageName>
-  <odeNavStructureOrder>3</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Volúmenes de revolución</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Volúmenes de revolución</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value></value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-    <odePagStructure>
-      <odePageId>page-mu2is0nl-cmo86edfb</odePageId>
-      <odeBlockId>block-mu2jdurp-yv0xesntm</odeBlockId>
-      <blockName></blockName>
-      <iconName></iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mu2is0nl-cmo86edfb</odePageId>
-          <odeBlockId>block-mu2jdurp-yv0xesntm</odeBlockId>
-          <odeIdeviceId>idevice-1789468571652-6cr8alpkw</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/images.jpg" title="Comingu soon" width="679" height="452" alt="Cooming soon" /></p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1789468571652-6cr8alpkw","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><img src=\"{{context_path}}/content/resources/images.jpg\" title=\"Comingu soon\" width=\"679\" height=\"452\" alt=\"Cooming soon\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
