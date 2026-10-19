@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1791176059703</value>
+    <value>1792388852054</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -4352,12 +4352,22 @@ El límite se reduce a comparar las exponenciales dominantes:
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <ul>
+<li>Integral indefinida
+<ul>
 <li><a href="https://cloud.educa.madrid.org/s/gEGGzPdfE9Hk7Ni" target="_blank" title="" rel="noopener">Integral indefinida - Resumen de teoría y ejercicios</a></li>
 <li><a href="https://cloud.educa.madrid.org/s/zCWWkmXmr9yimRn" target="_blank" title="" rel="noopener">Integrales indefinidas variadas (3 grupos de 8 integrales variadas de dificultad creciente)</a></li>
 <li><a href="https://cloud.educa.madrid.org/s/e2q9YYCtXFQttRH" title="">Integrales indefinidas variadas 2 (otros 3 grupos de 8 integrales).</a></li>
 </ul>
+</li>
+<li>Integral definida
+<ul>
+<li><a href="https://cloud.educa.madrid.org/s/xwDRBZq4DopkP7q" target="_blank" title="" rel="noopener">Integral definida: problemas (traducción de sección francesa).</a></li>
+<li><a href="https://cloud.educa.madrid.org/s/Cb3c9EMS2HjN3fA" target="_blank" title="" rel="noopener">Problemas BAC-PREBAC</a></li>
+</ul>
+</li>
+</ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-mqov9aor-xtcum227t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><a href=\"https://cloud.educa.madrid.org/s/gEGGzPdfE9Hk7Ni\" target=\"_blank\" title=\"\" rel=\"noopener\">Integral indefinida - Resumen de teoría y ejercicios</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/zCWWkmXmr9yimRn\" target=\"_blank\" title=\"\" rel=\"noopener\">Integrales indefinidas variadas (3 grupos de 8 integrales variadas de dificultad creciente)</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/e2q9YYCtXFQttRH\" title=\"\">Integrales indefinidas variadas 2 (otros 3 grupos de 8 integrales).</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mqov9aor-xtcum227t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Integral indefinida\n<ul>\n<li><a href=\"https://cloud.educa.madrid.org/s/gEGGzPdfE9Hk7Ni\" target=\"_blank\" title=\"\" rel=\"noopener\">Integral indefinida - Resumen de teoría y ejercicios</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/zCWWkmXmr9yimRn\" target=\"_blank\" title=\"\" rel=\"noopener\">Integrales indefinidas variadas (3 grupos de 8 integrales variadas de dificultad creciente)</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/e2q9YYCtXFQttRH\" title=\"\">Integrales indefinidas variadas 2 (otros 3 grupos de 8 integrales).</a></li>\n</ul>\n</li>\n<li>Integral definida\n<ul>\n<li><a href=\"https://cloud.educa.madrid.org/s/xwDRBZq4DopkP7q\" target=\"_blank\" title=\"\" rel=\"noopener\">Integral definida: problemas (traducción de sección francesa).</a></li>\n<li><a href=\"https://cloud.educa.madrid.org/s/Cb3c9EMS2HjN3fA\" target=\"_blank\" title=\"\" rel=\"noopener\">Problemas BAC-PREBAC</a></li>\n</ul>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -8241,6 +8251,747 @@ El límite se reduce a comparar las exponenciales dominantes:
               <key>cssClass</key>
               <value></value>
             </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvetnyxj-k209sefpc</odePageId>
+  <odeParentPageId>page-mqkx76g1-92ll202oq</odeParentPageId>
+  <pageName>Repaso de S6Ma5</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Repaso de S6Ma5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Repaso de S6Ma5</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvetnyxj-k209sefpc</odePageId>
+      <odeBlockId>block-mvetqy8b-i4hy88x9q</odeBlockId>
+      <blockName>Forma binómica, trigonométrica y polar</blockName>
+      <iconName>udl_exp_lee</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvetnyxj-k209sefpc</odePageId>
+          <odeBlockId>block-mvetqy8b-i4hy88x9q</odeBlockId>
+          <odeIdeviceId>idevice-1792388355274-5x6zahqui</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <!-- Tabla resumen: Formas de un número complejo -->
+<div style="box-sizing: border-box; background: #f9f9f9; border: 3px solid #ee1111; border-radius: 6px; padding: 12px 14px; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; color: #111111; max-width: 980px; margin: 0 0 12px; text-align: center;"><strong>Resumen de las formas de un número complejo</strong>
+<table style="border-collapse: collapse; width: 100%; color: #111; line-height: 1.5; font-size: 16px; text-align: center; margin-top: 10px;">
+<thead>
+<tr style="background: #f0f0f0;">
+<th style="border: 1px solid #ccc; padding: 8px; width: 180px;">Forma</th>
+<th style="border: 1px solid #ccc; padding: 8px;">Expresión y significado</th>
+<th style="border: 1px solid #ccc; padding: 8px;">Ejemplo</th>
+</tr>
+</thead>
+<tbody><!-- Binómica -->
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;">Binómica</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\[z=a+bi\]</p>
+<p>\(a\): parte real</p>
+<p>\(b\): parte imaginaria</p>
+<p>Se representa mediante el punto \((a,b)\) en el plano complejo.</p>
+</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\[z=1+\sqrt{3}i\]</p>
+<p>\(\operatorname{Re}(z)=1\)</p>
+<p>\(\operatorname{Im}(z)=\sqrt{3}\)</p>
+</td>
+</tr>
+<!-- Trigonométrica -->
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;">Trigonométrica</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\[z=r(\cos\theta+i\operatorname{sen}\theta)\]</p>
+<p>\(r=|z|\): módulo</p>
+<p>\(\theta=\arg(z)\): argumento</p>
+<p>\(a=r\cos\theta,\quad b=r\operatorname{sen}\theta\)</p>
+</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\[z=2\left(\cos\frac{\pi}{3}+i\operatorname{sen}\frac{\pi}{3}\right)\]</p>
+</td>
+</tr>
+<!-- Polar -->
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;">Polar</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\[z=r_\theta\]</p>
+<p>Es una forma abreviada de la trigonométrica.</p>
+<p>Se indican únicamente el módulo \(r\) y el argumento \(\theta\).</p>
+</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\[z=2_{\frac{\pi}{3}}\]</p>
+</td>
+</tr>
+<!-- Conversión -->
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;">Conversión entre formas</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p><strong>De binómica a trigonométrica o polar:</strong></p>
+<p>\[r=\sqrt{a^2+b^2}\]</p>
+<p>\[\cos\theta=\frac{a}{r},\qquad \operatorname{sen}\theta=\frac{b}{r}\]</p>
+<p>Determinamos el argumento teniendo en cuenta el cuadrante.</p>
+<p><strong>De trigonométrica o polar a binómica:</strong></p>
+<p>\[a=r\cos\theta,\qquad b=r\operatorname{sen}\theta\]</p>
+</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\[z=1+\sqrt{3}i\]</p>
+<p>\[r=\sqrt{1+3}=2\]</p>
+<p>\[\theta=\frac{\pi}{3}\]</p>
+<p>\[z=2_{\frac{\pi}{3}}\]</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 14px; margin: 10px 0 0;"><strong>Importante:</strong> Si \(z\neq 0\), el argumento está definido salvo múltiplos enteros de \(2\pi\). El número \(z=0\) tiene módulo cero, pero no tiene argumento definido.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792388355274-5x6zahqui","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<!-- Tabla resumen: Formas de un número complejo -->\n<div style=\"box-sizing: border-box; background: #f9f9f9; border: 3px solid #ee1111; border-radius: 6px; padding: 12px 14px; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; color: #111111; max-width: 980px; margin: 0 0 12px; text-align: center;\"><strong>Resumen de las formas de un número complejo</strong>\n<table style=\"border-collapse: collapse; width: 100%; color: #111; line-height: 1.5; font-size: 16px; text-align: center; margin-top: 10px;\">\n<thead>\n<tr style=\"background: #f0f0f0;\">\n<th style=\"border: 1px solid #ccc; padding: 8px; width: 180px;\">Forma</th>\n<th style=\"border: 1px solid #ccc; padding: 8px;\">Expresión y significado</th>\n<th style=\"border: 1px solid #ccc; padding: 8px;\">Ejemplo</th>\n</tr>\n</thead>\n<tbody><!-- Binómica -->\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;\">Binómica</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\[z=a+bi\\]</p>\n<p>\\(a\\): parte real</p>\n<p>\\(b\\): parte imaginaria</p>\n<p>Se representa mediante el punto \\((a,b)\\) en el plano complejo.</p>\n</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\[z=1+\\sqrt{3}i\\]</p>\n<p>\\(\\operatorname{Re}(z)=1\\)</p>\n<p>\\(\\operatorname{Im}(z)=\\sqrt{3}\\)</p>\n</td>\n</tr>\n<!-- Trigonométrica -->\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;\">Trigonométrica</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\[z=r(\\cos\\theta+i\\operatorname{sen}\\theta)\\]</p>\n<p>\\(r=|z|\\): módulo</p>\n<p>\\(\\theta=\\arg(z)\\): argumento</p>\n<p>\\(a=r\\cos\\theta,\\quad b=r\\operatorname{sen}\\theta\\)</p>\n</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\[z=2\\left(\\cos\\frac{\\pi}{3}+i\\operatorname{sen}\\frac{\\pi}{3}\\right)\\]</p>\n</td>\n</tr>\n<!-- Polar -->\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;\">Polar</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\[z=r_\\theta\\]</p>\n<p>Es una forma abreviada de la trigonométrica.</p>\n<p>Se indican únicamente el módulo \\(r\\) y el argumento \\(\\theta\\).</p>\n</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\[z=2_{\\frac{\\pi}{3}}\\]</p>\n</td>\n</tr>\n<!-- Conversión -->\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;\">Conversión entre formas</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p><strong>De binómica a trigonométrica o polar:</strong></p>\n<p>\\[r=\\sqrt{a^2+b^2}\\]</p>\n<p>\\[\\cos\\theta=\\frac{a}{r},\\qquad \\operatorname{sen}\\theta=\\frac{b}{r}\\]</p>\n<p>Determinamos el argumento teniendo en cuenta el cuadrante.</p>\n<p><strong>De trigonométrica o polar a binómica:</strong></p>\n<p>\\[a=r\\cos\\theta,\\qquad b=r\\operatorname{sen}\\theta\\]</p>\n</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\[z=1+\\sqrt{3}i\\]</p>\n<p>\\[r=\\sqrt{1+3}=2\\]</p>\n<p>\\[\\theta=\\frac{\\pi}{3}\\]</p>\n<p>\\[z=2_{\\frac{\\pi}{3}}\\]</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"font-size: 14px; margin: 10px 0 0;\"><strong>Importante:</strong> Si \\(z\\neq 0\\), el argumento está definido salvo múltiplos enteros de \\(2\\pi\\). El número \\(z=0\\) tiene módulo cero, pero no tiene argumento definido.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvetnyxj-k209sefpc</odePageId>
+      <odeBlockId>block-mvets3vt-gh3dpoq34</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvetnyxj-k209sefpc</odePageId>
+          <odeBlockId>block-mvets3vt-gh3dpoq34</odeBlockId>
+          <odeIdeviceId>idevice-1792388409257-wyco2ggkv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Infografía sobre números complejos y plano de Argand-Gauss.png" title="Infografía forma binómica - trigonometrica" width="851" height="636" alt="Infografía forma binómica - trigonometrica" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792388409257-wyco2ggkv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Infografía sobre números complejos y plano de Argand-Gauss.png\" title=\"Infografía forma binómica - trigonometrica\" width=\"851\" height=\"636\" alt=\"Infografía forma binómica - trigonometrica\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvetnyxj-k209sefpc</odePageId>
+      <odeBlockId>block-mvetokhg-zfdxvrefo</odeBlockId>
+      <blockName>Operaciones en forma binómica</blockName>
+      <iconName>udl_exp_lee</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvetnyxj-k209sefpc</odePageId>
+          <odeBlockId>block-mvetokhg-zfdxvrefo</odeBlockId>
+          <odeIdeviceId>idevice-1792388244146-uz93o5dkf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <!-- Tabla resumen: Operaciones con números complejos -->
+<div style="box-sizing: border-box; background: #f9f9f9; border: 3px solid #ee1111; border-radius: 6px; padding: 12px 14px; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; color: #111111; max-width: 980px; margin: 0px 0px 12px; text-align: center;"><strong>Resumen de operaciones con números complejos en forma binómica</strong>
+<table style="border-collapse: collapse; width: 100%; font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; color: #111; line-height: 1.5; max-width: 980px; font-size: 16px; text-align: center; margin-top: 10px;">
+<thead>
+<tr style="background: #f0f0f0;">
+<th style="border: 1px solid #ccc; padding: 8px; width: 180px;">Operación</th>
+<th style="border: 1px solid #ccc; padding: 8px;">Procedimiento</th>
+<th style="border: 1px solid #ccc; padding: 8px;">Ejemplo</th>
+</tr>
+</thead>
+<tbody><!-- Suma y resta -->
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;">Suma y resta</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\((a+bi)\pm(c+di)=(a\pm c)+(b\pm d)i\)</p>
+<p>Parte real con parte real, parte imaginaria con parte imaginaria</p>
+</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\((3+2i)+(4-5i)=7-3i\)</td>
+</tr>
+<!-- Multiplicación -->
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;">Multiplicación</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\((a+bi)(c+di)=(ac-bd)+(ad+bc)i\)</p>
+<p>Multiplicamos de forma natural, teniendo en cuenta que \(i^2=-1\)</p>
+</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\((2+3i)(4+i)=5+14i\)</td>
+</tr>
+<!-- Potencias -->
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;">Potencias</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\[ i^1=i,\; i^2=-1,\; i^3=-i,\; i^4=1,\;\ldots \] \[ (a+bi)^n=\sum_{k=0}^{n}\binom{n}{k}a^{\,n-k}(bi)^k \]<br />(veremos una forma mejor de hacer esto)</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\((1+i)^4=-4\)</td>
+</tr>
+<!-- División -->
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;">División</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\[ \frac{a+bi}{c+di}=\frac{(a+bi)(c-di)}{c^2+d^2} \]</p>
+<p>Multiplicamos por el conjugado</p>
+</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\(\dfrac{3+2i}{1-i}=\tfrac{1}{2}+\tfrac{5}{2}i\)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792388244146-uz93o5dkf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<!-- Tabla resumen: Operaciones con números complejos -->\n<div style=\"box-sizing: border-box; background: #f9f9f9; border: 3px solid #ee1111; border-radius: 6px; padding: 12px 14px; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif; color: #111111; max-width: 980px; margin: 0px 0px 12px; text-align: center;\"><strong>Resumen de operaciones con números complejos en forma binómica</strong>\n<table style=\"border-collapse: collapse; width: 100%; font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; color: #111; line-height: 1.5; max-width: 980px; font-size: 16px; text-align: center; margin-top: 10px;\">\n<thead>\n<tr style=\"background: #f0f0f0;\">\n<th style=\"border: 1px solid #ccc; padding: 8px; width: 180px;\">Operación</th>\n<th style=\"border: 1px solid #ccc; padding: 8px;\">Procedimiento</th>\n<th style=\"border: 1px solid #ccc; padding: 8px;\">Ejemplo</th>\n</tr>\n</thead>\n<tbody><!-- Suma y resta -->\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;\">Suma y resta</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\((a+bi)\\pm(c+di)=(a\\pm c)+(b\\pm d)i\\)</p>\n<p>Parte real con parte real, parte imaginaria con parte imaginaria</p>\n</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\((3+2i)+(4-5i)=7-3i\\)</td>\n</tr>\n<!-- Multiplicación -->\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;\">Multiplicación</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\((a+bi)(c+di)=(ac-bd)+(ad+bc)i\\)</p>\n<p>Multiplicamos de forma natural, teniendo en cuenta que \\(i^2=-1\\)</p>\n</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\((2+3i)(4+i)=5+14i\\)</td>\n</tr>\n<!-- Potencias -->\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;\">Potencias</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\[ i^1=i,\\; i^2=-1,\\; i^3=-i,\\; i^4=1,\\;\\ldots \\] \\[ (a+bi)^n=\\sum_{k=0}^{n}\\binom{n}{k}a^{\\,n-k}(bi)^k \\]<br />(veremos una forma mejor de hacer esto)</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\((1+i)^4=-4\\)</td>\n</tr>\n<!-- División -->\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;\">División</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\[ \\frac{a+bi}{c+di}=\\frac{(a+bi)(c-di)}{c^2+d^2} \\]</p>\n<p>Multiplicamos por el conjugado</p>\n</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\(\\dfrac{3+2i}{1-i}=\\tfrac{1}{2}+\\tfrac{5}{2}i\\)</td>\n</tr>\n</tbody>\n</table>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvetnyxj-k209sefpc</odePageId>
+      <odeBlockId>block-mveu73ty-qtdcr73lo</odeBlockId>
+      <blockName>Operaciones en forma polar</blockName>
+      <iconName>udl_exp_lee</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvetnyxj-k209sefpc</odePageId>
+          <odeBlockId>block-mveu73ty-qtdcr73lo</odeBlockId>
+          <odeIdeviceId>idevice-1792389109028-ueffrznkp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <!-- Tabla resumen: Operaciones en forma polar -->
+<div style="box-sizing: border-box; background: #f9f9f9; border: 3px solid #ee1111; border-radius: 6px; padding: 12px 14px; font-family: Arial, sans-serif; color: #111; max-width: 980px; margin: 0 0 12px; text-align: center;">
+<table style="border-collapse: collapse; width: 100%; color: #111; line-height: 1.5; font-size: 16px; text-align: center; margin-top: 10px;">
+<thead>
+<tr style="background: #f0f0f0;">
+<th style="border: 1px solid #ccc; padding: 8px; width: 180px;">Operación</th>
+<th style="border: 1px solid #ccc; padding: 8px;">Procedimiento</th>
+<th style="border: 1px solid #ccc; padding: 8px;">Ejemplo</th>
+</tr>
+</thead>
+<tbody><!-- Multiplicación -->
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;">Multiplicación</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\[r_{\alpha}\cdot s_{\beta}=(rs)_{\alpha+\beta}\]</p>
+<p>Multiplicamos los módulos y sumamos los argumentos.</p>
+</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\[ 2_{\frac{\pi}{6}}\cdot 3_{\frac{\pi}{4}} =6_{\frac{5\pi}{12}} \]</td>
+</tr>
+<!-- División -->
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;">División</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\[\frac{r_{\alpha}}{s_{\beta}}= \left(\frac{r}{s}\right)_{\alpha-\beta}\]</p>
+<p>Dividimos los módulos y restamos los argumentos.</p>
+<p>El módulo del divisor debe ser distinto de cero.</p>
+</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\[ \frac{8_{\frac{5\pi}{9}}}{2_{\frac{2\pi}{9}}} =4_{\frac{\pi}{3}} \]</td>
+</tr>
+<!-- Potencias -->
+<tr>
+<td style="border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;">Potencias</td>
+<td style="border: 1px solid #ccc; padding: 8px;">
+<p>\[(r_{\alpha})^n=(r^n)_{n\alpha}\]</p>
+<p>Elevamos el módulo a la potencia y multiplicamos el argumento por el exponente.</p>
+<p>(Fórmula de Moivre)</p>
+</td>
+<td style="border: 1px solid #ccc; padding: 8px;">\[ (2_{\frac{\pi}{6}})^3 =8_{\frac{\pi}{2}} \]</td>
+</tr>
+</tbody>
+</table>
+<p style="font-size: 14px; margin: 12px 0 0;"><strong>Recuerda:</strong> Los argumentos se expresan en radianes y dos argumentos que difieren en un múltiplo entero de \(2\pi\) representan el mismo número complejo.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792389109028-ueffrznkp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<!-- Tabla resumen: Operaciones en forma polar -->\n<div style=\"box-sizing: border-box; background: #f9f9f9; border: 3px solid #ee1111; border-radius: 6px; padding: 12px 14px; font-family: Arial, sans-serif; color: #111; max-width: 980px; margin: 0 0 12px; text-align: center;\">\n<table style=\"border-collapse: collapse; width: 100%; color: #111; line-height: 1.5; font-size: 16px; text-align: center; margin-top: 10px;\">\n<thead>\n<tr style=\"background: #f0f0f0;\">\n<th style=\"border: 1px solid #ccc; padding: 8px; width: 180px;\">Operación</th>\n<th style=\"border: 1px solid #ccc; padding: 8px;\">Procedimiento</th>\n<th style=\"border: 1px solid #ccc; padding: 8px;\">Ejemplo</th>\n</tr>\n</thead>\n<tbody><!-- Multiplicación -->\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;\">Multiplicación</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\[r_{\\alpha}\\cdot s_{\\beta}=(rs)_{\\alpha+\\beta}\\]</p>\n<p>Multiplicamos los módulos y sumamos los argumentos.</p>\n</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\[ 2_{\\frac{\\pi}{6}}\\cdot 3_{\\frac{\\pi}{4}} =6_{\\frac{5\\pi}{12}} \\]</td>\n</tr>\n<!-- División -->\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;\">División</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\[\\frac{r_{\\alpha}}{s_{\\beta}}= \\left(\\frac{r}{s}\\right)_{\\alpha-\\beta}\\]</p>\n<p>Dividimos los módulos y restamos los argumentos.</p>\n<p>El módulo del divisor debe ser distinto de cero.</p>\n</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\[ \\frac{8_{\\frac{5\\pi}{9}}}{2_{\\frac{2\\pi}{9}}} =4_{\\frac{\\pi}{3}} \\]</td>\n</tr>\n<!-- Potencias -->\n<tr>\n<td style=\"border: 1px solid #ccc; padding: 8px; background: #fdf2f2; font-weight: bold;\">Potencias</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\n<p>\\[(r_{\\alpha})^n=(r^n)_{n\\alpha}\\]</p>\n<p>Elevamos el módulo a la potencia y multiplicamos el argumento por el exponente.</p>\n<p>(Fórmula de Moivre)</p>\n</td>\n<td style=\"border: 1px solid #ccc; padding: 8px;\">\\[ (2_{\\frac{\\pi}{6}})^3 =8_{\\frac{\\pi}{2}} \\]</td>\n</tr>\n</tbody>\n</table>\n<p style=\"font-size: 14px; margin: 12px 0 0;\"><strong>Recuerda:</strong> Los argumentos se expresan en radianes y dos argumentos que difieren en un múltiplo entero de \\(2\\pi\\) representan el mismo número complejo.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvetnyxj-k209sefpc</odePageId>
+      <odeBlockId>block-mveuehmj-d3lc7cnuz</odeBlockId>
+      <blockName>A practicar</blockName>
+      <iconName>udl_exp_coproducciontxt</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvetnyxj-k209sefpc</odePageId>
+          <odeBlockId>block-mveuehmj-d3lc7cnuz</odeBlockId>
+          <odeIdeviceId>idevice-1792389453497-ftd1uu5nv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><ol>
+<li><strong>Formas binómica, trigonométrica y polar</strong>
+<p>Dados los siguientes números complejos:</p>
+<p>\(z_1=-1+\sqrt{3}i,\quad z_2=-\sqrt{3}-i,\quad z_3=1-\sqrt{3}i\)</p>
+<ol type="a">
+<li>Representa los tres números en el plano complejo (Argand-Gauss) e indica en qué cuadrante se encuentran.</li>
+<li>Calcula el módulo y el argumento de cada uno, expresando los argumentos en el intervalo \([0,2\pi)\).</li>
+<li>Escríbelos en forma trigonométrica y polar.</li>
+<li>Explica por qué no basta con calcular \(\arctan(b/a)\) para determinar correctamente el argumento.</li>
+</ol>
+</li>
+<li><strong>Operaciones en forma binómica</strong>
+<p>Considera los números complejos:</p>
+<p>\(z=-1-i,\quad w=1-i\)</p>
+<ol type="a">
+<li>Calcula \(z+w\), \(z-w\) y \(z\cdot w\), expresando los resultados en forma binómica.</li>
+<li>Calcula \(\dfrac{z}{w}\), multiplicando numerador y denominador por el conjugado del denominador.</li>
+<li>Expresa \(z\) y \(w\) en forma polar, con argumentos en \([0,2\pi)\).</li>
+<li>Comprueba el resultado del producto y del cociente realizando las mismas operaciones en forma polar.</li>
+</ol>
+</li>
+<li><strong>Operaciones en forma polar y potencias</strong>
+<p>Sean los números complejos, dados en forma polar:</p>
+<p>\(z=2_{\frac{5\pi}{4}},\quad w=3_{\frac{11\pi}{6}}\)</p>
+<ol type="a">
+<li>Expresa \(z\) y \(w\) en forma binómica e indica en qué cuadrante se encuentran.</li>
+<li>Calcula \(z\cdot w\) en forma polar y expresa su argumento en \([0,2\pi)\).</li>
+<li>Calcula \(\dfrac{z}{w}\) en forma polar y expresa su argumento en \([0,2\pi)\).</li>
+<li>Calcula \(z^4\). Expresa el resultado en forma polar y binómica.</li>
+<li>Comprueba el resultado de \(z\cdot w\) multiplicando los complejos en forma binómica.</li>
+</ol>
+</li>
+</ol>
+<p><strong>Recuerda:</strong> Al calcular el argumento de un complejo mediante la arcotangente, debes tener en cuenta el cuadrante en el que se encuentra. En estos ejercicios, expresa siempre los argumentos en el intervalo \([0,2\pi)\).</p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Soluciones" data-text-a="Soluciones" data-text-b="Soluciones"></div><div class="feedback js-feedback js-hidden" style="display: none;"><ol>
+<li><strong>Formas binómica, trigonométrica y polar</strong>
+<ol type="a">
+<li>\(z_1\): II cuadrante; \(z_2\): III cuadrante; \(z_3\): IV cuadrante.</li>
+<li>\(z_1:\; r=2,\quad \theta=\frac{2\pi}{3}\)<br />\(z_2:\; r=2,\quad \theta=\frac{7\pi}{6}\)<br />\(z_3:\; r=2,\quad \theta=\frac{5\pi}{3}\)</li>
+<li>
+<p>\(z_1=2\left(\cos\frac{2\pi}{3}+i\operatorname{sen}\frac{2\pi}{3}\right)=2_{\frac{2\pi}{3}}\)</p>
+<p>\(z_2=2\left(\cos\frac{7\pi}{6}+i\operatorname{sen}\frac{7\pi}{6}\right)=2_{\frac{7\pi}{6}}\)</p>
+<p>\(z_3=2\left(\cos\frac{5\pi}{3}+i\operatorname{sen}\frac{5\pi}{3}\right)=2_{\frac{5\pi}{3}}\)</p>
+</li>
+<li>La arcotangente no distingue por sí sola los cuadrantes. Es necesario considerar los signos de la parte real y la imaginaria para obtener el argumento correcto.</li>
+</ol>
+</li>
+<li><strong>Operaciones en forma binómica</strong>
+<ol type="a">
+<li>\(z+w=-2i\)<br />\(z-w=-2\)<br />\(z\cdot w=-2\)</li>
+<li>\(\displaystyle\frac{z}{w}=-i\)</li>
+<li>\(\displaystyle z=(\sqrt{2})_{\frac{5\pi}{4}}\)<br />\(\displaystyle w=(\sqrt{2})_{\frac{7\pi}{4}}\)</li>
+<li>
+<p>\(\displaystyle z\cdot w=2_{\pi}=-2\)</p>
+<p>\(\displaystyle\frac{z}{w}=1_{\frac{3\pi}{2}}=-i\)</p>
+</li>
+</ol>
+</li>
+<li><strong>Operaciones en forma polar y potencias</strong>
+<ol type="a">
+<li>
+<p>\(z=-\sqrt{2}-\sqrt{2}i\) (III cuadrante)</p>
+<p>\(\displaystyle w=\frac{3\sqrt{3}}{2}-\frac{3}{2}i\) (IV cuadrante)</p>
+</li>
+<li>\(\displaystyle z\cdot w=6_{\frac{13\pi}{12}}\)</li>
+<li>\(\displaystyle\frac{z}{w}=\left(\frac{2}{3}\right)_{\frac{17\pi}{12}}\)</li>
+<li>\(\displaystyle z^4=16_{\pi}=-16\)</li>
+<li>\(\displaystyle z\cdot w=\frac{3(\sqrt{2}-\sqrt{6})}{2}-\frac{3(\sqrt{6}+\sqrt{2})}{2}i\)</li>
+</ol>
+</li>
+</ol></div></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792389453497-ftd1uu5nv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><ol>\n<li><strong>Formas binómica, trigonométrica y polar</strong>\n<p>Dados los siguientes números complejos:</p>\n<p>\\(z_1=-1+\\sqrt{3}i,\\quad z_2=-\\sqrt{3}-i,\\quad z_3=1-\\sqrt{3}i\\)</p>\n<ol type=\"a\">\n<li>Representa los tres números en el plano complejo (Argand-Gauss) e indica en qué cuadrante se encuentran.</li>\n<li>Calcula el módulo y el argumento de cada uno, expresando los argumentos en el intervalo \\([0,2\\pi)\\).</li>\n<li>Escríbelos en forma trigonométrica y polar.</li>\n<li>Explica por qué no basta con calcular \\(\\arctan(b/a)\\) para determinar correctamente el argumento.</li>\n</ol>\n</li>\n<li><strong>Operaciones en forma binómica</strong>\n<p>Considera los números complejos:</p>\n<p>\\(z=-1-i,\\quad w=1-i\\)</p>\n<ol type=\"a\">\n<li>Calcula \\(z+w\\), \\(z-w\\) y \\(z\\cdot w\\), expresando los resultados en forma binómica.</li>\n<li>Calcula \\(\\dfrac{z}{w}\\), multiplicando numerador y denominador por el conjugado del denominador.</li>\n<li>Expresa \\(z\\) y \\(w\\) en forma polar, con argumentos en \\([0,2\\pi)\\).</li>\n<li>Comprueba el resultado del producto y del cociente realizando las mismas operaciones en forma polar.</li>\n</ol>\n</li>\n<li><strong>Operaciones en forma polar y potencias</strong>\n<p>Sean los números complejos, dados en forma polar:</p>\n<p>\\(z=2_{\\frac{5\\pi}{4}},\\quad w=3_{\\frac{11\\pi}{6}}\\)</p>\n<ol type=\"a\">\n<li>Expresa \\(z\\) y \\(w\\) en forma binómica e indica en qué cuadrante se encuentran.</li>\n<li>Calcula \\(z\\cdot w\\) en forma polar y expresa su argumento en \\([0,2\\pi)\\).</li>\n<li>Calcula \\(\\dfrac{z}{w}\\) en forma polar y expresa su argumento en \\([0,2\\pi)\\).</li>\n<li>Calcula \\(z^4\\). Expresa el resultado en forma polar y binómica.</li>\n<li>Comprueba el resultado de \\(z\\cdot w\\) multiplicando los complejos en forma binómica.</li>\n</ol>\n</li>\n</ol>\n<p><strong>Recuerda:</strong> Al calcular el argumento de un complejo mediante la arcotangente, debes tener en cuenta el cuadrante en el que se encuentra. En estos ejercicios, expresa siempre los argumentos en el intervalo \\([0,2\\pi)\\).</p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ol>\n<li><strong>Formas binómica, trigonométrica y polar</strong>\n<ol type=\"a\">\n<li>\\(z_1\\): II cuadrante; \\(z_2\\): III cuadrante; \\(z_3\\): IV cuadrante.</li>\n<li>\\(z_1:\\; r=2,\\quad \\theta=\\frac{2\\pi}{3}\\)<br />\\(z_2:\\; r=2,\\quad \\theta=\\frac{7\\pi}{6}\\)<br />\\(z_3:\\; r=2,\\quad \\theta=\\frac{5\\pi}{3}\\)</li>\n<li>\n<p>\\(z_1=2\\left(\\cos\\frac{2\\pi}{3}+i\\operatorname{sen}\\frac{2\\pi}{3}\\right)=2_{\\frac{2\\pi}{3}}\\)</p>\n<p>\\(z_2=2\\left(\\cos\\frac{7\\pi}{6}+i\\operatorname{sen}\\frac{7\\pi}{6}\\right)=2_{\\frac{7\\pi}{6}}\\)</p>\n<p>\\(z_3=2\\left(\\cos\\frac{5\\pi}{3}+i\\operatorname{sen}\\frac{5\\pi}{3}\\right)=2_{\\frac{5\\pi}{3}}\\)</p>\n</li>\n<li>La arcotangente no distingue por sí sola los cuadrantes. Es necesario considerar los signos de la parte real y la imaginaria para obtener el argumento correcto.</li>\n</ol>\n</li>\n<li><strong>Operaciones en forma binómica</strong>\n<ol type=\"a\">\n<li>\\(z+w=-2i\\)<br />\\(z-w=-2\\)<br />\\(z\\cdot w=-2\\)</li>\n<li>\\(\\displaystyle\\frac{z}{w}=-i\\)</li>\n<li>\\(\\displaystyle z=(\\sqrt{2})_{\\frac{5\\pi}{4}}\\)<br />\\(\\displaystyle w=(\\sqrt{2})_{\\frac{7\\pi}{4}}\\)</li>\n<li>\n<p>\\(\\displaystyle z\\cdot w=2_{\\pi}=-2\\)</p>\n<p>\\(\\displaystyle\\frac{z}{w}=1_{\\frac{3\\pi}{2}}=-i\\)</p>\n</li>\n</ol>\n</li>\n<li><strong>Operaciones en forma polar y potencias</strong>\n<ol type=\"a\">\n<li>\n<p>\\(z=-\\sqrt{2}-\\sqrt{2}i\\) (III cuadrante)</p>\n<p>\\(\\displaystyle w=\\frac{3\\sqrt{3}}{2}-\\frac{3}{2}i\\) (IV cuadrante)</p>\n</li>\n<li>\\(\\displaystyle z\\cdot w=6_{\\frac{13\\pi}{12}}\\)</li>\n<li>\\(\\displaystyle\\frac{z}{w}=\\left(\\frac{2}{3}\\right)_{\\frac{17\\pi}{12}}\\)</li>\n<li>\\(\\displaystyle z^4=16_{\\pi}=-16\\)</li>\n<li>\\(\\displaystyle z\\cdot w=\\frac{3(\\sqrt{2}-\\sqrt{6})}{2}-\\frac{3(\\sqrt{6}+\\sqrt{2})}{2}i\\)</li>\n</ol>\n</li>\n</ol></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<ol>\n<li><strong>Formas binómica, trigonométrica y polar</strong>\n<ol type=\"a\">\n<li>\\(z_1\\): II cuadrante; \\(z_2\\): III cuadrante; \\(z_3\\): IV cuadrante.</li>\n<li>\\(z_1:\\; r=2,\\quad \\theta=\\frac{2\\pi}{3}\\)<br />\\(z_2:\\; r=2,\\quad \\theta=\\frac{7\\pi}{6}\\)<br />\\(z_3:\\; r=2,\\quad \\theta=\\frac{5\\pi}{3}\\)</li>\n<li>\n<p>\\(z_1=2\\left(\\cos\\frac{2\\pi}{3}+i\\operatorname{sen}\\frac{2\\pi}{3}\\right)=2_{\\frac{2\\pi}{3}}\\)</p>\n<p>\\(z_2=2\\left(\\cos\\frac{7\\pi}{6}+i\\operatorname{sen}\\frac{7\\pi}{6}\\right)=2_{\\frac{7\\pi}{6}}\\)</p>\n<p>\\(z_3=2\\left(\\cos\\frac{5\\pi}{3}+i\\operatorname{sen}\\frac{5\\pi}{3}\\right)=2_{\\frac{5\\pi}{3}}\\)</p>\n</li>\n<li>La arcotangente no distingue por sí sola los cuadrantes. Es necesario considerar los signos de la parte real y la imaginaria para obtener el argumento correcto.</li>\n</ol>\n</li>\n<li><strong>Operaciones en forma binómica</strong>\n<ol type=\"a\">\n<li>\\(z+w=-2i\\)<br />\\(z-w=-2\\)<br />\\(z\\cdot w=-2\\)</li>\n<li>\\(\\displaystyle\\frac{z}{w}=-i\\)</li>\n<li>\\(\\displaystyle z=(\\sqrt{2})_{\\frac{5\\pi}{4}}\\)<br />\\(\\displaystyle w=(\\sqrt{2})_{\\frac{7\\pi}{4}}\\)</li>\n<li>\n<p>\\(\\displaystyle z\\cdot w=2_{\\pi}=-2\\)</p>\n<p>\\(\\displaystyle\\frac{z}{w}=1_{\\frac{3\\pi}{2}}=-i\\)</p>\n</li>\n</ol>\n</li>\n<li><strong>Operaciones en forma polar y potencias</strong>\n<ol type=\"a\">\n<li>\n<p>\\(z=-\\sqrt{2}-\\sqrt{2}i\\) (III cuadrante)</p>\n<p>\\(\\displaystyle w=\\frac{3\\sqrt{3}}{2}-\\frac{3}{2}i\\) (IV cuadrante)</p>\n</li>\n<li>\\(\\displaystyle z\\cdot w=6_{\\frac{13\\pi}{12}}\\)</li>\n<li>\\(\\displaystyle\\frac{z}{w}=\\left(\\frac{2}{3}\\right)_{\\frac{17\\pi}{12}}\\)</li>\n<li>\\(\\displaystyle z^4=16_{\\pi}=-16\\)</li>\n<li>\\(\\displaystyle z\\cdot w=\\frac{3(\\sqrt{2}-\\sqrt{6})}{2}-\\frac{3(\\sqrt{6}+\\sqrt{2})}{2}i\\)</li>\n</ol>\n</li>\n</ol>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvetxs00-j7vojms36</odePageId>
+  <odeParentPageId>page-mqkx76g1-92ll202oq</odeParentPageId>
+  <pageName>La forma exponencial</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La forma exponencial</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Interpretación geométrica de las operaciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>La forma exponencial</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvetxs00-j7vojms36</odePageId>
+      <odeBlockId>block-mvev14is-bcesqhowm</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvetxs00-j7vojms36</odePageId>
+          <odeBlockId>block-mvev14is-bcesqhowm</odeBlockId>
+          <odeIdeviceId>idevice-1792390509602-anadj7ysi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="box-sizing: border-box; background: #ffffff; border: 2px solid #4878a8; border-radius: 6px; padding: 14px 18px; font-family: Arial, sans-serif; color: #111; max-width: 980px; margin: 0 0 12px; line-height: 1.6;">
+<h3 style="text-align: center; margin: 0 0 14px; color: #234e78;">La forma exponencial de un número complejo</h3>
+<p>El matemático Leonhard Euler descubrió una relación sorprendente entre la función exponencial y las funciones trigonométricas, conocida como <strong>fórmula de Euler</strong>:</p>
+<p>\[ \boxed{e^{i\theta}=\cos\theta+i\operatorname{sen}\theta} \]</p>
+<p>Esta igualdad nos permite escribir cualquier número complejo no nulo de una nueva manera. Recordemos su forma trigonométrica:</p>
+<p>\[z=r(\cos\theta+i\operatorname{sen}\theta)\]</p>
+<p>Sustituyendo mediante la fórmula de Euler obtenemos la <strong>forma exponencial de un número complejo</strong>:</p>
+<p>\[\boxed{z=re^{i\theta}}\]</p>
+<p>Donde \(r=|z|\) es el módulo y \(\theta\) es un argumento del número complejo, expresado en radianes.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792390509602-anadj7ysi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"box-sizing: border-box; background: #ffffff; border: 2px solid #4878a8; border-radius: 6px; padding: 14px 18px; font-family: Arial, sans-serif; color: #111; max-width: 980px; margin: 0 0 12px; line-height: 1.6;\">\n<h3 style=\"text-align: center; margin: 0 0 14px; color: #234e78;\">La forma exponencial de un número complejo</h3>\n<p>El matemático Leonhard Euler descubrió una relación sorprendente entre la función exponencial y las funciones trigonométricas, conocida como <strong>fórmula de Euler</strong>:</p>\n<p>\\[ \\boxed{e^{i\\theta}=\\cos\\theta+i\\operatorname{sen}\\theta} \\]</p>\n<p>Esta igualdad nos permite escribir cualquier número complejo no nulo de una nueva manera. Recordemos su forma trigonométrica:</p>\n<p>\\[z=r(\\cos\\theta+i\\operatorname{sen}\\theta)\\]</p>\n<p>Sustituyendo mediante la fórmula de Euler obtenemos la <strong>forma exponencial de un número complejo</strong>:</p>\n<p>\\[\\boxed{z=re^{i\\theta}}\\]</p>\n<p>Donde \\(r=|z|\\) es el módulo y \\(\\theta\\) es un argumento del número complejo, expresado en radianes.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mvetxs00-j7vojms36</odePageId>
+      <odeBlockId>block-mvev5n9g-tsery7g0n</odeBlockId>
+      <blockName>Aplicaciones inmediatas de la forma exponencial</blockName>
+      <iconName>udl_exp_lee</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvetxs00-j7vojms36</odePageId>
+          <odeBlockId>block-mvev5n9g-tsery7g0n</odeBlockId>
+          <odeIdeviceId>idevice-1792390720514-evte70a9p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>Fórmula de Euler</h2>
+<p>La fórmula de Euler relaciona la función exponencial con las funciones trigonométricas:</p>
+<p>\[\boxed{e^{i\theta}=\cos\theta+i\operatorname{sen}\theta}\]</p>
+<p>Gracias a esta identidad, podemos escribir un número complejo en forma exponencial:</p>
+<p>\[\boxed{z=re^{i\theta}}\]</p>
+<p>Donde \(r=|z|\) es el módulo y \(\theta\) es un argumento del número complejo, expresado en radianes.</p>
+<h2>Multiplicación en forma exponencial</h2>
+<p>Para multiplicar dos números complejos en forma exponencial, multiplicamos los módulos y sumamos los argumentos.</p>
+<p>\[(re^{i\alpha})(se^{i\beta})=rs\,e^{i(\alpha+\beta)}\]</p>
+<p>Esta propiedad se deduce directamente de las propiedades de las potencias:</p>
+<p>\[e^{i\alpha}\cdot e^{i\beta}=e^{i\alpha+i\beta}=e^{i(\alpha+\beta)}\]</p>
+<h2>División en forma exponencial</h2>
+<p>Para dividir dos números complejos en forma exponencial, dividimos los módulos y restamos los argumentos, siempre que el divisor sea distinto de cero.</p>
+<p>\[\frac{re^{i\alpha}}{se^{i\beta}}=\frac{r}{s}e^{i(\alpha-\beta)}\]</p>
+<p>De nuevo, utilizamos las propiedades de las potencias:</p>
+<p>\[\frac{e^{i\alpha}}{e^{i\beta}}=e^{i\alpha-i\beta}=e^{i(\alpha-\beta)}\]</p>
+<h2>Potencias: deducción de la fórmula de Moivre</h2>
+<p>Partimos de la forma exponencial de un número complejo:</p>
+<p>\[z=re^{i\theta}\]</p>
+<p>Utilizando las propiedades de las potencias, obtenemos:</p>
+<p>\[z^n=(re^{i\theta})^n=r^n e^{in\theta}\]</p>
+<p>Aplicando de nuevo la fórmula de Euler:</p>
+<p>\[e^{in\theta}=\cos(n\theta)+i\operatorname{sen}(n\theta)\]</p>
+<p>Por tanto, llegamos a la <strong>fórmula de Moivre</strong>:</p>
+<p>\[\boxed{\left[r(\cos\theta+i\operatorname{sen}\theta)\right]^n=r^n\left(\cos(n\theta)+i\operatorname{sen}(n\theta)\right)}\]</p>
+<p>Es decir, <strong>para elevar un número complejo a una potencia natural, elevamos el módulo a esa potencia y multiplicamos el argumento por el exponente.</strong></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792390720514-evte70a9p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>Fórmula de Euler</h2>\n<p>La fórmula de Euler relaciona la función exponencial con las funciones trigonométricas:</p>\n<p>\\[\\boxed{e^{i\\theta}=\\cos\\theta+i\\operatorname{sen}\\theta}\\]</p>\n<p>Gracias a esta identidad, podemos escribir un número complejo en forma exponencial:</p>\n<p>\\[\\boxed{z=re^{i\\theta}}\\]</p>\n<p>Donde \\(r=|z|\\) es el módulo y \\(\\theta\\) es un argumento del número complejo, expresado en radianes.</p>\n<h2>Multiplicación en forma exponencial</h2>\n<p>Para multiplicar dos números complejos en forma exponencial, multiplicamos los módulos y sumamos los argumentos.</p>\n<p>\\[(re^{i\\alpha})(se^{i\\beta})=rs\\,e^{i(\\alpha+\\beta)}\\]</p>\n<p>Esta propiedad se deduce directamente de las propiedades de las potencias:</p>\n<p>\\[e^{i\\alpha}\\cdot e^{i\\beta}=e^{i\\alpha+i\\beta}=e^{i(\\alpha+\\beta)}\\]</p>\n<h2>División en forma exponencial</h2>\n<p>Para dividir dos números complejos en forma exponencial, dividimos los módulos y restamos los argumentos, siempre que el divisor sea distinto de cero.</p>\n<p>\\[\\frac{re^{i\\alpha}}{se^{i\\beta}}=\\frac{r}{s}e^{i(\\alpha-\\beta)}\\]</p>\n<p>De nuevo, utilizamos las propiedades de las potencias:</p>\n<p>\\[\\frac{e^{i\\alpha}}{e^{i\\beta}}=e^{i\\alpha-i\\beta}=e^{i(\\alpha-\\beta)}\\]</p>\n<h2>Potencias: deducción de la fórmula de Moivre</h2>\n<p>Partimos de la forma exponencial de un número complejo:</p>\n<p>\\[z=re^{i\\theta}\\]</p>\n<p>Utilizando las propiedades de las potencias, obtenemos:</p>\n<p>\\[z^n=(re^{i\\theta})^n=r^n e^{in\\theta}\\]</p>\n<p>Aplicando de nuevo la fórmula de Euler:</p>\n<p>\\[e^{in\\theta}=\\cos(n\\theta)+i\\operatorname{sen}(n\\theta)\\]</p>\n<p>Por tanto, llegamos a la <strong>fórmula de Moivre</strong>:</p>\n<p>\\[\\boxed{\\left[r(\\cos\\theta+i\\operatorname{sen}\\theta)\\right]^n=r^n\\left(\\cos(n\\theta)+i\\operatorname{sen}(n\\theta)\\right)}\\]</p>\n<p>Es decir, <strong>para elevar un número complejo a una potencia natural, elevamos el módulo a esa potencia y multiplicamos el argumento por el exponente.</strong></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mvev9g4u-hjjg20l2c</odePageId>
+  <odeParentPageId>page-mqkx76g1-92ll202oq</odeParentPageId>
+  <pageName>Raíces de números complejos</pageName>
+  <odeNavStructureOrder>40</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Raíces de números complejos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mvev9g4u-hjjg20l2c</odePageId>
+      <odeBlockId>block-mvev9ldo-gxip3b4to</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mvev9g4u-hjjg20l2c</odePageId>
+          <odeBlockId>block-mvev9ldo-gxip3b4to</odeBlockId>
+          <odeIdeviceId>idevice-1792390904699-erj7dkady</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/underconstruction.png" width="600" height="250" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792390904699-erj7dkady","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/underconstruction.png\" width=\"600\" height=\"250\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
