@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1793862665886</value>
+    <value>1794203459206</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -7414,10 +7414,10 @@ El límite se reduce a comparar las exponenciales dominantes:
 <p style="color: red;"><strong>Área bajo una función positiva</strong></p>
 <p>Si \(f(x)\) es una función <strong>continua y positiva</strong> en el intervalo \([a,b]\), entonces el área limitada por la gráfica \(y=f(x)\), el eje \(x\) y las rectas verticales \(x=a\) y \(x=b\) viene dada por</p>
 <p>\[ \boxed{ A=\int_a^b f(x)\,dx } \]</p>
-<p><img src="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_44_52.png" title="integral de función positiva" width="264" height="198" alt="integral de función positiva" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_44_52.jpg" title="integral de función positiva" width="264" height="198" alt="integral de función positiva" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 </div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790923450858-oci13gmnl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;\">\n<p style=\"color: red;\"><strong>Área bajo una función positiva</strong></p>\n<p>Si \\(f(x)\\) es una función <strong>continua y positiva</strong> en el intervalo \\([a,b]\\), entonces el área limitada por la gráfica \\(y=f(x)\\), el eje \\(x\\) y las rectas verticales \\(x=a\\) y \\(x=b\\) viene dada por</p>\n<p>\\[ \\boxed{ A=\\int_a^b f(x)\\,dx } \\]</p>\n<p><img src=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_44_52.png\" title=\"integral de función positiva\" width=\"264\" height=\"198\" alt=\"integral de función positiva\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790923450858-oci13gmnl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;\">\n<p style=\"color: red;\"><strong>Área bajo una función positiva</strong></p>\n<p>Si \\(f(x)\\) es una función <strong>continua y positiva</strong> en el intervalo \\([a,b]\\), entonces el área limitada por la gráfica \\(y=f(x)\\), el eje \\(x\\) y las rectas verticales \\(x=a\\) y \\(x=b\\) viene dada por</p>\n<p>\\[ \\boxed{ A=\\int_a^b f(x)\\,dx } \\]</p>\n<p><img src=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_44_52.jpg\" title=\"integral de función positiva\" width=\"264\" height=\"198\" alt=\"integral de función positiva\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -7482,7 +7482,7 @@ El límite se reduce a comparar las exponenciales dominantes:
 </ol>
 <div class="exe-fx exe-accordion">
 <h2>Calculando la integral definida con Numworks</h2>
-<p><img src="{{context_path}}/content/resources/Integración con Numworks.png" title="Integral con calculadora Numworks" width="487" height="592" alt="Integral con calculadora Numworks" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="{{context_path}}/content/resources/Integración con Numworks.jpg" title="Integral con calculadora Numworks" width="487" height="592" alt="Integral con calculadora Numworks" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 </div>
 <p><br /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Soluciones" data-text-a="Soluciones" data-text-b="Soluciones"></div><div class="feedback js-feedback js-hidden" style="display: none;"><ol>
 <li>\(\displaystyle A=\int_0^1 x^2\,dx=\frac{1}{3}\).</li>
@@ -7493,7 +7493,7 @@ El límite se reduce a comparar las exponenciales dominantes:
 <li>\(\displaystyle A=\int_{-1}^{4}\sqrt{y+5}\,dy=\frac{38}{3}\).</li>
 </ol></div></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790923681914-ocxzocc79","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><strong>Calcula el área de las regiones indicadas.</strong> Comprueba tus resultados utilizando la calculadora (<strong>NumWorks)</strong>.</p>\n<ol>\n<li>\\(y=x^2\\), el eje \\(x\\) y la recta \\(x=1\\).</li>\n<li>\\(y=x^3\\), el eje \\(x\\) y las rectas \\(x=1\\) y \\(x=4\\).</li>\n<li>\\(y=e^x\\), el eje \\(x\\), el eje \\(y\\) y la recta \\(x=1\\).</li>\n<li>El eje \\(x\\) y la parte de la parábola \\( y=6+x-x^2 \\) situada por encima del eje \\(x\\).</li>\n<li>\\(x=y^2+1\\), el eje \\(y\\) y las rectas \\(y=1\\) y \\(y=2\\).</li>\n<li>\\( x=\\sqrt{y+5}, \\) el eje \\(y\\) y las rectas \\(y=-1\\) y \\(y=4\\).</li>\n</ol>\n<div class=\"exe-fx exe-accordion\">\n<h2>Calculando la integral definida con Numworks</h2>\n<p><img src=\"{{context_path}}/content/resources/Integración con Numworks.png\" title=\"Integral con calculadora Numworks\" width=\"487\" height=\"592\" alt=\"Integral con calculadora Numworks\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n</div>\n<p><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ol>\n<li>\\(\\displaystyle A=\\int_0^1 x^2\\,dx=\\frac{1}{3}\\).</li>\n<li>\\(\\displaystyle A=\\int_1^4 x^3\\,dx=\\frac{255}{4}\\).</li>\n<li>\\(\\displaystyle A=\\int_0^1 e^x\\,dx=e-1\\).</li>\n<li>\\(\\displaystyle A=\\int_{-2}^{3}(6+x-x^2)\\,dx=\\frac{125}{6}\\).</li>\n<li>\\(\\displaystyle A=\\int_1^2 (y^2+1)\\,dy=\\frac{10}{3}\\).</li>\n<li>\\(\\displaystyle A=\\int_{-1}^{4}\\sqrt{y+5}\\,dy=\\frac{38}{3}\\).</li>\n</ol></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<ol>\n<li>\\(\\displaystyle A=\\int_0^1 x^2\\,dx=\\frac{1}{3}\\).</li>\n<li>\\(\\displaystyle A=\\int_1^4 x^3\\,dx=\\frac{255}{4}\\).</li>\n<li>\\(\\displaystyle A=\\int_0^1 e^x\\,dx=e-1\\).</li>\n<li>\\(\\displaystyle A=\\int_{-2}^{3}(6+x-x^2)\\,dx=\\frac{125}{6}\\).</li>\n<li>\\(\\displaystyle A=\\int_1^2 (y^2+1)\\,dy=\\frac{10}{3}\\).</li>\n<li>\\(\\displaystyle A=\\int_{-1}^{4}\\sqrt{y+5}\\,dy=\\frac{38}{3}\\).</li>\n</ol>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1790923681914-ocxzocc79","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><strong>Calcula el área de las regiones indicadas.</strong> Comprueba tus resultados utilizando la calculadora (<strong>NumWorks)</strong>.</p>\n<ol>\n<li>\\(y=x^2\\), el eje \\(x\\) y la recta \\(x=1\\).</li>\n<li>\\(y=x^3\\), el eje \\(x\\) y las rectas \\(x=1\\) y \\(x=4\\).</li>\n<li>\\(y=e^x\\), el eje \\(x\\), el eje \\(y\\) y la recta \\(x=1\\).</li>\n<li>El eje \\(x\\) y la parte de la parábola \\( y=6+x-x^2 \\) situada por encima del eje \\(x\\).</li>\n<li>\\(x=y^2+1\\), el eje \\(y\\) y las rectas \\(y=1\\) y \\(y=2\\).</li>\n<li>\\( x=\\sqrt{y+5}, \\) el eje \\(y\\) y las rectas \\(y=-1\\) y \\(y=4\\).</li>\n</ol>\n<div class=\"exe-fx exe-accordion\">\n<h2>Calculando la integral definida con Numworks</h2>\n<p><img src=\"{{context_path}}/content/resources/Integración con Numworks.jpg\" title=\"Integral con calculadora Numworks\" width=\"487\" height=\"592\" alt=\"Integral con calculadora Numworks\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n</div>\n<p><br /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ol>\n<li>\\(\\displaystyle A=\\int_0^1 x^2\\,dx=\\frac{1}{3}\\).</li>\n<li>\\(\\displaystyle A=\\int_1^4 x^3\\,dx=\\frac{255}{4}\\).</li>\n<li>\\(\\displaystyle A=\\int_0^1 e^x\\,dx=e-1\\).</li>\n<li>\\(\\displaystyle A=\\int_{-2}^{3}(6+x-x^2)\\,dx=\\frac{125}{6}\\).</li>\n<li>\\(\\displaystyle A=\\int_1^2 (y^2+1)\\,dy=\\frac{10}{3}\\).</li>\n<li>\\(\\displaystyle A=\\int_{-1}^{4}\\sqrt{y+5}\\,dy=\\frac{38}{3}\\).</li>\n</ol></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<ol>\n<li>\\(\\displaystyle A=\\int_0^1 x^2\\,dx=\\frac{1}{3}\\).</li>\n<li>\\(\\displaystyle A=\\int_1^4 x^3\\,dx=\\frac{255}{4}\\).</li>\n<li>\\(\\displaystyle A=\\int_0^1 e^x\\,dx=e-1\\).</li>\n<li>\\(\\displaystyle A=\\int_{-2}^{3}(6+x-x^2)\\,dx=\\frac{125}{6}\\).</li>\n<li>\\(\\displaystyle A=\\int_1^2 (y^2+1)\\,dy=\\frac{10}{3}\\).</li>\n<li>\\(\\displaystyle A=\\int_{-1}^{4}\\sqrt{y+5}\\,dy=\\frac{38}{3}\\).</li>\n</ol>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -7555,10 +7555,10 @@ El límite se reduce a comparar las exponenciales dominantes:
 <p>\(\displaystyle A=\int_a^c f(x)\,dx-\int_c^d f(x)\,dx+\int_d^b f(x)\,dx.\)</p>
 <p>De forma equivalente:</p>
 <p>\[\displaystyle \boxed{A=\int_a^b |f(x)|\,dx}\]</p>
-<p><img src="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_58_26.png" title="Integral que cambia de signos" width="578" height="434" alt="Integral que cambia de signos" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><img src="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_58_26.jpg" title="Integral que cambia de signos" width="578" height="434" alt="Integral que cambia de signos" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 </div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqlzpt1-b1rr3lfm9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;\">\n<p style=\"color: red;\"><strong>Área cuando la función cambia de signo</strong></p>\n<p>Si \\(f(x)\\) cambia de signo en el intervalo \\([a,b]\\), la integral definida no coincide necesariamente con el área geométrica total.</p>\n<p>Para calcular el área, debemos dividir el intervalo en los puntos donde \\(f(x)=0\\) y sumar cada región como una cantidad positiva.</p>\n<p>Por ejemplo, si \\(f(x)\\) es positiva, después negativa y finalmente positiva, podemos escribir:</p>\n<p>\\(\\displaystyle A=\\int_a^c f(x)\\,dx-\\int_c^d f(x)\\,dx+\\int_d^b f(x)\\,dx.\\)</p>\n<p>De forma equivalente:</p>\n<p>\\[\\displaystyle \\boxed{A=\\int_a^b |f(x)|\\,dx}\\]</p>\n<p><img src=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_58_26.png\" title=\"Integral que cambia de signos\" width=\"578\" height=\"434\" alt=\"Integral que cambia de signos\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqlzpt1-b1rr3lfm9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;\">\n<p style=\"color: red;\"><strong>Área cuando la función cambia de signo</strong></p>\n<p>Si \\(f(x)\\) cambia de signo en el intervalo \\([a,b]\\), la integral definida no coincide necesariamente con el área geométrica total.</p>\n<p>Para calcular el área, debemos dividir el intervalo en los puntos donde \\(f(x)=0\\) y sumar cada región como una cantidad positiva.</p>\n<p>Por ejemplo, si \\(f(x)\\) es positiva, después negativa y finalmente positiva, podemos escribir:</p>\n<p>\\(\\displaystyle A=\\int_a^c f(x)\\,dx-\\int_c^d f(x)\\,dx+\\int_d^b f(x)\\,dx.\\)</p>\n<p>De forma equivalente:</p>\n<p>\\[\\displaystyle \\boxed{A=\\int_a^b |f(x)|\\,dx}\\]</p>\n<p><img src=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 08_58_26.jpg\" title=\"Integral que cambia de signos\" width=\"578\" height=\"434\" alt=\"Integral que cambia de signos\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -7643,7 +7643,7 @@ El límite se reduce a comparar las exponenciales dominantes:
 </ol>
 </li>
 </ol>
-<p><img src="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 09_04_56.png" title="área de ejercicio con cambios de signo" width="332" height="154" alt="área de ejercicio con cambios de signo" style="display: block; margin-left: auto; margin-right: auto;" /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Soluciones" data-text-a="Soluciones" data-text-b="Soluciones"></div><div class="feedback js-feedback js-hidden" style="display: none;"><ol>
+<p><img src="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 09_04_56.jpg" title="área de ejercicio con cambios de signo" width="332" height="154" alt="área de ejercicio con cambios de signo" style="display: block; margin-left: auto; margin-right: auto;" /></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbacktooglebutton" value="Soluciones" data-text-a="Soluciones" data-text-b="Soluciones"></div><div class="feedback js-feedback js-hidden" style="display: none;"><ol>
 <li>
 <ol type="a">
 <li>\(A=\frac{46}{3}\).</li>
@@ -7674,7 +7674,7 @@ El límite se reduce a comparar las exponenciales dominantes:
 </li>
 </ol></div></div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqmahy4-qmh8wrghd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><strong>Calcula o interpreta las siguientes áreas e integrales.</strong> En cada caso, justifica el procedimiento utilizado.</p>\n<ol>\n<li>Determina el área comprendida entre la gráfica de la función y el eje \\(x\\) en el intervalo indicado. Antes de integrar, localiza los puntos en los que la función corta al eje \\(x\\).\n<ol type=\"a\">\n<li>\\(f(x)=x^2-4\\), en el intervalo \\([-3,3]\\).</li>\n<li>\\(f(x)=x^2-5x+6\\), en el intervalo \\([0,4]\\).</li>\n<li>\\(f(x)=x(x-2)(x+2)\\), en el intervalo \\([-2,2]\\).</li>\n<li>\\(f(x)=(x-1)(x-3)\\), en el intervalo \\([0,4]\\).</li>\n</ol>\n</li>\n<li>Determina el valor de las siguientes integrales <strong>sin calcular primitivas</strong>. Interpreta cada integral geométricamente.\n<ol type=\"a\">\n<li>La gráfica de \\(f(x)=\\sqrt{9-x^2}\\) es la semicircunferencia superior de radio \\(3\\). Determina \\(\\int_0^3 \\sqrt{9-x^2}\\,dx\\).</li>\n<li>La gráfica de \\(f(x)=\\sqrt{16-x^2}\\) es la semicircunferencia superior de radio \\(4\\). Determina \\(\\int_{-4}^{4}\\sqrt{16-x^2}\\,dx\\).</li>\n<li>Determina \\(\\int_{-2}^{2}(2-|x|)\\,dx\\) interpretando la gráfica como una figura geométrica conocida.</li>\n<li>Determina \\(\\int_0^5(5-x)\\,dx\\) utilizando únicamente una interpretación geométrica.</li>\n</ol>\n</li>\n<li>Observa la figura correspondiente y responde.\n<ol type=\"a\">\n<li>Explica por qué el área total sombreada no coincide necesariamente con \\(\\int_0^8 f(x)\\,dx\\).</li>\n<li>La gráfica corta al eje \\(x\\) en \\(x=0\\), \\(x=2\\), \\(x=5\\) y \\(x=8\\). Escribe el área total sombreada como suma de integrales.</li>\n<li>Si \\(\\int_0^2 f(x)\\,dx=3\\), \\(\\int_2^5 f(x)\\,dx=-5\\) y \\(\\int_5^8 f(x)\\,dx=4\\), calcula:\n<ol type=\"i\">\n<li>el valor de \\(\\int_0^8 f(x)\\,dx\\);</li>\n<li>el área total sombreada.</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>\n<p><img src=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 09_04_56.png\" title=\"área de ejercicio con cambios de signo\" width=\"332\" height=\"154\" alt=\"área de ejercicio con cambios de signo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ol>\n<li>\n<ol type=\"a\">\n<li>\\(A=\\frac{46}{3}\\).</li>\n<li>\\(A=\\frac{17}{3}\\).</li>\n<li>\\(A=8\\).</li>\n<li>\\(A=4\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>\\(\\displaystyle \\int_0^3\\sqrt{9-x^2}\\,dx=\\frac{9\\pi}{4}\\).</li>\n<li>\\(\\displaystyle \\int_{-4}^{4}\\sqrt{16-x^2}\\,dx=8\\pi\\).</li>\n<li>\\(\\displaystyle \\int_{-2}^{2}(2-|x|)\\,dx=4\\).</li>\n<li>\\(\\displaystyle \\int_0^5(5-x)\\,dx=\\frac{25}{2}\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>Las regiones situadas por debajo del eje \\(x\\) contribuyen negativamente a la integral.</li>\n<li>\\(A=\\displaystyle \\int_0^2 f(x)\\,dx-\\int_2^5 f(x)\\,dx+\\int_5^8 f(x)\\,dx\\).</li>\n<li>\n<ol type=\"i\">\n<li>\\(\\displaystyle \\int_0^8 f(x)\\,dx=3-5+4=2\\).</li>\n<li>\\(A=3+5+4=12\\).</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<ol>\n<li>\n<ol type=\"a\">\n<li>\\(A=\\frac{46}{3}\\).</li>\n<li>\\(A=\\frac{17}{3}\\).</li>\n<li>\\(A=8\\).</li>\n<li>\\(A=4\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>\\(\\displaystyle \\int_0^3\\sqrt{9-x^2}\\,dx=\\frac{9\\pi}{4}\\).</li>\n<li>\\(\\displaystyle \\int_{-4}^{4}\\sqrt{16-x^2}\\,dx=8\\pi\\).</li>\n<li>\\(\\displaystyle \\int_{-2}^{2}(2-|x|)\\,dx=4\\).</li>\n<li>\\(\\displaystyle \\int_0^5(5-x)\\,dx=\\frac{25}{2}\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>Las regiones situadas por debajo del eje \\(x\\) contribuyen negativamente a la integral.</li>\n<li>\\(A=\\displaystyle \\int_0^2 f(x)\\,dx-\\int_2^5 f(x)\\,dx+\\int_5^8 f(x)\\,dx\\).</li>\n<li>\n<ol type=\"i\">\n<li>\\(\\displaystyle \\int_0^8 f(x)\\,dx=3-5+4=2\\).</li>\n<li>\\(A=3+5+4=12\\).</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>"}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqmahy4-qmh8wrghd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><p><strong>Calcula o interpreta las siguientes áreas e integrales.</strong> En cada caso, justifica el procedimiento utilizado.</p>\n<ol>\n<li>Determina el área comprendida entre la gráfica de la función y el eje \\(x\\) en el intervalo indicado. Antes de integrar, localiza los puntos en los que la función corta al eje \\(x\\).\n<ol type=\"a\">\n<li>\\(f(x)=x^2-4\\), en el intervalo \\([-3,3]\\).</li>\n<li>\\(f(x)=x^2-5x+6\\), en el intervalo \\([0,4]\\).</li>\n<li>\\(f(x)=x(x-2)(x+2)\\), en el intervalo \\([-2,2]\\).</li>\n<li>\\(f(x)=(x-1)(x-3)\\), en el intervalo \\([0,4]\\).</li>\n</ol>\n</li>\n<li>Determina el valor de las siguientes integrales <strong>sin calcular primitivas</strong>. Interpreta cada integral geométricamente.\n<ol type=\"a\">\n<li>La gráfica de \\(f(x)=\\sqrt{9-x^2}\\) es la semicircunferencia superior de radio \\(3\\). Determina \\(\\int_0^3 \\sqrt{9-x^2}\\,dx\\).</li>\n<li>La gráfica de \\(f(x)=\\sqrt{16-x^2}\\) es la semicircunferencia superior de radio \\(4\\). Determina \\(\\int_{-4}^{4}\\sqrt{16-x^2}\\,dx\\).</li>\n<li>Determina \\(\\int_{-2}^{2}(2-|x|)\\,dx\\) interpretando la gráfica como una figura geométrica conocida.</li>\n<li>Determina \\(\\int_0^5(5-x)\\,dx\\) utilizando únicamente una interpretación geométrica.</li>\n</ol>\n</li>\n<li>Observa la figura correspondiente y responde.\n<ol type=\"a\">\n<li>Explica por qué el área total sombreada no coincide necesariamente con \\(\\int_0^8 f(x)\\,dx\\).</li>\n<li>La gráfica corta al eje \\(x\\) en \\(x=0\\), \\(x=2\\), \\(x=5\\) y \\(x=8\\). Escribe el área total sombreada como suma de integrales.</li>\n<li>Si \\(\\int_0^2 f(x)\\,dx=3\\), \\(\\int_2^5 f(x)\\,dx=-5\\) y \\(\\int_5^8 f(x)\\,dx=4\\), calcula:\n<ol type=\"i\">\n<li>el valor de \\(\\int_0^8 f(x)\\,dx\\);</li>\n<li>el área total sombreada.</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>\n<p><img src=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 09_04_56.jpg\" title=\"área de ejercicio con cambios de signo\" width=\"332\" height=\"154\" alt=\"área de ejercicio con cambios de signo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbacktooglebutton\" value=\"Soluciones\" data-text-a=\"Soluciones\" data-text-b=\"Soluciones\"></div><div class=\"feedback js-feedback js-hidden\" style=\"display: none;\"><ol>\n<li>\n<ol type=\"a\">\n<li>\\(A=\\frac{46}{3}\\).</li>\n<li>\\(A=\\frac{17}{3}\\).</li>\n<li>\\(A=8\\).</li>\n<li>\\(A=4\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>\\(\\displaystyle \\int_0^3\\sqrt{9-x^2}\\,dx=\\frac{9\\pi}{4}\\).</li>\n<li>\\(\\displaystyle \\int_{-4}^{4}\\sqrt{16-x^2}\\,dx=8\\pi\\).</li>\n<li>\\(\\displaystyle \\int_{-2}^{2}(2-|x|)\\,dx=4\\).</li>\n<li>\\(\\displaystyle \\int_0^5(5-x)\\,dx=\\frac{25}{2}\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>Las regiones situadas por debajo del eje \\(x\\) contribuyen negativamente a la integral.</li>\n<li>\\(A=\\displaystyle \\int_0^2 f(x)\\,dx-\\int_2^5 f(x)\\,dx+\\int_5^8 f(x)\\,dx\\).</li>\n<li>\n<ol type=\"i\">\n<li>\\(\\displaystyle \\int_0^8 f(x)\\,dx=3-5+4=2\\).</li>\n<li>\\(A=3+5+4=12\\).</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol></div></div>","textFeedbackInput":"Soluciones","textFeedbackTextarea":"<ol>\n<li>\n<ol type=\"a\">\n<li>\\(A=\\frac{46}{3}\\).</li>\n<li>\\(A=\\frac{17}{3}\\).</li>\n<li>\\(A=8\\).</li>\n<li>\\(A=4\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>\\(\\displaystyle \\int_0^3\\sqrt{9-x^2}\\,dx=\\frac{9\\pi}{4}\\).</li>\n<li>\\(\\displaystyle \\int_{-4}^{4}\\sqrt{16-x^2}\\,dx=8\\pi\\).</li>\n<li>\\(\\displaystyle \\int_{-2}^{2}(2-|x|)\\,dx=4\\).</li>\n<li>\\(\\displaystyle \\int_0^5(5-x)\\,dx=\\frac{25}{2}\\).</li>\n</ol>\n</li>\n<li>\n<ol type=\"a\">\n<li>Las regiones situadas por debajo del eje \\(x\\) contribuyen negativamente a la integral.</li>\n<li>\\(A=\\displaystyle \\int_0^2 f(x)\\,dx-\\int_2^5 f(x)\\,dx+\\int_5^8 f(x)\\,dx\\).</li>\n<li>\n<ol type=\"i\">\n<li>\\(\\displaystyle \\int_0^8 f(x)\\,dx=3-5+4=2\\).</li>\n<li>\\(A=3+5+4=12\\).</li>\n</ol>\n</li>\n</ol>\n</li>\n</ol>"}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -7735,10 +7735,10 @@ El límite se reduce a comparar las exponenciales dominantes:
 <p>\[\displaystyle \boxed{A=\int_a^b \bigl(f(x)-g(x)\bigr)\,dx}\]</p>
 <p>Es decir, se integra siempre <strong>función superior menos función inferior</strong>.</p>
 <p>Si las curvas se cortan dentro del intervalo, hay que dividir el problema en varios tramos y, en cada uno, restar la función que queda abajo de la que queda arriba.</p>
-<p><img src="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 09_13_08.png" title="Área entre dos curvas" width="811" height="349" alt="Área entre dos curvas" style="display: block; margin-left: auto; margin-right: auto;" /><br /></p>
+<p><img src="{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 09_13_08.jpg" title="Área entre dos curvas" width="811" height="349" alt="Área entre dos curvas" style="display: block; margin-left: auto; margin-right: auto;" /><br /></p>
 </div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqmi219-72jnsblp5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;\">\n<p style=\"color: red;\"><strong>Área entre dos curvas</strong></p>\n<p>Sean \\(f(x)\\) y \\(g(x)\\) dos funciones continuas en un intervalo \\([a,b]\\), con \\(f(x)\\geq g(x)\\) para todo \\(x\\in[a,b]\\).</p>\n<p>El área comprendida entre ambas gráficas viene dada por</p>\n<p>\\[\\displaystyle \\boxed{A=\\int_a^b \\bigl(f(x)-g(x)\\bigr)\\,dx}\\]</p>\n<p>Es decir, se integra siempre <strong>función superior menos función inferior</strong>.</p>\n<p>Si las curvas se cortan dentro del intervalo, hay que dividir el problema en varios tramos y, en cada uno, restar la función que queda abajo de la que queda arriba.</p>\n<p><img src=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 09_13_08.png\" title=\"Área entre dos curvas\" width=\"811\" height=\"349\" alt=\"Área entre dos curvas\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><br /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-muqmi219-72jnsblp5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"border: 2px solid red; padding: 12px; margin: 15px 0; background-color: #fff5f5;\">\n<p style=\"color: red;\"><strong>Área entre dos curvas</strong></p>\n<p>Sean \\(f(x)\\) y \\(g(x)\\) dos funciones continuas en un intervalo \\([a,b]\\), con \\(f(x)\\geq g(x)\\) para todo \\(x\\in[a,b]\\).</p>\n<p>El área comprendida entre ambas gráficas viene dada por</p>\n<p>\\[\\displaystyle \\boxed{A=\\int_a^b \\bigl(f(x)-g(x)\\bigr)\\,dx}\\]</p>\n<p>Es decir, se integra siempre <strong>función superior menos función inferior</strong>.</p>\n<p>Si las curvas se cortan dentro del intervalo, hay que dividir el problema en varios tramos y, en cada uno, restar la función que queda abajo de la que queda arriba.</p>\n<p><img src=\"{{context_path}}/content/resources/Imagen de ChatGPT 2 oct 2026, 09_13_08.jpg\" title=\"Área entre dos curvas\" width=\"811\" height=\"349\" alt=\"Área entre dos curvas\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><br /></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -8465,9 +8465,9 @@ El límite se reduce a comparar las exponenciales dominantes:
           <odeIdeviceId>idevice-1792388409257-wyco2ggkv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/Infografía sobre números complejos y plano de Argand-Gauss.png" title="Infografía forma binómica - trigonometrica" width="851" height="636" alt="Infografía forma binómica - trigonometrica" /></p>
+    <p><img src="{{context_path}}/content/resources/Infografía sobre números complejos y plano de Argand-Gauss.jpg" title="Infografía forma binómica - trigonometrica" width="851" height="636" alt="Infografía forma binómica - trigonometrica" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792388409257-wyco2ggkv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Infografía sobre números complejos y plano de Argand-Gauss.png\" title=\"Infografía forma binómica - trigonometrica\" width=\"851\" height=\"636\" alt=\"Infografía forma binómica - trigonometrica\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1792388409257-wyco2ggkv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Infografía sobre números complejos y plano de Argand-Gauss.jpg\" title=\"Infografía forma binómica - trigonometrica\" width=\"851\" height=\"636\" alt=\"Infografía forma binómica - trigonometrica\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -10434,9 +10434,12 @@ El límite se reduce a comparar las exponenciales dominantes:
           <odeIdeviceId>idevice-mqov9m7f-vp5vsxajx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/underconstruction.png" title="Under construction" width="600" height="250" alt="Under construction" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+    <ul>
+<li><a href="https://mediateca.educa.madrid.org/lista/L8l3tfdndswb3u991" target="_blank" title="" rel="noopener">Listado de vídeos sobre Geometría Afín</a></li>
+<li><a href="https://mediateca.educa.madrid.org/lista/Lbhqzvymb7e6netd9" target="_blank" title="" rel="noopener">Listado de vídeos sobre Geometría Euclídea</a></li>
+</ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781877806007-c9effhhx1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/underconstruction.png\" title=\"Under construction\" width=\"600\" height=\"250\" alt=\"Under construction\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mqov9m7f-vp5vsxajx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><a href=\"https://mediateca.educa.madrid.org/lista/L8l3tfdndswb3u991\" target=\"_blank\" title=\"\" rel=\"noopener\">Listado de vídeos sobre Geometría Afín</a></li>\n<li><a href=\"https://mediateca.educa.madrid.org/lista/Lbhqzvymb7e6netd9\" target=\"_blank\" title=\"\" rel=\"noopener\">Listado de vídeos sobre Geometría Euclídea</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -10495,10 +10498,66 @@ El límite se reduce a comparar las exponenciales dominantes:
   <odePagStructures>
     <odePagStructure>
       <odePageId>page-mw037u2q-g7zdbxa1z</odePageId>
-      <odeBlockId>block-mw03alpf-cf37emqo7</odeBlockId>
-      <blockName>Un poco de teoría</blockName>
-      <iconName>udl_rep_lee</iconName>
+      <odeBlockId>block-mw84cjas-gbxn81w5p</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw037u2q-g7zdbxa1z</odePageId>
+          <odeBlockId>block-mw84cjas-gbxn81w5p</odeBlockId>
+          <odeIdeviceId>idevice-1794159677620-65q6vteyq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><iframe width="420" height="236" style="border: 0; overflow: hidden;" src="https://mediateca.educa.madrid.org/video/qiuu4nmdagulxp1g/fs" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794159677620-65q6vteyq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><iframe width=\"420\" height=\"236\" style=\"border: 0; overflow: hidden;\" src=\"https://mediateca.educa.madrid.org/video/qiuu4nmdagulxp1g/fs\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw037u2q-g7zdbxa1z</odePageId>
+      <odeBlockId>block-mw03alpf-cf37emqo7</odeBlockId>
+      <blockName>¿Se puede escribir un vector como combinación lineal de otros?</blockName>
+      <iconName>udl_eng_objetivos</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -10528,110 +10587,648 @@ El límite se reduce a comparar las exponenciales dominantes:
           <odeIdeviceId>idevice-1793674178402-6oz6t7d4m</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>En este bloque describimos el espacio con <strong>vectores y coordenadas</strong>. Es la base de todo lo que viene después (rectas y planos): una vez que cada punto tiene tres coordenadas, los problemas de geometría se convierten en cálculos con números.</p>
-<h3 style="color: #1e3a8a;">1. Vectores en el espacio</h3>
-<p>Un <strong>vector</strong> \(\vec{u}\) queda determinado por tres datos: su <strong>dirección</strong>, su <strong>sentido</strong> y su <strong>módulo</strong> (longitud), que se escribe \(\|\vec{u}\|\). Dos puntos \(A\) y \(B\) determinan el vector \(\overrightarrow{AB}\), con origen en \(A\) y extremo en \(B\).</p>
+    <p>Dados dos vectores no paralelos \(\vec{u}\) y \(\vec{v}\), cada uno de ellos genera una recta: \(\langle \vec{u} \rangle = \{\lambda\vec{u},\ \lambda \in \mathbb{R}\}\) y \(\langle \vec{v} \rangle = \{\mu\vec{v},\ \mu \in \mathbb{R}\}\). Un vector \(\vec{w}\) se puede "construir" sumando un trozo de \(\vec{u}\) y un trozo de \(\vec{v}\):</p>
+<p>\[ \vec{w} = a\,\vec{u} + b\,\vec{v}, \qquad a, b \in \mathbb{R} \]</p>
 <ul>
-<li>Dos vectores son <strong>iguales</strong> si tienen la misma dirección, el mismo sentido y el mismo módulo. Por eso un vector puede dibujarse con origen en cualquier punto («vector libre»).</li>
-<li>El <strong>vector nulo</strong> \(\vec{0}\) tiene módulo 0.</li>
-<li>El <strong>opuesto</strong> de \(\vec{u}\) es \(-\vec{u}\): mismo módulo y dirección, sentido contrario. Se cumple \(\overrightarrow{BA} = -\overrightarrow{AB}\).</li>
+<li>\(a\vec{u}\) es la componente de \(\vec{w}\) sobre la recta de \(\vec{u}\), medida en la dirección de \(\vec{v}\). El número \(a\) indica cuántas veces "cabe" \(\vec{u}\): \(|a| = \dfrac{\|a\vec{u}\|}{\|\vec{u}\|}\).</li>
+<li>\(b\vec{v}\) es la componente de \(\vec{w}\) sobre la recta de \(\vec{v}\).</li>
+<li>\(\vec{w}\) es la diagonal del paralelogramo cuyos lados son \(a\vec{u}\) y \(b\vec{v}\).</li>
+<li>Todos los vectores que se pueden construir así forman el plano \(\langle \vec{u}, \vec{v} \rangle = \{\lambda\vec{u} + \mu\vec{v},\ \lambda, \mu \in \mathbb{R}\}\).</li>
 </ul>
-<h3 style="color: #1e3a8a;">2. Operaciones con vectores</h3>
-<p><strong>Suma.</strong> Para sumar \(\vec{u} + \vec{v}\), se coloca el origen de \(\vec{v}\) en el extremo de \(\vec{u}\); el vector suma va del origen de \(\vec{u}\) al extremo de \(\vec{v}\). Equivale a la diagonal del paralelogramo construido sobre ambos. Con puntos, es la <strong>relación de Chasles</strong>: \[ \overrightarrow{AB} + \overrightarrow{BC} = \overrightarrow{AC}. \]</p>
-<div style="text-align: center; margin: 12px 0;"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 260 220" width="260" height="220" style="max-width: 100%; height: auto; background: #ffffff; border: 1px solid #d1d5db; border-radius: 6px;"> <defs> <marker id="ahB" markerwidth="8" markerheight="8" refx="7" refy="4" orient="auto"><polygon points="0,0 8,4 0,8" fill="#1d4ed8"></polygon></marker> <marker id="ahG" markerwidth="8" markerheight="8" refx="7" refy="4" orient="auto"><polygon points="0,0 8,4 0,8" fill="#16a34a"></polygon></marker> <marker id="ahR" markerwidth="8" markerheight="8" refx="7" refy="4" orient="auto"><polygon points="0,0 8,4 0,8" fill="#dc2626"></polygon></marker> </defs> <line x1="170" y1="160" x2="220" y2="70" stroke="#16a34a" stroke-width="1.5" stroke-dasharray="5,4"></line> <line x1="90" y1="100" x2="220" y2="70" stroke="#1d4ed8" stroke-width="1.5" stroke-dasharray="5,4"></line> <line x1="40" y1="190" x2="170" y2="160" stroke="#1d4ed8" stroke-width="2.5" marker-end="url(#ahB)"></line> <line x1="40" y1="190" x2="90" y2="100" stroke="#16a34a" stroke-width="2.5" marker-end="url(#ahG)"></line> <line x1="40" y1="190" x2="220" y2="70" stroke="#dc2626" stroke-width="2.5" marker-end="url(#ahR)"></line> <text x="100" y="188" font-size="15" fill="#1d4ed8" font-family="Arial,sans-serif">u</text> <text x="46" y="136" font-size="15" fill="#16a34a" font-family="Arial,sans-serif">v</text> <text x="124" y="152" font-size="15" fill="#dc2626" font-family="Arial,sans-serif">u + v</text> </svg></div>
-<p><strong>Producto por un escalar.</strong> Si \(\lambda\) es un número real, \(\lambda\vec{u}\) es el vector con la misma dirección que \(\vec{u}\), módulo \(|\lambda|\,\|\vec{u}\|\), y sentido igual al de \(\vec{u}\) si \(\lambda &gt; 0\) y contrario si \(\lambda &lt; 0\). Si \(\lambda = 0\), es el vector nulo.</p>
-<p><strong>Resta.</strong> \(\vec{u} - \vec{v} = \vec{u} + (-\vec{v})\).</p>
-<div style="background: #eff6ff; color: #1f2937; border-left: 5px solid #3b82f6; padding: 10px 14px; margin: 12px 0;"><strong>Propiedades.</strong> Para vectores \(\vec{u}, \vec{v}, \vec{w}\) y escalares \(\lambda, \mu\):
-<ul style="margin: 6px 0 0 18px;">
-<li>\(\vec{u} + \vec{v} = \vec{v} + \vec{u}\) y \((\vec{u} + \vec{v}) + \vec{w} = \vec{u} + (\vec{v} + \vec{w})\).</li>
-<li>\(\lambda(\vec{u} + \vec{v}) = \lambda\vec{u} + \lambda\vec{v}\) y \((\lambda + \mu)\vec{u} = \lambda\vec{u} + \mu\vec{u}\).</li>
-<li>\(\lambda(\mu\vec{u}) = (\lambda\mu)\vec{u}\).</li>
-</ul>
+<p>La pregunta clave es: ¿el vector \(\vec{w}\) está en ese plano (se puede construir con \(\vec{u}\) y \(\vec{v}\)) o "se sale" de él? Si se sale, aporta una dirección nueva y es <strong>independiente</strong>. Si no se sale, no aporta nada nuevo y es <strong>dependiente</strong>.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793674178402-6oz6t7d4m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dados dos vectores no paralelos \\(\\vec{u}\\) y \\(\\vec{v}\\), cada uno de ellos genera una recta: \\(\\langle \\vec{u} \\rangle = \\{\\lambda\\vec{u},\\ \\lambda \\in \\mathbb{R}\\}\\) y \\(\\langle \\vec{v} \\rangle = \\{\\mu\\vec{v},\\ \\mu \\in \\mathbb{R}\\}\\). Un vector \\(\\vec{w}\\) se puede \"construir\" sumando un trozo de \\(\\vec{u}\\) y un trozo de \\(\\vec{v}\\):</p>\n<p>\\[ \\vec{w} = a\\,\\vec{u} + b\\,\\vec{v}, \\qquad a, b \\in \\mathbb{R} \\]</p>\n<ul>\n<li>\\(a\\vec{u}\\) es la componente de \\(\\vec{w}\\) sobre la recta de \\(\\vec{u}\\), medida en la dirección de \\(\\vec{v}\\). El número \\(a\\) indica cuántas veces \"cabe\" \\(\\vec{u}\\): \\(|a| = \\dfrac{\\|a\\vec{u}\\|}{\\|\\vec{u}\\|}\\).</li>\n<li>\\(b\\vec{v}\\) es la componente de \\(\\vec{w}\\) sobre la recta de \\(\\vec{v}\\).</li>\n<li>\\(\\vec{w}\\) es la diagonal del paralelogramo cuyos lados son \\(a\\vec{u}\\) y \\(b\\vec{v}\\).</li>\n<li>Todos los vectores que se pueden construir así forman el plano \\(\\langle \\vec{u}, \\vec{v} \\rangle = \\{\\lambda\\vec{u} + \\mu\\vec{v},\\ \\lambda, \\mu \\in \\mathbb{R}\\}\\).</li>\n</ul>\n<p>La pregunta clave es: ¿el vector \\(\\vec{w}\\) está en ese plano (se puede construir con \\(\\vec{u}\\) y \\(\\vec{v}\\)) o \"se sale\" de él? Si se sale, aporta una dirección nueva y es <strong>independiente</strong>. Si no se sale, no aporta nada nuevo y es <strong>dependiente</strong>.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw037u2q-g7zdbxa1z</odePageId>
+      <odeBlockId>block-mw84ema4-bth58mjhh</odeBlockId>
+      <blockName>Definiciones clave</blockName>
+      <iconName>udl_exp_lee</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw037u2q-g7zdbxa1z</odePageId>
+          <odeBlockId>block-mw84ema4-bth58mjhh</odeBlockId>
+          <odeIdeviceId>idevice-1794159774795-xf6bjr63q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para estudiar cuándo unos vectores aportan información nueva y cuándo no, necesitamos precisar el lenguaje de las combinaciones lineales.</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p>Un vector <strong>\(\vec{w}\)</strong> es una <strong>combinación lineal</strong> de \(\vec{u}_1, \vec{u}_2, \dots, \vec{u}_n\) si existen escalares \(a_1, a_2, \dots, a_n\) tales que:</p>
+<p>\[ \vec{w} = a_1\vec{u}_1 + a_2\vec{u}_2 + \dots + a_n\vec{u}_n \]</p>
 </div>
-<h3 style="color: #1e3a8a;">3. Combinaciones lineales: colinealidad y coplanaridad</h3>
-<p>Una <strong>combinación lineal</strong> de los vectores \(\vec{u}, \vec{v}, \vec{w}\) es un vector de la forma \(a\vec{u} + b\vec{v} + c\vec{w}\), con \(a, b, c\) reales.</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p>Un conjunto de vectores \(\{\vec{u}_1, \vec{u}_2, \vec{u}_3\}\) es <strong>linealmente dependiente</strong> si uno de ellos puede escribirse como combinación lineal de los demás.</p>
+<p>Equivalentemente, existe una combinación lineal del vector \(\vec{0}\) con algún coeficiente no nulo:</p>
+<p>\[ \vec{0} = a\vec{u}_1 + b\vec{u}_2 + c\vec{u}_3 \quad \text{con } a \neq 0 \text{ o } b \neq 0 \text{ o } c \neq 0 \]</p>
+<p>Por ejemplo, si \(a \neq 0\):</p>
+<p>\[ \vec{u}_1 = -\frac{b}{a}\vec{u}_2 - \frac{c}{a}\vec{u}_3 \]</p>
+<p><em>Interpretación geométrica:</em> los vectores están en un subespacio de dimensión \(\leq 2\) (una recta o un plano).</p>
+</div>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p>Un conjunto de vectores \(\{\vec{u}_1, \vec{u}_2, \vec{u}_3\}\) es <strong>linealmente independiente</strong> si ninguno de ellos puede escribirse como combinación lineal de los demás.</p>
+<p>Equivalentemente:</p>
+<p>\[ \vec{0} = a\vec{u}_1 + b\vec{u}_2 + c\vec{u}_3 \ \Longrightarrow\ a = b = c = 0 \]</p>
+</div>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p>Un conjunto \(\{\vec{u}_1, \dots, \vec{u}_n\}\) es un <strong>sistema generador</strong> de un espacio vectorial \(E\) si todo vector de \(E\) puede escribirse como combinación lineal de ellos. El conjunto de todas las combinaciones lineales se llama <strong>subespacio generado</strong> y se escribe:</p>
+<p>\[ \langle \vec{u}_1, \dots, \vec{u}_n \rangle = \{\lambda_1\vec{u}_1 + \dots + \lambda_n\vec{u}_n,\ \lambda_i \in \mathbb{R}\} \]</p>
+</div>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p>Una <strong>base</strong> de un espacio vectorial \(E\) es un conjunto de vectores que es, a la vez:</p>
 <ul>
-<li><strong>Colineales.</strong> Dos vectores son colineales (tienen la misma dirección) si y solo si uno es múltiplo del otro: \(\vec{v} = \lambda\vec{u}\).</li>
-<li><strong>Coplanarios.</strong> Tres vectores son coplanarios (están en un mismo plano) si y solo si uno es combinación lineal de los otros dos, por ejemplo \(\vec{w} = a\vec{u} + b\vec{v}\).</li>
-<li><strong>Puntos alineados.</strong> Tres puntos \(A, B, C\) están alineados si y solo si \(\overrightarrow{AB}\) y \(\overrightarrow{AC}\) son colineales.</li>
+<li>un <strong>sistema generador</strong> de \(E\), y</li>
+<li><strong>linealmente independiente</strong>.</li>
 </ul>
-<h3 style="color: #1e3a8a;">4. Bases y sistema de coordenadas</h3>
-<div style="background: #fef3c7; color: #1f2937; border-left: 5px solid #f59e0b; padding: 10px 14px; margin: 12px 0;"><strong>Base.</strong> Tres vectores \(\vec{u}, \vec{v}, \vec{w}\) <strong>no coplanarios</strong> forman una <strong>base</strong> del espacio: todo vector \(\vec{p}\) se escribe de <strong>una única forma</strong> como \[ \vec{p} = x\,\vec{u} + y\,\vec{v} + z\,\vec{w}, \] y los números \((x, y, z)\) son las <strong>coordenadas</strong> de \(\vec{p}\) en esa base.</div>
-<p>Para localizar puntos, elegimos cuatro puntos \(O, I, J, K\) <strong>no coplanarios</strong> y definimos \[ \vec{\imath} = \overrightarrow{OI}, \qquad \vec{\jmath} = \overrightarrow{OJ}, \qquad \vec{k} = \overrightarrow{OK}. \] Entonces \((\vec{\imath}, \vec{\jmath}, \vec{k})\) es una base y \((O;\ \vec{\imath}, \vec{\jmath}, \vec{k})\) es un <strong>sistema de coordenadas</strong>. Las rectas \((OI)\), \((OJ)\) y \((OK)\) son los ejes \(Ox\), \(Oy\) y \(Oz\).</p>
-<div style="background: #eff6ff; color: #1f2937; border-left: 5px solid #3b82f6; padding: 10px 14px; margin: 12px 0;"><strong>Coordenadas de un punto.</strong> Las coordenadas \((x, y, z)\) de un punto \(M\) del espacio son las del vector \(\overrightarrow{OM}\): \[ \overrightarrow{OM} = x\,\overrightarrow{OI} + y\,\overrightarrow{OJ} + z\,\overrightarrow{OK} = x\,\vec{\imath} + y\,\vec{\jmath} + z\,\vec{k}. \] Se escribe \(M(x, y, z)\); \(x\) es la abscisa, \(y\) la ordenada y \(z\) la cota.</div>
-<p>El sistema es <strong>ortonormal</strong> cuando los tres vectores de la base son <strong>unitarios</strong> (\(\|\vec{\imath}\| = \|\vec{\jmath}\| = \|\vec{k}\| = 1\)) y <strong>perpendiculares entre sí</strong>. En este curso trabajaremos siempre con sistemas ortonormales.</p>
-<div style="text-align: center; margin: 12px 0;"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 320 270" width="320" height="270" style="max-width: 100%; height: auto; background: #ffffff; border: 1px solid #d1d5db; border-radius: 6px;"> <line x1="110" y1="200" x2="34" y2="250" stroke="#374151" stroke-width="1.5"></line> <line x1="110" y1="200" x2="292" y2="200" stroke="#374151" stroke-width="1.5"></line> <line x1="110" y1="200" x2="110" y2="30" stroke="#374151" stroke-width="1.5"></line> <g stroke="#9ca3af" stroke-width="1.2" stroke-dasharray="4,3" fill="none"> <line x1="62" y1="232" x2="182" y2="232"></line> <line x1="182" y1="232" x2="230" y2="200"></line> <line x1="182" y1="232" x2="182" y2="152"></line> <line x1="62" y1="232" x2="62" y2="152"></line> <line x1="62" y1="152" x2="110" y2="120"></line> <line x1="62" y1="152" x2="182" y2="152"></line> <line x1="230" y1="200" x2="230" y2="120"></line> <line x1="230" y1="120" x2="110" y2="120"></line> <line x1="230" y1="120" x2="182" y2="152"></line> </g> <line x1="110" y1="200" x2="182" y2="152" stroke="#dc2626" stroke-width="2.5"></line> <line x1="110" y1="200" x2="86" y2="216" stroke="#1d4ed8" stroke-width="3.5"></line> <line x1="110" y1="200" x2="150" y2="200" stroke="#16a34a" stroke-width="3.5"></line> <line x1="110" y1="200" x2="110" y2="160" stroke="#7c3aed" stroke-width="3.5"></line> <circle cx="182" cy="152" r="4.5" fill="#dc2626"></circle> <text x="190" y="148" font-size="14" fill="#dc2626" font-family="Arial,sans-serif">M(2, 3, 2)</text> <text x="66" y="212" font-size="14" fill="#1d4ed8" font-family="Arial,sans-serif">i</text> <text x="128" y="216" font-size="14" fill="#16a34a" font-family="Arial,sans-serif">j</text> <text x="96" y="170" font-size="14" fill="#7c3aed" font-family="Arial,sans-serif">k</text> <text x="116" y="216" font-size="13" fill="#1f2937" font-family="Arial,sans-serif">O</text> <text x="22" y="262" font-size="13" fill="#1f2937" font-family="Arial,sans-serif">x</text> <text x="296" y="204" font-size="13" fill="#1f2937" font-family="Arial,sans-serif">y</text> <text x="116" y="36" font-size="13" fill="#1f2937" font-family="Arial,sans-serif">z</text> <text x="48" y="246" font-size="12" fill="#374151" font-family="Arial,sans-serif">2</text> <text x="234" y="216" font-size="12" fill="#374151" font-family="Arial,sans-serif">3</text> <text x="94" y="124" font-size="12" fill="#374151" font-family="Arial,sans-serif">2</text> </svg></div>
-<p>En la figura, \(\overrightarrow{OM} = 2\vec{\imath} + 3\vec{\jmath} + 2\vec{k}\): se avanza 2 unidades en el eje \(Ox\), 3 en \(Oy\) y 2 en \(Oz\).</p>
-<h3 style="color: #1e3a8a;">5. Coordenadas de vectores y operaciones</h3>
-<p>Si \(\vec{u} = x\,\vec{\imath} + y\,\vec{\jmath} + z\,\vec{k}\), escribimos \(\vec{u}(x, y, z)\). Para dos puntos \(A(x_A, y_A, z_A)\) y \(B(x_B, y_B, z_B)\), como \(\overrightarrow{AB} = \overrightarrow{OB} - \overrightarrow{OA}\): \[ \overrightarrow{AB} = (x_B - x_A,\ y_B - y_A,\ z_B - z_A). \] Las operaciones se hacen coordenada a coordenada. Sean \(\vec{u}(x, y, z)\), \(\vec{v}(x', y', z')\) y \(\lambda \in \mathbb{R}\):</p>
-<table style="border-collapse: collapse; margin: 8px 0; font-size: 15px;">
-<tbody>
-<tr style="background: #dbeafe;">
-<th style="border: 1px solid #9ca3af; padding: 6px 12px;">Operación</th>
-<th style="border: 1px solid #9ca3af; padding: 6px 12px;">Coordenadas</th>
-</tr>
-<tr>
-<td style="border: 1px solid #9ca3af; padding: 6px 12px;">Suma</td>
-<td style="border: 1px solid #9ca3af; padding: 6px 12px;">\(\vec{u} + \vec{v} = (x + x',\ y + y',\ z + z')\)</td>
-</tr>
-<tr>
-<td style="border: 1px solid #9ca3af; padding: 6px 12px;">Resta</td>
-<td style="border: 1px solid #9ca3af; padding: 6px 12px;">\(\vec{u} - \vec{v} = (x - x',\ y - y',\ z - z')\)</td>
-</tr>
-<tr>
-<td style="border: 1px solid #9ca3af; padding: 6px 12px;">Producto por escalar</td>
-<td style="border: 1px solid #9ca3af; padding: 6px 12px;">\(\lambda\vec{u} = (\lambda x,\ \lambda y,\ \lambda z)\)</td>
-</tr>
-<tr>
-<td style="border: 1px solid #9ca3af; padding: 6px 12px;">Igualdad</td>
-<td style="border: 1px solid #9ca3af; padding: 6px 12px;">\(\vec{u} = \vec{v} \iff x = x',\ y = y',\ z = z'\)</td>
-</tr>
-<tr>
-<td style="border: 1px solid #9ca3af; padding: 6px 12px;">Colinealidad</td>
-<td style="border: 1px solid #9ca3af; padding: 6px 12px;">\(\vec{u}\) y \(\vec{v}\) colineales \(\iff\) coordenadas proporcionales</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Punto medio.</strong> El punto medio \(I\) del segmento \([AB]\) cumple \(\overrightarrow{OI} = \tfrac12(\overrightarrow{OA} + \overrightarrow{OB})\), es decir, \[ I\left(\frac{x_A + x_B}{2},\ \frac{y_A + y_B}{2},\ \frac{z_A + z_B}{2}\right). \]</p>
-<h3 style="color: #1e3a8a;">6. Norma, distancia y vectores unitarios</h3>
-<p>En un sistema <strong>ortonormal</strong>, el módulo (o <strong>norma</strong>) de \(\vec{u}(x, y, z)\) se obtiene aplicando dos veces el teorema de Pitágoras (primero en el plano de la base y después con la altura \(z\)): \[ \|\vec{u}\| = \sqrt{x^2 + y^2 + z^2}. \] La <strong>distancia</strong> entre dos puntos es la norma del vector que los une: \[ AB = \|\overrightarrow{AB}\| = \sqrt{(x_B - x_A)^2 + (y_B - y_A)^2 + (z_B - z_A)^2}. \]</p>
-<div style="background: #eff6ff; color: #1f2937; border-left: 5px solid #3b82f6; padding: 10px 14px; margin: 12px 0;"><strong>Vector unitario.</strong> Un vector es <strong>unitario</strong> si su norma es 1. Los vectores \(\vec{\imath}, \vec{\jmath}, \vec{k}\) lo son. Dado \(\vec{u} \neq \vec{0}\), el vector unitario con su misma dirección y sentido es \[ \vec{e} = \frac{1}{\|\vec{u}\|}\,\vec{u}. \]</div>
-<h3 style="color: #1e3a8a;">Ejemplo 1: vector, distancia, punto medio y unitario</h3>
-<p>Sean \(A(1, 2, -1)\) y \(B(4, -2, 3)\).</p>
-<p><strong>a) Vector \(\overrightarrow{AB}\).</strong> \(\overrightarrow{AB} = (4 - 1,\ -2 - 2,\ 3 - (-1)) = (3, -4, 4)\).</p>
-<p><strong>b) Distancia.</strong> \(AB = \sqrt{3^2 + (-4)^2 + 4^2} = \sqrt{9 + 16 + 16} = \sqrt{41} \approx 6{,}40\).</p>
-<p><strong>c) Punto medio.</strong> \(I\left(\tfrac{1+4}{2},\ \tfrac{2-2}{2},\ \tfrac{-1+3}{2}\right) = \left(\tfrac52,\ 0,\ 1\right)\).</p>
-<p><strong>d) Vector unitario en la dirección de \(\overrightarrow{AB}\).</strong> \(\vec{e} = \dfrac{1}{\sqrt{41}}(3, -4, 4)\). Comprobación: \(\dfrac{9 + 16 + 16}{41} = 1\).</p>
-<h3 style="color: #1e3a8a;">Ejemplo 2: puntos alineados</h3>
-<p>¿Están alineados \(A(1, 0, 1)\), \(B(2, 1, 3)\) y \(C(4, 3, 7)\)?</p>
-<p>\(\overrightarrow{AB} = (1, 1, 2)\) y \(\overrightarrow{AC} = (3, 3, 6)\). Como \(\overrightarrow{AC} = 3\,\overrightarrow{AB}\), los vectores son colineales y, por tanto, los tres puntos <strong>están alineados</strong>.</p>
-<h3 style="color: #1e3a8a;">Ejemplo 3: coplanaridad y bases</h3>
-<p>Sean \(\vec{u}(1, 0, 1)\), \(\vec{v}(0, 1, 1)\) y \(\vec{w}(2, 3, 5)\). ¿Son coplanarios?</p>
-<p>Buscamos \(a, b\) con \(\vec{w} = a\vec{u} + b\vec{v}\), es decir, \((a,\ b,\ a + b) = (2, 3, 5)\). De las dos primeras coordenadas, \(a = 2\) y \(b = 3\), y la tercera se cumple: \(2 + 3 = 5\). Luego \(\vec{w} = 2\vec{u} + 3\vec{v}\) y los tres vectores son <strong>coplanarios</strong>: no forman base.</p>
-<p>En cambio, con \(\vec{t}(2, 3, 4)\) la tercera coordenada daría \(5 \neq 4\), así que \(\vec{t}\) no es combinación de \(\vec{u}\) y \(\vec{v}\). Entonces \((\vec{u}, \vec{v}, \vec{t})\) <strong>sí es una base</strong>.</p>
-<h3 style="color: #1e3a8a;">7. Más allá de tres dimensiones</h3>
-<p>Todo lo anterior se generaliza. Un punto de un espacio de \(n\) dimensiones es una <strong>\(n\)-upla</strong> de números \((x_1, x_2, \dots, x_n)\). Las operaciones se hacen coordenada a coordenada y la norma es \(\sqrt{x_1^2 + x_2^2 + \dots + x_n^2}\). Así se describen fenómenos que dependen de muchas variables a la vez. Por ejemplo, en \(\mathbb{R}^4\), el vector \(\vec{u}(1, 2, 0, -1)\) tiene norma \(\sqrt{1 + 4 + 0 + 1} = \sqrt6\).</p>
-<div style="background: #fef2f2; color: #1f2937; border-left: 5px solid #ef4444; padding: 10px 14px; margin: 12px 0;"><strong>Errores frecuentes.</strong>
-<ul style="margin: 6px 0 0 18px;">
-<li><strong>Invertir la resta:</strong> \(\overrightarrow{AB} = B - A\) (extremo menos origen), no \(A - B\).</li>
-<li><strong>Confundir punto y vector:</strong> \(M(x, y, z)\) es un punto; sus coordenadas son las de \(\overrightarrow{OM}\). La suma de dos puntos no tiene sentido, pero sí la de dos vectores.</li>
-<li><strong>Creer que \(\|\vec{u} + \vec{v}\| = \|\vec{u}\| + \|\vec{v}\|\):</strong> en general solo se cumple \(\|\vec{u} + \vec{v}\| \le \|\vec{u}\| + \|\vec{v}\|\).</li>
-<li><strong>Usar la fórmula de la norma en una base no ortonormal:</strong> \(\sqrt{x^2 + y^2 + z^2}\) solo vale en sistemas ortonormales.</li>
-<li><strong>Olvidar dividir entre la norma</strong> al construir un vector unitario.</li>
-</ul>
+<p>Por ejemplo, dos vectores independientes de \(\mathbb{R}^2\) forman una base de \(\mathbb{R}^2\).</p>
 </div>
-<div style="background: #ecfdf5; color: #1f2937; border-left: 5px solid #10b981; padding: 10px 14px; margin: 12px 0;"><strong>Resumen.</strong>
-<ul style="margin: 6px 0 0 18px;">
-<li>Tres vectores no coplanarios forman una base; todo vector se escribe de forma única como combinación lineal de ellos.</li>
-<li>\((O;\ \vec{\imath}, \vec{\jmath}, \vec{k})\) con \(O, I, J, K\) no coplanarios es un sistema de coordenadas; \(\overrightarrow{OM} = x\vec{\imath} + y\vec{\jmath} + z\vec{k}\) define \(M(x, y, z)\).</li>
-<li>Ortonormal: \(\vec{\imath}, \vec{\jmath}, \vec{k}\) unitarios y perpendiculares entre sí.</li>
-<li>\(\overrightarrow{AB} = (x_B - x_A,\ y_B - y_A,\ z_B - z_A)\); las operaciones se hacen coordenada a coordenada.</li>
-<li>\(\|\vec{u}\| = \sqrt{x^2 + y^2 + z^2}\); vector unitario: \(\vec{u}/\|\vec{u}\|\).</li>
-<li>Colineales: coordenadas proporcionales. Coplanarios: un vector es combinación lineal de los otros dos.</li>
-</ul>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p>Si \(B = \{\vec{u}_1, \dots, \vec{u}_n\}\) es una base de \(E\), todo vector \(\vec{w} \in E\) se escribe de forma <strong>única</strong> como:</p>
+<p>\[ \vec{w} = a_1\vec{u}_1 + \dots + a_n\vec{u}_n \]</p>
+<p>Los escalares \((a_1, \dots, a_n)\) son las <strong>coordenadas</strong> de \(\vec{w}\) respecto de la base \(B\).</p>
+</div>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p>Un vector \(\vec{w}\) <strong>pertenece</strong> al subespacio \(\langle \vec{u}, \vec{v} \rangle\), y se escribe \(\vec{w} \in \langle \vec{u}, \vec{v} \rangle\), si puede escribirse como combinación lineal de \(\vec{u}\) y \(\vec{v}\):</p>
+<p>\[ \vec{w} = a\vec{u} + b\vec{v}, \quad a, b \in \mathbb{R} \]</p>
+<p>En ese caso, \(\{\vec{u}, \vec{v}, \vec{w}\}\) es linealmente dependiente.</p>
+<div style="text-align: center; margin-bottom: 15px;"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 520 420" width="100%" style="max-width: 560px; background: #ffffff; border: 1px solid #cccccc; border-radius: 4px;" role="img" aria-label="Vector w como combinación lineal de u y v: w = a·u + b·v"> <defs> <marker id="flechaRoja" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#d62828"></path></marker> <marker id="flechaVerde" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#2e9e1f"></path></marker> <marker id="flechaNegra" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#000000"></path></marker> </defs> <text x="260" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#000000">w = a·u + b·v</text> <!-- Rectas generadas por u y por v --> <line x1="40" y1="360" x2="490" y2="360" stroke="#888888" stroke-width="1"></line> <line x1="68" y1="387" x2="170" y2="158" stroke="#888888" stroke-width="1"></line> <text x="470" y="380" font-family="Georgia, serif" font-size="14" fill="#555555">&lt;u&gt;</text> <text x="176" y="156" font-family="Georgia, serif" font-size="14" fill="#555555">&lt;v&gt;</text> <!-- Paralelogramo (líneas auxiliares) --> <line x1="140" y1="225" x2="420" y2="225" stroke="#888888" stroke-width="1.5" stroke-dasharray="6,5"></line> <line x1="360" y1="360" x2="420" y2="225" stroke="#888888" stroke-width="1.5" stroke-dasharray="6,5"></line> <!-- a·u y b·v (verde) --> <line x1="80" y1="360" x2="358" y2="360" stroke="#2e9e1f" stroke-width="3" marker-end="url(#flechaVerde)"></line> <line x1="80" y1="360" x2="139" y2="227" stroke="#2e9e1f" stroke-width="3" marker-end="url(#flechaVerde)"></line> <!-- u y v (rojo) --> <line x1="80" y1="360" x2="218" y2="360" stroke="#d62828" stroke-width="4" marker-end="url(#flechaRoja)"></line> <line x1="80" y1="360" x2="119" y2="272" stroke="#d62828" stroke-width="4" marker-end="url(#flechaRoja)"></line> <!-- w (negro) --> <line x1="80" y1="360" x2="418" y2="227" stroke="#000000" stroke-width="3" marker-end="url(#flechaNegra)"></line> <!-- Etiquetas --> <text x="150" y="382" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#d62828">u</text> <text x="84" y="318" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#d62828">v</text> <text x="290" y="384" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#2e9e1f">a·u</text> <text x="92" y="255" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#2e9e1f">b·v</text> <text x="238" y="278" font-family="Georgia, serif" font-size="22" font-style="italic" font-weight="bold" fill="#000000">w</text> <circle cx="80" cy="360" r="3" fill="#000000"></circle> </svg>
+<p><em>El vector <strong>w</strong> es la diagonal del paralelogramo construido con <strong>a·u</strong> sobre la recta de u y <strong>b·v</strong> sobre la recta de v.</em></p>
+</div>
+</div>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px;">
+<p>Un vector \(\vec{w}\) <strong>no pertenece</strong> al subespacio \(\langle \vec{u}, \vec{v} \rangle\), y se escribe \(\vec{w} \notin \langle \vec{u}, \vec{v} \rangle\), si no existen \(a, b \in \mathbb{R}\) tales que \(\vec{w} = a\vec{u} + b\vec{v}\). El sistema de ecuaciones asociado es <strong>incompatible</strong>.</p>
+<p>En ese caso, si \(\vec{u}\) y \(\vec{v}\) son independientes, \(\{\vec{u}, \vec{v}, \vec{w}\}\) es linealmente independiente.</p>
 </div>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793674178402-6oz6t7d4m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este bloque describimos el espacio con <strong>vectores y coordenadas</strong>. Es la base de todo lo que viene después (rectas y planos): una vez que cada punto tiene tres coordenadas, los problemas de geometría se convierten en cálculos con números.</p>\n<h3 style=\"color: #1e3a8a;\">1. Vectores en el espacio</h3>\n<p>Un <strong>vector</strong> \\(\\vec{u}\\) queda determinado por tres datos: su <strong>dirección</strong>, su <strong>sentido</strong> y su <strong>módulo</strong> (longitud), que se escribe \\(\\|\\vec{u}\\|\\). Dos puntos \\(A\\) y \\(B\\) determinan el vector \\(\\overrightarrow{AB}\\), con origen en \\(A\\) y extremo en \\(B\\).</p>\n<ul>\n<li>Dos vectores son <strong>iguales</strong> si tienen la misma dirección, el mismo sentido y el mismo módulo. Por eso un vector puede dibujarse con origen en cualquier punto («vector libre»).</li>\n<li>El <strong>vector nulo</strong> \\(\\vec{0}\\) tiene módulo 0.</li>\n<li>El <strong>opuesto</strong> de \\(\\vec{u}\\) es \\(-\\vec{u}\\): mismo módulo y dirección, sentido contrario. Se cumple \\(\\overrightarrow{BA} = -\\overrightarrow{AB}\\).</li>\n</ul>\n<h3 style=\"color: #1e3a8a;\">2. Operaciones con vectores</h3>\n<p><strong>Suma.</strong> Para sumar \\(\\vec{u} + \\vec{v}\\), se coloca el origen de \\(\\vec{v}\\) en el extremo de \\(\\vec{u}\\); el vector suma va del origen de \\(\\vec{u}\\) al extremo de \\(\\vec{v}\\). Equivale a la diagonal del paralelogramo construido sobre ambos. Con puntos, es la <strong>relación de Chasles</strong>: \\[ \\overrightarrow{AB} + \\overrightarrow{BC} = \\overrightarrow{AC}. \\]</p>\n<div style=\"text-align: center; margin: 12px 0;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 260 220\" width=\"260\" height=\"220\" style=\"max-width: 100%; height: auto; background: #ffffff; border: 1px solid #d1d5db; border-radius: 6px;\"> <defs> <marker id=\"ahB\" markerwidth=\"8\" markerheight=\"8\" refx=\"7\" refy=\"4\" orient=\"auto\"><polygon points=\"0,0 8,4 0,8\" fill=\"#1d4ed8\"></polygon></marker> <marker id=\"ahG\" markerwidth=\"8\" markerheight=\"8\" refx=\"7\" refy=\"4\" orient=\"auto\"><polygon points=\"0,0 8,4 0,8\" fill=\"#16a34a\"></polygon></marker> <marker id=\"ahR\" markerwidth=\"8\" markerheight=\"8\" refx=\"7\" refy=\"4\" orient=\"auto\"><polygon points=\"0,0 8,4 0,8\" fill=\"#dc2626\"></polygon></marker> </defs> <line x1=\"170\" y1=\"160\" x2=\"220\" y2=\"70\" stroke=\"#16a34a\" stroke-width=\"1.5\" stroke-dasharray=\"5,4\"></line> <line x1=\"90\" y1=\"100\" x2=\"220\" y2=\"70\" stroke=\"#1d4ed8\" stroke-width=\"1.5\" stroke-dasharray=\"5,4\"></line> <line x1=\"40\" y1=\"190\" x2=\"170\" y2=\"160\" stroke=\"#1d4ed8\" stroke-width=\"2.5\" marker-end=\"url(#ahB)\"></line> <line x1=\"40\" y1=\"190\" x2=\"90\" y2=\"100\" stroke=\"#16a34a\" stroke-width=\"2.5\" marker-end=\"url(#ahG)\"></line> <line x1=\"40\" y1=\"190\" x2=\"220\" y2=\"70\" stroke=\"#dc2626\" stroke-width=\"2.5\" marker-end=\"url(#ahR)\"></line> <text x=\"100\" y=\"188\" font-size=\"15\" fill=\"#1d4ed8\" font-family=\"Arial,sans-serif\">u</text> <text x=\"46\" y=\"136\" font-size=\"15\" fill=\"#16a34a\" font-family=\"Arial,sans-serif\">v</text> <text x=\"124\" y=\"152\" font-size=\"15\" fill=\"#dc2626\" font-family=\"Arial,sans-serif\">u + v</text> </svg></div>\n<p><strong>Producto por un escalar.</strong> Si \\(\\lambda\\) es un número real, \\(\\lambda\\vec{u}\\) es el vector con la misma dirección que \\(\\vec{u}\\), módulo \\(|\\lambda|\\,\\|\\vec{u}\\|\\), y sentido igual al de \\(\\vec{u}\\) si \\(\\lambda &gt; 0\\) y contrario si \\(\\lambda &lt; 0\\). Si \\(\\lambda = 0\\), es el vector nulo.</p>\n<p><strong>Resta.</strong> \\(\\vec{u} - \\vec{v} = \\vec{u} + (-\\vec{v})\\).</p>\n<div style=\"background: #eff6ff; color: #1f2937; border-left: 5px solid #3b82f6; padding: 10px 14px; margin: 12px 0;\"><strong>Propiedades.</strong> Para vectores \\(\\vec{u}, \\vec{v}, \\vec{w}\\) y escalares \\(\\lambda, \\mu\\):\n<ul style=\"margin: 6px 0 0 18px;\">\n<li>\\(\\vec{u} + \\vec{v} = \\vec{v} + \\vec{u}\\) y \\((\\vec{u} + \\vec{v}) + \\vec{w} = \\vec{u} + (\\vec{v} + \\vec{w})\\).</li>\n<li>\\(\\lambda(\\vec{u} + \\vec{v}) = \\lambda\\vec{u} + \\lambda\\vec{v}\\) y \\((\\lambda + \\mu)\\vec{u} = \\lambda\\vec{u} + \\mu\\vec{u}\\).</li>\n<li>\\(\\lambda(\\mu\\vec{u}) = (\\lambda\\mu)\\vec{u}\\).</li>\n</ul>\n</div>\n<h3 style=\"color: #1e3a8a;\">3. Combinaciones lineales: colinealidad y coplanaridad</h3>\n<p>Una <strong>combinación lineal</strong> de los vectores \\(\\vec{u}, \\vec{v}, \\vec{w}\\) es un vector de la forma \\(a\\vec{u} + b\\vec{v} + c\\vec{w}\\), con \\(a, b, c\\) reales.</p>\n<ul>\n<li><strong>Colineales.</strong> Dos vectores son colineales (tienen la misma dirección) si y solo si uno es múltiplo del otro: \\(\\vec{v} = \\lambda\\vec{u}\\).</li>\n<li><strong>Coplanarios.</strong> Tres vectores son coplanarios (están en un mismo plano) si y solo si uno es combinación lineal de los otros dos, por ejemplo \\(\\vec{w} = a\\vec{u} + b\\vec{v}\\).</li>\n<li><strong>Puntos alineados.</strong> Tres puntos \\(A, B, C\\) están alineados si y solo si \\(\\overrightarrow{AB}\\) y \\(\\overrightarrow{AC}\\) son colineales.</li>\n</ul>\n<h3 style=\"color: #1e3a8a;\">4. Bases y sistema de coordenadas</h3>\n<div style=\"background: #fef3c7; color: #1f2937; border-left: 5px solid #f59e0b; padding: 10px 14px; margin: 12px 0;\"><strong>Base.</strong> Tres vectores \\(\\vec{u}, \\vec{v}, \\vec{w}\\) <strong>no coplanarios</strong> forman una <strong>base</strong> del espacio: todo vector \\(\\vec{p}\\) se escribe de <strong>una única forma</strong> como \\[ \\vec{p} = x\\,\\vec{u} + y\\,\\vec{v} + z\\,\\vec{w}, \\] y los números \\((x, y, z)\\) son las <strong>coordenadas</strong> de \\(\\vec{p}\\) en esa base.</div>\n<p>Para localizar puntos, elegimos cuatro puntos \\(O, I, J, K\\) <strong>no coplanarios</strong> y definimos \\[ \\vec{\\imath} = \\overrightarrow{OI}, \\qquad \\vec{\\jmath} = \\overrightarrow{OJ}, \\qquad \\vec{k} = \\overrightarrow{OK}. \\] Entonces \\((\\vec{\\imath}, \\vec{\\jmath}, \\vec{k})\\) es una base y \\((O;\\ \\vec{\\imath}, \\vec{\\jmath}, \\vec{k})\\) es un <strong>sistema de coordenadas</strong>. Las rectas \\((OI)\\), \\((OJ)\\) y \\((OK)\\) son los ejes \\(Ox\\), \\(Oy\\) y \\(Oz\\).</p>\n<div style=\"background: #eff6ff; color: #1f2937; border-left: 5px solid #3b82f6; padding: 10px 14px; margin: 12px 0;\"><strong>Coordenadas de un punto.</strong> Las coordenadas \\((x, y, z)\\) de un punto \\(M\\) del espacio son las del vector \\(\\overrightarrow{OM}\\): \\[ \\overrightarrow{OM} = x\\,\\overrightarrow{OI} + y\\,\\overrightarrow{OJ} + z\\,\\overrightarrow{OK} = x\\,\\vec{\\imath} + y\\,\\vec{\\jmath} + z\\,\\vec{k}. \\] Se escribe \\(M(x, y, z)\\); \\(x\\) es la abscisa, \\(y\\) la ordenada y \\(z\\) la cota.</div>\n<p>El sistema es <strong>ortonormal</strong> cuando los tres vectores de la base son <strong>unitarios</strong> (\\(\\|\\vec{\\imath}\\| = \\|\\vec{\\jmath}\\| = \\|\\vec{k}\\| = 1\\)) y <strong>perpendiculares entre sí</strong>. En este curso trabajaremos siempre con sistemas ortonormales.</p>\n<div style=\"text-align: center; margin: 12px 0;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 320 270\" width=\"320\" height=\"270\" style=\"max-width: 100%; height: auto; background: #ffffff; border: 1px solid #d1d5db; border-radius: 6px;\"> <line x1=\"110\" y1=\"200\" x2=\"34\" y2=\"250\" stroke=\"#374151\" stroke-width=\"1.5\"></line> <line x1=\"110\" y1=\"200\" x2=\"292\" y2=\"200\" stroke=\"#374151\" stroke-width=\"1.5\"></line> <line x1=\"110\" y1=\"200\" x2=\"110\" y2=\"30\" stroke=\"#374151\" stroke-width=\"1.5\"></line> <g stroke=\"#9ca3af\" stroke-width=\"1.2\" stroke-dasharray=\"4,3\" fill=\"none\"> <line x1=\"62\" y1=\"232\" x2=\"182\" y2=\"232\"></line> <line x1=\"182\" y1=\"232\" x2=\"230\" y2=\"200\"></line> <line x1=\"182\" y1=\"232\" x2=\"182\" y2=\"152\"></line> <line x1=\"62\" y1=\"232\" x2=\"62\" y2=\"152\"></line> <line x1=\"62\" y1=\"152\" x2=\"110\" y2=\"120\"></line> <line x1=\"62\" y1=\"152\" x2=\"182\" y2=\"152\"></line> <line x1=\"230\" y1=\"200\" x2=\"230\" y2=\"120\"></line> <line x1=\"230\" y1=\"120\" x2=\"110\" y2=\"120\"></line> <line x1=\"230\" y1=\"120\" x2=\"182\" y2=\"152\"></line> </g> <line x1=\"110\" y1=\"200\" x2=\"182\" y2=\"152\" stroke=\"#dc2626\" stroke-width=\"2.5\"></line> <line x1=\"110\" y1=\"200\" x2=\"86\" y2=\"216\" stroke=\"#1d4ed8\" stroke-width=\"3.5\"></line> <line x1=\"110\" y1=\"200\" x2=\"150\" y2=\"200\" stroke=\"#16a34a\" stroke-width=\"3.5\"></line> <line x1=\"110\" y1=\"200\" x2=\"110\" y2=\"160\" stroke=\"#7c3aed\" stroke-width=\"3.5\"></line> <circle cx=\"182\" cy=\"152\" r=\"4.5\" fill=\"#dc2626\"></circle> <text x=\"190\" y=\"148\" font-size=\"14\" fill=\"#dc2626\" font-family=\"Arial,sans-serif\">M(2, 3, 2)</text> <text x=\"66\" y=\"212\" font-size=\"14\" fill=\"#1d4ed8\" font-family=\"Arial,sans-serif\">i</text> <text x=\"128\" y=\"216\" font-size=\"14\" fill=\"#16a34a\" font-family=\"Arial,sans-serif\">j</text> <text x=\"96\" y=\"170\" font-size=\"14\" fill=\"#7c3aed\" font-family=\"Arial,sans-serif\">k</text> <text x=\"116\" y=\"216\" font-size=\"13\" fill=\"#1f2937\" font-family=\"Arial,sans-serif\">O</text> <text x=\"22\" y=\"262\" font-size=\"13\" fill=\"#1f2937\" font-family=\"Arial,sans-serif\">x</text> <text x=\"296\" y=\"204\" font-size=\"13\" fill=\"#1f2937\" font-family=\"Arial,sans-serif\">y</text> <text x=\"116\" y=\"36\" font-size=\"13\" fill=\"#1f2937\" font-family=\"Arial,sans-serif\">z</text> <text x=\"48\" y=\"246\" font-size=\"12\" fill=\"#374151\" font-family=\"Arial,sans-serif\">2</text> <text x=\"234\" y=\"216\" font-size=\"12\" fill=\"#374151\" font-family=\"Arial,sans-serif\">3</text> <text x=\"94\" y=\"124\" font-size=\"12\" fill=\"#374151\" font-family=\"Arial,sans-serif\">2</text> </svg></div>\n<p>En la figura, \\(\\overrightarrow{OM} = 2\\vec{\\imath} + 3\\vec{\\jmath} + 2\\vec{k}\\): se avanza 2 unidades en el eje \\(Ox\\), 3 en \\(Oy\\) y 2 en \\(Oz\\).</p>\n<h3 style=\"color: #1e3a8a;\">5. Coordenadas de vectores y operaciones</h3>\n<p>Si \\(\\vec{u} = x\\,\\vec{\\imath} + y\\,\\vec{\\jmath} + z\\,\\vec{k}\\), escribimos \\(\\vec{u}(x, y, z)\\). Para dos puntos \\(A(x_A, y_A, z_A)\\) y \\(B(x_B, y_B, z_B)\\), como \\(\\overrightarrow{AB} = \\overrightarrow{OB} - \\overrightarrow{OA}\\): \\[ \\overrightarrow{AB} = (x_B - x_A,\\ y_B - y_A,\\ z_B - z_A). \\] Las operaciones se hacen coordenada a coordenada. Sean \\(\\vec{u}(x, y, z)\\), \\(\\vec{v}(x', y', z')\\) y \\(\\lambda \\in \\mathbb{R}\\):</p>\n<table style=\"border-collapse: collapse; margin: 8px 0; font-size: 15px;\">\n<tbody>\n<tr style=\"background: #dbeafe;\">\n<th style=\"border: 1px solid #9ca3af; padding: 6px 12px;\">Operación</th>\n<th style=\"border: 1px solid #9ca3af; padding: 6px 12px;\">Coordenadas</th>\n</tr>\n<tr>\n<td style=\"border: 1px solid #9ca3af; padding: 6px 12px;\">Suma</td>\n<td style=\"border: 1px solid #9ca3af; padding: 6px 12px;\">\\(\\vec{u} + \\vec{v} = (x + x',\\ y + y',\\ z + z')\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #9ca3af; padding: 6px 12px;\">Resta</td>\n<td style=\"border: 1px solid #9ca3af; padding: 6px 12px;\">\\(\\vec{u} - \\vec{v} = (x - x',\\ y - y',\\ z - z')\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #9ca3af; padding: 6px 12px;\">Producto por escalar</td>\n<td style=\"border: 1px solid #9ca3af; padding: 6px 12px;\">\\(\\lambda\\vec{u} = (\\lambda x,\\ \\lambda y,\\ \\lambda z)\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #9ca3af; padding: 6px 12px;\">Igualdad</td>\n<td style=\"border: 1px solid #9ca3af; padding: 6px 12px;\">\\(\\vec{u} = \\vec{v} \\iff x = x',\\ y = y',\\ z = z'\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #9ca3af; padding: 6px 12px;\">Colinealidad</td>\n<td style=\"border: 1px solid #9ca3af; padding: 6px 12px;\">\\(\\vec{u}\\) y \\(\\vec{v}\\) colineales \\(\\iff\\) coordenadas proporcionales</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Punto medio.</strong> El punto medio \\(I\\) del segmento \\([AB]\\) cumple \\(\\overrightarrow{OI} = \\tfrac12(\\overrightarrow{OA} + \\overrightarrow{OB})\\), es decir, \\[ I\\left(\\frac{x_A + x_B}{2},\\ \\frac{y_A + y_B}{2},\\ \\frac{z_A + z_B}{2}\\right). \\]</p>\n<h3 style=\"color: #1e3a8a;\">6. Norma, distancia y vectores unitarios</h3>\n<p>En un sistema <strong>ortonormal</strong>, el módulo (o <strong>norma</strong>) de \\(\\vec{u}(x, y, z)\\) se obtiene aplicando dos veces el teorema de Pitágoras (primero en el plano de la base y después con la altura \\(z\\)): \\[ \\|\\vec{u}\\| = \\sqrt{x^2 + y^2 + z^2}. \\] La <strong>distancia</strong> entre dos puntos es la norma del vector que los une: \\[ AB = \\|\\overrightarrow{AB}\\| = \\sqrt{(x_B - x_A)^2 + (y_B - y_A)^2 + (z_B - z_A)^2}. \\]</p>\n<div style=\"background: #eff6ff; color: #1f2937; border-left: 5px solid #3b82f6; padding: 10px 14px; margin: 12px 0;\"><strong>Vector unitario.</strong> Un vector es <strong>unitario</strong> si su norma es 1. Los vectores \\(\\vec{\\imath}, \\vec{\\jmath}, \\vec{k}\\) lo son. Dado \\(\\vec{u} \\neq \\vec{0}\\), el vector unitario con su misma dirección y sentido es \\[ \\vec{e} = \\frac{1}{\\|\\vec{u}\\|}\\,\\vec{u}. \\]</div>\n<h3 style=\"color: #1e3a8a;\">Ejemplo 1: vector, distancia, punto medio y unitario</h3>\n<p>Sean \\(A(1, 2, -1)\\) y \\(B(4, -2, 3)\\).</p>\n<p><strong>a) Vector \\(\\overrightarrow{AB}\\).</strong> \\(\\overrightarrow{AB} = (4 - 1,\\ -2 - 2,\\ 3 - (-1)) = (3, -4, 4)\\).</p>\n<p><strong>b) Distancia.</strong> \\(AB = \\sqrt{3^2 + (-4)^2 + 4^2} = \\sqrt{9 + 16 + 16} = \\sqrt{41} \\approx 6{,}40\\).</p>\n<p><strong>c) Punto medio.</strong> \\(I\\left(\\tfrac{1+4}{2},\\ \\tfrac{2-2}{2},\\ \\tfrac{-1+3}{2}\\right) = \\left(\\tfrac52,\\ 0,\\ 1\\right)\\).</p>\n<p><strong>d) Vector unitario en la dirección de \\(\\overrightarrow{AB}\\).</strong> \\(\\vec{e} = \\dfrac{1}{\\sqrt{41}}(3, -4, 4)\\). Comprobación: \\(\\dfrac{9 + 16 + 16}{41} = 1\\).</p>\n<h3 style=\"color: #1e3a8a;\">Ejemplo 2: puntos alineados</h3>\n<p>¿Están alineados \\(A(1, 0, 1)\\), \\(B(2, 1, 3)\\) y \\(C(4, 3, 7)\\)?</p>\n<p>\\(\\overrightarrow{AB} = (1, 1, 2)\\) y \\(\\overrightarrow{AC} = (3, 3, 6)\\). Como \\(\\overrightarrow{AC} = 3\\,\\overrightarrow{AB}\\), los vectores son colineales y, por tanto, los tres puntos <strong>están alineados</strong>.</p>\n<h3 style=\"color: #1e3a8a;\">Ejemplo 3: coplanaridad y bases</h3>\n<p>Sean \\(\\vec{u}(1, 0, 1)\\), \\(\\vec{v}(0, 1, 1)\\) y \\(\\vec{w}(2, 3, 5)\\). ¿Son coplanarios?</p>\n<p>Buscamos \\(a, b\\) con \\(\\vec{w} = a\\vec{u} + b\\vec{v}\\), es decir, \\((a,\\ b,\\ a + b) = (2, 3, 5)\\). De las dos primeras coordenadas, \\(a = 2\\) y \\(b = 3\\), y la tercera se cumple: \\(2 + 3 = 5\\). Luego \\(\\vec{w} = 2\\vec{u} + 3\\vec{v}\\) y los tres vectores son <strong>coplanarios</strong>: no forman base.</p>\n<p>En cambio, con \\(\\vec{t}(2, 3, 4)\\) la tercera coordenada daría \\(5 \\neq 4\\), así que \\(\\vec{t}\\) no es combinación de \\(\\vec{u}\\) y \\(\\vec{v}\\). Entonces \\((\\vec{u}, \\vec{v}, \\vec{t})\\) <strong>sí es una base</strong>.</p>\n<h3 style=\"color: #1e3a8a;\">7. Más allá de tres dimensiones</h3>\n<p>Todo lo anterior se generaliza. Un punto de un espacio de \\(n\\) dimensiones es una <strong>\\(n\\)-upla</strong> de números \\((x_1, x_2, \\dots, x_n)\\). Las operaciones se hacen coordenada a coordenada y la norma es \\(\\sqrt{x_1^2 + x_2^2 + \\dots + x_n^2}\\). Así se describen fenómenos que dependen de muchas variables a la vez. Por ejemplo, en \\(\\mathbb{R}^4\\), el vector \\(\\vec{u}(1, 2, 0, -1)\\) tiene norma \\(\\sqrt{1 + 4 + 0 + 1} = \\sqrt6\\).</p>\n<div style=\"background: #fef2f2; color: #1f2937; border-left: 5px solid #ef4444; padding: 10px 14px; margin: 12px 0;\"><strong>Errores frecuentes.</strong>\n<ul style=\"margin: 6px 0 0 18px;\">\n<li><strong>Invertir la resta:</strong> \\(\\overrightarrow{AB} = B - A\\) (extremo menos origen), no \\(A - B\\).</li>\n<li><strong>Confundir punto y vector:</strong> \\(M(x, y, z)\\) es un punto; sus coordenadas son las de \\(\\overrightarrow{OM}\\). La suma de dos puntos no tiene sentido, pero sí la de dos vectores.</li>\n<li><strong>Creer que \\(\\|\\vec{u} + \\vec{v}\\| = \\|\\vec{u}\\| + \\|\\vec{v}\\|\\):</strong> en general solo se cumple \\(\\|\\vec{u} + \\vec{v}\\| \\le \\|\\vec{u}\\| + \\|\\vec{v}\\|\\).</li>\n<li><strong>Usar la fórmula de la norma en una base no ortonormal:</strong> \\(\\sqrt{x^2 + y^2 + z^2}\\) solo vale en sistemas ortonormales.</li>\n<li><strong>Olvidar dividir entre la norma</strong> al construir un vector unitario.</li>\n</ul>\n</div>\n<div style=\"background: #ecfdf5; color: #1f2937; border-left: 5px solid #10b981; padding: 10px 14px; margin: 12px 0;\"><strong>Resumen.</strong>\n<ul style=\"margin: 6px 0 0 18px;\">\n<li>Tres vectores no coplanarios forman una base; todo vector se escribe de forma única como combinación lineal de ellos.</li>\n<li>\\((O;\\ \\vec{\\imath}, \\vec{\\jmath}, \\vec{k})\\) con \\(O, I, J, K\\) no coplanarios es un sistema de coordenadas; \\(\\overrightarrow{OM} = x\\vec{\\imath} + y\\vec{\\jmath} + z\\vec{k}\\) define \\(M(x, y, z)\\).</li>\n<li>Ortonormal: \\(\\vec{\\imath}, \\vec{\\jmath}, \\vec{k}\\) unitarios y perpendiculares entre sí.</li>\n<li>\\(\\overrightarrow{AB} = (x_B - x_A,\\ y_B - y_A,\\ z_B - z_A)\\); las operaciones se hacen coordenada a coordenada.</li>\n<li>\\(\\|\\vec{u}\\| = \\sqrt{x^2 + y^2 + z^2}\\); vector unitario: \\(\\vec{u}/\\|\\vec{u}\\|\\).</li>\n<li>Colineales: coordenadas proporcionales. Coplanarios: un vector es combinación lineal de los otros dos.</li>\n</ul>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794159774795-xf6bjr63q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para estudiar cuándo unos vectores aportan información nueva y cuándo no, necesitamos precisar el lenguaje de las combinaciones lineales.</p>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p>Un vector <strong>\\(\\vec{w}\\)</strong> es una <strong>combinación lineal</strong> de \\(\\vec{u}_1, \\vec{u}_2, \\dots, \\vec{u}_n\\) si existen escalares \\(a_1, a_2, \\dots, a_n\\) tales que:</p>\n<p>\\[ \\vec{w} = a_1\\vec{u}_1 + a_2\\vec{u}_2 + \\dots + a_n\\vec{u}_n \\]</p>\n</div>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p>Un conjunto de vectores \\(\\{\\vec{u}_1, \\vec{u}_2, \\vec{u}_3\\}\\) es <strong>linealmente dependiente</strong> si uno de ellos puede escribirse como combinación lineal de los demás.</p>\n<p>Equivalentemente, existe una combinación lineal del vector \\(\\vec{0}\\) con algún coeficiente no nulo:</p>\n<p>\\[ \\vec{0} = a\\vec{u}_1 + b\\vec{u}_2 + c\\vec{u}_3 \\quad \\text{con } a \\neq 0 \\text{ o } b \\neq 0 \\text{ o } c \\neq 0 \\]</p>\n<p>Por ejemplo, si \\(a \\neq 0\\):</p>\n<p>\\[ \\vec{u}_1 = -\\frac{b}{a}\\vec{u}_2 - \\frac{c}{a}\\vec{u}_3 \\]</p>\n<p><em>Interpretación geométrica:</em> los vectores están en un subespacio de dimensión \\(\\leq 2\\) (una recta o un plano).</p>\n</div>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p>Un conjunto de vectores \\(\\{\\vec{u}_1, \\vec{u}_2, \\vec{u}_3\\}\\) es <strong>linealmente independiente</strong> si ninguno de ellos puede escribirse como combinación lineal de los demás.</p>\n<p>Equivalentemente:</p>\n<p>\\[ \\vec{0} = a\\vec{u}_1 + b\\vec{u}_2 + c\\vec{u}_3 \\ \\Longrightarrow\\ a = b = c = 0 \\]</p>\n</div>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p>Un conjunto \\(\\{\\vec{u}_1, \\dots, \\vec{u}_n\\}\\) es un <strong>sistema generador</strong> de un espacio vectorial \\(E\\) si todo vector de \\(E\\) puede escribirse como combinación lineal de ellos. El conjunto de todas las combinaciones lineales se llama <strong>subespacio generado</strong> y se escribe:</p>\n<p>\\[ \\langle \\vec{u}_1, \\dots, \\vec{u}_n \\rangle = \\{\\lambda_1\\vec{u}_1 + \\dots + \\lambda_n\\vec{u}_n,\\ \\lambda_i \\in \\mathbb{R}\\} \\]</p>\n</div>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p>Una <strong>base</strong> de un espacio vectorial \\(E\\) es un conjunto de vectores que es, a la vez:</p>\n<ul>\n<li>un <strong>sistema generador</strong> de \\(E\\), y</li>\n<li><strong>linealmente independiente</strong>.</li>\n</ul>\n<p>Por ejemplo, dos vectores independientes de \\(\\mathbb{R}^2\\) forman una base de \\(\\mathbb{R}^2\\).</p>\n</div>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p>Si \\(B = \\{\\vec{u}_1, \\dots, \\vec{u}_n\\}\\) es una base de \\(E\\), todo vector \\(\\vec{w} \\in E\\) se escribe de forma <strong>única</strong> como:</p>\n<p>\\[ \\vec{w} = a_1\\vec{u}_1 + \\dots + a_n\\vec{u}_n \\]</p>\n<p>Los escalares \\((a_1, \\dots, a_n)\\) son las <strong>coordenadas</strong> de \\(\\vec{w}\\) respecto de la base \\(B\\).</p>\n</div>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p>Un vector \\(\\vec{w}\\) <strong>pertenece</strong> al subespacio \\(\\langle \\vec{u}, \\vec{v} \\rangle\\), y se escribe \\(\\vec{w} \\in \\langle \\vec{u}, \\vec{v} \\rangle\\), si puede escribirse como combinación lineal de \\(\\vec{u}\\) y \\(\\vec{v}\\):</p>\n<p>\\[ \\vec{w} = a\\vec{u} + b\\vec{v}, \\quad a, b \\in \\mathbb{R} \\]</p>\n<p>En ese caso, \\(\\{\\vec{u}, \\vec{v}, \\vec{w}\\}\\) es linealmente dependiente.</p>\n<div style=\"text-align: center; margin-bottom: 15px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 520 420\" width=\"100%\" style=\"max-width: 560px; background: #ffffff; border: 1px solid #cccccc; border-radius: 4px;\" role=\"img\" aria-label=\"Vector w como combinación lineal de u y v: w = a·u + b·v\"> <defs> <marker id=\"flechaRoja\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#d62828\"></path></marker> <marker id=\"flechaVerde\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#2e9e1f\"></path></marker> <marker id=\"flechaNegra\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#000000\"></path></marker> </defs> <text x=\"260\" y=\"30\" text-anchor=\"middle\" font-family=\"Georgia, serif\" font-size=\"20\" fill=\"#000000\">w = a·u + b·v</text> <!-- Rectas generadas por u y por v --> <line x1=\"40\" y1=\"360\" x2=\"490\" y2=\"360\" stroke=\"#888888\" stroke-width=\"1\"></line> <line x1=\"68\" y1=\"387\" x2=\"170\" y2=\"158\" stroke=\"#888888\" stroke-width=\"1\"></line> <text x=\"470\" y=\"380\" font-family=\"Georgia, serif\" font-size=\"14\" fill=\"#555555\">&lt;u&gt;</text> <text x=\"176\" y=\"156\" font-family=\"Georgia, serif\" font-size=\"14\" fill=\"#555555\">&lt;v&gt;</text> <!-- Paralelogramo (líneas auxiliares) --> <line x1=\"140\" y1=\"225\" x2=\"420\" y2=\"225\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"6,5\"></line> <line x1=\"360\" y1=\"360\" x2=\"420\" y2=\"225\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"6,5\"></line> <!-- a·u y b·v (verde) --> <line x1=\"80\" y1=\"360\" x2=\"358\" y2=\"360\" stroke=\"#2e9e1f\" stroke-width=\"3\" marker-end=\"url(#flechaVerde)\"></line> <line x1=\"80\" y1=\"360\" x2=\"139\" y2=\"227\" stroke=\"#2e9e1f\" stroke-width=\"3\" marker-end=\"url(#flechaVerde)\"></line> <!-- u y v (rojo) --> <line x1=\"80\" y1=\"360\" x2=\"218\" y2=\"360\" stroke=\"#d62828\" stroke-width=\"4\" marker-end=\"url(#flechaRoja)\"></line> <line x1=\"80\" y1=\"360\" x2=\"119\" y2=\"272\" stroke=\"#d62828\" stroke-width=\"4\" marker-end=\"url(#flechaRoja)\"></line> <!-- w (negro) --> <line x1=\"80\" y1=\"360\" x2=\"418\" y2=\"227\" stroke=\"#000000\" stroke-width=\"3\" marker-end=\"url(#flechaNegra)\"></line> <!-- Etiquetas --> <text x=\"150\" y=\"382\" font-family=\"Georgia, serif\" font-size=\"20\" font-style=\"italic\" fill=\"#d62828\">u</text> <text x=\"84\" y=\"318\" font-family=\"Georgia, serif\" font-size=\"20\" font-style=\"italic\" fill=\"#d62828\">v</text> <text x=\"290\" y=\"384\" font-family=\"Georgia, serif\" font-size=\"20\" font-style=\"italic\" fill=\"#2e9e1f\">a·u</text> <text x=\"92\" y=\"255\" font-family=\"Georgia, serif\" font-size=\"20\" font-style=\"italic\" fill=\"#2e9e1f\">b·v</text> <text x=\"238\" y=\"278\" font-family=\"Georgia, serif\" font-size=\"22\" font-style=\"italic\" font-weight=\"bold\" fill=\"#000000\">w</text> <circle cx=\"80\" cy=\"360\" r=\"3\" fill=\"#000000\"></circle> </svg>\n<p><em>El vector <strong>w</strong> es la diagonal del paralelogramo construido con <strong>a·u</strong> sobre la recta de u y <strong>b·v</strong> sobre la recta de v.</em></p>\n</div>\n</div>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px;\">\n<p>Un vector \\(\\vec{w}\\) <strong>no pertenece</strong> al subespacio \\(\\langle \\vec{u}, \\vec{v} \\rangle\\), y se escribe \\(\\vec{w} \\notin \\langle \\vec{u}, \\vec{v} \\rangle\\), si no existen \\(a, b \\in \\mathbb{R}\\) tales que \\(\\vec{w} = a\\vec{u} + b\\vec{v}\\). El sistema de ecuaciones asociado es <strong>incompatible</strong>.</p>\n<p>En ese caso, si \\(\\vec{u}\\) y \\(\\vec{v}\\) son independientes, \\(\\{\\vec{u}, \\vec{v}, \\vec{w}\\}\\) es linealmente independiente.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw037u2q-g7zdbxa1z</odePageId>
+      <odeBlockId>block-mw84gdly-g72hhd89n</odeBlockId>
+      <blockName>Practicamos estas nociones clave</blockName>
+      <iconName>udl_exp_coproducciontxt</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw037u2q-g7zdbxa1z</odePageId>
+          <odeBlockId>block-mw84gdly-g72hhd89n</odeBlockId>
+          <odeIdeviceId>idevice-1794159856869-jbls5lw2y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>¿Pertenece \(\vec{w}_1 = (1, 25, -7)\) al plano \(\langle \vec{u}, \vec{v} \rangle\), con \(\vec{u} = (2, 1, -1)\) y \(\vec{v} = (-1, 3, 0)\)?</h2>
+<p><strong>1. Plantear la combinación lineal:</strong></p>
+<p>\[ a\begin{pmatrix} 2 \\ 1 \\ -1 \end{pmatrix} + b\begin{pmatrix} -1 \\ 3 \\ 0 \end{pmatrix} = \begin{pmatrix} 1 \\ 25 \\ -7 \end{pmatrix} \]</p>
+<p>\[ \begin{cases} 2a - b = 1 \\ a + 3b = 25 \\ -a = -7 \end{cases} \]</p>
+<p><strong>2. Resolver:</strong></p>
+<p>De la tercera ecuación, \(a = 7\). Sustituyendo en la primera: \(14 - b = 1 \Rightarrow b = 13\). Sustituyendo en la segunda: \(7 + 3b = 25 \Rightarrow b = 6\).</p>
+<p><strong>3. Conclusión:</strong></p>
+<p>Obtenemos dos valores distintos de \(b\): el sistema es <strong>incompatible</strong>. Por tanto:</p>
+<p>\[ \vec{w}_1 \notin \langle \vec{u}, \vec{v} \rangle = \{\lambda\vec{u} + \mu\vec{v},\ \lambda, \mu \in \mathbb{R}\} \quad \text{(plano)} \]</p>
+<p>Los vectores \(\{\vec{w}_1, \vec{u}, \vec{v}\}\) son <strong>linealmente independientes</strong>.</p>
+</div>
+<div class="exe-fx exe-accordion">
+<h2>¿Pertenece \(\vec{w}_2 = (2, 15, -3)\) al plano \(\langle \vec{u}, \vec{v} \rangle\), con \(\vec{u} = (2, 1, -1)\) y \(\vec{v} = (-1, 3, 0)\)?</h2>
+<p><strong>1. Plantear la combinación lineal:</strong></p>
+<p>\[ a\begin{pmatrix} 2 \\ 1 \\ -1 \end{pmatrix} + b\begin{pmatrix} -1 \\ 3 \\ 0 \end{pmatrix} = \begin{pmatrix} 2 \\ 15 \\ -3 \end{pmatrix} \]</p>
+<p>\[ \begin{cases} 2a - b = 2 \\ a + 3b = 15 \\ -a = -3 \end{cases} \]</p>
+<p><strong>2. Resolver:</strong></p>
+<p>De la tercera ecuación, \(a = 3\). Sustituyendo en la primera: \(6 - b = 2 \Rightarrow b = 4\). Comprobamos en la segunda: \(3 + 12 = 15\). ✓</p>
+<p><strong>3. Conclusión:</strong></p>
+<p>El sistema es <strong>compatible</strong> y:</p>
+<p>\[ \vec{w}_2 = 3\vec{u} + 4\vec{v} \quad \Rightarrow \quad \vec{w}_2 \in \langle \vec{u}, \vec{v} \rangle \]</p>
+<p>Los vectores \(\{\vec{u}, \vec{v}, \vec{w}_2\}\) son <strong>linealmente dependientes</strong>. Podemos despejar cualquiera de ellos, por ejemplo:</p>
+<p>\[ \vec{u} = -\frac{4}{3}\vec{v} + \frac{1}{3}\vec{w}_2 \qquad \text{o bien} \qquad 3\vec{u} + 4\vec{v} - \vec{w}_2 = \vec{0} \]</p>
+</div>
+<div class="exe-fx exe-accordion">
+<h2>Calcular \(k\) para que los vectores \(\{\vec{u}, \vec{v}\}\) sean linealmente dependientes en \(\mathbb{R}^2\), con \(\vec{u} = (2, k)\) y \(\vec{v} = (3, 6)\)</h2>
+<p><strong>1. Imponer la dependencia:</strong></p>
+<p>Dos vectores son dependientes si uno es múltiplo del otro:</p>
+<p>\[ \vec{u} = a\vec{v} \quad \Rightarrow \quad (2, k) = a(3, 6) \]</p>
+<p><strong>2. Resolver:</strong></p>
+<p>De la primera coordenada: \(2 = 3a \Rightarrow a = \dfrac{2}{3}\). De la segunda: \(k = 6a = 6\cdot\dfrac{2}{3} = 4\).</p>
+<p>\[ k = 4 \]</p>
+<p><em>Otra forma (proporcionalidad):</em> las coordenadas deben ser proporcionales, \(\dfrac{2}{3} = \dfrac{k}{6} \Rightarrow k = 4\). <em>Geométricamente:</em> ambos vectores deben estar en la misma recta, con pendiente \(m = \dfrac{6}{3} = \dfrac{k}{2} = 2\).</p>
+<p><em>Conclusión:</em> son dependientes si \(k = 4\) y <strong>independientes si \(k \neq 4\)</strong>; en ese caso forman una base de \(\mathbb{R}^2\).</p>
+</div>
+<div class="exe-fx exe-accordion">
+<h2>¿Son linealmente independientes o dependientes \(\{(2, 3), (4, 6), (7, 8)\}\)?</h2>
+<p><strong>1. Llamar a los vectores:</strong></p>
+<p>\[ \vec{u} = (2, 3), \quad \vec{v} = (4, 6), \quad \vec{w} = (7, 8) \]</p>
+<p><strong>2. Buscar una relación evidente:</strong></p>
+<p>Observamos que \(\vec{v} = 2\vec{u} + 0\vec{w}\), por tanto el conjunto es <strong>linealmente dependiente</strong>.</p>
+<p><strong>3. Escribir la combinación del vector nulo:</strong></p>
+<p>\[ \vec{0} = 2\vec{u} - \vec{v} + 0\vec{w} \]</p>
+<p><em>Observación:</em> \(\vec{w}\) no puede escribirse como combinación lineal de los demás, pero esto no impide que el conjunto sea dependiente: basta con que <em>alguno</em> de los vectores sea combinación lineal de los otros.</p>
+</div>
+<div class="exe-fx exe-accordion">
+<h2>Demostrar que \(\vec{u} = (1, 2, 3)\), \(\vec{v} = (4, 1, 0)\) y \(\vec{w} = (1, 0, 1)\) son linealmente independientes</h2>
+<p><strong>1. Plantear la combinación lineal del vector nulo:</strong></p>
+<p>\[ a\begin{pmatrix} 1 \\ 2 \\ 3 \end{pmatrix} + b\begin{pmatrix} 4 \\ 1 \\ 0 \end{pmatrix} + c\begin{pmatrix} 1 \\ 0 \\ 1 \end{pmatrix} = \begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix} \]</p>
+<p>\[ \begin{cases} a + 4b + c = 0 \\ 2a + b = 0 \\ 3a + c = 0 \end{cases} \]</p>
+<p><strong>2. Resolver:</strong></p>
+<p>De la segunda y tercera ecuaciones: \(b = -2a\) y \(c = -3a\). Sustituyendo en la primera:</p>
+<p>\[ a - 8a - 3a = -10a = 0 \quad \Rightarrow \quad a = 0,\ b = 0,\ c = 0 \]</p>
+<p><strong>3. Conclusión:</strong></p>
+<p>La única solución es la trivial, luego \(\{\vec{u}, \vec{v}, \vec{w}\}\) son <strong>linealmente independientes</strong>.</p>
+<p><em>Interpretación geométrica:</em> \(\vec{u}\), \(\vec{v}\) y \(\vec{w}\) <strong>no son coplanarios</strong> (no pertenecen a un mismo plano).</p>
+<p><em>Para comparar:</em> el conjunto \(\{(1,2,3), (4,1,0), (5,3,3)\}\) es dependiente, porque \((5,3,3) = \vec{u} + \vec{v}\).</p>
+</div>
+<div class="exe-fx exe-accordion">
+<h2>Estudiar si \(\vec{u} = (2, 1, 3)\), \(\vec{v} = (-2, 1, 3)\) y \(\vec{w} = (4, 3, 9)\) son linealmente independientes</h2>
+<p><strong>1. Plantear la combinación lineal del vector nulo:</strong></p>
+<p>\[ a\begin{pmatrix} 2 \\ 1 \\ 3 \end{pmatrix} + b\begin{pmatrix} -2 \\ 1 \\ 3 \end{pmatrix} + c\begin{pmatrix} 4 \\ 3 \\ 9 \end{pmatrix} = \begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix} \]</p>
+<p>\[ \begin{cases} 2a - 2b + 4c = 0 \\ a + b + 3c = 0 \\ 3a + 3b + 9c = 0 \end{cases} \]</p>
+<p><strong>2. Simplificar:</strong></p>
+<p>Dividiendo la primera ecuación entre 2 y la tercera entre 3:</p>
+<p>\[ \begin{cases} a - b + 2c = 0 \\ a + b + 3c = 0 \\ a + b + 3c = 0 \end{cases} \]</p>
+<p>La tercera ecuación coincide con la segunda, así que nos quedamos con dos ecuaciones y tres incógnitas. Sumándolas: \(2a + 5c = 0\).</p>
+<p><strong>3. Resolver:</strong></p>
+<p>El sistema es compatible indeterminado (\(\infty\) soluciones):</p>
+<p>\[ a = -\frac{5}{2}t, \qquad b = -\frac{1}{2}t, \qquad c = t, \qquad t \in \mathbb{R} \]</p>
+<p>Por ejemplo, con \(t = 2\) obtenemos \(a = -5,\ b = -1,\ c = 2\):</p>
+<p>\[ -5\vec{u} - \vec{v} + 2\vec{w} = \vec{0} \]</p>
+<p><strong>4. Conclusión:</strong></p>
+<p>Existen soluciones distintas de la trivial, luego \(\{\vec{u}, \vec{v}, \vec{w}\}\) son <strong>linealmente dependientes</strong>.</p>
+</div>
+<div class="exe-fx exe-accordion"><br /></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794159856869-jbls5lw2y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>¿Pertenece \\(\\vec{w}_1 = (1, 25, -7)\\) al plano \\(\\langle \\vec{u}, \\vec{v} \\rangle\\), con \\(\\vec{u} = (2, 1, -1)\\) y \\(\\vec{v} = (-1, 3, 0)\\)?</h2>\n<p><strong>1. Plantear la combinación lineal:</strong></p>\n<p>\\[ a\\begin{pmatrix} 2 \\\\ 1 \\\\ -1 \\end{pmatrix} + b\\begin{pmatrix} -1 \\\\ 3 \\\\ 0 \\end{pmatrix} = \\begin{pmatrix} 1 \\\\ 25 \\\\ -7 \\end{pmatrix} \\]</p>\n<p>\\[ \\begin{cases} 2a - b = 1 \\\\ a + 3b = 25 \\\\ -a = -7 \\end{cases} \\]</p>\n<p><strong>2. Resolver:</strong></p>\n<p>De la tercera ecuación, \\(a = 7\\). Sustituyendo en la primera: \\(14 - b = 1 \\Rightarrow b = 13\\). Sustituyendo en la segunda: \\(7 + 3b = 25 \\Rightarrow b = 6\\).</p>\n<p><strong>3. Conclusión:</strong></p>\n<p>Obtenemos dos valores distintos de \\(b\\): el sistema es <strong>incompatible</strong>. Por tanto:</p>\n<p>\\[ \\vec{w}_1 \\notin \\langle \\vec{u}, \\vec{v} \\rangle = \\{\\lambda\\vec{u} + \\mu\\vec{v},\\ \\lambda, \\mu \\in \\mathbb{R}\\} \\quad \\text{(plano)} \\]</p>\n<p>Los vectores \\(\\{\\vec{w}_1, \\vec{u}, \\vec{v}\\}\\) son <strong>linealmente independientes</strong>.</p>\n</div>\n<div class=\"exe-fx exe-accordion\">\n<h2>¿Pertenece \\(\\vec{w}_2 = (2, 15, -3)\\) al plano \\(\\langle \\vec{u}, \\vec{v} \\rangle\\), con \\(\\vec{u} = (2, 1, -1)\\) y \\(\\vec{v} = (-1, 3, 0)\\)?</h2>\n<p><strong>1. Plantear la combinación lineal:</strong></p>\n<p>\\[ a\\begin{pmatrix} 2 \\\\ 1 \\\\ -1 \\end{pmatrix} + b\\begin{pmatrix} -1 \\\\ 3 \\\\ 0 \\end{pmatrix} = \\begin{pmatrix} 2 \\\\ 15 \\\\ -3 \\end{pmatrix} \\]</p>\n<p>\\[ \\begin{cases} 2a - b = 2 \\\\ a + 3b = 15 \\\\ -a = -3 \\end{cases} \\]</p>\n<p><strong>2. Resolver:</strong></p>\n<p>De la tercera ecuación, \\(a = 3\\). Sustituyendo en la primera: \\(6 - b = 2 \\Rightarrow b = 4\\). Comprobamos en la segunda: \\(3 + 12 = 15\\). ✓</p>\n<p><strong>3. Conclusión:</strong></p>\n<p>El sistema es <strong>compatible</strong> y:</p>\n<p>\\[ \\vec{w}_2 = 3\\vec{u} + 4\\vec{v} \\quad \\Rightarrow \\quad \\vec{w}_2 \\in \\langle \\vec{u}, \\vec{v} \\rangle \\]</p>\n<p>Los vectores \\(\\{\\vec{u}, \\vec{v}, \\vec{w}_2\\}\\) son <strong>linealmente dependientes</strong>. Podemos despejar cualquiera de ellos, por ejemplo:</p>\n<p>\\[ \\vec{u} = -\\frac{4}{3}\\vec{v} + \\frac{1}{3}\\vec{w}_2 \\qquad \\text{o bien} \\qquad 3\\vec{u} + 4\\vec{v} - \\vec{w}_2 = \\vec{0} \\]</p>\n</div>\n<div class=\"exe-fx exe-accordion\">\n<h2>Calcular \\(k\\) para que los vectores \\(\\{\\vec{u}, \\vec{v}\\}\\) sean linealmente dependientes en \\(\\mathbb{R}^2\\), con \\(\\vec{u} = (2, k)\\) y \\(\\vec{v} = (3, 6)\\)</h2>\n<p><strong>1. Imponer la dependencia:</strong></p>\n<p>Dos vectores son dependientes si uno es múltiplo del otro:</p>\n<p>\\[ \\vec{u} = a\\vec{v} \\quad \\Rightarrow \\quad (2, k) = a(3, 6) \\]</p>\n<p><strong>2. Resolver:</strong></p>\n<p>De la primera coordenada: \\(2 = 3a \\Rightarrow a = \\dfrac{2}{3}\\). De la segunda: \\(k = 6a = 6\\cdot\\dfrac{2}{3} = 4\\).</p>\n<p>\\[ k = 4 \\]</p>\n<p><em>Otra forma (proporcionalidad):</em> las coordenadas deben ser proporcionales, \\(\\dfrac{2}{3} = \\dfrac{k}{6} \\Rightarrow k = 4\\). <em>Geométricamente:</em> ambos vectores deben estar en la misma recta, con pendiente \\(m = \\dfrac{6}{3} = \\dfrac{k}{2} = 2\\).</p>\n<p><em>Conclusión:</em> son dependientes si \\(k = 4\\) y <strong>independientes si \\(k \\neq 4\\)</strong>; en ese caso forman una base de \\(\\mathbb{R}^2\\).</p>\n</div>\n<div class=\"exe-fx exe-accordion\">\n<h2>¿Son linealmente independientes o dependientes \\(\\{(2, 3), (4, 6), (7, 8)\\}\\)?</h2>\n<p><strong>1. Llamar a los vectores:</strong></p>\n<p>\\[ \\vec{u} = (2, 3), \\quad \\vec{v} = (4, 6), \\quad \\vec{w} = (7, 8) \\]</p>\n<p><strong>2. Buscar una relación evidente:</strong></p>\n<p>Observamos que \\(\\vec{v} = 2\\vec{u} + 0\\vec{w}\\), por tanto el conjunto es <strong>linealmente dependiente</strong>.</p>\n<p><strong>3. Escribir la combinación del vector nulo:</strong></p>\n<p>\\[ \\vec{0} = 2\\vec{u} - \\vec{v} + 0\\vec{w} \\]</p>\n<p><em>Observación:</em> \\(\\vec{w}\\) no puede escribirse como combinación lineal de los demás, pero esto no impide que el conjunto sea dependiente: basta con que <em>alguno</em> de los vectores sea combinación lineal de los otros.</p>\n</div>\n<div class=\"exe-fx exe-accordion\">\n<h2>Demostrar que \\(\\vec{u} = (1, 2, 3)\\), \\(\\vec{v} = (4, 1, 0)\\) y \\(\\vec{w} = (1, 0, 1)\\) son linealmente independientes</h2>\n<p><strong>1. Plantear la combinación lineal del vector nulo:</strong></p>\n<p>\\[ a\\begin{pmatrix} 1 \\\\ 2 \\\\ 3 \\end{pmatrix} + b\\begin{pmatrix} 4 \\\\ 1 \\\\ 0 \\end{pmatrix} + c\\begin{pmatrix} 1 \\\\ 0 \\\\ 1 \\end{pmatrix} = \\begin{pmatrix} 0 \\\\ 0 \\\\ 0 \\end{pmatrix} \\]</p>\n<p>\\[ \\begin{cases} a + 4b + c = 0 \\\\ 2a + b = 0 \\\\ 3a + c = 0 \\end{cases} \\]</p>\n<p><strong>2. Resolver:</strong></p>\n<p>De la segunda y tercera ecuaciones: \\(b = -2a\\) y \\(c = -3a\\). Sustituyendo en la primera:</p>\n<p>\\[ a - 8a - 3a = -10a = 0 \\quad \\Rightarrow \\quad a = 0,\\ b = 0,\\ c = 0 \\]</p>\n<p><strong>3. Conclusión:</strong></p>\n<p>La única solución es la trivial, luego \\(\\{\\vec{u}, \\vec{v}, \\vec{w}\\}\\) son <strong>linealmente independientes</strong>.</p>\n<p><em>Interpretación geométrica:</em> \\(\\vec{u}\\), \\(\\vec{v}\\) y \\(\\vec{w}\\) <strong>no son coplanarios</strong> (no pertenecen a un mismo plano).</p>\n<p><em>Para comparar:</em> el conjunto \\(\\{(1,2,3), (4,1,0), (5,3,3)\\}\\) es dependiente, porque \\((5,3,3) = \\vec{u} + \\vec{v}\\).</p>\n</div>\n<div class=\"exe-fx exe-accordion\">\n<h2>Estudiar si \\(\\vec{u} = (2, 1, 3)\\), \\(\\vec{v} = (-2, 1, 3)\\) y \\(\\vec{w} = (4, 3, 9)\\) son linealmente independientes</h2>\n<p><strong>1. Plantear la combinación lineal del vector nulo:</strong></p>\n<p>\\[ a\\begin{pmatrix} 2 \\\\ 1 \\\\ 3 \\end{pmatrix} + b\\begin{pmatrix} -2 \\\\ 1 \\\\ 3 \\end{pmatrix} + c\\begin{pmatrix} 4 \\\\ 3 \\\\ 9 \\end{pmatrix} = \\begin{pmatrix} 0 \\\\ 0 \\\\ 0 \\end{pmatrix} \\]</p>\n<p>\\[ \\begin{cases} 2a - 2b + 4c = 0 \\\\ a + b + 3c = 0 \\\\ 3a + 3b + 9c = 0 \\end{cases} \\]</p>\n<p><strong>2. Simplificar:</strong></p>\n<p>Dividiendo la primera ecuación entre 2 y la tercera entre 3:</p>\n<p>\\[ \\begin{cases} a - b + 2c = 0 \\\\ a + b + 3c = 0 \\\\ a + b + 3c = 0 \\end{cases} \\]</p>\n<p>La tercera ecuación coincide con la segunda, así que nos quedamos con dos ecuaciones y tres incógnitas. Sumándolas: \\(2a + 5c = 0\\).</p>\n<p><strong>3. Resolver:</strong></p>\n<p>El sistema es compatible indeterminado (\\(\\infty\\) soluciones):</p>\n<p>\\[ a = -\\frac{5}{2}t, \\qquad b = -\\frac{1}{2}t, \\qquad c = t, \\qquad t \\in \\mathbb{R} \\]</p>\n<p>Por ejemplo, con \\(t = 2\\) obtenemos \\(a = -5,\\ b = -1,\\ c = 2\\):</p>\n<p>\\[ -5\\vec{u} - \\vec{v} + 2\\vec{w} = \\vec{0} \\]</p>\n<p><strong>4. Conclusión:</strong></p>\n<p>Existen soluciones distintas de la trivial, luego \\(\\{\\vec{u}, \\vec{v}, \\vec{w}\\}\\) son <strong>linealmente dependientes</strong>.</p>\n</div>\n<div class=\"exe-fx exe-accordion\"><br /></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw037u2q-g7zdbxa1z</odePageId>
+      <odeBlockId>block-mw8um96e-zpf8x89rv</odeBlockId>
+      <blockName>Algunas cuestiones sobre dependencia, independencia y dimensión</blockName>
+      <iconName>udl_sup_destacado</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw037u2q-g7zdbxa1z</odePageId>
+          <odeBlockId>block-mw8um96e-zpf8x89rv</odeBlockId>
+          <odeIdeviceId>idevice-1794203801076-vcjfriplw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>1. ¿Pueden tres vectores de R² ser linealmente independientes?</h2>
+<p><strong>No.</strong> Cualquier conjunto de tres vectores de \(\mathbb{R}^2\) es necesariamente linealmente dependiente.</p>
+<p>La razón es que la dimensión de \(\mathbb{R}^2\) es 2. Por tanto, el número máximo de vectores linealmente independientes en este espacio es <strong>dos</strong>.</p>
+<p>Si dos vectores \(\vec{u}\) y \(\vec{v}\) de \(\mathbb{R}^2\) son independientes, generan todo el plano. Por consiguiente, cualquier tercer vector \(\vec{w}\) puede expresarse como una combinación lineal de ellos:</p>
+<p>\[ \boxed{\vec{w}=a\vec{u}+b\vec{v}} \qquad a,b\in\mathbb{R} \]</p>
+<p><strong>Ejemplo.</strong> Consideremos:</p>
+<p>\[ \vec{u}=(2,3),\qquad \vec{v}=(1,7),\qquad \vec{w}=(a,b). \]</p>
+<p>Como \(\vec{u}\) y \(\vec{v}\) son independientes, cualquiera que sea \(\vec{w}\), podrá expresarse como combinación lineal de ambos.</p>
+<p><strong>Conclusión:</strong> en \(\mathbb{R}^2\), cualquier conjunto de tres o más vectores es linealmente dependiente.</p>
+<h2>2. ¿Qué generan dos vectores linealmente independientes en R²?</h2>
+<p>Dos vectores linealmente independientes de \(\mathbb{R}^2\) generan <strong>todo el espacio \(\mathbb{R}^2\)</strong>.</p>
+<p>Es decir, si \(\vec{u}\) y \(\vec{v}\) son independientes:</p>
+<p>\[ \boxed{ \langle\vec{u},\vec{v}\rangle = \{a\vec{u}+b\vec{v}\mid a,b\in\mathbb{R}\} = \mathbb{R}^2 } \]</p>
+<p>Por tanto, cualquier vector del plano puede escribirse como combinación lineal de \(\vec{u}\) y \(\vec{v}\).</p>
+<p>Un conjunto que genera todo el espacio se llama <strong>sistema generador</strong>.</p>
+<p>Como \(\vec{u}\) y \(\vec{v}\) son linealmente independientes y además generan \(\mathbb{R}^2\), forman una <strong>base de \(\mathbb{R}^2\)</strong>.</p>
+<p>\[ \boxed{ \text{Base} = \text{Sistema generador} + \text{Independencia lineal} } \]</p>
+<p><strong>Conclusión:</strong> dos vectores linealmente independientes forman una base de \(\mathbb{R}^2\).</p>
+<h2>3. ¿Cuántos vectores linealmente independientes puede haber en R³?</h2>
+<p>La dimensión del espacio \(\mathbb{R}^3\) es 3:</p>
+<p>\[ \dim(\mathbb{R}^3)=3 \]</p>
+<p>Por tanto, el número máximo de vectores linealmente independientes en \(\mathbb{R}^3\) es <strong>tres</strong>.</p>
+<p>Esto tiene dos consecuencias importantes:</p>
+<ul>
+<li>Cualquier conjunto de cuatro o más vectores de \(\mathbb{R}^3\) es necesariamente linealmente dependiente.</li>
+<li>Tres vectores linealmente independientes de \(\mathbb{R}^3\) forman una base de todo el espacio.</li>
+</ul>
+<p>Si \(\vec{u},\vec{v},\vec{w}\) son linealmente independientes, entonces:</p>
+<p>\[ \boxed{ \langle\vec{u},\vec{v},\vec{w}\rangle = \mathbb{R}^3 } \]</p>
+<p>Es decir, cualquier vector \(\vec{p}\in\mathbb{R}^3\) puede expresarse de manera única como:</p>
+<p>\[ \vec{p}=a\vec{u}+b\vec{v}+c\vec{w} \]</p>
+<p><strong>Conclusión:</strong> una base de \(\mathbb{R}^3\) está formada por exactamente tres vectores linealmente independientes.</p>
+<h2>4. ¿Qué ocurre si se repite un vector o aparece el vector nulo en un conjunto de vectores?</h2>
+<p><strong>Caso A. Un vector aparece repetido.</strong></p>
+<p>Consideremos el conjunto:</p>
+<p>\[ S=\{\vec{u},\vec{u},\vec{v}_1,\ldots,\vec{v}_n\} \]</p>
+<p>Si consideramos esta colección de vectores con dos apariciones de \(\vec{u}\), será linealmente dependiente, porque podemos construir una combinación lineal no trivial igual al vector nulo:</p>
+<p>\[ \boxed{ 1\vec{u}-1\vec{u} +0\vec{v}_1+\cdots+0\vec{v}_n =\vec{0} } \]</p>
+<p>Los coeficientes no son todos cero, por lo que existe dependencia lineal.</p>
+<p><strong>Caso B. Uno de los vectores es el vector nulo.</strong></p>
+<p>Consideremos:</p>
+<p>\[ S=\{\vec{0},\vec{u}_1,\ldots,\vec{u}_n\} \]</p>
+<p>Esta familia también es linealmente dependiente, porque:</p>
+<p>\[ \boxed{ 1\vec{0} +0\vec{u}_1+\cdots+0\vec{u}_n =\vec{0} } \]</p>
+<p>De nuevo, tenemos una combinación lineal igual al vector nulo con al menos un coeficiente distinto de cero.</p>
+<p><strong>Conclusiones importantes:</strong></p>
+<ul>
+<li>Si una familia contiene dos veces el mismo vector, es linealmente dependiente.</li>
+<li>Si una familia contiene el vector nulo, es linealmente dependiente.</li>
+<li>Una familia linealmente independiente nunca puede contener el vector nulo.</li>
+</ul>
+<p><em>Nota:</em> Matemáticamente, en un conjunto ordinario no se cuentan elementos repetidos. Cuando hablamos de vectores repetidos en este contexto, nos referimos a una familia o lista de vectores.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794203801076-vcjfriplw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>1. ¿Pueden tres vectores de R² ser linealmente independientes?</h2>\n<p><strong>No.</strong> Cualquier conjunto de tres vectores de \\(\\mathbb{R}^2\\) es necesariamente linealmente dependiente.</p>\n<p>La razón es que la dimensión de \\(\\mathbb{R}^2\\) es 2. Por tanto, el número máximo de vectores linealmente independientes en este espacio es <strong>dos</strong>.</p>\n<p>Si dos vectores \\(\\vec{u}\\) y \\(\\vec{v}\\) de \\(\\mathbb{R}^2\\) son independientes, generan todo el plano. Por consiguiente, cualquier tercer vector \\(\\vec{w}\\) puede expresarse como una combinación lineal de ellos:</p>\n<p>\\[ \\boxed{\\vec{w}=a\\vec{u}+b\\vec{v}} \\qquad a,b\\in\\mathbb{R} \\]</p>\n<p><strong>Ejemplo.</strong> Consideremos:</p>\n<p>\\[ \\vec{u}=(2,3),\\qquad \\vec{v}=(1,7),\\qquad \\vec{w}=(a,b). \\]</p>\n<p>Como \\(\\vec{u}\\) y \\(\\vec{v}\\) son independientes, cualquiera que sea \\(\\vec{w}\\), podrá expresarse como combinación lineal de ambos.</p>\n<p><strong>Conclusión:</strong> en \\(\\mathbb{R}^2\\), cualquier conjunto de tres o más vectores es linealmente dependiente.</p>\n<h2>2. ¿Qué generan dos vectores linealmente independientes en R²?</h2>\n<p>Dos vectores linealmente independientes de \\(\\mathbb{R}^2\\) generan <strong>todo el espacio \\(\\mathbb{R}^2\\)</strong>.</p>\n<p>Es decir, si \\(\\vec{u}\\) y \\(\\vec{v}\\) son independientes:</p>\n<p>\\[ \\boxed{ \\langle\\vec{u},\\vec{v}\\rangle = \\{a\\vec{u}+b\\vec{v}\\mid a,b\\in\\mathbb{R}\\} = \\mathbb{R}^2 } \\]</p>\n<p>Por tanto, cualquier vector del plano puede escribirse como combinación lineal de \\(\\vec{u}\\) y \\(\\vec{v}\\).</p>\n<p>Un conjunto que genera todo el espacio se llama <strong>sistema generador</strong>.</p>\n<p>Como \\(\\vec{u}\\) y \\(\\vec{v}\\) son linealmente independientes y además generan \\(\\mathbb{R}^2\\), forman una <strong>base de \\(\\mathbb{R}^2\\)</strong>.</p>\n<p>\\[ \\boxed{ \\text{Base} = \\text{Sistema generador} + \\text{Independencia lineal} } \\]</p>\n<p><strong>Conclusión:</strong> dos vectores linealmente independientes forman una base de \\(\\mathbb{R}^2\\).</p>\n<h2>3. ¿Cuántos vectores linealmente independientes puede haber en R³?</h2>\n<p>La dimensión del espacio \\(\\mathbb{R}^3\\) es 3:</p>\n<p>\\[ \\dim(\\mathbb{R}^3)=3 \\]</p>\n<p>Por tanto, el número máximo de vectores linealmente independientes en \\(\\mathbb{R}^3\\) es <strong>tres</strong>.</p>\n<p>Esto tiene dos consecuencias importantes:</p>\n<ul>\n<li>Cualquier conjunto de cuatro o más vectores de \\(\\mathbb{R}^3\\) es necesariamente linealmente dependiente.</li>\n<li>Tres vectores linealmente independientes de \\(\\mathbb{R}^3\\) forman una base de todo el espacio.</li>\n</ul>\n<p>Si \\(\\vec{u},\\vec{v},\\vec{w}\\) son linealmente independientes, entonces:</p>\n<p>\\[ \\boxed{ \\langle\\vec{u},\\vec{v},\\vec{w}\\rangle = \\mathbb{R}^3 } \\]</p>\n<p>Es decir, cualquier vector \\(\\vec{p}\\in\\mathbb{R}^3\\) puede expresarse de manera única como:</p>\n<p>\\[ \\vec{p}=a\\vec{u}+b\\vec{v}+c\\vec{w} \\]</p>\n<p><strong>Conclusión:</strong> una base de \\(\\mathbb{R}^3\\) está formada por exactamente tres vectores linealmente independientes.</p>\n<h2>4. ¿Qué ocurre si se repite un vector o aparece el vector nulo en un conjunto de vectores?</h2>\n<p><strong>Caso A. Un vector aparece repetido.</strong></p>\n<p>Consideremos el conjunto:</p>\n<p>\\[ S=\\{\\vec{u},\\vec{u},\\vec{v}_1,\\ldots,\\vec{v}_n\\} \\]</p>\n<p>Si consideramos esta colección de vectores con dos apariciones de \\(\\vec{u}\\), será linealmente dependiente, porque podemos construir una combinación lineal no trivial igual al vector nulo:</p>\n<p>\\[ \\boxed{ 1\\vec{u}-1\\vec{u} +0\\vec{v}_1+\\cdots+0\\vec{v}_n =\\vec{0} } \\]</p>\n<p>Los coeficientes no son todos cero, por lo que existe dependencia lineal.</p>\n<p><strong>Caso B. Uno de los vectores es el vector nulo.</strong></p>\n<p>Consideremos:</p>\n<p>\\[ S=\\{\\vec{0},\\vec{u}_1,\\ldots,\\vec{u}_n\\} \\]</p>\n<p>Esta familia también es linealmente dependiente, porque:</p>\n<p>\\[ \\boxed{ 1\\vec{0} +0\\vec{u}_1+\\cdots+0\\vec{u}_n =\\vec{0} } \\]</p>\n<p>De nuevo, tenemos una combinación lineal igual al vector nulo con al menos un coeficiente distinto de cero.</p>\n<p><strong>Conclusiones importantes:</strong></p>\n<ul>\n<li>Si una familia contiene dos veces el mismo vector, es linealmente dependiente.</li>\n<li>Si una familia contiene el vector nulo, es linealmente dependiente.</li>\n<li>Una familia linealmente independiente nunca puede contener el vector nulo.</li>\n</ul>\n<p><em>Nota:</em> Matemáticamente, en un conjunto ordinario no se cuentan elementos repetidos. Cuando hablamos de vectores repetidos en este contexto, nos referimos a una familia o lista de vectores.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mw859j3q-y5qd1kqnl</odePageId>
+  <odeParentPageId>page-mw037u2q-g7zdbxa1z</odeParentPageId>
+  <pageName>Resolvemos sistemas con infinitas soluciones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Resolvemos sistemas con infinitas soluciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Resolvemos sistemas con infinitas soluciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mw859j3q-y5qd1kqnl</odePageId>
+      <odeBlockId>block-mw859l28-yj0z6tlf3</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw859j3q-y5qd1kqnl</odePageId>
+          <odeBlockId>block-mw859l28-yj0z6tlf3</odeBlockId>
+          <odeIdeviceId>idevice-1794161219551-y0zkk24is</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los sistemas de ecuaciones lineales con infinitas soluciones se llaman <strong>Sistemas Compatibles Indeterminados</strong>. Son esenciales en Geometría. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794161219551-y0zkk24is","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los sistemas de ecuaciones lineales con infinitas soluciones se llaman <strong>Sistemas Compatibles Indeterminados</strong>. Son esenciales en Geometría. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw859j3q-y5qd1kqnl</odePageId>
+      <odeBlockId>block-mw84pxef-xa25as20u</odeBlockId>
+      <blockName>Resolvemos sistemas con infinitas soluciones</blockName>
+      <iconName>udl_rep_caso</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw859j3q-y5qd1kqnl</odePageId>
+          <odeBlockId>block-mw84pxef-xa25as20u</odeBlockId>
+          <odeIdeviceId>idevice-1794160302422-typ6mvxo9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Un sistema de ecuaciones lineales puede tener tres tipos de comportamiento según cuántas soluciones admita: ninguna, una sola o infinitas. Al estudiar la dependencia lineal aparecen sistemas con <strong>infinitas soluciones</strong>, porque hay menos ecuaciones "independientes" que incógnitas.</p>
+<p>Piensa en un sistema con tres incógnitas \(a, b, c\) y solo dos ecuaciones. Cada ecuación impone una condición, pero hay una incógnita que queda "sin atar". Podemos darle el valor que queramos y, a partir de él, las otras dos quedan determinadas. Esa incógnita sin atar se convierte en un <strong>parámetro</strong>, y cada valor del parámetro da una solución distinta.</p>
+<p>Geométricamente, cada ecuación con tres incógnitas es un plano. Dos planos que no son paralelos se cortan en una <strong>recta</strong>, y los infinitos puntos de esa recta son las infinitas soluciones del sistema.</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p>Un sistema de ecuaciones lineales es <strong>compatible indeterminado</strong> (S.C.I.) si tiene <strong>infinitas soluciones</strong>. Esto ocurre cuando el número de ecuaciones independientes es menor que el número de incógnitas.</p>
+</div>
+<p>Una <strong>incógnita libre</strong> es una incógnita a la que se le puede asignar cualquier valor real. Se le asigna una letra, llamada <strong>parámetro</strong>:</p>
+<p>\[ c = t, \qquad t \in \mathbb{R} \]</p>
+<p>Las demás incógnitas se expresan en función de \(t\).</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;">
+<p>La <strong>solución general</strong> (o solución paramétrica) de un sistema compatible indeterminado es la expresión de todas las incógnitas en función del parámetro. Cada valor concreto de \(t\) da una <strong>solución particular</strong>.</p>
+</div>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px;">
+<p><strong>Interpretación geométrica.</strong> En \(\mathbb{R}^3\), cada ecuación \(Ax + By + Cz = D\) representa un plano. Si dos planos no son paralelos, su intersección es una recta, que se puede escribir como:</p>
+<p>\[ \begin{pmatrix} x \\ y \\ z \end{pmatrix} = t\begin{pmatrix} d_1 \\ d_2 \\ d_3 \end{pmatrix} + \begin{pmatrix} a \\ b\\ c \end{pmatrix}\]</p>
+<p>El vector \(\vec{d} = (d_1, d_2, d_3)\) es el <strong>vector director</strong> de la recta: la dirección en la que se mueve la solución al variar \(t\). \(\vec{OP} = (a, b, c)\) es un <strong>punto posición </strong>de la misma. </p>
+</div>
+<p>Para resolver un sistema compatible indeterminado se sigue siempre el mismo camino:</p>
+<div style="border: 2px solid #ff0000; padding: 15px; border-radius: 4px;">
+<ol>
+<li><strong>Elegir la incógnita libre.</strong> Se escoge una incógnita que permita despejar las demás con comodidad y se le asigna un parámetro, por ejemplo \(c = t\).</li>
+<li><strong>Pasar el parámetro al segundo miembro.</strong> El sistema queda con una incógnita menos y los términos con \(t\) como términos independientes.</li>
+<li><strong>Resolver el sistema resultante</strong> (por sustitución, reducción, etc.) para obtener las demás incógnitas en función de \(t\).</li>
+<li><strong>Escribir la solución general</strong> indicando que \(t \in \mathbb{R}\).</li>
+<li><strong>Comprobar</strong> sustituyendo en las ecuaciones originales o con un valor concreto de \(t\).</li>
+</ol>
+</div>
+<div class="exe-fx exe-accordion">
+<h2>Resolver el sistema \(\begin{cases} a - b + 2c = 0 \\ a + b + 3c = 0 \end{cases}\)</h2>
+<p><strong>1. Clasificar el sistema:</strong></p>
+<p>Tenemos 2 ecuaciones y 3 incógnitas, así que el sistema no puede ser determinado. Como las ecuaciones no son proporcionales, es <strong>compatible indeterminado</strong>.</p>
+<p><strong>2. Elegir la incógnita libre:</strong></p>
+<p>Tomamos \(c\) como incógnita libre y le asignamos un parámetro:</p>
+<p>\[ c = t, \qquad t \in \mathbb{R} \]</p>
+<p><strong>3. Pasar el parámetro al segundo miembro:</strong></p>
+<p>\[ \begin{cases} a - b = -2t \\ a + b = -3t \end{cases} \]</p>
+<p><strong>4. Resolver el sistema en \(a\) y \(b\):</strong></p>
+<p>De la primera ecuación despejamos \(a = b - 2t\). Sustituimos en la segunda:</p>
+<p>\[ (b - 2t) + b = -3t \quad \Rightarrow \quad 2b = -t \quad \Rightarrow \quad b = -\frac{1}{2}t \]</p>
+<p>Y volviendo a \(a\):</p>
+<p>\[ a = -\frac{1}{2}t - 2t = -\frac{5}{2}t \]</p>
+<p><strong>5. Solución general:</strong></p>
+<p>\[ \begin{cases} a = -\dfrac{5}{2}t \\[2mm] b = -\dfrac{1}{2}t \\[2mm] c = t \end{cases} \qquad t \in \mathbb{R} \]</p>
+<p><em>Comprobación:</em> con \(t = 2\) obtenemos \(a = -5,\ b = -1,\ c = 2\). Sustituyendo: \(-5 + 1 + 4 = 0\) ✓ y \(-5 - 1 + 6 = 0\) ✓.</p>
+</div>
+<div class="exe-fx exe-accordion">
+<h2>Interpretación geométrica de la solución: \(\begin{cases} x - y + 2z = 0 \\ x + y + 3z = 0 \end{cases}\)</h2>
+<p><strong>1. Interpretar cada ecuación:</strong></p>
+<p>Cada ecuación es un <strong>plano</strong> en \(\mathbb{R}^3\). Los dos planos no son paralelos, así que se cortan en una recta.</p>
+<p><strong>2. Resolver el sistema:</strong></p>
+<p>Es el mismo sistema del ejemplo anterior, con las incógnitas llamadas \(x, y, z\). Tomando \(z = t\):</p>
+<p>\[ \begin{cases} x = -\dfrac{5}{2}t \\[2mm] y = -\dfrac{1}{2}t \\[2mm] z = t \end{cases} \]</p>
+<p><strong>3. Escribir la solución en forma vectorial:</strong></p>
+<p>\[ \begin{pmatrix} x \\ y \\ z \end{pmatrix} = t\begin{pmatrix} -\dfrac{5}{2} \\[2mm] -\dfrac{1}{2} \\[2mm] 1 \end{pmatrix}, \qquad t \in \mathbb{R} \]</p>
+<p><strong>4. Interpretar:</strong></p>
+<p>Las soluciones forman la <strong>recta intersección de los dos planos</strong>. Pasa por el origen y su <strong>vector director</strong> es:</p>
+<p>\[ \vec{d} = \left(-\frac{5}{2},\ -\frac{1}{2},\ 1\right) \]</p>
+<p><em>Observación:</em> multiplicando por 2 obtenemos un vector director equivalente, \(\vec{d}' = (-5, -1, 2)\), con números enteros. Es justo la relación de dependencia \(-5\vec{u} - \vec{v} + 2\vec{w} = \vec{0}\) que encontramos al estudiar la dependencia lineal.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794160302422-typ6mvxo9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Un sistema de ecuaciones lineales puede tener tres tipos de comportamiento según cuántas soluciones admita: ninguna, una sola o infinitas. Al estudiar la dependencia lineal aparecen sistemas con <strong>infinitas soluciones</strong>, porque hay menos ecuaciones \"independientes\" que incógnitas.</p>\n<p>Piensa en un sistema con tres incógnitas \\(a, b, c\\) y solo dos ecuaciones. Cada ecuación impone una condición, pero hay una incógnita que queda \"sin atar\". Podemos darle el valor que queramos y, a partir de él, las otras dos quedan determinadas. Esa incógnita sin atar se convierte en un <strong>parámetro</strong>, y cada valor del parámetro da una solución distinta.</p>\n<p>Geométricamente, cada ecuación con tres incógnitas es un plano. Dos planos que no son paralelos se cortan en una <strong>recta</strong>, y los infinitos puntos de esa recta son las infinitas soluciones del sistema.</p>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p>Un sistema de ecuaciones lineales es <strong>compatible indeterminado</strong> (S.C.I.) si tiene <strong>infinitas soluciones</strong>. Esto ocurre cuando el número de ecuaciones independientes es menor que el número de incógnitas.</p>\n</div>\n<p>Una <strong>incógnita libre</strong> es una incógnita a la que se le puede asignar cualquier valor real. Se le asigna una letra, llamada <strong>parámetro</strong>:</p>\n<p>\\[ c = t, \\qquad t \\in \\mathbb{R} \\]</p>\n<p>Las demás incógnitas se expresan en función de \\(t\\).</p>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px; margin-bottom: 15px;\">\n<p>La <strong>solución general</strong> (o solución paramétrica) de un sistema compatible indeterminado es la expresión de todas las incógnitas en función del parámetro. Cada valor concreto de \\(t\\) da una <strong>solución particular</strong>.</p>\n</div>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px;\">\n<p><strong>Interpretación geométrica.</strong> En \\(\\mathbb{R}^3\\), cada ecuación \\(Ax + By + Cz = D\\) representa un plano. Si dos planos no son paralelos, su intersección es una recta, que se puede escribir como:</p>\n<p>\\[ \\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix} = t\\begin{pmatrix} d_1 \\\\ d_2 \\\\ d_3 \\end{pmatrix} + \\begin{pmatrix} a \\\\ b\\\\ c \\end{pmatrix}\\]</p>\n<p>El vector \\(\\vec{d} = (d_1, d_2, d_3)\\) es el <strong>vector director</strong> de la recta: la dirección en la que se mueve la solución al variar \\(t\\). \\(\\vec{OP} = (a, b, c)\\) es un <strong>punto posición </strong>de la misma. </p>\n</div>\n<p>Para resolver un sistema compatible indeterminado se sigue siempre el mismo camino:</p>\n<div style=\"border: 2px solid #ff0000; padding: 15px; border-radius: 4px;\">\n<ol>\n<li><strong>Elegir la incógnita libre.</strong> Se escoge una incógnita que permita despejar las demás con comodidad y se le asigna un parámetro, por ejemplo \\(c = t\\).</li>\n<li><strong>Pasar el parámetro al segundo miembro.</strong> El sistema queda con una incógnita menos y los términos con \\(t\\) como términos independientes.</li>\n<li><strong>Resolver el sistema resultante</strong> (por sustitución, reducción, etc.) para obtener las demás incógnitas en función de \\(t\\).</li>\n<li><strong>Escribir la solución general</strong> indicando que \\(t \\in \\mathbb{R}\\).</li>\n<li><strong>Comprobar</strong> sustituyendo en las ecuaciones originales o con un valor concreto de \\(t\\).</li>\n</ol>\n</div>\n<div class=\"exe-fx exe-accordion\">\n<h2>Resolver el sistema \\(\\begin{cases} a - b + 2c = 0 \\\\ a + b + 3c = 0 \\end{cases}\\)</h2>\n<p><strong>1. Clasificar el sistema:</strong></p>\n<p>Tenemos 2 ecuaciones y 3 incógnitas, así que el sistema no puede ser determinado. Como las ecuaciones no son proporcionales, es <strong>compatible indeterminado</strong>.</p>\n<p><strong>2. Elegir la incógnita libre:</strong></p>\n<p>Tomamos \\(c\\) como incógnita libre y le asignamos un parámetro:</p>\n<p>\\[ c = t, \\qquad t \\in \\mathbb{R} \\]</p>\n<p><strong>3. Pasar el parámetro al segundo miembro:</strong></p>\n<p>\\[ \\begin{cases} a - b = -2t \\\\ a + b = -3t \\end{cases} \\]</p>\n<p><strong>4. Resolver el sistema en \\(a\\) y \\(b\\):</strong></p>\n<p>De la primera ecuación despejamos \\(a = b - 2t\\). Sustituimos en la segunda:</p>\n<p>\\[ (b - 2t) + b = -3t \\quad \\Rightarrow \\quad 2b = -t \\quad \\Rightarrow \\quad b = -\\frac{1}{2}t \\]</p>\n<p>Y volviendo a \\(a\\):</p>\n<p>\\[ a = -\\frac{1}{2}t - 2t = -\\frac{5}{2}t \\]</p>\n<p><strong>5. Solución general:</strong></p>\n<p>\\[ \\begin{cases} a = -\\dfrac{5}{2}t \\\\[2mm] b = -\\dfrac{1}{2}t \\\\[2mm] c = t \\end{cases} \\qquad t \\in \\mathbb{R} \\]</p>\n<p><em>Comprobación:</em> con \\(t = 2\\) obtenemos \\(a = -5,\\ b = -1,\\ c = 2\\). Sustituyendo: \\(-5 + 1 + 4 = 0\\) ✓ y \\(-5 - 1 + 6 = 0\\) ✓.</p>\n</div>\n<div class=\"exe-fx exe-accordion\">\n<h2>Interpretación geométrica de la solución: \\(\\begin{cases} x - y + 2z = 0 \\\\ x + y + 3z = 0 \\end{cases}\\)</h2>\n<p><strong>1. Interpretar cada ecuación:</strong></p>\n<p>Cada ecuación es un <strong>plano</strong> en \\(\\mathbb{R}^3\\). Los dos planos no son paralelos, así que se cortan en una recta.</p>\n<p><strong>2. Resolver el sistema:</strong></p>\n<p>Es el mismo sistema del ejemplo anterior, con las incógnitas llamadas \\(x, y, z\\). Tomando \\(z = t\\):</p>\n<p>\\[ \\begin{cases} x = -\\dfrac{5}{2}t \\\\[2mm] y = -\\dfrac{1}{2}t \\\\[2mm] z = t \\end{cases} \\]</p>\n<p><strong>3. Escribir la solución en forma vectorial:</strong></p>\n<p>\\[ \\begin{pmatrix} x \\\\ y \\\\ z \\end{pmatrix} = t\\begin{pmatrix} -\\dfrac{5}{2} \\\\[2mm] -\\dfrac{1}{2} \\\\[2mm] 1 \\end{pmatrix}, \\qquad t \\in \\mathbb{R} \\]</p>\n<p><strong>4. Interpretar:</strong></p>\n<p>Las soluciones forman la <strong>recta intersección de los dos planos</strong>. Pasa por el origen y su <strong>vector director</strong> es:</p>\n<p>\\[ \\vec{d} = \\left(-\\frac{5}{2},\\ -\\frac{1}{2},\\ 1\\right) \\]</p>\n<p><em>Observación:</em> multiplicando por 2 obtenemos un vector director equivalente, \\(\\vec{d}' = (-5, -1, 2)\\), con números enteros. Es justo la relación de dependencia \\(-5\\vec{u} - \\vec{v} + 2\\vec{w} = \\vec{0}\\) que encontramos al estudiar la dependencia lineal.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw859j3q-y5qd1kqnl</odePageId>
+      <odeBlockId>block-mw85bzwn-3oa9aqxy3</odeBlockId>
+      <blockName>Otro ejemplo de sistema CI</blockName>
+      <iconName>udl_exp_coproducciontxt</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw859j3q-y5qd1kqnl</odePageId>
+          <odeBlockId>block-mw85bzwn-3oa9aqxy3</odeBlockId>
+          <odeIdeviceId>idevice-1794161332102-amsgw5ayg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Consideramos el sistema: \[ \begin{cases} x+2y-z=1\\ 2x+y-z=2\\ 5x+4y-3z=5 \end{cases} \]</p>
+<div class="exe-fx exe-accordion">
+<h2>1. Identificar ecuaciones dependientes</h2>
+<p>Observamos detenidamente el sistema:</p>
+<p>\[ \begin{cases} x+2y-z=1\\ 2x+y-z=2\\ 5x+4y-3z=5 \end{cases} \]</p>
+<p>Observamos que la tercera ecuación es una combinación lineal de las dos primeras:</p>
+<p>\[ \boxed{E_3=E_1+2E_2} \]</p>
+<p>Por tanto, la tercera ecuación no aporta información nueva y podemos eliminarla.</p>
+<p>El sistema equivalente es:</p>
+<p>\[ \begin{cases} x+2y-z=1\\ 2x+y-z=2 \end{cases} \]</p>
+<h2>2. Introducir un parámetro libre</h2>
+<p>Tenemos dos ecuaciones independientes y tres incógnitas. Por tanto, podemos elegir una variable como <strong>parámetro libre</strong>.</p>
+<p>Tomamos:</p>
+<p>\[ \boxed{z=t,\qquad t\in\mathbb{R}} \]</p>
+<p>El sistema se transforma en:</p>
+<p>\[ \begin{cases} x+2y=1+t\\ 2x+y=2+t \end{cases} \]</p>
+<h2>3. Resolver el sistema</h2>
+<p>Despejamos \(x\) en la primera ecuación:</p>
+<p>\[ x=1+t-2y \]</p>
+<p>Sustituimos en la segunda:</p>
+<p>\[ 2(1+t-2y)+y=2+t \]</p>
+<p>\[ 2+2t-4y+y=2+t \]</p>
+<p>\[ -3y=-t \]</p>
+<p>Por tanto:</p>
+<p>\[ \boxed{y=\frac{t}{3}} \]</p>
+<p>Sustituimos este resultado en la expresión de \(x\):</p>
+<p>\[ x=1+t-2\left(\frac{t}{3}\right) \]</p>
+<p>\[ \boxed{x=1+\frac{t}{3}} \]</p>
+<h2>4. Escribir la solución general</h2>
+<p>El sistema es <strong>compatible indeterminado</strong>: tiene infinitas soluciones, que dependen de un parámetro real \(t\).</p>
+<p>\[ \boxed{ \begin{cases} x=1+\dfrac{t}{3}\\[4pt] y=\dfrac{t}{3}\\[4pt] z=t \end{cases} \qquad t\in\mathbb{R} } \]</p>
+<p>También podemos escribir la solución en forma vectorial:</p>
+<p>\[ \boxed{ (x,y,z)=(1,0,0)+t\left(\frac13,\frac13,1\right), \quad t\in\mathbb{R} } \]</p>
+<p>Geométricamente, el conjunto de soluciones es una <strong>recta en \(\mathbb{R}^3\)</strong>.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794161332102-amsgw5ayg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Consideramos el sistema: \\[ \\begin{cases} x+2y-z=1\\\\ 2x+y-z=2\\\\ 5x+4y-3z=5 \\end{cases} \\]</p>\n<div class=\"exe-fx exe-accordion\">\n<h2>1. Identificar ecuaciones dependientes</h2>\n<p>Observamos detenidamente el sistema:</p>\n<p>\\[ \\begin{cases} x+2y-z=1\\\\ 2x+y-z=2\\\\ 5x+4y-3z=5 \\end{cases} \\]</p>\n<p>Observamos que la tercera ecuación es una combinación lineal de las dos primeras:</p>\n<p>\\[ \\boxed{E_3=E_1+2E_2} \\]</p>\n<p>Por tanto, la tercera ecuación no aporta información nueva y podemos eliminarla.</p>\n<p>El sistema equivalente es:</p>\n<p>\\[ \\begin{cases} x+2y-z=1\\\\ 2x+y-z=2 \\end{cases} \\]</p>\n<h2>2. Introducir un parámetro libre</h2>\n<p>Tenemos dos ecuaciones independientes y tres incógnitas. Por tanto, podemos elegir una variable como <strong>parámetro libre</strong>.</p>\n<p>Tomamos:</p>\n<p>\\[ \\boxed{z=t,\\qquad t\\in\\mathbb{R}} \\]</p>\n<p>El sistema se transforma en:</p>\n<p>\\[ \\begin{cases} x+2y=1+t\\\\ 2x+y=2+t \\end{cases} \\]</p>\n<h2>3. Resolver el sistema</h2>\n<p>Despejamos \\(x\\) en la primera ecuación:</p>\n<p>\\[ x=1+t-2y \\]</p>\n<p>Sustituimos en la segunda:</p>\n<p>\\[ 2(1+t-2y)+y=2+t \\]</p>\n<p>\\[ 2+2t-4y+y=2+t \\]</p>\n<p>\\[ -3y=-t \\]</p>\n<p>Por tanto:</p>\n<p>\\[ \\boxed{y=\\frac{t}{3}} \\]</p>\n<p>Sustituimos este resultado en la expresión de \\(x\\):</p>\n<p>\\[ x=1+t-2\\left(\\frac{t}{3}\\right) \\]</p>\n<p>\\[ \\boxed{x=1+\\frac{t}{3}} \\]</p>\n<h2>4. Escribir la solución general</h2>\n<p>El sistema es <strong>compatible indeterminado</strong>: tiene infinitas soluciones, que dependen de un parámetro real \\(t\\).</p>\n<p>\\[ \\boxed{ \\begin{cases} x=1+\\dfrac{t}{3}\\\\[4pt] y=\\dfrac{t}{3}\\\\[4pt] z=t \\end{cases} \\qquad t\\in\\mathbb{R} } \\]</p>\n<p>También podemos escribir la solución en forma vectorial:</p>\n<p>\\[ \\boxed{ (x,y,z)=(1,0,0)+t\\left(\\frac13,\\frac13,1\\right), \\quad t\\in\\mathbb{R} } \\]</p>\n<p>Geométricamente, el conjunto de soluciones es una <strong>recta en \\(\\mathbb{R}^3\\)</strong>.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -10723,9 +11320,17 @@ El límite se reduce a comparar las exponenciales dominantes:
           <odeIdeviceId>idevice-mw03b848-u4q7rtdx2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/underconstruction.png" width="600" height="250" alt="" /></p>
+    <p style="text-align: center;"><br /></p>
+<table border="0" style="width: 100.02%;">
+<tbody>
+<tr>
+<td style="width: 49.9494%; text-align: center;"><iframe width="420" height="236" style="border: 0; overflow: hidden;" src="https://mediateca.educa.madrid.org/video/82gt7kocap1qvwsk/fs" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></td>
+<td style="width: 49.9494%; text-align: center;"><iframe width="420" height="236" style="border: 0; overflow: hidden;" src="https://mediateca.educa.madrid.org/video/fxn94o24xm9he7ge/fs" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></td>
+</tr>
+</tbody>
+</table>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793674178402-6oz6t7d4m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/underconstruction.png\" width=\"600\" height=\"250\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mw03b848-u4q7rtdx2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><br /></p>\n<table border=\"0\" style=\"width: 100.02%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9494%; text-align: center;\"><iframe width=\"420\" height=\"236\" style=\"border: 0; overflow: hidden;\" src=\"https://mediateca.educa.madrid.org/video/82gt7kocap1qvwsk/fs\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></td>\n<td style=\"width: 49.9494%; text-align: center;\"><iframe width=\"420\" height=\"236\" style=\"border: 0; overflow: hidden;\" src=\"https://mediateca.educa.madrid.org/video/fxn94o24xm9he7ge/fs\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -10740,6 +11345,294 @@ El límite se reduce a comparar las exponenciales dominantes:
               <key>cssClass</key>
               <value></value>
             </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw0388vg-qfunk39mx</odePageId>
+      <odeBlockId>block-mw8wcsew-0h2s84my6</odeBlockId>
+      <blockName>Ecuaciones de la recta</blockName>
+      <iconName>udl_rep_lee</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw0388vg-qfunk39mx</odePageId>
+          <odeBlockId>block-mw8wcsew-0h2s84my6</odeBlockId>
+          <odeIdeviceId>idevice-1794206718678-q7ualxfsx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En \(\mathbb{R}^2\) ya conocemos distintas formas de escribir la ecuación de una recta. Ahora vamos a generalizar estas ideas a \(\mathbb{R}^3\).</p>
+<div style="text-align: center; margin-bottom: 15px;"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 560 420" width="100%" style="max-width: 580px; background: #ffffff; border: 1px solid #cccccc; border-radius: 4px;" role="img" aria-label="Recta r que pasa por P con vector director u: X = P + λ·u"> <defs> <marker id="flechaAzul" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#1d4ed8"></path></marker> <marker id="flechaRoja" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#d62828"></path></marker> <marker id="flechaVerde" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#2e9e1f"></path></marker> <marker id="flechaNegra" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#000000"></path></marker> </defs> <text x="280" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#000000">X = P + λ·u, λ ∈ ℝ</text> <!-- Recta r --> <line x1="40" y1="235" x2="540" y2="110" stroke="#888888" stroke-width="1.5"></line> <text x="505" y="138" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#555555">r</text> <!-- Vector OX (negro, discontinuo) --> <line x1="80" y1="370" x2="398" y2="148" stroke="#000000" stroke-width="2" stroke-dasharray="6,5" marker-end="url(#flechaNegra)"></line> <!-- Vector de posición OP (azul) --> <line x1="80" y1="370" x2="138" y2="214" stroke="#1d4ed8" stroke-width="3" marker-end="url(#flechaAzul)"></line> <!-- λ·u (verde) --> <line x1="140" y1="210" x2="402" y2="145" stroke="#2e9e1f" stroke-width="3" marker-end="url(#flechaVerde)"></line> <!-- u (rojo) --> <line x1="140" y1="210" x2="258" y2="181" stroke="#d62828" stroke-width="4" marker-end="url(#flechaRoja)"></line> <!-- Puntos --> <circle cx="80" cy="370" r="4" fill="#000000"></circle> <circle cx="140" cy="210" r="4" fill="#000000"></circle> <circle cx="404" cy="144" r="4" fill="#000000"></circle> <!-- Etiquetas --> <text x="56" y="392" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#000000">O</text> <text x="118" y="206" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#000000">P</text> <text x="412" y="140" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#000000">X</text> <text x="70" y="296" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#1d4ed8">OP</text> <text x="196" y="222" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#d62828">u</text> <text x="310" y="152" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#2e9e1f">λ·u</text> <text x="258" y="276" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#000000">OX</text> </svg>
+<p>Todo punto <strong>X</strong> de la recta se alcanza partiendo de <strong>O</strong>, yendo hasta <strong>P</strong> y avanzando después un múltiplo <strong>λ·u</strong> del vector director.</p>
+</div>
+<div class="exe-fx exe-tabs">
+<h2>1. La recta: idea geométrica</h2>
+<p>Para determinar una recta necesitamos:</p>
+<ul>
+<li>Un <strong>punto de posición</strong> \(P\), por el que pasa la recta.</li>
+<li>Un <strong>vector director</strong> \(\vec{u}\neq\vec{0}\), que indica su dirección.</li>
+</ul>
+<p>La idea fundamental es que, si \(X\) es cualquier punto de la recta, el vector \(\overrightarrow{PX}\) tiene la misma dirección que \(\vec{u}\).</p>
+<p>Por tanto, existe un número real \(\lambda\) tal que:</p>
+<p>\[ \boxed{\overrightarrow{PX}=\lambda\vec{u}} \]</p>
+<p>Escribiendo como suma:</p>
+<p>\[ \overrightarrow{OX} = \overrightarrow{OP}+\overrightarrow{PX} \]</p>
+<p>Obtenemos:</p>
+<p>\[ \boxed{ \overrightarrow{OX} = \overrightarrow{OP}+\lambda\vec{u}, \qquad \lambda\in\mathbb{R} } \]</p>
+<p>Esta es la <strong>ecuación vectorial de la recta</strong>.</p>
+<p>Al variar \(\lambda\), recorremos todos los puntos de la recta. Si \(\lambda=0\), obtenemos el punto \(P\).</p>
+<p><strong>Conexión con los espacios vectoriales:</strong> los múltiplos de \(\vec{u}\) forman el subespacio vectorial \(\langle\vec{u}\rangle\), que es una recta que pasa por el origen. Al sumar el vector de posición de \(P\), trasladamos esa recta.</p>
+<p>\[ r=\overrightarrow{OP}+\langle\vec{u}\rangle \]</p>
+<p>La recta resultante no tiene por qué pasar por el origen y, en general, no es un subespacio vectorial.</p>
+<h2>2. Ec. vectoriales y paramétricas</h2>
+<p>Consideremos un punto \(P\) y un vector director \(\vec{u}\neq\vec{0}\).</p>
+<p><strong>En \(\mathbb{R}^2\):</strong></p>
+<p>\[ P=(x_0,y_0),\qquad \vec{u}=(u_x,u_y) \]</p>
+<p>La ecuación vectorial es:</p>
+<p>\[ \boxed{ (x,y)=(x_0,y_0)+\lambda(u_x,u_y) } \]</p>
+<p>Igualando las componentes, obtenemos las <strong>ecuaciones paramétricas</strong>:</p>
+<p>\[ \boxed{ \begin{cases} x=x_0+\lambda u_x\\ y=y_0+\lambda u_y \end{cases} \qquad \lambda\in\mathbb{R} } \]</p>
+<p><strong>En \(\mathbb{R}^3\):</strong></p>
+<p>Añadimos una tercera coordenada:</p>
+<p>\[ P=(x_0,y_0,z_0),\qquad \vec{u}=(u_x,u_y,u_z) \]</p>
+<p>La ecuación vectorial será:</p>
+<p>\[ \boxed{ (x,y,z)=(x_0,y_0,z_0)+\lambda(u_x,u_y,u_z) } \]</p>
+<p>Y las ecuaciones paramétricas:</p>
+<p>\[ \boxed{ \begin{cases} x=x_0+\lambda u_x\\ y=y_0+\lambda u_y\\ z=z_0+\lambda u_z \end{cases} \qquad \lambda\in\mathbb{R} } \]</p>
+<p><strong>Observación:</strong> las tres ecuaciones deben compartir el mismo parámetro \(\lambda\), porque describen las coordenadas de un mismo punto de la recta.</p>
+<h2>3. Ecuación continua</h2>
+<p>Partimos de las ecuaciones paramétricas en \(\mathbb{R}^3\):</p>
+<p>\[ \begin{cases} x=x_0+\lambda u_x\\ y=y_0+\lambda u_y\\ z=z_0+\lambda u_z \end{cases} \]</p>
+<p>Despejando el parámetro en cada ecuación:</p>
+<p>\[ \lambda=\frac{x-x_0}{u_x}, \qquad \lambda=\frac{y-y_0}{u_y}, \qquad \lambda=\frac{z-z_0}{u_z} \]</p>
+<p>Igualando las expresiones obtenemos la <strong>ecuación continua de la recta</strong>:</p>
+<p>\[ \boxed{ \frac{x-x_0}{u_x} = \frac{y-y_0}{u_y} = \frac{z-z_0}{u_z} } \]</p>
+<p>Esta expresión es válida directamente cuando las tres componentes del vector director son distintas de cero.</p>
+<p><strong>¿Qué sucede si alguna componente es cero?</strong></p>
+<p>No podemos dividir entre cero. Por ejemplo, si \(u_z=0\), la tercera ecuación paramétrica es:</p>
+<p>\[ z=z_0 \]</p>
+<p>Y las otras dos pueden escribirse:</p>
+<p>\[ \boxed{ \frac{x-x_0}{u_x} = \frac{y-y_0}{u_y}, \qquad z=z_0 } \]</p>
+<p>Suponiendo \(u_x,u_y\neq0\).</p>
+<p><strong>Importante:</strong> una componente nula del vector director significa que la coordenada correspondiente permanece constante a lo largo de la recta.</p>
+<h2>4. Ecuación cartesiana</h2>
+<p><strong>En \(\mathbb{R}^2\):</strong></p>
+<p>Una recta puede describirse mediante una sola ecuación cartesiana:</p>
+<p>\[ \boxed{Ax+By+C=0} \]</p>
+<p>con \(A\) y \(B\) no simultáneamente nulos.</p>
+<p>Si \(B\neq0\), podemos despejar \(y\) y obtener la forma explícita:</p>
+<p>\[ y=mx+n \]</p>
+<p><strong>En \(\mathbb{R}^3\):</strong></p>
+<p>Una ecuación de la forma</p>
+<p>\[ Ax+By+Cz=D \]</p>
+<p>con \((A,B,C)\neq(0,0,0)\), describe un <strong>plano</strong>, no una recta.</p>
+<p>Para describir una recta podemos utilizar dos ecuaciones cartesianas independientes:</p>
+<p>\[ \boxed{ r: \begin{cases} A_1x+B_1y+C_1z=D_1\\ A_2x+B_2y+C_2z=D_2 \end{cases} } \]</p>
+<p>Geométricamente, cada ecuación representa un plano. Si los dos planos se cortan en una recta, su intersección es precisamente la recta buscada.</p>
+<p><strong>Conexión con las ecuaciones paramétricas:</strong> para obtener estas ecuaciones cartesianas, eliminamos el parámetro \(\lambda\) de las ecuaciones paramétricas.</p>
+<p>Si las dos ecuaciones cartesianas son independientes y el sistema es compatible, su conjunto de soluciones es una recta.</p>
+<h2>5. Resumen</h2>
+<p>Una recta queda determinada por un punto \(P=(x_0,y_0,z_0)\) y un vector director no nulo \(\vec{u}=(u_x,u_y,u_z)\).</p>
+<p><strong>Ecuación vectorial:</strong></p>
+<p>\[ \boxed{ (x,y,z)=(x_0,y_0,z_0)+\lambda(u_x,u_y,u_z) } \]</p>
+<p><strong>Ecuaciones paramétricas:</strong></p>
+<p>\[ \boxed{ \begin{cases} x=x_0+\lambda u_x\\ y=y_0+\lambda u_y\\ z=z_0+\lambda u_z \end{cases} } \]</p>
+<p><strong>Ecuación continua:</strong></p>
+<p>\[ \boxed{ \frac{x-x_0}{u_x} = \frac{y-y_0}{u_y} = \frac{z-z_0}{u_z} } \]</p>
+<p>Esta última expresión requiere que ninguno de los denominadores sea cero.</p>
+<p><strong>Ecuaciones cartesianas:</strong></p>
+<p>\[ \boxed{ \begin{cases} A_1x+B_1y+C_1z=D_1\\ A_2x+B_2y+C_2z=D_2 \end{cases} } \]</p>
+<p>Las dos ecuaciones deben representar planos cuya intersección sea una recta.</p>
+<p><strong>Idea clave:</strong> en \(\mathbb{R}^2\), una ecuación cartesiana basta para describir una recta; en \(\mathbb{R}^3\), necesitamos dos.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794206718678-q7ualxfsx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En \\(\\mathbb{R}^2\\) ya conocemos distintas formas de escribir la ecuación de una recta. Ahora vamos a generalizar estas ideas a \\(\\mathbb{R}^3\\).</p>\n<div style=\"text-align: center; margin-bottom: 15px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 560 420\" width=\"100%\" style=\"max-width: 580px; background: #ffffff; border: 1px solid #cccccc; border-radius: 4px;\" role=\"img\" aria-label=\"Recta r que pasa por P con vector director u: X = P + λ·u\"> <defs> <marker id=\"flechaAzul\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#1d4ed8\"></path></marker> <marker id=\"flechaRoja\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#d62828\"></path></marker> <marker id=\"flechaVerde\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#2e9e1f\"></path></marker> <marker id=\"flechaNegra\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#000000\"></path></marker> </defs> <text x=\"280\" y=\"30\" text-anchor=\"middle\" font-family=\"Georgia, serif\" font-size=\"20\" fill=\"#000000\">X = P + λ·u, λ ∈ ℝ</text> <!-- Recta r --> <line x1=\"40\" y1=\"235\" x2=\"540\" y2=\"110\" stroke=\"#888888\" stroke-width=\"1.5\"></line> <text x=\"505\" y=\"138\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#555555\">r</text> <!-- Vector OX (negro, discontinuo) --> <line x1=\"80\" y1=\"370\" x2=\"398\" y2=\"148\" stroke=\"#000000\" stroke-width=\"2\" stroke-dasharray=\"6,5\" marker-end=\"url(#flechaNegra)\"></line> <!-- Vector de posición OP (azul) --> <line x1=\"80\" y1=\"370\" x2=\"138\" y2=\"214\" stroke=\"#1d4ed8\" stroke-width=\"3\" marker-end=\"url(#flechaAzul)\"></line> <!-- λ·u (verde) --> <line x1=\"140\" y1=\"210\" x2=\"402\" y2=\"145\" stroke=\"#2e9e1f\" stroke-width=\"3\" marker-end=\"url(#flechaVerde)\"></line> <!-- u (rojo) --> <line x1=\"140\" y1=\"210\" x2=\"258\" y2=\"181\" stroke=\"#d62828\" stroke-width=\"4\" marker-end=\"url(#flechaRoja)\"></line> <!-- Puntos --> <circle cx=\"80\" cy=\"370\" r=\"4\" fill=\"#000000\"></circle> <circle cx=\"140\" cy=\"210\" r=\"4\" fill=\"#000000\"></circle> <circle cx=\"404\" cy=\"144\" r=\"4\" fill=\"#000000\"></circle> <!-- Etiquetas --> <text x=\"56\" y=\"392\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#000000\">O</text> <text x=\"118\" y=\"206\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#000000\">P</text> <text x=\"412\" y=\"140\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#000000\">X</text> <text x=\"70\" y=\"296\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#1d4ed8\">OP</text> <text x=\"196\" y=\"222\" font-family=\"Georgia, serif\" font-size=\"20\" font-style=\"italic\" fill=\"#d62828\">u</text> <text x=\"310\" y=\"152\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#2e9e1f\">λ·u</text> <text x=\"258\" y=\"276\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#000000\">OX</text> </svg>\n<p>Todo punto <strong>X</strong> de la recta se alcanza partiendo de <strong>O</strong>, yendo hasta <strong>P</strong> y avanzando después un múltiplo <strong>λ·u</strong> del vector director.</p>\n</div>\n<div class=\"exe-fx exe-tabs\">\n<h2>1. La recta: idea geométrica</h2>\n<p>Para determinar una recta necesitamos:</p>\n<ul>\n<li>Un <strong>punto de posición</strong> \\(P\\), por el que pasa la recta.</li>\n<li>Un <strong>vector director</strong> \\(\\vec{u}\\neq\\vec{0}\\), que indica su dirección.</li>\n</ul>\n<p>La idea fundamental es que, si \\(X\\) es cualquier punto de la recta, el vector \\(\\overrightarrow{PX}\\) tiene la misma dirección que \\(\\vec{u}\\).</p>\n<p>Por tanto, existe un número real \\(\\lambda\\) tal que:</p>\n<p>\\[ \\boxed{\\overrightarrow{PX}=\\lambda\\vec{u}} \\]</p>\n<p>Escribiendo como suma:</p>\n<p>\\[ \\overrightarrow{OX} = \\overrightarrow{OP}+\\overrightarrow{PX} \\]</p>\n<p>Obtenemos:</p>\n<p>\\[ \\boxed{ \\overrightarrow{OX} = \\overrightarrow{OP}+\\lambda\\vec{u}, \\qquad \\lambda\\in\\mathbb{R} } \\]</p>\n<p>Esta es la <strong>ecuación vectorial de la recta</strong>.</p>\n<p>Al variar \\(\\lambda\\), recorremos todos los puntos de la recta. Si \\(\\lambda=0\\), obtenemos el punto \\(P\\).</p>\n<p><strong>Conexión con los espacios vectoriales:</strong> los múltiplos de \\(\\vec{u}\\) forman el subespacio vectorial \\(\\langle\\vec{u}\\rangle\\), que es una recta que pasa por el origen. Al sumar el vector de posición de \\(P\\), trasladamos esa recta.</p>\n<p>\\[ r=\\overrightarrow{OP}+\\langle\\vec{u}\\rangle \\]</p>\n<p>La recta resultante no tiene por qué pasar por el origen y, en general, no es un subespacio vectorial.</p>\n<h2>2. Ec. vectoriales y paramétricas</h2>\n<p>Consideremos un punto \\(P\\) y un vector director \\(\\vec{u}\\neq\\vec{0}\\).</p>\n<p><strong>En \\(\\mathbb{R}^2\\):</strong></p>\n<p>\\[ P=(x_0,y_0),\\qquad \\vec{u}=(u_x,u_y) \\]</p>\n<p>La ecuación vectorial es:</p>\n<p>\\[ \\boxed{ (x,y)=(x_0,y_0)+\\lambda(u_x,u_y) } \\]</p>\n<p>Igualando las componentes, obtenemos las <strong>ecuaciones paramétricas</strong>:</p>\n<p>\\[ \\boxed{ \\begin{cases} x=x_0+\\lambda u_x\\\\ y=y_0+\\lambda u_y \\end{cases} \\qquad \\lambda\\in\\mathbb{R} } \\]</p>\n<p><strong>En \\(\\mathbb{R}^3\\):</strong></p>\n<p>Añadimos una tercera coordenada:</p>\n<p>\\[ P=(x_0,y_0,z_0),\\qquad \\vec{u}=(u_x,u_y,u_z) \\]</p>\n<p>La ecuación vectorial será:</p>\n<p>\\[ \\boxed{ (x,y,z)=(x_0,y_0,z_0)+\\lambda(u_x,u_y,u_z) } \\]</p>\n<p>Y las ecuaciones paramétricas:</p>\n<p>\\[ \\boxed{ \\begin{cases} x=x_0+\\lambda u_x\\\\ y=y_0+\\lambda u_y\\\\ z=z_0+\\lambda u_z \\end{cases} \\qquad \\lambda\\in\\mathbb{R} } \\]</p>\n<p><strong>Observación:</strong> las tres ecuaciones deben compartir el mismo parámetro \\(\\lambda\\), porque describen las coordenadas de un mismo punto de la recta.</p>\n<h2>3. Ecuación continua</h2>\n<p>Partimos de las ecuaciones paramétricas en \\(\\mathbb{R}^3\\):</p>\n<p>\\[ \\begin{cases} x=x_0+\\lambda u_x\\\\ y=y_0+\\lambda u_y\\\\ z=z_0+\\lambda u_z \\end{cases} \\]</p>\n<p>Despejando el parámetro en cada ecuación:</p>\n<p>\\[ \\lambda=\\frac{x-x_0}{u_x}, \\qquad \\lambda=\\frac{y-y_0}{u_y}, \\qquad \\lambda=\\frac{z-z_0}{u_z} \\]</p>\n<p>Igualando las expresiones obtenemos la <strong>ecuación continua de la recta</strong>:</p>\n<p>\\[ \\boxed{ \\frac{x-x_0}{u_x} = \\frac{y-y_0}{u_y} = \\frac{z-z_0}{u_z} } \\]</p>\n<p>Esta expresión es válida directamente cuando las tres componentes del vector director son distintas de cero.</p>\n<p><strong>¿Qué sucede si alguna componente es cero?</strong></p>\n<p>No podemos dividir entre cero. Por ejemplo, si \\(u_z=0\\), la tercera ecuación paramétrica es:</p>\n<p>\\[ z=z_0 \\]</p>\n<p>Y las otras dos pueden escribirse:</p>\n<p>\\[ \\boxed{ \\frac{x-x_0}{u_x} = \\frac{y-y_0}{u_y}, \\qquad z=z_0 } \\]</p>\n<p>Suponiendo \\(u_x,u_y\\neq0\\).</p>\n<p><strong>Importante:</strong> una componente nula del vector director significa que la coordenada correspondiente permanece constante a lo largo de la recta.</p>\n<h2>4. Ecuación cartesiana</h2>\n<p><strong>En \\(\\mathbb{R}^2\\):</strong></p>\n<p>Una recta puede describirse mediante una sola ecuación cartesiana:</p>\n<p>\\[ \\boxed{Ax+By+C=0} \\]</p>\n<p>con \\(A\\) y \\(B\\) no simultáneamente nulos.</p>\n<p>Si \\(B\\neq0\\), podemos despejar \\(y\\) y obtener la forma explícita:</p>\n<p>\\[ y=mx+n \\]</p>\n<p><strong>En \\(\\mathbb{R}^3\\):</strong></p>\n<p>Una ecuación de la forma</p>\n<p>\\[ Ax+By+Cz=D \\]</p>\n<p>con \\((A,B,C)\\neq(0,0,0)\\), describe un <strong>plano</strong>, no una recta.</p>\n<p>Para describir una recta podemos utilizar dos ecuaciones cartesianas independientes:</p>\n<p>\\[ \\boxed{ r: \\begin{cases} A_1x+B_1y+C_1z=D_1\\\\ A_2x+B_2y+C_2z=D_2 \\end{cases} } \\]</p>\n<p>Geométricamente, cada ecuación representa un plano. Si los dos planos se cortan en una recta, su intersección es precisamente la recta buscada.</p>\n<p><strong>Conexión con las ecuaciones paramétricas:</strong> para obtener estas ecuaciones cartesianas, eliminamos el parámetro \\(\\lambda\\) de las ecuaciones paramétricas.</p>\n<p>Si las dos ecuaciones cartesianas son independientes y el sistema es compatible, su conjunto de soluciones es una recta.</p>\n<h2>5. Resumen</h2>\n<p>Una recta queda determinada por un punto \\(P=(x_0,y_0,z_0)\\) y un vector director no nulo \\(\\vec{u}=(u_x,u_y,u_z)\\).</p>\n<p><strong>Ecuación vectorial:</strong></p>\n<p>\\[ \\boxed{ (x,y,z)=(x_0,y_0,z_0)+\\lambda(u_x,u_y,u_z) } \\]</p>\n<p><strong>Ecuaciones paramétricas:</strong></p>\n<p>\\[ \\boxed{ \\begin{cases} x=x_0+\\lambda u_x\\\\ y=y_0+\\lambda u_y\\\\ z=z_0+\\lambda u_z \\end{cases} } \\]</p>\n<p><strong>Ecuación continua:</strong></p>\n<p>\\[ \\boxed{ \\frac{x-x_0}{u_x} = \\frac{y-y_0}{u_y} = \\frac{z-z_0}{u_z} } \\]</p>\n<p>Esta última expresión requiere que ninguno de los denominadores sea cero.</p>\n<p><strong>Ecuaciones cartesianas:</strong></p>\n<p>\\[ \\boxed{ \\begin{cases} A_1x+B_1y+C_1z=D_1\\\\ A_2x+B_2y+C_2z=D_2 \\end{cases} } \\]</p>\n<p>Las dos ecuaciones deben representar planos cuya intersección sea una recta.</p>\n<p><strong>Idea clave:</strong> en \\(\\mathbb{R}^2\\), una ecuación cartesiana basta para describir una recta; en \\(\\mathbb{R}^3\\), necesitamos dos.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw0388vg-qfunk39mx</odePageId>
+      <odeBlockId>block-mw8wj44r-5lx5lu4ix</odeBlockId>
+      <blockName>Un ejemplo</blockName>
+      <iconName>udl_exp_coproducciontxt</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw0388vg-qfunk39mx</odePageId>
+          <odeBlockId>block-mw8wj44r-5lx5lu4ix</odeBlockId>
+          <odeIdeviceId>idevice-1794207013802-0tlj3sx5o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-accordion">
+<h2>1. Ecuaciones de una recta en \(\mathbb{R}^2\). Punto \(P=(3,4)\), vector \(\vec{u}=(5,-7) \)</h2>
+<p>Consideramos la recta que pasa por el punto:</p>
+<p>\[ P=(3,4) \]</p>
+<p>Y tiene como vector director:</p>
+<p>\[ \vec{u}=(5,-7) \]</p>
+<p><strong>1. Ecuación vectorial</strong></p>
+<p>Aplicamos la fórmula:</p>
+<p>\[ \overrightarrow{OX} = \overrightarrow{OP}+\lambda\vec{u} \]</p>
+<p>Sustituyendo los datos:</p>
+<p>\[ \boxed{ (x,y)=(3,4)+\lambda(5,-7) } \]</p>
+<p><strong>2. Ecuaciones paramétricas</strong></p>
+<p>Igualamos las componentes:</p>
+<p>\[ \boxed{ \begin{cases} x=3+5\lambda\\ y=4-7\lambda \end{cases} \qquad \lambda\in\mathbb{R} } \]</p>
+<p><strong>3. Ecuación continua</strong></p>
+<p>Despejamos el parámetro en ambas ecuaciones:</p>
+<p>\[ \lambda=\frac{x-3}{5} \]</p>
+<p>\[ \lambda=\frac{y-4}{-7} \]</p>
+<p>Igualamos:</p>
+<p>\[ \boxed{ \frac{x-3}{5}=\frac{y-4}{-7} } \]</p>
+<p><strong>4. Ecuación cartesiana o general</strong></p>
+<p>Multiplicamos en cruz:</p>
+<p>\[ -7(x-3)=5(y-4) \]</p>
+<p>Desarrollamos:</p>
+<p>\[ -7x+21=5y-20 \]</p>
+<p>Reordenamos:</p>
+<p>\[ \boxed{7x+5y-41=0} \]</p>
+<p><strong>5. Ecuación explícita</strong></p>
+<p>Despejamos \(y\):</p>
+<p>\[ 5y=-7x+41 \]</p>
+<p>\[ \boxed{ y=-\frac75x+\frac{41}{5} } \]</p>
+<p>Esta es la forma que ya conocemos de cursos anteriores.</p>
+<h2>2. Ecuaciones de una recta en \(\mathbb{R}^3\). Punto \(P=(1,-2,-1)\), vector \(\vec{u}=(-1,2,0) \)</h2>
+<p>Consideramos la recta que pasa por:</p>
+<p>\[ P=(1,-2,-1) \]</p>
+<p>Y tiene como vector director:</p>
+<p>\[ \vec{u}=(-1,2,0) \]</p>
+<p><strong>1. Ecuación vectorial</strong></p>
+<p>La ecuación vectorial es:</p>
+<p>\[ \boxed{ (x,y,z)=(1,-2,-1)+\lambda(-1,2,0) } \]</p>
+<p><strong>2. Ecuaciones paramétricas</strong></p>
+<p>Igualando las componentes:</p>
+<p>\[ \begin{cases} x=1-\lambda\\ y=-2+2\lambda\\ z=-1+0\lambda \end{cases} \]</p>
+<p>Por tanto:</p>
+<p>\[ \boxed{ \begin{cases} x=1-\lambda\\ y=-2+2\lambda\\ z=-1 \end{cases} \qquad \lambda\in\mathbb{R} } \]</p>
+<p><strong>Observación:</strong> la coordenada \(z\) es constante porque la tercera componente del vector director es cero.</p>
+<p><strong>3. Ecuación continua</strong></p>
+<p>Aplicamos la fórmula:</p>
+<p>\[ \frac{x-x_0}{u_x} = \frac{y-y_0}{u_y} = \frac{z-z_0}{u_z} \]</p>
+<p>Sustituyendo:</p>
+<p>\[ \frac{x-1}{-1} = \frac{y+2}{2} \]</p>
+<p>Como \(u_z=0\), <strong>no podemos dividir entre cero</strong>. La tercera coordenada se expresa por separado:</p>
+<p>\[ \boxed{ \begin{cases} \dfrac{x-1}{-1}=\dfrac{y+2}{2}\\[6pt] z=-1 \end{cases} } \]</p>
+<p><strong>4. Ecuaciones cartesianas</strong></p>
+<p>Partimos de:</p>
+<p>\[ \frac{x-1}{-1}=\frac{y+2}{2} \]</p>
+<p>Multiplicamos en cruz:</p>
+<p>\[ 2(x-1)=-(y+2) \]</p>
+<p>Desarrollamos:</p>
+<p>\[ 2x-2=-y-2 \]</p>
+<p>Reordenamos:</p>
+<p>\[ \boxed{2x+y=0} \]</p>
+<p>La otra ecuación procede directamente de la coordenada constante:</p>
+<p>\[ \boxed{z=-1} \]</p>
+<p>Así, las ecuaciones cartesianas de la recta son:</p>
+<p>\[ \boxed{ r: \begin{cases} 2x+y=0\\ z=-1 \end{cases} } \]</p>
+<p><strong>5. Interpretación geométrica</strong></p>
+<p>La ecuación \(2x+y=0\) representa un plano de \(\mathbb{R}^3\).</p>
+<p>La ecuación \(z=-1\) representa otro plano, paralelo al plano \(XY\).</p>
+<p>La recta \(r\) es la <strong>intersección de estos dos planos</strong>.</p>
+<p>Por tanto, en \(\mathbb{R}^3\), una recta puede describirse mediante un sistema de dos ecuaciones cartesianas independientes.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794207013802-0tlj3sx5o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-accordion\">\n<h2>1. Ecuaciones de una recta en \\(\\mathbb{R}^2\\). Punto \\(P=(3,4)\\), vector \\(\\vec{u}=(5,-7) \\)</h2>\n<p>Consideramos la recta que pasa por el punto:</p>\n<p>\\[ P=(3,4) \\]</p>\n<p>Y tiene como vector director:</p>\n<p>\\[ \\vec{u}=(5,-7) \\]</p>\n<p><strong>1. Ecuación vectorial</strong></p>\n<p>Aplicamos la fórmula:</p>\n<p>\\[ \\overrightarrow{OX} = \\overrightarrow{OP}+\\lambda\\vec{u} \\]</p>\n<p>Sustituyendo los datos:</p>\n<p>\\[ \\boxed{ (x,y)=(3,4)+\\lambda(5,-7) } \\]</p>\n<p><strong>2. Ecuaciones paramétricas</strong></p>\n<p>Igualamos las componentes:</p>\n<p>\\[ \\boxed{ \\begin{cases} x=3+5\\lambda\\\\ y=4-7\\lambda \\end{cases} \\qquad \\lambda\\in\\mathbb{R} } \\]</p>\n<p><strong>3. Ecuación continua</strong></p>\n<p>Despejamos el parámetro en ambas ecuaciones:</p>\n<p>\\[ \\lambda=\\frac{x-3}{5} \\]</p>\n<p>\\[ \\lambda=\\frac{y-4}{-7} \\]</p>\n<p>Igualamos:</p>\n<p>\\[ \\boxed{ \\frac{x-3}{5}=\\frac{y-4}{-7} } \\]</p>\n<p><strong>4. Ecuación cartesiana o general</strong></p>\n<p>Multiplicamos en cruz:</p>\n<p>\\[ -7(x-3)=5(y-4) \\]</p>\n<p>Desarrollamos:</p>\n<p>\\[ -7x+21=5y-20 \\]</p>\n<p>Reordenamos:</p>\n<p>\\[ \\boxed{7x+5y-41=0} \\]</p>\n<p><strong>5. Ecuación explícita</strong></p>\n<p>Despejamos \\(y\\):</p>\n<p>\\[ 5y=-7x+41 \\]</p>\n<p>\\[ \\boxed{ y=-\\frac75x+\\frac{41}{5} } \\]</p>\n<p>Esta es la forma que ya conocemos de cursos anteriores.</p>\n<h2>2. Ecuaciones de una recta en \\(\\mathbb{R}^3\\). Punto \\(P=(1,-2,-1)\\), vector \\(\\vec{u}=(-1,2,0) \\)</h2>\n<p>Consideramos la recta que pasa por:</p>\n<p>\\[ P=(1,-2,-1) \\]</p>\n<p>Y tiene como vector director:</p>\n<p>\\[ \\vec{u}=(-1,2,0) \\]</p>\n<p><strong>1. Ecuación vectorial</strong></p>\n<p>La ecuación vectorial es:</p>\n<p>\\[ \\boxed{ (x,y,z)=(1,-2,-1)+\\lambda(-1,2,0) } \\]</p>\n<p><strong>2. Ecuaciones paramétricas</strong></p>\n<p>Igualando las componentes:</p>\n<p>\\[ \\begin{cases} x=1-\\lambda\\\\ y=-2+2\\lambda\\\\ z=-1+0\\lambda \\end{cases} \\]</p>\n<p>Por tanto:</p>\n<p>\\[ \\boxed{ \\begin{cases} x=1-\\lambda\\\\ y=-2+2\\lambda\\\\ z=-1 \\end{cases} \\qquad \\lambda\\in\\mathbb{R} } \\]</p>\n<p><strong>Observación:</strong> la coordenada \\(z\\) es constante porque la tercera componente del vector director es cero.</p>\n<p><strong>3. Ecuación continua</strong></p>\n<p>Aplicamos la fórmula:</p>\n<p>\\[ \\frac{x-x_0}{u_x} = \\frac{y-y_0}{u_y} = \\frac{z-z_0}{u_z} \\]</p>\n<p>Sustituyendo:</p>\n<p>\\[ \\frac{x-1}{-1} = \\frac{y+2}{2} \\]</p>\n<p>Como \\(u_z=0\\), <strong>no podemos dividir entre cero</strong>. La tercera coordenada se expresa por separado:</p>\n<p>\\[ \\boxed{ \\begin{cases} \\dfrac{x-1}{-1}=\\dfrac{y+2}{2}\\\\[6pt] z=-1 \\end{cases} } \\]</p>\n<p><strong>4. Ecuaciones cartesianas</strong></p>\n<p>Partimos de:</p>\n<p>\\[ \\frac{x-1}{-1}=\\frac{y+2}{2} \\]</p>\n<p>Multiplicamos en cruz:</p>\n<p>\\[ 2(x-1)=-(y+2) \\]</p>\n<p>Desarrollamos:</p>\n<p>\\[ 2x-2=-y-2 \\]</p>\n<p>Reordenamos:</p>\n<p>\\[ \\boxed{2x+y=0} \\]</p>\n<p>La otra ecuación procede directamente de la coordenada constante:</p>\n<p>\\[ \\boxed{z=-1} \\]</p>\n<p>Así, las ecuaciones cartesianas de la recta son:</p>\n<p>\\[ \\boxed{ r: \\begin{cases} 2x+y=0\\\\ z=-1 \\end{cases} } \\]</p>\n<p><strong>5. Interpretación geométrica</strong></p>\n<p>La ecuación \\(2x+y=0\\) representa un plano de \\(\\mathbb{R}^3\\).</p>\n<p>La ecuación \\(z=-1\\) representa otro plano, paralelo al plano \\(XY\\).</p>\n<p>La recta \\(r\\) es la <strong>intersección de estos dos planos</strong>.</p>\n<p>Por tanto, en \\(\\mathbb{R}^3\\), una recta puede describirse mediante un sistema de dos ecuaciones cartesianas independientes.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw0388vg-qfunk39mx</odePageId>
+      <odeBlockId>block-mw8xc29p-jkbrv59qv</odeBlockId>
+      <blockName>Resumen final</blockName>
+      <iconName>udl_rep_caso</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw0388vg-qfunk39mx</odePageId>
+          <odeBlockId>block-mw8xc29p-jkbrv59qv</odeBlockId>
+          <odeIdeviceId>idevice-1794208364411-jlvlnn8kq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Infografía de ecuaciones de la recta en R³.jpg" title="Ecuaciones de recta" width="1536" height="864" alt="Ecuaciones de recta" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794208364411-jlvlnn8kq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Infografía de ecuaciones de la recta en R³.jpg\" title=\"Ecuaciones de recta\" width=\"1536\" height=\"864\" alt=\"Ecuaciones de recta\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -10879,8 +11772,8 @@ El límite se reduce a comparar las exponenciales dominantes:
     <odePagStructure>
       <odePageId>page-mw038n2u-o7hhtelns</odePageId>
       <odeBlockId>block-mw03brzv-i1jmoata1</odeBlockId>
-      <blockName></blockName>
-      <iconName></iconName>
+      <blockName>Dos rectas</blockName>
+      <iconName>udl_exp_lee</iconName>
       <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -10911,9 +11804,9 @@ El límite se reduce a comparar las exponenciales dominantes:
           <odeIdeviceId>idevice-mw03brzv-bduf2hnqe</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/underconstruction.png" width="600" height="250" alt="" /></p>
+    <p>sdv</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793674178402-6oz6t7d4m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/underconstruction.png\" width=\"600\" height=\"250\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mw03brzv-bduf2hnqe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>sdv</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
