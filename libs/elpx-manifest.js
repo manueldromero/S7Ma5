@@ -235,6 +235,7 @@ window.__ELPX_MANIFEST__={
     "content/resources/Imagen de ChatGPT 2 oct 2026, 09_13_08.jpg",
     "content/resources/Infografía sobre números complejos y plano de Argand-Gauss.jpg",
     "content/resources/Infografía de ecuaciones de la recta en R³.jpg",
+    "content/resources/Ecuaciones del plano en R³.jpg",
     "libs/elpx-manifest.js"
   ],
   "projectTitle": "S7 - Matemáticas 5p"

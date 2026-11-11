@@ -11498,7 +11498,7 @@ El límite se reduce a comparar las exponenciales dominantes:
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>minimized</key>
-          <value>false</value>
+          <value>true</value>
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>cssClass</key>
@@ -11595,10 +11595,125 @@ El límite se reduce a comparar las exponenciales dominantes:
     </odePagStructure>
     <odePagStructure>
       <odePageId>page-mw0388vg-qfunk39mx</odePageId>
+      <odeBlockId>block-mwbullxn-tt9lc0gt2</odeBlockId>
+      <blockName>Caso especial: rectas paralelas a los ejes y a los planos coordenados</blockName>
+      <iconName>udl_exp_lee</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw0388vg-qfunk39mx</odePageId>
+          <odeBlockId>block-mwbullxn-tt9lc0gt2</odeBlockId>
+          <odeIdeviceId>idevice-mwbullxn-jrvp5mkli</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ya sabemos que una componente nula del vector director significa que la coordenada correspondiente permanece constante a lo largo de la recta. Veamos qué ocurre cuando hay una o dos componentes nulas.</p>
+<div class="exe-fx exe-tabs">
+<h2>Rectas paralelas a los ejes</h2>
+<p>Consideremos la recta de \(\mathbb{R}^3\):</p>
+<p>\[ r:\;(x,y,z)=(2,3,1)+\lambda(0,0,1) \qquad\Longrightarrow\qquad \begin{cases} x=2\\ y=3\\ z=1+\lambda \end{cases} \]</p>
+<p>Solo cambia la coordenada \(z\). Sus puntos son \((2,3,0)\), \((2,3,1)\), \((2,3,1000)\)... es decir, \((2,3,\lambda')\) para cualquier valor. Por tanto, <strong>\(r\) es paralela al eje \(Z\)</strong>.</p>
+<p>Como no podemos dividir entre 0, no hay ecuación continua. Sus <strong>ecuaciones cartesianas</strong> son directamente las dos coordenadas constantes (intersección de los planos \(x=2\) y \(y=3\)):</p>
+<p>\[ r:\begin{cases} x=2\\ y=3 \end{cases} \]</p>
+<p>En general, si el vector director tiene <strong>dos componentes nulas</strong>, la recta es paralela a un eje:</p>
+<table style="border-collapse: collapse; margin: 10px auto; text-align: center;">
+<tbody>
+<tr style="background: #f1f1f1;">
+<th style="border: 1px solid #999; padding: 6px 14px;">Vector director</th>
+<th style="border: 1px solid #999; padding: 6px 14px;">Ecuaciones cartesianas</th>
+<th style="border: 1px solid #999; padding: 6px 14px;">Paralela al eje</th>
+</tr>
+<tr>
+<td style="border: 1px solid #999; padding: 6px 14px;">\((a,0,0)\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(y=y_0,\; z=z_0\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(OX\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #999; padding: 6px 14px;">\((0,b,0)\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(x=x_0,\; z=z_0\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(OY\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #999; padding: 6px 14px;">\((0,0,c)\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(x=x_0,\; y=y_0\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(OZ\)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Observación:</strong> si además el punto \(P\) está en el eje, la recta <strong>coincide con el eje</strong>. Por ejemplo, \(x=0,\;y=0\) es el eje \(Z\).</p>
+<h2>Rectas paralelas a los planos coordenados</h2>
+<p>Si solo <strong>una componente</strong> del vector director es nula, la recta es paralela a un plano coordenado. Por ejemplo:</p>
+<p>\[ s:\;(x,y,z)=(1,1,2)+\lambda(1,2,0) \qquad\Longrightarrow\qquad \begin{cases} x=1+\lambda\\ y=1+2\lambda\\ z=2 \end{cases} \]</p>
+<p>La coordenada \(z\) es constante, así que \(s\) está contenida en el plano \(z=2\) y es <strong>paralela al plano \(XY\)</strong>. Su ecuación continua se escribe:</p>
+<p>\[ s:\;\frac{x-1}{1}=\frac{y-1}{2},\qquad z=2 \]</p>
+<table style="border-collapse: collapse; margin: 10px auto; text-align: center;">
+<tbody>
+<tr style="background: #f1f1f1;">
+<th style="border: 1px solid #999; padding: 6px 14px;">Componente nula</th>
+<th style="border: 1px solid #999; padding: 6px 14px;">Coordenada constante</th>
+<th style="border: 1px solid #999; padding: 6px 14px;">Paralela al plano</th>
+</tr>
+<tr>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(u_x=0\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(x=x_0\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(YZ\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(u_y=0\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(y=y_0\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(XZ\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(u_z=0\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(z=z_0\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(XY\)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Representación gráfica</h3>
+<div style="text-align: center; margin-bottom: 15px;"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 600 345" width="100%" style="max-width: 620px; background: #ffffff; border: 1px solid #cccccc; border-radius: 4px;" role="img" aria-label="A la izquierda, recta r paralela al eje Z. A la derecha, recta s paralela al plano XY"> <defs> <marker id="rpFlechaNegra" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#000000"></path></marker> <marker id="rpFlechaRoja" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#d62828"></path></marker> </defs> <!-- Panel izquierdo: r paralela al eje Z --> <g transform="translate(105,225)"> <polygon points="0,0 180,0 92.5,77 -87.5,77" fill="#dbeafe" fill-opacity="0.7" stroke="#aaaaaa" stroke-width="1"></polygon> <line x1="0" y1="0" x2="-98" y2="86" stroke="#000000" stroke-width="1.5" marker-end="url(#rpFlechaNegra)"></line> <line x1="0" y1="0" x2="205" y2="0" stroke="#000000" stroke-width="1.5" marker-end="url(#rpFlechaNegra)"></line> <line x1="0" y1="0" x2="0" y2="-195" stroke="#000000" stroke-width="1.5" marker-end="url(#rpFlechaNegra)"></line> <text x="-114" y="102" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000000">X</text> <text x="210" y="5" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000000">Y</text> <text x="8" y="-190" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000000">Z</text> <polyline points="0,0 -50,44 70,44" fill="none" stroke="#888888" stroke-width="1.5" stroke-dasharray="5,4"></polyline> <line x1="70" y1="62" x2="70" y2="-178" stroke="#d62828" stroke-width="3" marker-end="url(#rpFlechaRoja)"></line> <circle cx="70" cy="44" r="4" fill="#000000"></circle> <circle cx="70" cy="-6" r="4" fill="#000000"></circle> <text x="80" y="56" font-family="Georgia, serif" font-size="14" fill="#000000">(2,3,0)</text> <text x="80" y="-2" font-family="Georgia, serif" font-size="14" fill="#000000">P=(2,3,1)</text> <text x="80" y="-110" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#d62828">r</text> <text x="50" y="112" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#000000">r ∥ eje Z: x=2, y=3</text> </g> <!-- Panel derecho: s paralela al plano XY --> <g transform="translate(405,225)"> <polygon points="0,0 180,0 92.5,77 -87.5,77" fill="#dbeafe" fill-opacity="0.7" stroke="#aaaaaa" stroke-width="1"></polygon> <line x1="0" y1="0" x2="-98" y2="86" stroke="#000000" stroke-width="1.5" marker-end="url(#rpFlechaNegra)"></line> <line x1="0" y1="0" x2="205" y2="0" stroke="#000000" stroke-width="1.5" marker-end="url(#rpFlechaNegra)"></line> <line x1="0" y1="0" x2="0" y2="-195" stroke="#000000" stroke-width="1.5" marker-end="url(#rpFlechaNegra)"></line> <text x="-114" y="102" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000000">X</text> <text x="210" y="5" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000000">Y</text> <text x="8" y="-190" font-family="Georgia, serif" font-size="16" font-style="italic" fill="#000000">Z</text> <line x1="-29" y1="4" x2="136" y2="70" stroke="#888888" stroke-width="1.5" stroke-dasharray="5,4"></line> <line x1="15" y1="22" x2="15" y2="-78" stroke="#888888" stroke-width="1.5" stroke-dasharray="5,4"></line> <line x1="-29" y1="-96" x2="138" y2="-29" stroke="#d62828" stroke-width="3" marker-end="url(#rpFlechaRoja)"></line> <circle cx="15" cy="-78" r="4" fill="#000000"></circle> <text x="-20" y="-104" font-family="Georgia, serif" font-size="14" fill="#000000">P=(1,1,2)</text> <text x="112" y="-52" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#d62828">s</text> <text x="50" y="112" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#000000">s ∥ plano XY: z=2</text> </g> </svg>
+<p><strong>Izquierda:</strong> \(r\) es vertical, paralela a \(Z\), y sobre ella solo cambia la altura. <strong>Derecha:</strong> \(s\) se mantiene a altura constante \(z=2\), paralela a su proyección (discontinua) sobre el plano \(XY\).</p>
+</div>
+<div style="border: 2px solid #c62828; background: #fdecea; border-radius: 8px; padding: 12px 16px; margin: 16px 0;">
+<p style="margin: 0 0 6px 0;"><strong style="color: #c62828;">Idea clave</strong></p>
+<p style="margin: 0;">Dos componentes nulas en el vector director → la recta es <strong>paralela a un eje</strong>. Una componente nula → la recta es <strong>paralela a un plano coordenado</strong>. En ambos casos, cada componente nula indica una coordenada <strong>constante</strong> en las ecuaciones de la recta.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwbullxn-jrvp5mkli","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ya sabemos que una componente nula del vector director significa que la coordenada correspondiente permanece constante a lo largo de la recta. Veamos qué ocurre cuando hay una o dos componentes nulas.</p>\n<div class=\"exe-fx exe-tabs\">\n<h2>Rectas paralelas a los ejes</h2>\n<p>Consideremos la recta de \\(\\mathbb{R}^3\\):</p>\n<p>\\[ r:\\;(x,y,z)=(2,3,1)+\\lambda(0,0,1) \\qquad\\Longrightarrow\\qquad \\begin{cases} x=2\\\\ y=3\\\\ z=1+\\lambda \\end{cases} \\]</p>\n<p>Solo cambia la coordenada \\(z\\). Sus puntos son \\((2,3,0)\\), \\((2,3,1)\\), \\((2,3,1000)\\)... es decir, \\((2,3,\\lambda')\\) para cualquier valor. Por tanto, <strong>\\(r\\) es paralela al eje \\(Z\\)</strong>.</p>\n<p>Como no podemos dividir entre 0, no hay ecuación continua. Sus <strong>ecuaciones cartesianas</strong> son directamente las dos coordenadas constantes (intersección de los planos \\(x=2\\) y \\(y=3\\)):</p>\n<p>\\[ r:\\begin{cases} x=2\\\\ y=3 \\end{cases} \\]</p>\n<p>En general, si el vector director tiene <strong>dos componentes nulas</strong>, la recta es paralela a un eje:</p>\n<table style=\"border-collapse: collapse; margin: 10px auto; text-align: center;\">\n<tbody>\n<tr style=\"background: #f1f1f1;\">\n<th style=\"border: 1px solid #999; padding: 6px 14px;\">Vector director</th>\n<th style=\"border: 1px solid #999; padding: 6px 14px;\">Ecuaciones cartesianas</th>\n<th style=\"border: 1px solid #999; padding: 6px 14px;\">Paralela al eje</th>\n</tr>\n<tr>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\((a,0,0)\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(y=y_0,\\; z=z_0\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(OX\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\((0,b,0)\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(x=x_0,\\; z=z_0\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(OY\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\((0,0,c)\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(x=x_0,\\; y=y_0\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(OZ\\)</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Observación:</strong> si además el punto \\(P\\) está en el eje, la recta <strong>coincide con el eje</strong>. Por ejemplo, \\(x=0,\\;y=0\\) es el eje \\(Z\\).</p>\n<h2>Rectas paralelas a los planos coordenados</h2>\n<p>Si solo <strong>una componente</strong> del vector director es nula, la recta es paralela a un plano coordenado. Por ejemplo:</p>\n<p>\\[ s:\\;(x,y,z)=(1,1,2)+\\lambda(1,2,0) \\qquad\\Longrightarrow\\qquad \\begin{cases} x=1+\\lambda\\\\ y=1+2\\lambda\\\\ z=2 \\end{cases} \\]</p>\n<p>La coordenada \\(z\\) es constante, así que \\(s\\) está contenida en el plano \\(z=2\\) y es <strong>paralela al plano \\(XY\\)</strong>. Su ecuación continua se escribe:</p>\n<p>\\[ s:\\;\\frac{x-1}{1}=\\frac{y-1}{2},\\qquad z=2 \\]</p>\n<table style=\"border-collapse: collapse; margin: 10px auto; text-align: center;\">\n<tbody>\n<tr style=\"background: #f1f1f1;\">\n<th style=\"border: 1px solid #999; padding: 6px 14px;\">Componente nula</th>\n<th style=\"border: 1px solid #999; padding: 6px 14px;\">Coordenada constante</th>\n<th style=\"border: 1px solid #999; padding: 6px 14px;\">Paralela al plano</th>\n</tr>\n<tr>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(u_x=0\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(x=x_0\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(YZ\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(u_y=0\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(y=y_0\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(XZ\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(u_z=0\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(z=z_0\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(XY\\)</td>\n</tr>\n</tbody>\n</table>\n</div>\n<h3>Representación gráfica</h3>\n<div style=\"text-align: center; margin-bottom: 15px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 600 345\" width=\"100%\" style=\"max-width: 620px; background: #ffffff; border: 1px solid #cccccc; border-radius: 4px;\" role=\"img\" aria-label=\"A la izquierda, recta r paralela al eje Z. A la derecha, recta s paralela al plano XY\"> <defs> <marker id=\"rpFlechaNegra\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#000000\"></path></marker> <marker id=\"rpFlechaRoja\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#d62828\"></path></marker> </defs> <!-- Panel izquierdo: r paralela al eje Z --> <g transform=\"translate(105,225)\"> <polygon points=\"0,0 180,0 92.5,77 -87.5,77\" fill=\"#dbeafe\" fill-opacity=\"0.7\" stroke=\"#aaaaaa\" stroke-width=\"1\"></polygon> <line x1=\"0\" y1=\"0\" x2=\"-98\" y2=\"86\" stroke=\"#000000\" stroke-width=\"1.5\" marker-end=\"url(#rpFlechaNegra)\"></line> <line x1=\"0\" y1=\"0\" x2=\"205\" y2=\"0\" stroke=\"#000000\" stroke-width=\"1.5\" marker-end=\"url(#rpFlechaNegra)\"></line> <line x1=\"0\" y1=\"0\" x2=\"0\" y2=\"-195\" stroke=\"#000000\" stroke-width=\"1.5\" marker-end=\"url(#rpFlechaNegra)\"></line> <text x=\"-114\" y=\"102\" font-family=\"Georgia, serif\" font-size=\"16\" font-style=\"italic\" fill=\"#000000\">X</text> <text x=\"210\" y=\"5\" font-family=\"Georgia, serif\" font-size=\"16\" font-style=\"italic\" fill=\"#000000\">Y</text> <text x=\"8\" y=\"-190\" font-family=\"Georgia, serif\" font-size=\"16\" font-style=\"italic\" fill=\"#000000\">Z</text> <polyline points=\"0,0 -50,44 70,44\" fill=\"none\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"5,4\"></polyline> <line x1=\"70\" y1=\"62\" x2=\"70\" y2=\"-178\" stroke=\"#d62828\" stroke-width=\"3\" marker-end=\"url(#rpFlechaRoja)\"></line> <circle cx=\"70\" cy=\"44\" r=\"4\" fill=\"#000000\"></circle> <circle cx=\"70\" cy=\"-6\" r=\"4\" fill=\"#000000\"></circle> <text x=\"80\" y=\"56\" font-family=\"Georgia, serif\" font-size=\"14\" fill=\"#000000\">(2,3,0)</text> <text x=\"80\" y=\"-2\" font-family=\"Georgia, serif\" font-size=\"14\" fill=\"#000000\">P=(2,3,1)</text> <text x=\"80\" y=\"-110\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#d62828\">r</text> <text x=\"50\" y=\"112\" text-anchor=\"middle\" font-family=\"Georgia, serif\" font-size=\"15\" fill=\"#000000\">r ∥ eje Z: x=2, y=3</text> </g> <!-- Panel derecho: s paralela al plano XY --> <g transform=\"translate(405,225)\"> <polygon points=\"0,0 180,0 92.5,77 -87.5,77\" fill=\"#dbeafe\" fill-opacity=\"0.7\" stroke=\"#aaaaaa\" stroke-width=\"1\"></polygon> <line x1=\"0\" y1=\"0\" x2=\"-98\" y2=\"86\" stroke=\"#000000\" stroke-width=\"1.5\" marker-end=\"url(#rpFlechaNegra)\"></line> <line x1=\"0\" y1=\"0\" x2=\"205\" y2=\"0\" stroke=\"#000000\" stroke-width=\"1.5\" marker-end=\"url(#rpFlechaNegra)\"></line> <line x1=\"0\" y1=\"0\" x2=\"0\" y2=\"-195\" stroke=\"#000000\" stroke-width=\"1.5\" marker-end=\"url(#rpFlechaNegra)\"></line> <text x=\"-114\" y=\"102\" font-family=\"Georgia, serif\" font-size=\"16\" font-style=\"italic\" fill=\"#000000\">X</text> <text x=\"210\" y=\"5\" font-family=\"Georgia, serif\" font-size=\"16\" font-style=\"italic\" fill=\"#000000\">Y</text> <text x=\"8\" y=\"-190\" font-family=\"Georgia, serif\" font-size=\"16\" font-style=\"italic\" fill=\"#000000\">Z</text> <line x1=\"-29\" y1=\"4\" x2=\"136\" y2=\"70\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"5,4\"></line> <line x1=\"15\" y1=\"22\" x2=\"15\" y2=\"-78\" stroke=\"#888888\" stroke-width=\"1.5\" stroke-dasharray=\"5,4\"></line> <line x1=\"-29\" y1=\"-96\" x2=\"138\" y2=\"-29\" stroke=\"#d62828\" stroke-width=\"3\" marker-end=\"url(#rpFlechaRoja)\"></line> <circle cx=\"15\" cy=\"-78\" r=\"4\" fill=\"#000000\"></circle> <text x=\"-20\" y=\"-104\" font-family=\"Georgia, serif\" font-size=\"14\" fill=\"#000000\">P=(1,1,2)</text> <text x=\"112\" y=\"-52\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#d62828\">s</text> <text x=\"50\" y=\"112\" text-anchor=\"middle\" font-family=\"Georgia, serif\" font-size=\"15\" fill=\"#000000\">s ∥ plano XY: z=2</text> </g> </svg>\n<p><strong>Izquierda:</strong> \\(r\\) es vertical, paralela a \\(Z\\), y sobre ella solo cambia la altura. <strong>Derecha:</strong> \\(s\\) se mantiene a altura constante \\(z=2\\), paralela a su proyección (discontinua) sobre el plano \\(XY\\).</p>\n</div>\n<div style=\"border: 2px solid #c62828; background: #fdecea; border-radius: 8px; padding: 12px 16px; margin: 16px 0;\">\n<p style=\"margin: 0 0 6px 0;\"><strong style=\"color: #c62828;\">Idea clave</strong></p>\n<p style=\"margin: 0;\">Dos componentes nulas en el vector director → la recta es <strong>paralela a un eje</strong>. Una componente nula → la recta es <strong>paralela a un plano coordenado</strong>. En ambos casos, cada componente nula indica una coordenada <strong>constante</strong> en las ecuaciones de la recta.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw0388vg-qfunk39mx</odePageId>
       <odeBlockId>block-mw8xc29p-jkbrv59qv</odeBlockId>
       <blockName>Resumen final</blockName>
       <iconName>udl_rep_caso</iconName>
-      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureOrder>4</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -11710,9 +11825,16 @@ El límite se reduce a comparar las exponenciales dominantes:
           <odeIdeviceId>idevice-mw03bkky-bxwat69sr</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/underconstruction.png" width="600" height="250" alt="" /></p>
+    <table border="0" style="width: 99.98%;">
+<tbody>
+<tr>
+<td style="width: 50.0101%; text-align: center;"><iframe width="420" height="236" style="border: 0; overflow: hidden;" src="https://mediateca.educa.madrid.org/video/lu6e5afo2961x7go/fs" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></td>
+<td style="width: 50.0101%; text-align: center;"><iframe width="420" height="236" style="border: 0; overflow: hidden;" src="https://mediateca.educa.madrid.org/video/153pqrltmdmqo2af/fs" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></td>
+</tr>
+</tbody>
+</table>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793674178402-6oz6t7d4m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/underconstruction.png\" width=\"600\" height=\"250\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mw03bkky-bxwat69sr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"0\" style=\"width: 99.98%;\">\n<tbody>\n<tr>\n<td style=\"width: 50.0101%; text-align: center;\"><iframe width=\"420\" height=\"236\" style=\"border: 0; overflow: hidden;\" src=\"https://mediateca.educa.madrid.org/video/lu6e5afo2961x7go/fs\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></td>\n<td style=\"width: 50.0101%; text-align: center;\"><iframe width=\"420\" height=\"236\" style=\"border: 0; overflow: hidden;\" src=\"https://mediateca.educa.madrid.org/video/153pqrltmdmqo2af/fs\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"></iframe></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -11727,6 +11849,566 @@ El límite se reduce a comparar las exponenciales dominantes:
               <key>cssClass</key>
               <value></value>
             </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw038fly-lua4zosm3</odePageId>
+      <odeBlockId>block-mwbt41t5-lqp8zktnm</odeBlockId>
+      <blockName>Determinantes</blockName>
+      <iconName>udl_rep_caso</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw038fly-lua4zosm3</odePageId>
+          <odeBlockId>block-mwbt41t5-lqp8zktnm</odeBlockId>
+          <odeIdeviceId>idevice-1794382670630-4jkvxg3hf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-tabs">
+<h2>1. Determinante 2×2</h2>
+<p>Dada una matriz cuadrada de orden 2, su <strong>determinante</strong> se calcula restando el producto de la diagonal secundaria al producto de la diagonal principal:</p>
+<p>\[ \boxed{ \begin{vmatrix} a &amp; b\\ c &amp; d \end{vmatrix} = {\color{#2e9e00}a\cdot d}\;-\;{\color{#e0301e}c\cdot b} } \]</p>
+<ul>
+<li><strong style="color: #2e9e00;">Diagonal principal</strong> (\(a\) y \(d\)): el producto se suma.</li>
+<li><strong style="color: #e0301e;">Diagonal secundaria</strong> (\(c\) y \(b\)): el producto se resta.</li>
+</ul>
+<p><strong>Aplicación a la dependencia lineal:</strong> los vectores \((a,b)\) y \((c,d)\) son <strong>linealmente dependientes</strong> (es decir, proporcionales) si y solo si:</p>
+<p>\[ \boxed{ \begin{vmatrix} a &amp; b\\ c &amp; d \end{vmatrix} = 0 } \]</p>
+<p>Esto es válido tanto si colocamos los vectores por filas como por columnas.</p>
+<p><strong>Ejemplo 1: vectores dependientes</strong></p>
+<p>Consideremos los vectores \((2,4)\) y \((-6,-12)\):</p>
+<p>\[ \begin{vmatrix} 2 &amp; 4\\ -6 &amp; -12 \end{vmatrix} = 2\cdot(-12)-4\cdot(-6) = -24+24 = 0 \]</p>
+<p>El determinante es \(0\), luego \((2,4)\) y \((-6,-12)\) son <strong>linealmente dependientes</strong>. Efectivamente, \((-6,-12) = -3\,(2,4)\).</p>
+<p><strong>Ejemplo 2: vectores independientes</strong></p>
+<p>Consideremos ahora los vectores \((2,4)\) y \((3,5)\):</p>
+<p>\[ \begin{vmatrix} 2 &amp; 4\\ 3 &amp; 5 \end{vmatrix} = 2\cdot5-3\cdot4 = 10-12 = -2 \neq 0 \]</p>
+<p>El determinante es distinto de \(0\), luego \((2,4)\) y \((3,5)\) son <strong>linealmente independientes</strong>.</p>
+<h2>2. Determinante 3×3 (Sarrus)</h2>
+<p>Para una matriz de orden 3 utilizamos la <strong>regla de Sarrus</strong>:</p>
+<ol>
+<li>Escribimos la matriz y, a su derecha, repetimos las dos primeras columnas.</li>
+<li>Sumamos los productos de las tres <strong style="color: #2e9e00;">diagonales descendentes</strong> (de izquierda a derecha).</li>
+<li>Restamos los productos de las tres <strong style="color: #e0301e;">diagonales ascendentes</strong>.</li>
+</ol>
+<div style="overflow-x: auto; text-align: center; margin: 12px 0;">
+<div style="position: relative; display: inline-block; width: 300px; height: 132px; font-family: 'Times New Roman',serif; font-size: 1.25em;"><!-- Matriz -->
+<div style="display: grid; grid-template-columns: repeat(5,60px); grid-template-rows: repeat(3,44px); line-height: 44px; text-align: center;"><span style="border-left: 2px solid #333;"><i>a</i><sub>11</sub></span><span><i>a</i><sub>12</sub></span><span style="border-right: 2px solid #333;"><i>a</i><sub>13</sub></span><span><i>a</i><sub>11</sub></span><span><i>a</i><sub>12</sub></span> <span style="border-left: 2px solid #333;"><i>a</i><sub>21</sub></span><span><i>a</i><sub>22</sub></span><span style="border-right: 2px solid #333;"><i>a</i><sub>23</sub></span><span><i>a</i><sub>21</sub></span><span><i>a</i><sub>22</sub></span> <span style="border-left: 2px solid #333;"><i>a</i><sub>31</sub></span><span><i>a</i><sub>32</sub></span><span style="border-right: 2px solid #333;"><i>a</i><sub>33</sub></span><span><i>a</i><sub>31</sub></span><span><i>a</i><sub>32</sub></span></div>
+<!-- Diagonales --> <svg viewbox="0 0 300 132" width="300" height="132" style="position: absolute; top: 0; left: 0; pointer-events: none;" aria-hidden="true"> <g stroke="#2e9e00" stroke-width="4" stroke-linecap="round" opacity="0.6"> <line x1="18" y1="13" x2="162" y2="119"></line> <line x1="78" y1="13" x2="222" y2="119"></line> <line x1="138" y1="13" x2="282" y2="119"></line> </g> <g stroke="#e0301e" stroke-width="4" stroke-linecap="round" opacity="0.6"> <line x1="18" y1="119" x2="162" y2="13"></line> <line x1="78" y1="119" x2="222" y2="13"></line> <line x1="138" y1="119" x2="282" y2="13"></line> </g> </svg></div>
+<p style="margin: 6px 0 0 0; font-size: 0.95em;"><strong style="color: #2e9e00;">+ Diagonales descendentes (suman)</strong>    <strong style="color: #e0301e;">━ Diagonales ascendentes (restan)</strong></p>
+</div>
+<p>\[ \boxed{ \begin{aligned} \begin{vmatrix} a_{11} &amp; a_{12} &amp; a_{13}\\ a_{21} &amp; a_{22} &amp; a_{23}\\ a_{31} &amp; a_{32} &amp; a_{33} \end{vmatrix} = {}&amp; {\color{#2e9e00}a_{11}a_{22}a_{33}+a_{12}a_{23}a_{31}+a_{13}a_{21}a_{32}}\\ &amp; {\color{#e0301e}-\,a_{13}a_{22}a_{31}-a_{11}a_{23}a_{32}-a_{12}a_{21}a_{33}} \end{aligned} } \]</p>
+<p><strong>Aplicación a la dependencia lineal:</strong> tres vectores de \(\mathbb{R}^3\) (colocados por filas o por columnas) son:</p>
+<ul>
+<li><strong>Linealmente independientes</strong> si el determinante es distinto de \(0\).</li>
+<li><strong>Linealmente dependientes</strong> si el determinante es igual a \(0\).</li>
+</ul>
+<p><strong>Ejemplo 1: vectores independientes</strong></p>
+<p>Sean \(\vec{u}=(1,2,3)\), \(\vec{v}=(4,1,0)\) y \(\vec{w}=(1,0,1)\).</p>
+<p>\[ \begin{array}{|ccc|cc} 1 &amp; 2 &amp; 3 &amp; 1 &amp; 2\\ 4 &amp; 1 &amp; 0 &amp; 4 &amp; 1\\ 1 &amp; 0 &amp; 1 &amp; 1 &amp; 0 \end{array} \]</p>
+<p>\[ \begin{aligned} \begin{vmatrix} 1 &amp; 2 &amp; 3\\ 4 &amp; 1 &amp; 0\\ 1 &amp; 0 &amp; 1 \end{vmatrix} &amp;= {\color{#2e9e00}1\cdot1\cdot1+2\cdot0\cdot1+3\cdot4\cdot0} \;{\color{#e0301e}-\,3\cdot1\cdot1-1\cdot0\cdot0-2\cdot4\cdot1}\\ &amp;= 1-3-8 = -10 \neq 0 \end{aligned} \]</p>
+<p>Como el determinante es distinto de \(0\), \(\vec{u}\), \(\vec{v}\) y \(\vec{w}\) son <strong>linealmente independientes</strong>.</p>
+<p><strong>Ejemplo 2: vectores dependientes</strong></p>
+<p>Sean \(\vec{u}=(2,1,3)\), \(\vec{v}=(-2,1,3)\) y \(\vec{w}=(4,3,9)\).</p>
+<p>\[ \begin{array}{|ccc|cc} 2 &amp; 1 &amp; 3 &amp; 2 &amp; 1\\ -2 &amp; 1 &amp; 3 &amp; -2 &amp; 1\\ 4 &amp; 3 &amp; 9 &amp; 4 &amp; 3 \end{array} \]</p>
+<p>\[ \begin{aligned} \begin{vmatrix} 2 &amp; 1 &amp; 3\\ -2 &amp; 1 &amp; 3\\ 4 &amp; 3 &amp; 9 \end{vmatrix} &amp;= {\color{#2e9e00}2\cdot1\cdot9+1\cdot3\cdot4+3\cdot(-2)\cdot3} \;{\color{#e0301e}-\,3\cdot1\cdot4-2\cdot3\cdot3-1\cdot(-2)\cdot9}\\ &amp;= 18+12-18-12-18+18 = 0 \end{aligned} \]</p>
+<p>El determinante es \(0\), luego \(\vec{u}\), \(\vec{v}\) y \(\vec{w}\) son <strong>linealmente dependientes</strong>. De hecho, uno de ellos es combinación lineal de los otros:</p>
+<p>\[ \vec{w}=\frac{5}{2}\,\vec{u}+\frac{1}{2}\,\vec{v} \]</p>
+</div>
+<div style="border: 2px solid #c62828; background: #fdecea; border-radius: 8px; padding: 12px 16px; margin: 16px 0;">
+<p style="margin: 0 0 6px 0;"><strong style="color: #c62828;">Idea clave</strong></p>
+<p style="margin: 0;">Dados tantos vectores como la dimensión del espacio (2 en \(\mathbb{R}^2\), 3 en \(\mathbb{R}^3\)), colocados por filas o por columnas:</p>
+<ul style="margin: 6px 0 0 0;">
+<li>Si el determinante es <strong>distinto de 0</strong>, los vectores son <strong>linealmente independientes</strong>.</li>
+<li>Si el determinante es <strong>igual a 0</strong>, los vectores son <strong>linealmente dependientes</strong>.</li>
+</ul>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794382670630-4jkvxg3hf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-tabs\">\n<h2>1. Determinante 2×2</h2>\n<p>Dada una matriz cuadrada de orden 2, su <strong>determinante</strong> se calcula restando el producto de la diagonal secundaria al producto de la diagonal principal:</p>\n<p>\\[ \\boxed{ \\begin{vmatrix} a &amp; b\\\\ c &amp; d \\end{vmatrix} = {\\color{#2e9e00}a\\cdot d}\\;-\\;{\\color{#e0301e}c\\cdot b} } \\]</p>\n<ul>\n<li><strong style=\"color: #2e9e00;\">Diagonal principal</strong> (\\(a\\) y \\(d\\)): el producto se suma.</li>\n<li><strong style=\"color: #e0301e;\">Diagonal secundaria</strong> (\\(c\\) y \\(b\\)): el producto se resta.</li>\n</ul>\n<p><strong>Aplicación a la dependencia lineal:</strong> los vectores \\((a,b)\\) y \\((c,d)\\) son <strong>linealmente dependientes</strong> (es decir, proporcionales) si y solo si:</p>\n<p>\\[ \\boxed{ \\begin{vmatrix} a &amp; b\\\\ c &amp; d \\end{vmatrix} = 0 } \\]</p>\n<p>Esto es válido tanto si colocamos los vectores por filas como por columnas.</p>\n<p><strong>Ejemplo 1: vectores dependientes</strong></p>\n<p>Consideremos los vectores \\((2,4)\\) y \\((-6,-12)\\):</p>\n<p>\\[ \\begin{vmatrix} 2 &amp; 4\\\\ -6 &amp; -12 \\end{vmatrix} = 2\\cdot(-12)-4\\cdot(-6) = -24+24 = 0 \\]</p>\n<p>El determinante es \\(0\\), luego \\((2,4)\\) y \\((-6,-12)\\) son <strong>linealmente dependientes</strong>. Efectivamente, \\((-6,-12) = -3\\,(2,4)\\).</p>\n<p><strong>Ejemplo 2: vectores independientes</strong></p>\n<p>Consideremos ahora los vectores \\((2,4)\\) y \\((3,5)\\):</p>\n<p>\\[ \\begin{vmatrix} 2 &amp; 4\\\\ 3 &amp; 5 \\end{vmatrix} = 2\\cdot5-3\\cdot4 = 10-12 = -2 \\neq 0 \\]</p>\n<p>El determinante es distinto de \\(0\\), luego \\((2,4)\\) y \\((3,5)\\) son <strong>linealmente independientes</strong>.</p>\n<h2>2. Determinante 3×3 (Sarrus)</h2>\n<p>Para una matriz de orden 3 utilizamos la <strong>regla de Sarrus</strong>:</p>\n<ol>\n<li>Escribimos la matriz y, a su derecha, repetimos las dos primeras columnas.</li>\n<li>Sumamos los productos de las tres <strong style=\"color: #2e9e00;\">diagonales descendentes</strong> (de izquierda a derecha).</li>\n<li>Restamos los productos de las tres <strong style=\"color: #e0301e;\">diagonales ascendentes</strong>.</li>\n</ol>\n<div style=\"overflow-x: auto; text-align: center; margin: 12px 0;\">\n<div style=\"position: relative; display: inline-block; width: 300px; height: 132px; font-family: 'Times New Roman',serif; font-size: 1.25em;\"><!-- Matriz -->\n<div style=\"display: grid; grid-template-columns: repeat(5,60px); grid-template-rows: repeat(3,44px); line-height: 44px; text-align: center;\"><span style=\"border-left: 2px solid #333;\"><i>a</i><sub>11</sub></span><span><i>a</i><sub>12</sub></span><span style=\"border-right: 2px solid #333;\"><i>a</i><sub>13</sub></span><span><i>a</i><sub>11</sub></span><span><i>a</i><sub>12</sub></span> <span style=\"border-left: 2px solid #333;\"><i>a</i><sub>21</sub></span><span><i>a</i><sub>22</sub></span><span style=\"border-right: 2px solid #333;\"><i>a</i><sub>23</sub></span><span><i>a</i><sub>21</sub></span><span><i>a</i><sub>22</sub></span> <span style=\"border-left: 2px solid #333;\"><i>a</i><sub>31</sub></span><span><i>a</i><sub>32</sub></span><span style=\"border-right: 2px solid #333;\"><i>a</i><sub>33</sub></span><span><i>a</i><sub>31</sub></span><span><i>a</i><sub>32</sub></span></div>\n<!-- Diagonales --> <svg viewbox=\"0 0 300 132\" width=\"300\" height=\"132\" style=\"position: absolute; top: 0; left: 0; pointer-events: none;\" aria-hidden=\"true\"> <g stroke=\"#2e9e00\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.6\"> <line x1=\"18\" y1=\"13\" x2=\"162\" y2=\"119\"></line> <line x1=\"78\" y1=\"13\" x2=\"222\" y2=\"119\"></line> <line x1=\"138\" y1=\"13\" x2=\"282\" y2=\"119\"></line> </g> <g stroke=\"#e0301e\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.6\"> <line x1=\"18\" y1=\"119\" x2=\"162\" y2=\"13\"></line> <line x1=\"78\" y1=\"119\" x2=\"222\" y2=\"13\"></line> <line x1=\"138\" y1=\"119\" x2=\"282\" y2=\"13\"></line> </g> </svg></div>\n<p style=\"margin: 6px 0 0 0; font-size: 0.95em;\"><strong style=\"color: #2e9e00;\">+ Diagonales descendentes (suman)</strong>    <strong style=\"color: #e0301e;\">━ Diagonales ascendentes (restan)</strong></p>\n</div>\n<p>\\[ \\boxed{ \\begin{aligned} \\begin{vmatrix} a_{11} &amp; a_{12} &amp; a_{13}\\\\ a_{21} &amp; a_{22} &amp; a_{23}\\\\ a_{31} &amp; a_{32} &amp; a_{33} \\end{vmatrix} = {}&amp; {\\color{#2e9e00}a_{11}a_{22}a_{33}+a_{12}a_{23}a_{31}+a_{13}a_{21}a_{32}}\\\\ &amp; {\\color{#e0301e}-\\,a_{13}a_{22}a_{31}-a_{11}a_{23}a_{32}-a_{12}a_{21}a_{33}} \\end{aligned} } \\]</p>\n<p><strong>Aplicación a la dependencia lineal:</strong> tres vectores de \\(\\mathbb{R}^3\\) (colocados por filas o por columnas) son:</p>\n<ul>\n<li><strong>Linealmente independientes</strong> si el determinante es distinto de \\(0\\).</li>\n<li><strong>Linealmente dependientes</strong> si el determinante es igual a \\(0\\).</li>\n</ul>\n<p><strong>Ejemplo 1: vectores independientes</strong></p>\n<p>Sean \\(\\vec{u}=(1,2,3)\\), \\(\\vec{v}=(4,1,0)\\) y \\(\\vec{w}=(1,0,1)\\).</p>\n<p>\\[ \\begin{array}{|ccc|cc} 1 &amp; 2 &amp; 3 &amp; 1 &amp; 2\\\\ 4 &amp; 1 &amp; 0 &amp; 4 &amp; 1\\\\ 1 &amp; 0 &amp; 1 &amp; 1 &amp; 0 \\end{array} \\]</p>\n<p>\\[ \\begin{aligned} \\begin{vmatrix} 1 &amp; 2 &amp; 3\\\\ 4 &amp; 1 &amp; 0\\\\ 1 &amp; 0 &amp; 1 \\end{vmatrix} &amp;= {\\color{#2e9e00}1\\cdot1\\cdot1+2\\cdot0\\cdot1+3\\cdot4\\cdot0} \\;{\\color{#e0301e}-\\,3\\cdot1\\cdot1-1\\cdot0\\cdot0-2\\cdot4\\cdot1}\\\\ &amp;= 1-3-8 = -10 \\neq 0 \\end{aligned} \\]</p>\n<p>Como el determinante es distinto de \\(0\\), \\(\\vec{u}\\), \\(\\vec{v}\\) y \\(\\vec{w}\\) son <strong>linealmente independientes</strong>.</p>\n<p><strong>Ejemplo 2: vectores dependientes</strong></p>\n<p>Sean \\(\\vec{u}=(2,1,3)\\), \\(\\vec{v}=(-2,1,3)\\) y \\(\\vec{w}=(4,3,9)\\).</p>\n<p>\\[ \\begin{array}{|ccc|cc} 2 &amp; 1 &amp; 3 &amp; 2 &amp; 1\\\\ -2 &amp; 1 &amp; 3 &amp; -2 &amp; 1\\\\ 4 &amp; 3 &amp; 9 &amp; 4 &amp; 3 \\end{array} \\]</p>\n<p>\\[ \\begin{aligned} \\begin{vmatrix} 2 &amp; 1 &amp; 3\\\\ -2 &amp; 1 &amp; 3\\\\ 4 &amp; 3 &amp; 9 \\end{vmatrix} &amp;= {\\color{#2e9e00}2\\cdot1\\cdot9+1\\cdot3\\cdot4+3\\cdot(-2)\\cdot3} \\;{\\color{#e0301e}-\\,3\\cdot1\\cdot4-2\\cdot3\\cdot3-1\\cdot(-2)\\cdot9}\\\\ &amp;= 18+12-18-12-18+18 = 0 \\end{aligned} \\]</p>\n<p>El determinante es \\(0\\), luego \\(\\vec{u}\\), \\(\\vec{v}\\) y \\(\\vec{w}\\) son <strong>linealmente dependientes</strong>. De hecho, uno de ellos es combinación lineal de los otros:</p>\n<p>\\[ \\vec{w}=\\frac{5}{2}\\,\\vec{u}+\\frac{1}{2}\\,\\vec{v} \\]</p>\n</div>\n<div style=\"border: 2px solid #c62828; background: #fdecea; border-radius: 8px; padding: 12px 16px; margin: 16px 0;\">\n<p style=\"margin: 0 0 6px 0;\"><strong style=\"color: #c62828;\">Idea clave</strong></p>\n<p style=\"margin: 0;\">Dados tantos vectores como la dimensión del espacio (2 en \\(\\mathbb{R}^2\\), 3 en \\(\\mathbb{R}^3\\)), colocados por filas o por columnas:</p>\n<ul style=\"margin: 6px 0 0 0;\">\n<li>Si el determinante es <strong>distinto de 0</strong>, los vectores son <strong>linealmente independientes</strong>.</li>\n<li>Si el determinante es <strong>igual a 0</strong>, los vectores son <strong>linealmente dependientes</strong>.</li>\n</ul>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw038fly-lua4zosm3</odePageId>
+      <odeBlockId>block-mwbtpulq-500vw4g7u</odeBlockId>
+      <blockName>Ecuaciones de un plano</blockName>
+      <iconName>udl_exp_lee</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw038fly-lua4zosm3</odePageId>
+          <odeBlockId>block-mwbtpulq-500vw4g7u</odeBlockId>
+          <odeIdeviceId>idevice-1794383687725-gqgsrhv7p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En \(\mathbb{R}^3\), además de rectas, podemos describir <strong>planos</strong>. Un plano es una superficie "plana" que se extiende indefinidamente en dos direcciones, y sus ecuaciones generalizan las de la recta.</p>
+<div style="text-align: center; margin-bottom: 15px;"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 560 420" width="100%" style="max-width: 580px; background: #ffffff; border: 1px solid #cccccc; border-radius: 4px;" role="img" aria-label="Plano π que pasa por P con vectores directores u y v: X = P + λ·u + μ·v"> <defs> <marker id="pFlechaAzul" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#1d4ed8"></path></marker> <marker id="pFlechaRoja" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#d62828"></path></marker> <marker id="pFlechaMorada" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#7c3aed"></path></marker> <marker id="pFlechaVerde" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#2e9e1f"></path></marker> <marker id="pFlechaNaranja" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#e07b00"></path></marker> <marker id="pFlechaNegra" markerwidth="10" markerheight="8" refx="9" refy="4" orient="auto"><path d="M0,0 L10,4 L0,8 Z" fill="#000000"></path></marker> </defs> <text x="280" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#000000">X = P + λ·u + μ·v, λ, μ ∈ ℝ</text> <!-- Plano π --> <polygon points="70,310 420,310 520,170 170,170" fill="#dbeafe" fill-opacity="0.7" stroke="#888888" stroke-width="1.5"></polygon> <text x="392" y="298" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#555555">π</text> <!-- Vector OX (negro, discontinuo) --> <line x1="60" y1="385" x2="411" y2="192" stroke="#000000" stroke-width="2" stroke-dasharray="6,5" marker-end="url(#pFlechaNegra)"></line> <!-- Vector de posición OP (azul) --> <line x1="60" y1="385" x2="198" y2="263" stroke="#1d4ed8" stroke-width="3" marker-end="url(#pFlechaAzul)"></line> <!-- λ·u (verde) --> <line x1="200" y1="260" x2="363" y2="260" stroke="#2e9e1f" stroke-width="3" marker-end="url(#pFlechaVerde)"></line> <!-- μ·v (naranja) --> <line x1="365" y1="260" x2="413" y2="193" stroke="#e07b00" stroke-width="3" marker-end="url(#pFlechaNaranja)"></line> <!-- u (rojo) --> <line x1="200" y1="260" x2="310" y2="260" stroke="#d62828" stroke-width="4" marker-end="url(#pFlechaRoja)"></line> <!-- v (morado) --> <line x1="200" y1="260" x2="249" y2="192" stroke="#7c3aed" stroke-width="4" marker-end="url(#pFlechaMorada)"></line> <!-- Puntos --> <circle cx="60" cy="385" r="4" fill="#000000"></circle> <circle cx="200" cy="260" r="4" fill="#000000"></circle> <circle cx="415" cy="190" r="4" fill="#000000"></circle> <!-- Etiquetas --> <text x="38" y="392" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#000000">O</text> <text x="180" y="278" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#000000">P</text> <text x="424" y="186" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#000000">X</text> <text x="92" y="322" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#1d4ed8">OP</text> <text x="252" y="282" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#d62828">u</text> <text x="176" y="222" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#7c3aed">v</text> <text x="318" y="282" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#2e9e1f">λ·u</text> <text x="392" y="246" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#e07b00">μ·v</text> <text x="215" y="350" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#000000">OX</text> </svg>
+<p>Todo punto <strong>X</strong> del plano se alcanza partiendo de <strong>O</strong>, yendo hasta <strong>P</strong> y avanzando después un múltiplo <strong>λ·u</strong> del primer vector director y un múltiplo <strong>μ·v</strong> del segundo.</p>
+</div>
+<div class="exe-fx exe-tabs">
+<h2>1. El plano: idea geométrica</h2>
+<p>Para determinar un plano necesitamos:</p>
+<ul>
+<li>Un <strong>punto de posición</strong> \(P\), por el que pasa el plano.</li>
+<li>Dos <strong>vectores directores</strong> \(\vec{u}\) y \(\vec{v}\) <strong>linealmente independientes</strong>, que indican las dos direcciones del plano.</li>
+</ul>
+<p>La idea fundamental es que, si \(X\) es cualquier punto del plano, el vector \(\overrightarrow{PX}\) es combinación lineal de \(\vec{u}\) y \(\vec{v}\).</p>
+<p>Por tanto, existen dos números reales \(\lambda\) y \(\mu\) tales que:</p>
+<p>\[ \boxed{\overrightarrow{PX}=\lambda\vec{u}+\mu\vec{v}} \]</p>
+<p>Escribiendo como suma:</p>
+<p>\[ \overrightarrow{OX} = \overrightarrow{OP}+\overrightarrow{PX} \]</p>
+<p>Obtenemos:</p>
+<p>\[ \boxed{ \overrightarrow{OX} = \overrightarrow{OP}+\lambda\vec{u}+\mu\vec{v}, \qquad \lambda,\mu\in\mathbb{R} } \]</p>
+<p>Esta es la <strong>ecuación vectorial del plano</strong>.</p>
+<p>Al variar \(\lambda\) y \(\mu\), recorremos todos los puntos del plano. Si \(\lambda=\mu=0\), obtenemos el punto \(P\).</p>
+<p><strong>¿Por qué necesitamos que \(\vec{u}\) y \(\vec{v}\) sean independientes?</strong> Si fueran proporcionales, solo tendríamos una dirección y la expresión describiría una recta, no un plano.</p>
+<p><strong>Conexión con los espacios vectoriales:</strong> las combinaciones lineales de \(\vec{u}\) y \(\vec{v}\) forman el subespacio vectorial \(\langle\vec{u},\vec{v}\rangle\), que es un plano que pasa por el origen. Al sumar el vector de posición de \(P\), trasladamos ese plano.</p>
+<p>\[ \pi=\overrightarrow{OP}+\langle\vec{u},\vec{v}\rangle \]</p>
+<p>El plano resultante no tiene por qué pasar por el origen y, en general, no es un subespacio vectorial.</p>
+<h2>2. Ec. vectorial y paramétricas</h2>
+<p>Consideremos un punto \(P\) y dos vectores directores \(\vec{u}\) y \(\vec{v}\) linealmente independientes:</p>
+<p>\[ P=(x_0,y_0,z_0),\qquad \vec{u}=(u_1,u_2,u_3),\qquad \vec{v}=(v_1,v_2,v_3) \]</p>
+<p>La ecuación vectorial es:</p>
+<p>\[ \boxed{ (x,y,z)=(x_0,y_0,z_0)+\lambda(u_1,u_2,u_3)+\mu(v_1,v_2,v_3) } \]</p>
+<p>Igualando las componentes, obtenemos las <strong>ecuaciones paramétricas</strong>:</p>
+<p>\[ \boxed{ \begin{cases} x=x_0+\lambda u_1+\mu v_1\\ y=y_0+\lambda u_2+\mu v_2\\ z=z_0+\lambda u_3+\mu v_3 \end{cases} \qquad \lambda,\mu\in\mathbb{R} } \]</p>
+<p><strong>Observación:</strong> a diferencia de la recta, ahora hay <strong>dos parámetros</strong>, \(\lambda\) y \(\mu\), compartidos por las tres ecuaciones. Cada pareja \((\lambda,\mu)\) da un punto distinto del plano.</p>
+<p><strong>Comprobación de la independencia:</strong> \(\vec{u}\) y \(\vec{v}\) son independientes si no son proporcionales, es decir, si la matriz con sus componentes tiene al menos un menor 2×2 distinto de cero:</p>
+<p>\[ \begin{vmatrix} u_1 &amp; u_2\\ v_1 &amp; v_2 \end{vmatrix}\neq0 \quad\text{o}\quad \begin{vmatrix} u_1 &amp; u_3\\ v_1 &amp; v_3 \end{vmatrix}\neq0 \quad\text{o}\quad \begin{vmatrix} u_2 &amp; u_3\\ v_2 &amp; v_3 \end{vmatrix}\neq0 \]</p>
+<h2>3. Ecuación general</h2>
+<p>Un punto \(X=(x,y,z)\) pertenece al plano si y solo si los vectores \(\overrightarrow{PX}\), \(\vec{u}\) y \(\vec{v}\) son <strong>linealmente dependientes</strong> (están en el mismo plano). En \(\mathbb{R}^3\), esto equivale a que su determinante sea cero:</p>
+<p>\[ \boxed{ \begin{vmatrix} x-x_0 &amp; y-y_0 &amp; z-z_0\\ u_1 &amp; u_2 &amp; u_3\\ v_1 &amp; v_2 &amp; v_3 \end{vmatrix}=0 } \]</p>
+<p>Desarrollando por la primera fila:</p>
+<p>\[ (x-x_0)\begin{vmatrix} u_2 &amp; u_3\\ v_2 &amp; v_3 \end{vmatrix} -(y-y_0)\begin{vmatrix} u_1 &amp; u_3\\ v_1 &amp; v_3 \end{vmatrix} +(z-z_0)\begin{vmatrix} u_1 &amp; u_2\\ v_1 &amp; v_2 \end{vmatrix}=0 \]</p>
+<p>Agrupando términos obtenemos la <strong>ecuación general (o cartesiana) del plano</strong>:</p>
+<p>\[ \boxed{Ax+By+Cz+D=0} \]</p>
+<p>con \((A,B,C)\neq(0,0,0)\), donde:</p>
+<p>\[ A=u_2v_3-u_3v_2,\qquad B=u_3v_1-u_1v_3,\qquad C=u_1v_2-u_2v_1 \]</p>
+<p>\[ D=-(Ax_0+By_0+Cz_0) \]</p>
+<p><strong>Vector normal:</strong> el vector \(\vec{n}=(A,B,C)\) es perpendicular al plano (y por tanto a \(\vec{u}\) y a \(\vec{v}\)). Sus componentes son los coeficientes de \(x\), \(y\), \(z\) en la ecuación general.</p>
+<p><strong>Ejemplo:</strong> plano que pasa por \(P=(1,0,2)\) con \(\vec{u}=(1,1,0)\) y \(\vec{v}=(0,1,1)\).</p>
+<p>\[ \begin{vmatrix} x-1 &amp; y &amp; z-2\\ 1 &amp; 1 &amp; 0\\ 0 &amp; 1 &amp; 1 \end{vmatrix} =(x-1)\cdot1-y\cdot1+(z-2)\cdot1=0 \]</p>
+<p>\[ \boxed{x-y+z-3=0} \]</p>
+<p>Comprobamos que \(P\) cumple la ecuación: \(1-0+2-3=0\). ✓</p>
+<p><strong>Conexión con las ecuaciones paramétricas:</strong> si partimos de la ecuación general, tenemos una ecuación con tres incógnitas, luego dos de ellas pueden elegirse libremente. Esas dos variables libres son precisamente los parámetros \(\lambda\) y \(\mu\).</p>
+<h2>4. Resumen</h2>
+<p>Un plano queda determinado por un punto \(P=(x_0,y_0,z_0)\) y dos vectores directores linealmente independientes \(\vec{u}=(u_1,u_2,u_3)\) y \(\vec{v}=(v_1,v_2,v_3)\).</p>
+<p><strong>Ecuación vectorial:</strong></p>
+<p>\[ \boxed{ (x,y,z)=(x_0,y_0,z_0)+\lambda(u_1,u_2,u_3)+\mu(v_1,v_2,v_3) } \]</p>
+<p><strong>Ecuaciones paramétricas:</strong></p>
+<p>\[ \boxed{ \begin{cases} x=x_0+\lambda u_1+\mu v_1\\ y=y_0+\lambda u_2+\mu v_2\\ z=z_0+\lambda u_3+\mu v_3 \end{cases} } \]</p>
+<p><strong>Ecuación general:</strong></p>
+<p>\[ \boxed{ \begin{vmatrix} x-x_0 &amp; y-y_0 &amp; z-z_0\\ u_1 &amp; u_2 &amp; u_3\\ v_1 &amp; v_2 &amp; v_3 \end{vmatrix}=0 \quad\Longrightarrow\quad Ax+By+Cz+D=0 } \]</p>
+<p>El vector \(\vec{n}=(A,B,C)\) es normal al plano.</p>
+</div>
+<div style="border: 2px solid #c62828; background: #fdecea; border-radius: 8px; padding: 12px 16px; margin: 16px 0;">
+<p style="margin: 0 0 6px 0;"><strong style="color: #c62828;">Idea clave</strong></p>
+<p style="margin: 0;">En \(\mathbb{R}^3\), un plano necesita <strong>dos parámetros</strong> en forma paramétrica (dos vectores directores independientes) y <strong>una sola ecuación</strong> en forma general. Una recta, en cambio, necesita un parámetro o dos ecuaciones.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794383687725-gqgsrhv7p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En \\(\\mathbb{R}^3\\), además de rectas, podemos describir <strong>planos</strong>. Un plano es una superficie \"plana\" que se extiende indefinidamente en dos direcciones, y sus ecuaciones generalizan las de la recta.</p>\n<div style=\"text-align: center; margin-bottom: 15px;\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 560 420\" width=\"100%\" style=\"max-width: 580px; background: #ffffff; border: 1px solid #cccccc; border-radius: 4px;\" role=\"img\" aria-label=\"Plano π que pasa por P con vectores directores u y v: X = P + λ·u + μ·v\"> <defs> <marker id=\"pFlechaAzul\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#1d4ed8\"></path></marker> <marker id=\"pFlechaRoja\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#d62828\"></path></marker> <marker id=\"pFlechaMorada\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#7c3aed\"></path></marker> <marker id=\"pFlechaVerde\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#2e9e1f\"></path></marker> <marker id=\"pFlechaNaranja\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#e07b00\"></path></marker> <marker id=\"pFlechaNegra\" markerwidth=\"10\" markerheight=\"8\" refx=\"9\" refy=\"4\" orient=\"auto\"><path d=\"M0,0 L10,4 L0,8 Z\" fill=\"#000000\"></path></marker> </defs> <text x=\"280\" y=\"30\" text-anchor=\"middle\" font-family=\"Georgia, serif\" font-size=\"20\" fill=\"#000000\">X = P + λ·u + μ·v, λ, μ ∈ ℝ</text> <!-- Plano π --> <polygon points=\"70,310 420,310 520,170 170,170\" fill=\"#dbeafe\" fill-opacity=\"0.7\" stroke=\"#888888\" stroke-width=\"1.5\"></polygon> <text x=\"392\" y=\"298\" font-family=\"Georgia, serif\" font-size=\"20\" font-style=\"italic\" fill=\"#555555\">π</text> <!-- Vector OX (negro, discontinuo) --> <line x1=\"60\" y1=\"385\" x2=\"411\" y2=\"192\" stroke=\"#000000\" stroke-width=\"2\" stroke-dasharray=\"6,5\" marker-end=\"url(#pFlechaNegra)\"></line> <!-- Vector de posición OP (azul) --> <line x1=\"60\" y1=\"385\" x2=\"198\" y2=\"263\" stroke=\"#1d4ed8\" stroke-width=\"3\" marker-end=\"url(#pFlechaAzul)\"></line> <!-- λ·u (verde) --> <line x1=\"200\" y1=\"260\" x2=\"363\" y2=\"260\" stroke=\"#2e9e1f\" stroke-width=\"3\" marker-end=\"url(#pFlechaVerde)\"></line> <!-- μ·v (naranja) --> <line x1=\"365\" y1=\"260\" x2=\"413\" y2=\"193\" stroke=\"#e07b00\" stroke-width=\"3\" marker-end=\"url(#pFlechaNaranja)\"></line> <!-- u (rojo) --> <line x1=\"200\" y1=\"260\" x2=\"310\" y2=\"260\" stroke=\"#d62828\" stroke-width=\"4\" marker-end=\"url(#pFlechaRoja)\"></line> <!-- v (morado) --> <line x1=\"200\" y1=\"260\" x2=\"249\" y2=\"192\" stroke=\"#7c3aed\" stroke-width=\"4\" marker-end=\"url(#pFlechaMorada)\"></line> <!-- Puntos --> <circle cx=\"60\" cy=\"385\" r=\"4\" fill=\"#000000\"></circle> <circle cx=\"200\" cy=\"260\" r=\"4\" fill=\"#000000\"></circle> <circle cx=\"415\" cy=\"190\" r=\"4\" fill=\"#000000\"></circle> <!-- Etiquetas --> <text x=\"38\" y=\"392\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#000000\">O</text> <text x=\"180\" y=\"278\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#000000\">P</text> <text x=\"424\" y=\"186\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#000000\">X</text> <text x=\"92\" y=\"322\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#1d4ed8\">OP</text> <text x=\"252\" y=\"282\" font-family=\"Georgia, serif\" font-size=\"20\" font-style=\"italic\" fill=\"#d62828\">u</text> <text x=\"176\" y=\"222\" font-family=\"Georgia, serif\" font-size=\"20\" font-style=\"italic\" fill=\"#7c3aed\">v</text> <text x=\"318\" y=\"282\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#2e9e1f\">λ·u</text> <text x=\"392\" y=\"246\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#e07b00\">μ·v</text> <text x=\"215\" y=\"350\" font-family=\"Georgia, serif\" font-size=\"18\" font-style=\"italic\" fill=\"#000000\">OX</text> </svg>\n<p>Todo punto <strong>X</strong> del plano se alcanza partiendo de <strong>O</strong>, yendo hasta <strong>P</strong> y avanzando después un múltiplo <strong>λ·u</strong> del primer vector director y un múltiplo <strong>μ·v</strong> del segundo.</p>\n</div>\n<div class=\"exe-fx exe-tabs\">\n<h2>1. El plano: idea geométrica</h2>\n<p>Para determinar un plano necesitamos:</p>\n<ul>\n<li>Un <strong>punto de posición</strong> \\(P\\), por el que pasa el plano.</li>\n<li>Dos <strong>vectores directores</strong> \\(\\vec{u}\\) y \\(\\vec{v}\\) <strong>linealmente independientes</strong>, que indican las dos direcciones del plano.</li>\n</ul>\n<p>La idea fundamental es que, si \\(X\\) es cualquier punto del plano, el vector \\(\\overrightarrow{PX}\\) es combinación lineal de \\(\\vec{u}\\) y \\(\\vec{v}\\).</p>\n<p>Por tanto, existen dos números reales \\(\\lambda\\) y \\(\\mu\\) tales que:</p>\n<p>\\[ \\boxed{\\overrightarrow{PX}=\\lambda\\vec{u}+\\mu\\vec{v}} \\]</p>\n<p>Escribiendo como suma:</p>\n<p>\\[ \\overrightarrow{OX} = \\overrightarrow{OP}+\\overrightarrow{PX} \\]</p>\n<p>Obtenemos:</p>\n<p>\\[ \\boxed{ \\overrightarrow{OX} = \\overrightarrow{OP}+\\lambda\\vec{u}+\\mu\\vec{v}, \\qquad \\lambda,\\mu\\in\\mathbb{R} } \\]</p>\n<p>Esta es la <strong>ecuación vectorial del plano</strong>.</p>\n<p>Al variar \\(\\lambda\\) y \\(\\mu\\), recorremos todos los puntos del plano. Si \\(\\lambda=\\mu=0\\), obtenemos el punto \\(P\\).</p>\n<p><strong>¿Por qué necesitamos que \\(\\vec{u}\\) y \\(\\vec{v}\\) sean independientes?</strong> Si fueran proporcionales, solo tendríamos una dirección y la expresión describiría una recta, no un plano.</p>\n<p><strong>Conexión con los espacios vectoriales:</strong> las combinaciones lineales de \\(\\vec{u}\\) y \\(\\vec{v}\\) forman el subespacio vectorial \\(\\langle\\vec{u},\\vec{v}\\rangle\\), que es un plano que pasa por el origen. Al sumar el vector de posición de \\(P\\), trasladamos ese plano.</p>\n<p>\\[ \\pi=\\overrightarrow{OP}+\\langle\\vec{u},\\vec{v}\\rangle \\]</p>\n<p>El plano resultante no tiene por qué pasar por el origen y, en general, no es un subespacio vectorial.</p>\n<h2>2. Ec. vectorial y paramétricas</h2>\n<p>Consideremos un punto \\(P\\) y dos vectores directores \\(\\vec{u}\\) y \\(\\vec{v}\\) linealmente independientes:</p>\n<p>\\[ P=(x_0,y_0,z_0),\\qquad \\vec{u}=(u_1,u_2,u_3),\\qquad \\vec{v}=(v_1,v_2,v_3) \\]</p>\n<p>La ecuación vectorial es:</p>\n<p>\\[ \\boxed{ (x,y,z)=(x_0,y_0,z_0)+\\lambda(u_1,u_2,u_3)+\\mu(v_1,v_2,v_3) } \\]</p>\n<p>Igualando las componentes, obtenemos las <strong>ecuaciones paramétricas</strong>:</p>\n<p>\\[ \\boxed{ \\begin{cases} x=x_0+\\lambda u_1+\\mu v_1\\\\ y=y_0+\\lambda u_2+\\mu v_2\\\\ z=z_0+\\lambda u_3+\\mu v_3 \\end{cases} \\qquad \\lambda,\\mu\\in\\mathbb{R} } \\]</p>\n<p><strong>Observación:</strong> a diferencia de la recta, ahora hay <strong>dos parámetros</strong>, \\(\\lambda\\) y \\(\\mu\\), compartidos por las tres ecuaciones. Cada pareja \\((\\lambda,\\mu)\\) da un punto distinto del plano.</p>\n<p><strong>Comprobación de la independencia:</strong> \\(\\vec{u}\\) y \\(\\vec{v}\\) son independientes si no son proporcionales, es decir, si la matriz con sus componentes tiene al menos un menor 2×2 distinto de cero:</p>\n<p>\\[ \\begin{vmatrix} u_1 &amp; u_2\\\\ v_1 &amp; v_2 \\end{vmatrix}\\neq0 \\quad\\text{o}\\quad \\begin{vmatrix} u_1 &amp; u_3\\\\ v_1 &amp; v_3 \\end{vmatrix}\\neq0 \\quad\\text{o}\\quad \\begin{vmatrix} u_2 &amp; u_3\\\\ v_2 &amp; v_3 \\end{vmatrix}\\neq0 \\]</p>\n<h2>3. Ecuación general</h2>\n<p>Un punto \\(X=(x,y,z)\\) pertenece al plano si y solo si los vectores \\(\\overrightarrow{PX}\\), \\(\\vec{u}\\) y \\(\\vec{v}\\) son <strong>linealmente dependientes</strong> (están en el mismo plano). En \\(\\mathbb{R}^3\\), esto equivale a que su determinante sea cero:</p>\n<p>\\[ \\boxed{ \\begin{vmatrix} x-x_0 &amp; y-y_0 &amp; z-z_0\\\\ u_1 &amp; u_2 &amp; u_3\\\\ v_1 &amp; v_2 &amp; v_3 \\end{vmatrix}=0 } \\]</p>\n<p>Desarrollando por la primera fila:</p>\n<p>\\[ (x-x_0)\\begin{vmatrix} u_2 &amp; u_3\\\\ v_2 &amp; v_3 \\end{vmatrix} -(y-y_0)\\begin{vmatrix} u_1 &amp; u_3\\\\ v_1 &amp; v_3 \\end{vmatrix} +(z-z_0)\\begin{vmatrix} u_1 &amp; u_2\\\\ v_1 &amp; v_2 \\end{vmatrix}=0 \\]</p>\n<p>Agrupando términos obtenemos la <strong>ecuación general (o cartesiana) del plano</strong>:</p>\n<p>\\[ \\boxed{Ax+By+Cz+D=0} \\]</p>\n<p>con \\((A,B,C)\\neq(0,0,0)\\), donde:</p>\n<p>\\[ A=u_2v_3-u_3v_2,\\qquad B=u_3v_1-u_1v_3,\\qquad C=u_1v_2-u_2v_1 \\]</p>\n<p>\\[ D=-(Ax_0+By_0+Cz_0) \\]</p>\n<p><strong>Vector normal:</strong> el vector \\(\\vec{n}=(A,B,C)\\) es perpendicular al plano (y por tanto a \\(\\vec{u}\\) y a \\(\\vec{v}\\)). Sus componentes son los coeficientes de \\(x\\), \\(y\\), \\(z\\) en la ecuación general.</p>\n<p><strong>Ejemplo:</strong> plano que pasa por \\(P=(1,0,2)\\) con \\(\\vec{u}=(1,1,0)\\) y \\(\\vec{v}=(0,1,1)\\).</p>\n<p>\\[ \\begin{vmatrix} x-1 &amp; y &amp; z-2\\\\ 1 &amp; 1 &amp; 0\\\\ 0 &amp; 1 &amp; 1 \\end{vmatrix} =(x-1)\\cdot1-y\\cdot1+(z-2)\\cdot1=0 \\]</p>\n<p>\\[ \\boxed{x-y+z-3=0} \\]</p>\n<p>Comprobamos que \\(P\\) cumple la ecuación: \\(1-0+2-3=0\\). ✓</p>\n<p><strong>Conexión con las ecuaciones paramétricas:</strong> si partimos de la ecuación general, tenemos una ecuación con tres incógnitas, luego dos de ellas pueden elegirse libremente. Esas dos variables libres son precisamente los parámetros \\(\\lambda\\) y \\(\\mu\\).</p>\n<h2>4. Resumen</h2>\n<p>Un plano queda determinado por un punto \\(P=(x_0,y_0,z_0)\\) y dos vectores directores linealmente independientes \\(\\vec{u}=(u_1,u_2,u_3)\\) y \\(\\vec{v}=(v_1,v_2,v_3)\\).</p>\n<p><strong>Ecuación vectorial:</strong></p>\n<p>\\[ \\boxed{ (x,y,z)=(x_0,y_0,z_0)+\\lambda(u_1,u_2,u_3)+\\mu(v_1,v_2,v_3) } \\]</p>\n<p><strong>Ecuaciones paramétricas:</strong></p>\n<p>\\[ \\boxed{ \\begin{cases} x=x_0+\\lambda u_1+\\mu v_1\\\\ y=y_0+\\lambda u_2+\\mu v_2\\\\ z=z_0+\\lambda u_3+\\mu v_3 \\end{cases} } \\]</p>\n<p><strong>Ecuación general:</strong></p>\n<p>\\[ \\boxed{ \\begin{vmatrix} x-x_0 &amp; y-y_0 &amp; z-z_0\\\\ u_1 &amp; u_2 &amp; u_3\\\\ v_1 &amp; v_2 &amp; v_3 \\end{vmatrix}=0 \\quad\\Longrightarrow\\quad Ax+By+Cz+D=0 } \\]</p>\n<p>El vector \\(\\vec{n}=(A,B,C)\\) es normal al plano.</p>\n</div>\n<div style=\"border: 2px solid #c62828; background: #fdecea; border-radius: 8px; padding: 12px 16px; margin: 16px 0;\">\n<p style=\"margin: 0 0 6px 0;\"><strong style=\"color: #c62828;\">Idea clave</strong></p>\n<p style=\"margin: 0;\">En \\(\\mathbb{R}^3\\), un plano necesita <strong>dos parámetros</strong> en forma paramétrica (dos vectores directores independientes) y <strong>una sola ecuación</strong> en forma general. Una recta, en cambio, necesita un parámetro o dos ecuaciones.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw038fly-lua4zosm3</odePageId>
+      <odeBlockId>block-mwbu0uhh-qoz6jnh0q</odeBlockId>
+      <blockName>Cálculo del vector normal: \(\vec{n}=\vec{u}\times\vec{v}\)</blockName>
+      <iconName>udl_sup_caso</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw038fly-lua4zosm3</odePageId>
+          <odeBlockId>block-mwbu0uhh-qoz6jnh0q</odeBlockId>
+          <odeIdeviceId>idevice-1794384200788-6n56q2wfg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>Producto vectorial mediante determinantes</h3>
+<p>Dados dos vectores de \(\mathbb{R}^3\), \(\vec{u}=(u_1,u_2,u_3)\) y \(\vec{v}=(v_1,v_2,v_3)\), su <strong>producto vectorial</strong> es otro vector de \(\mathbb{R}^3\), que se calcula con un determinante simbólico donde la primera fila contiene los vectores de la base canónica \(\vec{i},\vec{j},\vec{k}\):</p>
+<p>\[ \boxed{ \vec{u}\times\vec{v}= \begin{vmatrix} \vec{i} &amp; \vec{j} &amp; \vec{k}\\ u_1 &amp; u_2 &amp; u_3\\ v_1 &amp; v_2 &amp; v_3 \end{vmatrix} } \]</p>
+<p>Desarrollando por la primera fila:</p>
+<p>\[ \vec{u}\times\vec{v}= \vec{i}\begin{vmatrix} u_2 &amp; u_3\\ v_2 &amp; v_3 \end{vmatrix} -\vec{j}\begin{vmatrix} u_1 &amp; u_3\\ v_1 &amp; v_3 \end{vmatrix} +\vec{k}\begin{vmatrix} u_1 &amp; u_2\\ v_1 &amp; v_2 \end{vmatrix} \]</p>
+<p>\[ \boxed{ \vec{u}\times\vec{v}=(u_2v_3-u_3v_2,\; u_3v_1-u_1v_3,\; u_1v_2-u_2v_1) } \]</p>
+<p><strong>Propiedades:</strong></p>
+<ul>
+<li>\(\vec{u}\times\vec{v}\) es <strong>perpendicular</strong> a \(\vec{u}\) y a \(\vec{v}\).</li>
+<li>\(\vec{v}\times\vec{u}=-\,\vec{u}\times\vec{v}\) (cambia el sentido).</li>
+<li>\(\vec{u}\times\vec{v}=\vec{0}\) si y solo si \(\vec{u}\) y \(\vec{v}\) son linealmente dependientes.</li>
+<li>Su módulo \(\|\vec{u}\times\vec{v}\|\) es el área del paralelogramo que forman \(\vec{u}\) y \(\vec{v}\).</li>
+</ul>
+<h3>Vector normal a un plano</h3>
+<p>Si un plano tiene vectores directores \(\vec{u}\) y \(\vec{v}\) (linealmente independientes), un <strong>vector normal</strong> al plano es:</p>
+<p>\[ \boxed{\vec{n}=\vec{u}\times\vec{v}=(A,B,C)} \]</p>
+<p>y la ecuación general del plano que pasa por \(P=(x_0,y_0,z_0)\) es:</p>
+<p>\[ Ax+By+Cz+D=0, \qquad D=-(Ax_0+By_0+Cz_0) \]</p>
+<p><strong>Ejemplo:</strong> plano que pasa por \(P=(1,0,2)\) con \(\vec{u}=(1,1,0)\) y \(\vec{v}=(0,1,1)\).</p>
+<p>\[ \vec{n}=\begin{vmatrix} \vec{i} &amp; \vec{j} &amp; \vec{k}\\ 1 &amp; 1 &amp; 0\\ 0 &amp; 1 &amp; 1 \end{vmatrix} =\vec{i}(1-0)-\vec{j}(1-0)+\vec{k}(1-0)=(1,-1,1) \]</p>
+<p>Entonces \(x-y+z+D=0\). Como pasa por \(P\): \(1-0+2+D=0\Rightarrow D=-3\), luego:</p>
+<p>\[ \boxed{x-y+z-3=0} \]</p>
+<div style="border: 2px solid #c62828; background: #fdecea; border-radius: 8px; padding: 12px 16px; margin: 16px 0;">
+<p style="margin: 0 0 6px 0;"><strong style="color: #c62828;">Idea clave</strong></p>
+<p style="margin: 0;">El producto vectorial \(\vec{u}\times\vec{v}\) se calcula con un determinante 3×3 y da un vector perpendicular a \(\vec{u}\) y \(\vec{v}\). Por eso, si \(\vec{u}\) y \(\vec{v}\) son los vectores directores de un plano, \(\vec{u}\times\vec{v}\) es su <strong>vector normal</strong>: sus componentes son los coeficientes \(A,B,C\) de la ecuación general.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794384200788-6n56q2wfg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>Producto vectorial mediante determinantes</h3>\n<p>Dados dos vectores de \\(\\mathbb{R}^3\\), \\(\\vec{u}=(u_1,u_2,u_3)\\) y \\(\\vec{v}=(v_1,v_2,v_3)\\), su <strong>producto vectorial</strong> es otro vector de \\(\\mathbb{R}^3\\), que se calcula con un determinante simbólico donde la primera fila contiene los vectores de la base canónica \\(\\vec{i},\\vec{j},\\vec{k}\\):</p>\n<p>\\[ \\boxed{ \\vec{u}\\times\\vec{v}= \\begin{vmatrix} \\vec{i} &amp; \\vec{j} &amp; \\vec{k}\\\\ u_1 &amp; u_2 &amp; u_3\\\\ v_1 &amp; v_2 &amp; v_3 \\end{vmatrix} } \\]</p>\n<p>Desarrollando por la primera fila:</p>\n<p>\\[ \\vec{u}\\times\\vec{v}= \\vec{i}\\begin{vmatrix} u_2 &amp; u_3\\\\ v_2 &amp; v_3 \\end{vmatrix} -\\vec{j}\\begin{vmatrix} u_1 &amp; u_3\\\\ v_1 &amp; v_3 \\end{vmatrix} +\\vec{k}\\begin{vmatrix} u_1 &amp; u_2\\\\ v_1 &amp; v_2 \\end{vmatrix} \\]</p>\n<p>\\[ \\boxed{ \\vec{u}\\times\\vec{v}=(u_2v_3-u_3v_2,\\; u_3v_1-u_1v_3,\\; u_1v_2-u_2v_1) } \\]</p>\n<p><strong>Propiedades:</strong></p>\n<ul>\n<li>\\(\\vec{u}\\times\\vec{v}\\) es <strong>perpendicular</strong> a \\(\\vec{u}\\) y a \\(\\vec{v}\\).</li>\n<li>\\(\\vec{v}\\times\\vec{u}=-\\,\\vec{u}\\times\\vec{v}\\) (cambia el sentido).</li>\n<li>\\(\\vec{u}\\times\\vec{v}=\\vec{0}\\) si y solo si \\(\\vec{u}\\) y \\(\\vec{v}\\) son linealmente dependientes.</li>\n<li>Su módulo \\(\\|\\vec{u}\\times\\vec{v}\\|\\) es el área del paralelogramo que forman \\(\\vec{u}\\) y \\(\\vec{v}\\).</li>\n</ul>\n<h3>Vector normal a un plano</h3>\n<p>Si un plano tiene vectores directores \\(\\vec{u}\\) y \\(\\vec{v}\\) (linealmente independientes), un <strong>vector normal</strong> al plano es:</p>\n<p>\\[ \\boxed{\\vec{n}=\\vec{u}\\times\\vec{v}=(A,B,C)} \\]</p>\n<p>y la ecuación general del plano que pasa por \\(P=(x_0,y_0,z_0)\\) es:</p>\n<p>\\[ Ax+By+Cz+D=0, \\qquad D=-(Ax_0+By_0+Cz_0) \\]</p>\n<p><strong>Ejemplo:</strong> plano que pasa por \\(P=(1,0,2)\\) con \\(\\vec{u}=(1,1,0)\\) y \\(\\vec{v}=(0,1,1)\\).</p>\n<p>\\[ \\vec{n}=\\begin{vmatrix} \\vec{i} &amp; \\vec{j} &amp; \\vec{k}\\\\ 1 &amp; 1 &amp; 0\\\\ 0 &amp; 1 &amp; 1 \\end{vmatrix} =\\vec{i}(1-0)-\\vec{j}(1-0)+\\vec{k}(1-0)=(1,-1,1) \\]</p>\n<p>Entonces \\(x-y+z+D=0\\). Como pasa por \\(P\\): \\(1-0+2+D=0\\Rightarrow D=-3\\), luego:</p>\n<p>\\[ \\boxed{x-y+z-3=0} \\]</p>\n<div style=\"border: 2px solid #c62828; background: #fdecea; border-radius: 8px; padding: 12px 16px; margin: 16px 0;\">\n<p style=\"margin: 0 0 6px 0;\"><strong style=\"color: #c62828;\">Idea clave</strong></p>\n<p style=\"margin: 0;\">El producto vectorial \\(\\vec{u}\\times\\vec{v}\\) se calcula con un determinante 3×3 y da un vector perpendicular a \\(\\vec{u}\\) y \\(\\vec{v}\\). Por eso, si \\(\\vec{u}\\) y \\(\\vec{v}\\) son los vectores directores de un plano, \\(\\vec{u}\\times\\vec{v}\\) es su <strong>vector normal</strong>: sus componentes son los coeficientes \\(A,B,C\\) de la ecuación general.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw038fly-lua4zosm3</odePageId>
+      <odeBlockId>block-mwbtw723-hcd90xwds</odeBlockId>
+      <blockName>Resumen final</blockName>
+      <iconName>udl_rep_caso</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw038fly-lua4zosm3</odePageId>
+          <odeBlockId>block-mwbtw723-hcd90xwds</odeBlockId>
+          <odeIdeviceId>idevice-mwbtw723-aizpfeo78</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Ecuaciones del plano en R³.jpg" title="Ecuaciones de plano" width="1536" height="864" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwbtw723-aizpfeo78","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Ecuaciones del plano en R³.jpg\" title=\"Ecuaciones de plano\" width=\"1536\" height=\"864\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw038fly-lua4zosm3</odePageId>
+      <odeBlockId>block-mwbuixue-a4p2orz3a</odeBlockId>
+      <blockName>Caso especial: planos paralelos a los ejes.</blockName>
+      <iconName>udl_exp_lee</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw038fly-lua4zosm3</odePageId>
+          <odeBlockId>block-mwbuixue-a4p2orz3a</odeBlockId>
+          <odeIdeviceId>idevice-1794385044948-qopg254ym</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Consideremos el plano de \(\mathbb{R}^3\):</p>
+<p>\[ \pi:\; 2x+y+0z=7 \qquad\text{es decir,}\qquad 2x+y=7 \]</p>
+<p>La variable \(z\) no aparece en la ecuación, así que puede tomar <strong>cualquier valor</strong>. Comprobamos algunos puntos:</p>
+<ul>
+<li>\((3{,}5,\,0,\,0)\in\pi\), porque \(2\cdot3{,}5+0=7\).</li>
+<li>\((0,\,7,\,0)\in\pi\), \((0,\,7,\,14)\in\pi\), \((0,\,7,\,1000)\in\pi\)...</li>
+<li>En general, \((0,\,7,\,\lambda)\in\pi\) para todo \(\lambda\in\mathbb{R}\).</li>
+</ul>
+<p>Por tanto, desde cualquier punto del plano podemos movernos en la dirección del eje \(Z\) sin salir de él. Por ejemplo, el plano contiene a las rectas:</p>
+<p>\[ \begin{cases} x=3{,}5\\ y=0\\ z=\lambda \end{cases} \qquad\qquad \begin{cases} x=0\\ y=7\\ z=\lambda \end{cases} \]</p>
+<p>que tienen vector director \((0,0,1)\). Concluimos que <strong>\(\pi\) es paralelo al eje \(Z\)</strong>.</p>
+<p><strong>Interpretación geométrica:</strong> en el plano \(XY\) la ecuación \(2x+y=7\) es una recta, que corta a los ejes en \(x=3{,}5\) e \(y=7\). El plano \(\pi\) es esa recta "extruida" en la dirección de \(Z\).</p>
+<h3>Caso general</h3>
+<p>En el plano \(Ax+By+Cz=D\), el vector normal es \(\vec{n}=(A,B,C)\). El plano es paralelo a un eje cuando \(\vec{n}\) es perpendicular a la dirección de ese eje, es decir, cuando <strong>falta la variable correspondiente</strong> (su coeficiente es 0):</p>
+<table style="border-collapse: collapse; margin: 10px auto; text-align: center;">
+<tbody>
+<tr style="background: #f1f1f1;">
+<th style="border: 1px solid #999; padding: 6px 14px;">Ecuación</th>
+<th style="border: 1px solid #999; padding: 6px 14px;">Coeficiente nulo</th>
+<th style="border: 1px solid #999; padding: 6px 14px;">Paralelo al eje</th>
+</tr>
+<tr>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(By+Cz=D\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(A=0\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(OX\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(Ax+Cz=D\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(B=0\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(OY\)</td>
+</tr>
+<tr>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(Ax+By=D\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(C=0\)</td>
+<td style="border: 1px solid #999; padding: 6px 14px;">\(OZ\)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Observaciones:</strong></p>
+<ul>
+<li>Si además \(D=0\), el plano no solo es paralelo al eje, sino que lo <strong>contiene</strong>. Por ejemplo, \(2x+y=0\) contiene al eje \(Z\).</li>
+<li>Si faltan <strong>dos</strong> variables, el plano es paralelo a dos ejes, es decir, a un plano coordenado. Por ejemplo, \(z=5\) es paralelo al plano \(XY\) (y a los ejes \(OX\) y \(OY\)).</li>
+</ul>
+<div style="border: 2px solid #c62828; background: #fdecea; border-radius: 8px; padding: 12px 16px; margin: 16px 0;">
+<p style="margin: 0 0 6px 0;"><strong style="color: #c62828;">Idea clave</strong></p>
+<p style="margin: 0;">Si en la ecuación general de un plano <strong>falta una variable</strong>, el plano es <strong>paralelo al eje de esa variable</strong>: \(A=0\Rightarrow OX\), \(B=0\Rightarrow OY\), \(C=0\Rightarrow OZ\).</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794385044948-qopg254ym","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Consideremos el plano de \\(\\mathbb{R}^3\\):</p>\n<p>\\[ \\pi:\\; 2x+y+0z=7 \\qquad\\text{es decir,}\\qquad 2x+y=7 \\]</p>\n<p>La variable \\(z\\) no aparece en la ecuación, así que puede tomar <strong>cualquier valor</strong>. Comprobamos algunos puntos:</p>\n<ul>\n<li>\\((3{,}5,\\,0,\\,0)\\in\\pi\\), porque \\(2\\cdot3{,}5+0=7\\).</li>\n<li>\\((0,\\,7,\\,0)\\in\\pi\\), \\((0,\\,7,\\,14)\\in\\pi\\), \\((0,\\,7,\\,1000)\\in\\pi\\)...</li>\n<li>En general, \\((0,\\,7,\\,\\lambda)\\in\\pi\\) para todo \\(\\lambda\\in\\mathbb{R}\\).</li>\n</ul>\n<p>Por tanto, desde cualquier punto del plano podemos movernos en la dirección del eje \\(Z\\) sin salir de él. Por ejemplo, el plano contiene a las rectas:</p>\n<p>\\[ \\begin{cases} x=3{,}5\\\\ y=0\\\\ z=\\lambda \\end{cases} \\qquad\\qquad \\begin{cases} x=0\\\\ y=7\\\\ z=\\lambda \\end{cases} \\]</p>\n<p>que tienen vector director \\((0,0,1)\\). Concluimos que <strong>\\(\\pi\\) es paralelo al eje \\(Z\\)</strong>.</p>\n<p><strong>Interpretación geométrica:</strong> en el plano \\(XY\\) la ecuación \\(2x+y=7\\) es una recta, que corta a los ejes en \\(x=3{,}5\\) e \\(y=7\\). El plano \\(\\pi\\) es esa recta \"extruida\" en la dirección de \\(Z\\).</p>\n<h3>Caso general</h3>\n<p>En el plano \\(Ax+By+Cz=D\\), el vector normal es \\(\\vec{n}=(A,B,C)\\). El plano es paralelo a un eje cuando \\(\\vec{n}\\) es perpendicular a la dirección de ese eje, es decir, cuando <strong>falta la variable correspondiente</strong> (su coeficiente es 0):</p>\n<table style=\"border-collapse: collapse; margin: 10px auto; text-align: center;\">\n<tbody>\n<tr style=\"background: #f1f1f1;\">\n<th style=\"border: 1px solid #999; padding: 6px 14px;\">Ecuación</th>\n<th style=\"border: 1px solid #999; padding: 6px 14px;\">Coeficiente nulo</th>\n<th style=\"border: 1px solid #999; padding: 6px 14px;\">Paralelo al eje</th>\n</tr>\n<tr>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(By+Cz=D\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(A=0\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(OX\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(Ax+Cz=D\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(B=0\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(OY\\)</td>\n</tr>\n<tr>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(Ax+By=D\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(C=0\\)</td>\n<td style=\"border: 1px solid #999; padding: 6px 14px;\">\\(OZ\\)</td>\n</tr>\n</tbody>\n</table>\n<p><strong>Observaciones:</strong></p>\n<ul>\n<li>Si además \\(D=0\\), el plano no solo es paralelo al eje, sino que lo <strong>contiene</strong>. Por ejemplo, \\(2x+y=0\\) contiene al eje \\(Z\\).</li>\n<li>Si faltan <strong>dos</strong> variables, el plano es paralelo a dos ejes, es decir, a un plano coordenado. Por ejemplo, \\(z=5\\) es paralelo al plano \\(XY\\) (y a los ejes \\(OX\\) y \\(OY\\)).</li>\n</ul>\n<div style=\"border: 2px solid #c62828; background: #fdecea; border-radius: 8px; padding: 12px 16px; margin: 16px 0;\">\n<p style=\"margin: 0 0 6px 0;\"><strong style=\"color: #c62828;\">Idea clave</strong></p>\n<p style=\"margin: 0;\">Si en la ecuación general de un plano <strong>falta una variable</strong>, el plano es <strong>paralelo al eje de esa variable</strong>: \\(A=0\\Rightarrow OX\\), \\(B=0\\Rightarrow OY\\), \\(C=0\\Rightarrow OZ\\).</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw038fly-lua4zosm3</odePageId>
+      <odeBlockId>block-mwbu5ctd-gebl6ludk</odeBlockId>
+      <blockName>Problemas básicos de ecuaciones de rectas y planos</blockName>
+      <iconName>udl_rep_importante</iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw038fly-lua4zosm3</odePageId>
+          <odeBlockId>block-mwbu5ctd-gebl6ludk</odeBlockId>
+          <odeIdeviceId>idevice-1794384411169-0680z7o96</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>Ejercicios: ecuaciones de la recta</h3>
+<p>Intenta resolver cada ejercicio antes de desplegar la solución.</p>
+<div class="exe-fx exe-accordion">
+<h2>1. Recta por \(P=(1,2,3)\) con vector director \(\vec{u}=(2,-1,4)\). Escribe sus ecuaciones vectorial, paramétricas y continua.</h2>
+<p><strong>Vectorial:</strong> \((x,y,z)=(1,2,3)+\lambda(2,-1,4)\)</p>
+<p><strong>Paramétricas:</strong> \(\begin{cases} x=1+2\lambda\\ y=2-\lambda\\ z=3+4\lambda \end{cases}\)</p>
+<p><strong>Continua:</strong> \(\dfrac{x-1}{2}=\dfrac{y-2}{-1}=\dfrac{z-3}{4}\)</p>
+<h2>2. Recta que pasa por \(A=(1,0,2)\) y \(B=(3,2,-2)\). Da la ecuación vectorial, la continua y las cartesianas.</h2>
+<p><strong>Vector director:</strong> \(\overrightarrow{AB}=(2,2,-4)\), que es proporcional a \(\vec{u}=(1,1,-2)\).</p>
+<p><strong>Vectorial:</strong> \((x,y,z)=(1,0,2)+\lambda(1,1,-2)\)</p>
+<p><strong>Continua:</strong> \(\dfrac{x-1}{1}=\dfrac{y}{1}=\dfrac{z-2}{-2}\)</p>
+<p><strong>Cartesianas</strong> (igualando las fracciones dos a dos):</p>
+<p>\(x-1=y \;\Rightarrow\; x-y=1\) \(\qquad\) \(-2y=z-2 \;\Rightarrow\; 2y+z=2\)</p>
+<p>\[ r:\begin{cases} x-y=1\\ 2y+z=2 \end{cases} \]</p>
+<p><em>Comprobación:</em> \(B\) cumple \(3-2=1\) y \(4-2=2\). ✓</p>
+<h2>3. Recta por \(P=(2,-1,5)\) con vector director \(\vec{u}=(3,0,-2)\) (una componente nula).</h2>
+<p><strong>Paramétricas:</strong> \(\begin{cases} x=2+3\lambda\\ y=-1\\ z=5-2\lambda \end{cases}\)</p>
+<p>Como \(u_y=0\), la coordenada \(y\) permanece constante. No podemos dividir entre 0, así que la ecuación continua se escribe:</p>
+<p>\[ \frac{x-2}{3}=\frac{z-5}{-2},\qquad y=-1 \]</p>
+<p><strong>Cartesianas:</strong> de la primera igualdad, \(-2(x-2)=3(z-5)\Rightarrow 2x+3z=19\). Entonces:</p>
+<p>\[ r:\begin{cases} 2x+3z=19\\ y=-1 \end{cases} \]</p>
+<h2>4. Dada \(r:\; x=1+2\lambda,\; y=-3+\lambda,\; z=4-\lambda\), obtén su ecuación continua y sus ecuaciones cartesianas.</h2>
+<p>De las paramétricas leemos \(P=(1,-3,4)\) y \(\vec{u}=(2,1,-1)\).</p>
+<p><strong>Continua:</strong> \(\dfrac{x-1}{2}=\dfrac{y+3}{1}=\dfrac{z-4}{-1}\)</p>
+<p><strong>Cartesianas</strong> (eliminando \(\lambda\)):</p>
+<p>\(x-1=2(y+3)\Rightarrow x-2y=7\) \(\qquad\) \(-(y+3)=z-4\Rightarrow y+z=1\)</p>
+<p>\[ r:\begin{cases} x-2y=7\\ y+z=1 \end{cases} \]</p>
+<h2>5. Dada \(r:\begin{cases} x+y-z=1\\ 2x-y+z=2 \end{cases}\), obtén un punto, un vector director y sus ecuaciones paramétricas.</h2>
+<p>Sumando las dos ecuaciones: \(3x=3\Rightarrow x=1\). Sustituyendo en la primera: \(y-z=0\Rightarrow y=z\).</p>
+<p>Tomamos \(z=\lambda\) como parámetro:</p>
+<p>\[ \begin{cases} x=1\\ y=\lambda\\ z=\lambda \end{cases} \]</p>
+<p>Punto \(P=(1,0,0)\) y vector director \(\vec{u}=(0,1,1)\).</p>
+<p><em>Otro método:</em> el vector director es perpendicular a las dos normales, \(\vec{n}_1=(1,1,-1)\) y \(\vec{n}_2=(2,-1,1)\), luego \(\vec{u}=\vec{n}_1\times\vec{n}_2=(0,-3,-3)\), proporcional a \((0,1,1)\). ✓</p>
+<h2>6. Recta que pasa por \(P=(0,1,-2)\) y es paralela a \(s:\;\dfrac{x-1}{3}=\dfrac{y+2}{-1}=\dfrac{z}{2}\).</h2>
+<p>Dos rectas paralelas comparten vector director. De \(s\): \(\vec{u}=(3,-1,2)\).</p>
+<p><strong>Vectorial:</strong> \((x,y,z)=(0,1,-2)+\lambda(3,-1,2)\)</p>
+<p><strong>Continua:</strong> \(\dfrac{x}{3}=\dfrac{y-1}{-1}=\dfrac{z+2}{2}\)</p>
+<h2>7. Recta que pasa por \(P=(1,2,0)\) y es perpendicular al plano \(2x-y+3z=5\).</h2>
+<p>El vector normal del plano, \(\vec{n}=(2,-1,3)\), es perpendicular al plano, así que sirve como vector director de la recta.</p>
+<p><strong>Vectorial:</strong> \((x,y,z)=(1,2,0)+\lambda(2,-1,3)\)</p>
+<p><strong>Continua:</strong> \(\dfrac{x-1}{2}=\dfrac{y-2}{-1}=\dfrac{z}{3}\)</p>
+<h2>8. En \(\mathbb{R}^2\): recta que pasa por \(A=(1,2)\) y \(B=(3,8)\). Da la ecuación vectorial, las paramétricas y la cartesiana.</h2>
+<p><strong>Vector director:</strong> \(\overrightarrow{AB}=(2,6)\), proporcional a \(\vec{u}=(1,3)\).</p>
+<p><strong>Vectorial:</strong> \((x,y)=(1,2)+\lambda(1,3)\)</p>
+<p><strong>Paramétricas:</strong> \(\begin{cases} x=1+\lambda\\ y=2+3\lambda \end{cases}\)</p>
+<p><strong>Cartesiana</strong> (eliminando \(\lambda\)): \(y-2=3(x-1)\), es decir:</p>
+<p>\[ 3x-y-1=0 \quad(\text{o } y=3x-1) \]</p>
+<p><em>Comprobación:</em> \(B\) cumple \(9-8-1=0\). ✓</p>
+</div>
+<p><br /></p>
+<h3>Ejercicios: ecuaciones del plano</h3>
+<div class="exe-fx exe-accordion">
+<h2>9. Plano por \(P=(2,1,-1)\) con vectores directores \(\vec{u}=(1,0,2)\) y \(\vec{v}=(0,1,-1)\). Da la vectorial, las paramétricas y la ecuación general.</h2>
+<p><strong>Vectorial:</strong> \((x,y,z)=(2,1,-1)+\lambda(1,0,2)+\mu(0,1,-1)\)</p>
+<p><strong>Paramétricas:</strong> \(\begin{cases} x=2+\lambda\\ y=1+\mu\\ z=-1+2\lambda-\mu \end{cases}\)</p>
+<p><strong>General:</strong> imponemos que \(\overrightarrow{PX}\), \(\vec{u}\) y \(\vec{v}\) sean dependientes:</p>
+<p>\[ \begin{vmatrix} x-2 &amp; y-1 &amp; z+1\\ 1 &amp; 0 &amp; 2\\ 0 &amp; 1 &amp; -1 \end{vmatrix} =-2(x-2)+(y-1)+(z+1)=0 \]</p>
+<p>\[ \boxed{2x-y-z-4=0} \]</p>
+<p><em>Comprobación:</em> \(P\) cumple \(4-1+1-4=0\). ✓</p>
+<h2>10. Plano que pasa por los tres puntos \(A=(1,2,1)\), \(B=(2,0,3)\) y \(C=(0,1,2)\).</h2>
+<p>Tomamos \(A\) como punto y construimos dos vectores directores:</p>
+<p>\(\vec{u}=\overrightarrow{AB}=(1,-2,2)\) \(\qquad\) \(\vec{v}=\overrightarrow{AC}=(-1,-1,1)\)</p>
+<p>No son proporcionales, así que los tres puntos no están alineados. El vector normal es:</p>
+<p>\[ \vec{n}=\vec{u}\times\vec{v}=\begin{vmatrix} \vec{i} &amp; \vec{j} &amp; \vec{k}\\ 1 &amp; -2 &amp; 2\\ -1 &amp; -1 &amp; 1 \end{vmatrix}=(0,-3,-3)\parallel(0,1,1) \]</p>
+<p>Plano \(y+z+D=0\). Con \(A\): \(2+1+D=0\Rightarrow D=-3\).</p>
+<p>\[ \boxed{y+z-3=0} \]</p>
+<p><em>Comprobación:</em> \(B\): \(0+3-3=0\) ✓ y \(C\): \(1+2-3=0\) ✓. Como \(A=0\) en la coordenada \(x\), el plano es paralelo al eje \(X\).</p>
+<h2>11. Plano que pasa por \(P=(1,-2,3)\) con vector normal \(\vec{n}=(2,1,-1)\).</h2>
+<p>Los coeficientes de \(x,y,z\) son las componentes de la normal: \(2x+y-z+D=0\).</p>
+<p>Imponiendo que pase por \(P\): \(2-2-3+D=0\Rightarrow D=3\).</p>
+<p>\[ \boxed{2x+y-z+3=0} \]</p>
+<h2>12. Plano que contiene a \(P=(1,1,1)\) y a la recta \(r:\;(x,y,z)=(0,1,2)+\lambda(1,2,0)\).</h2>
+<p>Comprobamos que \(P\notin r\): con \(y=1\) sale \(\lambda=0\), que da \(x=0\neq1\).</p>
+<p>Vectores directores del plano: el de la recta, \(\vec{u}=(1,2,0)\), y el que une un punto de la recta con \(P\), \(\vec{v}=\overrightarrow{QP}=(1,0,-1)\), con \(Q=(0,1,2)\).</p>
+<p>\[ \vec{n}=\vec{u}\times\vec{v}=\begin{vmatrix} \vec{i} &amp; \vec{j} &amp; \vec{k}\\ 1 &amp; 2 &amp; 0\\ 1 &amp; 0 &amp; -1 \end{vmatrix}=(-2,1,-2)\parallel(2,-1,2) \]</p>
+<p>Plano \(2x-y+2z+D=0\). Con \(P\): \(2-1+2+D=0\Rightarrow D=-3\).</p>
+<p>\[ \boxed{2x-y+2z-3=0} \]</p>
+<p><em>Comprobación:</em> \(Q\): \(0-1+4-3=0\) ✓.</p>
+<h2>13. Plano que contiene a las rectas paralelas \(r:\;(1,0,1)+\lambda(1,2,-1)\) y \(s:\;(2,1,1)+\mu(1,2,-1)\).</h2>
+<p>Un vector director es el común, \(\vec{u}=(1,2,-1)\). El otro une un punto de cada recta:</p>
+<p>\(\vec{v}=(2,1,1)-(1,0,1)=(1,1,0)\)</p>
+<p>\[ \vec{n}=\vec{u}\times\vec{v}=\begin{vmatrix} \vec{i} &amp; \vec{j} &amp; \vec{k}\\ 1 &amp; 2 &amp; -1\\ 1 &amp; 1 &amp; 0 \end{vmatrix}=(1,-1,-1) \]</p>
+<p>Plano \(x-y-z+D=0\). Con \((1,0,1)\): \(1-0-1+D=0\Rightarrow D=0\).</p>
+<p>\[ \boxed{x-y-z=0} \]</p>
+<h2>14. Plano paralelo a \(\pi:\;3x-y+2z=7\) que pasa por \(P=(1,2,-1)\).</h2>
+<p>Planos paralelos tienen el mismo vector normal, \(\vec{n}=(3,-1,2)\), y solo cambia el término independiente: \(3x-y+2z+D=0\).</p>
+<p>Con \(P\): \(3-2-2+D=0\Rightarrow D=1\).</p>
+<p>\[ \boxed{3x-y+2z+1=0} \]</p>
+<h2>15. Plano perpendicular a \(r:\;\dfrac{x-1}{2}=\dfrac{y+1}{3}=\dfrac{z}{-1}\) que pasa por \(P=(0,1,4)\).</h2>
+<p>El vector director de la recta, \(\vec{u}=(2,3,-1)\), es el vector normal del plano: \(2x+3y-z+D=0\).</p>
+<p>Con \(P\): \(0+3-4+D=0\Rightarrow D=1\).</p>
+<p>\[ \boxed{2x+3y-z+1=0} \]</p>
+<h2>16. Dado \(\pi:\; x=1+\lambda+\mu,\; y=2\lambda,\; z=3-\mu\), obtén su ecuación general.</h2>
+<p><strong>Método 1: eliminar parámetros.</strong> De la segunda, \(\lambda=\dfrac{y}{2}\); de la tercera, \(\mu=3-z\). Sustituyendo en la primera:</p>
+<p>\(x=1+\dfrac{y}{2}+3-z\;\Rightarrow\; 2x=y+8-2z\)</p>
+<p>\[ \boxed{2x-y+2z-8=0} \]</p>
+<p><strong>Método 2: producto vectorial.</strong> Con \(P=(1,0,3)\), \(\vec{u}=(1,2,0)\) y \(\vec{v}=(1,0,-1)\):</p>
+<p>\(\vec{n}=\vec{u}\times\vec{v}=(-2,1,-2)\parallel(2,-1,2)\), y con \(P\): \(2-0+6+D=0\Rightarrow D=-8\). ✓</p>
+<h2>17. Dado \(\pi:\; x+2y-z=4\), obtén unas ecuaciones paramétricas.</h2>
+<p>Una ecuación con tres incógnitas deja dos variables libres. Tomamos \(y=\lambda\) y \(z=\mu\) y despejamos \(x\):</p>
+<p>\[ \begin{cases} x=4-2\lambda+\mu\\ y=\lambda\\ z=\mu \end{cases} \]</p>
+<p>Es decir, \(P=(4,0,0)\), \(\vec{u}=(-2,1,0)\) y \(\vec{v}=(1,0,1)\).</p>
+<p><em>Comprobación:</em> \((4-2\lambda+\mu)+2\lambda-\mu=4\). ✓</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794384411169-0680z7o96","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>Ejercicios: ecuaciones de la recta</h3>\n<p>Intenta resolver cada ejercicio antes de desplegar la solución.</p>\n<div class=\"exe-fx exe-accordion\">\n<h2>1. Recta por \\(P=(1,2,3)\\) con vector director \\(\\vec{u}=(2,-1,4)\\). Escribe sus ecuaciones vectorial, paramétricas y continua.</h2>\n<p><strong>Vectorial:</strong> \\((x,y,z)=(1,2,3)+\\lambda(2,-1,4)\\)</p>\n<p><strong>Paramétricas:</strong> \\(\\begin{cases} x=1+2\\lambda\\\\ y=2-\\lambda\\\\ z=3+4\\lambda \\end{cases}\\)</p>\n<p><strong>Continua:</strong> \\(\\dfrac{x-1}{2}=\\dfrac{y-2}{-1}=\\dfrac{z-3}{4}\\)</p>\n<h2>2. Recta que pasa por \\(A=(1,0,2)\\) y \\(B=(3,2,-2)\\). Da la ecuación vectorial, la continua y las cartesianas.</h2>\n<p><strong>Vector director:</strong> \\(\\overrightarrow{AB}=(2,2,-4)\\), que es proporcional a \\(\\vec{u}=(1,1,-2)\\).</p>\n<p><strong>Vectorial:</strong> \\((x,y,z)=(1,0,2)+\\lambda(1,1,-2)\\)</p>\n<p><strong>Continua:</strong> \\(\\dfrac{x-1}{1}=\\dfrac{y}{1}=\\dfrac{z-2}{-2}\\)</p>\n<p><strong>Cartesianas</strong> (igualando las fracciones dos a dos):</p>\n<p>\\(x-1=y \\;\\Rightarrow\\; x-y=1\\) \\(\\qquad\\) \\(-2y=z-2 \\;\\Rightarrow\\; 2y+z=2\\)</p>\n<p>\\[ r:\\begin{cases} x-y=1\\\\ 2y+z=2 \\end{cases} \\]</p>\n<p><em>Comprobación:</em> \\(B\\) cumple \\(3-2=1\\) y \\(4-2=2\\). ✓</p>\n<h2>3. Recta por \\(P=(2,-1,5)\\) con vector director \\(\\vec{u}=(3,0,-2)\\) (una componente nula).</h2>\n<p><strong>Paramétricas:</strong> \\(\\begin{cases} x=2+3\\lambda\\\\ y=-1\\\\ z=5-2\\lambda \\end{cases}\\)</p>\n<p>Como \\(u_y=0\\), la coordenada \\(y\\) permanece constante. No podemos dividir entre 0, así que la ecuación continua se escribe:</p>\n<p>\\[ \\frac{x-2}{3}=\\frac{z-5}{-2},\\qquad y=-1 \\]</p>\n<p><strong>Cartesianas:</strong> de la primera igualdad, \\(-2(x-2)=3(z-5)\\Rightarrow 2x+3z=19\\). Entonces:</p>\n<p>\\[ r:\\begin{cases} 2x+3z=19\\\\ y=-1 \\end{cases} \\]</p>\n<h2>4. Dada \\(r:\\; x=1+2\\lambda,\\; y=-3+\\lambda,\\; z=4-\\lambda\\), obtén su ecuación continua y sus ecuaciones cartesianas.</h2>\n<p>De las paramétricas leemos \\(P=(1,-3,4)\\) y \\(\\vec{u}=(2,1,-1)\\).</p>\n<p><strong>Continua:</strong> \\(\\dfrac{x-1}{2}=\\dfrac{y+3}{1}=\\dfrac{z-4}{-1}\\)</p>\n<p><strong>Cartesianas</strong> (eliminando \\(\\lambda\\)):</p>\n<p>\\(x-1=2(y+3)\\Rightarrow x-2y=7\\) \\(\\qquad\\) \\(-(y+3)=z-4\\Rightarrow y+z=1\\)</p>\n<p>\\[ r:\\begin{cases} x-2y=7\\\\ y+z=1 \\end{cases} \\]</p>\n<h2>5. Dada \\(r:\\begin{cases} x+y-z=1\\\\ 2x-y+z=2 \\end{cases}\\), obtén un punto, un vector director y sus ecuaciones paramétricas.</h2>\n<p>Sumando las dos ecuaciones: \\(3x=3\\Rightarrow x=1\\). Sustituyendo en la primera: \\(y-z=0\\Rightarrow y=z\\).</p>\n<p>Tomamos \\(z=\\lambda\\) como parámetro:</p>\n<p>\\[ \\begin{cases} x=1\\\\ y=\\lambda\\\\ z=\\lambda \\end{cases} \\]</p>\n<p>Punto \\(P=(1,0,0)\\) y vector director \\(\\vec{u}=(0,1,1)\\).</p>\n<p><em>Otro método:</em> el vector director es perpendicular a las dos normales, \\(\\vec{n}_1=(1,1,-1)\\) y \\(\\vec{n}_2=(2,-1,1)\\), luego \\(\\vec{u}=\\vec{n}_1\\times\\vec{n}_2=(0,-3,-3)\\), proporcional a \\((0,1,1)\\). ✓</p>\n<h2>6. Recta que pasa por \\(P=(0,1,-2)\\) y es paralela a \\(s:\\;\\dfrac{x-1}{3}=\\dfrac{y+2}{-1}=\\dfrac{z}{2}\\).</h2>\n<p>Dos rectas paralelas comparten vector director. De \\(s\\): \\(\\vec{u}=(3,-1,2)\\).</p>\n<p><strong>Vectorial:</strong> \\((x,y,z)=(0,1,-2)+\\lambda(3,-1,2)\\)</p>\n<p><strong>Continua:</strong> \\(\\dfrac{x}{3}=\\dfrac{y-1}{-1}=\\dfrac{z+2}{2}\\)</p>\n<h2>7. Recta que pasa por \\(P=(1,2,0)\\) y es perpendicular al plano \\(2x-y+3z=5\\).</h2>\n<p>El vector normal del plano, \\(\\vec{n}=(2,-1,3)\\), es perpendicular al plano, así que sirve como vector director de la recta.</p>\n<p><strong>Vectorial:</strong> \\((x,y,z)=(1,2,0)+\\lambda(2,-1,3)\\)</p>\n<p><strong>Continua:</strong> \\(\\dfrac{x-1}{2}=\\dfrac{y-2}{-1}=\\dfrac{z}{3}\\)</p>\n<h2>8. En \\(\\mathbb{R}^2\\): recta que pasa por \\(A=(1,2)\\) y \\(B=(3,8)\\). Da la ecuación vectorial, las paramétricas y la cartesiana.</h2>\n<p><strong>Vector director:</strong> \\(\\overrightarrow{AB}=(2,6)\\), proporcional a \\(\\vec{u}=(1,3)\\).</p>\n<p><strong>Vectorial:</strong> \\((x,y)=(1,2)+\\lambda(1,3)\\)</p>\n<p><strong>Paramétricas:</strong> \\(\\begin{cases} x=1+\\lambda\\\\ y=2+3\\lambda \\end{cases}\\)</p>\n<p><strong>Cartesiana</strong> (eliminando \\(\\lambda\\)): \\(y-2=3(x-1)\\), es decir:</p>\n<p>\\[ 3x-y-1=0 \\quad(\\text{o } y=3x-1) \\]</p>\n<p><em>Comprobación:</em> \\(B\\) cumple \\(9-8-1=0\\). ✓</p>\n</div>\n<p><br /></p>\n<h3>Ejercicios: ecuaciones del plano</h3>\n<div class=\"exe-fx exe-accordion\">\n<h2>9. Plano por \\(P=(2,1,-1)\\) con vectores directores \\(\\vec{u}=(1,0,2)\\) y \\(\\vec{v}=(0,1,-1)\\). Da la vectorial, las paramétricas y la ecuación general.</h2>\n<p><strong>Vectorial:</strong> \\((x,y,z)=(2,1,-1)+\\lambda(1,0,2)+\\mu(0,1,-1)\\)</p>\n<p><strong>Paramétricas:</strong> \\(\\begin{cases} x=2+\\lambda\\\\ y=1+\\mu\\\\ z=-1+2\\lambda-\\mu \\end{cases}\\)</p>\n<p><strong>General:</strong> imponemos que \\(\\overrightarrow{PX}\\), \\(\\vec{u}\\) y \\(\\vec{v}\\) sean dependientes:</p>\n<p>\\[ \\begin{vmatrix} x-2 &amp; y-1 &amp; z+1\\\\ 1 &amp; 0 &amp; 2\\\\ 0 &amp; 1 &amp; -1 \\end{vmatrix} =-2(x-2)+(y-1)+(z+1)=0 \\]</p>\n<p>\\[ \\boxed{2x-y-z-4=0} \\]</p>\n<p><em>Comprobación:</em> \\(P\\) cumple \\(4-1+1-4=0\\). ✓</p>\n<h2>10. Plano que pasa por los tres puntos \\(A=(1,2,1)\\), \\(B=(2,0,3)\\) y \\(C=(0,1,2)\\).</h2>\n<p>Tomamos \\(A\\) como punto y construimos dos vectores directores:</p>\n<p>\\(\\vec{u}=\\overrightarrow{AB}=(1,-2,2)\\) \\(\\qquad\\) \\(\\vec{v}=\\overrightarrow{AC}=(-1,-1,1)\\)</p>\n<p>No son proporcionales, así que los tres puntos no están alineados. El vector normal es:</p>\n<p>\\[ \\vec{n}=\\vec{u}\\times\\vec{v}=\\begin{vmatrix} \\vec{i} &amp; \\vec{j} &amp; \\vec{k}\\\\ 1 &amp; -2 &amp; 2\\\\ -1 &amp; -1 &amp; 1 \\end{vmatrix}=(0,-3,-3)\\parallel(0,1,1) \\]</p>\n<p>Plano \\(y+z+D=0\\). Con \\(A\\): \\(2+1+D=0\\Rightarrow D=-3\\).</p>\n<p>\\[ \\boxed{y+z-3=0} \\]</p>\n<p><em>Comprobación:</em> \\(B\\): \\(0+3-3=0\\) ✓ y \\(C\\): \\(1+2-3=0\\) ✓. Como \\(A=0\\) en la coordenada \\(x\\), el plano es paralelo al eje \\(X\\).</p>\n<h2>11. Plano que pasa por \\(P=(1,-2,3)\\) con vector normal \\(\\vec{n}=(2,1,-1)\\).</h2>\n<p>Los coeficientes de \\(x,y,z\\) son las componentes de la normal: \\(2x+y-z+D=0\\).</p>\n<p>Imponiendo que pase por \\(P\\): \\(2-2-3+D=0\\Rightarrow D=3\\).</p>\n<p>\\[ \\boxed{2x+y-z+3=0} \\]</p>\n<h2>12. Plano que contiene a \\(P=(1,1,1)\\) y a la recta \\(r:\\;(x,y,z)=(0,1,2)+\\lambda(1,2,0)\\).</h2>\n<p>Comprobamos que \\(P\\notin r\\): con \\(y=1\\) sale \\(\\lambda=0\\), que da \\(x=0\\neq1\\).</p>\n<p>Vectores directores del plano: el de la recta, \\(\\vec{u}=(1,2,0)\\), y el que une un punto de la recta con \\(P\\), \\(\\vec{v}=\\overrightarrow{QP}=(1,0,-1)\\), con \\(Q=(0,1,2)\\).</p>\n<p>\\[ \\vec{n}=\\vec{u}\\times\\vec{v}=\\begin{vmatrix} \\vec{i} &amp; \\vec{j} &amp; \\vec{k}\\\\ 1 &amp; 2 &amp; 0\\\\ 1 &amp; 0 &amp; -1 \\end{vmatrix}=(-2,1,-2)\\parallel(2,-1,2) \\]</p>\n<p>Plano \\(2x-y+2z+D=0\\). Con \\(P\\): \\(2-1+2+D=0\\Rightarrow D=-3\\).</p>\n<p>\\[ \\boxed{2x-y+2z-3=0} \\]</p>\n<p><em>Comprobación:</em> \\(Q\\): \\(0-1+4-3=0\\) ✓.</p>\n<h2>13. Plano que contiene a las rectas paralelas \\(r:\\;(1,0,1)+\\lambda(1,2,-1)\\) y \\(s:\\;(2,1,1)+\\mu(1,2,-1)\\).</h2>\n<p>Un vector director es el común, \\(\\vec{u}=(1,2,-1)\\). El otro une un punto de cada recta:</p>\n<p>\\(\\vec{v}=(2,1,1)-(1,0,1)=(1,1,0)\\)</p>\n<p>\\[ \\vec{n}=\\vec{u}\\times\\vec{v}=\\begin{vmatrix} \\vec{i} &amp; \\vec{j} &amp; \\vec{k}\\\\ 1 &amp; 2 &amp; -1\\\\ 1 &amp; 1 &amp; 0 \\end{vmatrix}=(1,-1,-1) \\]</p>\n<p>Plano \\(x-y-z+D=0\\). Con \\((1,0,1)\\): \\(1-0-1+D=0\\Rightarrow D=0\\).</p>\n<p>\\[ \\boxed{x-y-z=0} \\]</p>\n<h2>14. Plano paralelo a \\(\\pi:\\;3x-y+2z=7\\) que pasa por \\(P=(1,2,-1)\\).</h2>\n<p>Planos paralelos tienen el mismo vector normal, \\(\\vec{n}=(3,-1,2)\\), y solo cambia el término independiente: \\(3x-y+2z+D=0\\).</p>\n<p>Con \\(P\\): \\(3-2-2+D=0\\Rightarrow D=1\\).</p>\n<p>\\[ \\boxed{3x-y+2z+1=0} \\]</p>\n<h2>15. Plano perpendicular a \\(r:\\;\\dfrac{x-1}{2}=\\dfrac{y+1}{3}=\\dfrac{z}{-1}\\) que pasa por \\(P=(0,1,4)\\).</h2>\n<p>El vector director de la recta, \\(\\vec{u}=(2,3,-1)\\), es el vector normal del plano: \\(2x+3y-z+D=0\\).</p>\n<p>Con \\(P\\): \\(0+3-4+D=0\\Rightarrow D=1\\).</p>\n<p>\\[ \\boxed{2x+3y-z+1=0} \\]</p>\n<h2>16. Dado \\(\\pi:\\; x=1+\\lambda+\\mu,\\; y=2\\lambda,\\; z=3-\\mu\\), obtén su ecuación general.</h2>\n<p><strong>Método 1: eliminar parámetros.</strong> De la segunda, \\(\\lambda=\\dfrac{y}{2}\\); de la tercera, \\(\\mu=3-z\\). Sustituyendo en la primera:</p>\n<p>\\(x=1+\\dfrac{y}{2}+3-z\\;\\Rightarrow\\; 2x=y+8-2z\\)</p>\n<p>\\[ \\boxed{2x-y+2z-8=0} \\]</p>\n<p><strong>Método 2: producto vectorial.</strong> Con \\(P=(1,0,3)\\), \\(\\vec{u}=(1,2,0)\\) y \\(\\vec{v}=(1,0,-1)\\):</p>\n<p>\\(\\vec{n}=\\vec{u}\\times\\vec{v}=(-2,1,-2)\\parallel(2,-1,2)\\), y con \\(P\\): \\(2-0+6+D=0\\Rightarrow D=-8\\). ✓</p>\n<h2>17. Dado \\(\\pi:\\; x+2y-z=4\\), obtén unas ecuaciones paramétricas.</h2>\n<p>Una ecuación con tres incógnitas deja dos variables libres. Tomamos \\(y=\\lambda\\) y \\(z=\\mu\\) y despejamos \\(x\\):</p>\n<p>\\[ \\begin{cases} x=4-2\\lambda+\\mu\\\\ y=\\lambda\\\\ z=\\mu \\end{cases} \\]</p>\n<p>Es decir, \\(P=(4,0,0)\\), \\(\\vec{u}=(-2,1,0)\\) y \\(\\vec{v}=(1,0,1)\\).</p>\n<p><em>Comprobación:</em> \\((4-2\\lambda+\\mu)+2\\lambda-\\mu=4\\). ✓</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -11786,11 +12468,11 @@ El límite se reduce a comparar las exponenciales dominantes:
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>allowToggle</key>
-          <value>false</value>
+          <value>true</value>
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>minimized</key>
-          <value>false</value>
+          <value>true</value>
         </odePagStructureProperty>
         <odePagStructureProperty>
           <key>cssClass</key>
@@ -11821,6 +12503,94 @@ El límite se reduce a comparar las exponenciales dominantes:
               <key>cssClass</key>
               <value></value>
             </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw038n2u-o7hhtelns</odePageId>
+      <odeBlockId>block-mwbtayil-ndj9le7bh</odeBlockId>
+      <blockName>Recta y plano</blockName>
+      <iconName>udl_exp_lee</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw038n2u-o7hhtelns</odePageId>
+          <odeBlockId>block-mwbtayil-ndj9le7bh</odeBlockId>
+          <odeIdeviceId>idevice-1794382992956-yg7v5pqua</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794382992956-yg7v5pqua","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw038n2u-o7hhtelns</odePageId>
+      <odeBlockId>block-mwbtbpwj-pli1aicpo</odeBlockId>
+      <blockName>Dos planos</blockName>
+      <iconName>udl_exp_lee</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw038n2u-o7hhtelns</odePageId>
+          <odeBlockId>block-mwbtbpwj-pli1aicpo</odeBlockId>
+          <odeIdeviceId>idevice-mwbtbpwj-elmk3pew7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794382992956-yg7v5pqua","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
